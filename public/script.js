@@ -29,6 +29,7 @@ const difficultyButtons = document.querySelectorAll('.difficulty-buttons button'
 const studyProgress = document.getElementById('study-progress');
 const studyCategory = document.getElementById('study-category');
 const studyPartOfSpeechFilter = document.getElementById('study-part-of-speech-filter');
+const studyFrequencyFilter = document.getElementById('study-frequency-filter');
 const studyQuestion = document.getElementById('study-question');
 const studyAnswerBack = document.getElementById('study-answer-back');
 const studyCard = document.getElementById('study-card');
@@ -86,6 +87,7 @@ function setupEventListeners() {
     keepStudyingBtn.addEventListener('click', keepCardForStudying);
     studyCard.addEventListener('click', flipCard);
     studyPartOfSpeechFilter.addEventListener('change', handleStudyFilterChange);
+    studyFrequencyFilter.addEventListener('change', handleStudyFilterChange);
     
     // Keyboard shortcuts for study mode
     document.addEventListener('keydown', handleKeyboardShortcuts);
@@ -529,6 +531,7 @@ function shuffleStudyCards() {
 
 function applyStudyFilter() {
     const selectedPartOfSpeech = studyPartOfSpeechFilter.value;
+    const selectedFrequencyRange = studyFrequencyFilter.value;
     
     // Filter by part of speech first
     let filteredCards;
@@ -540,7 +543,16 @@ function applyStudyFilter() {
         );
     }
     
-    // Then filter out known cards
+    // Then filter by frequency range
+    if (selectedFrequencyRange) {
+        const [minFreq, maxFreq] = selectedFrequencyRange.split('-').map(Number);
+        filteredCards = filteredCards.filter(card => {
+            // Use card ID as frequency rank (lower ID = more frequent)
+            return card.id >= minFreq && card.id <= maxFreq;
+        });
+    }
+    
+    // Finally filter out known cards
     currentStudyCards = filteredCards.filter(card => 
         !knownCardIds.has(card.id)
     );
@@ -686,11 +698,33 @@ function updateStudyUI() {
     studyProgress.textContent = `${currentStudyIndex + 1} / ${currentStudyCards.length}`;
     
     const selectedPartOfSpeech = studyPartOfSpeechFilter.value;
+    const selectedFrequencyRange = studyFrequencyFilter.value;
+    
+    let categoryText = '';
+    
+    // Add part of speech info
     if (selectedPartOfSpeech) {
-        studyCategory.textContent = selectedPartOfSpeech;
+        categoryText = selectedPartOfSpeech;
     } else {
-        studyCategory.textContent = 'All Parts of Speech';
+        categoryText = 'All Parts of Speech';
     }
+    
+    // Add frequency range info
+    if (selectedFrequencyRange) {
+        const friendlyRangeNames = {
+            '1-10': '🥇 Most Common (1-10)',
+            '11-20': '🥈 Very Common (11-20)',
+            '21-30': '🥉 Common (21-30)',
+            '31-50': '📈 Frequent (31-50)',
+            '51-100': '📊 Regular (51-100)',
+            '101-200': '📚 Extended (101-200)',
+            '201-500': '📖 Advanced (201-500)',
+            '501-1000': '🎓 Expert (501-1000)'
+        };
+        categoryText += ` • ${friendlyRangeNames[selectedFrequencyRange]}`;
+    }
+    
+    studyCategory.textContent = categoryText;
 }
 
 // Utility functions

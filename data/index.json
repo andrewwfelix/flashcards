@@ -28,8 +28,8 @@
       "count": 79
     },
     "Noun": {
-      "filename": "noun.json",
-      "count": 59
+      "filename": "nouns.json",
+      "count": 101
     },
     "Adjective": {
       "filename": "adjective.json",
