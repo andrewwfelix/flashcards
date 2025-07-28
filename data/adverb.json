@@ -3,7 +3,7 @@
   "count": 79,
   "flashcards": [
     {
-      "id": 11,
+      "id": 1,
       "word": "non",
       "translations": [
         "not"
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 2,
       "word": "come",
       "translations": [
         "how",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 3,
       "word": "più",
       "translations": [
         "more"
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 4,
       "word": "ora",
       "translations": [
         "now"
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 5,
       "word": "molto",
       "translations": [
         "very",
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "id": 262,
+      "id": 6,
       "word": "sempre",
       "translations": [
         "always"
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "id": 263,
+      "id": 7,
       "word": "mai",
       "translations": [
         "never"
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "id": 264,
+      "id": 8,
       "word": "spesso",
       "translations": [
         "often"
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "id": 265,
+      "id": 9,
       "word": "qualche volta",
       "translations": [
         "sometimes"
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "id": 266,
+      "id": 10,
       "word": "raramente",
       "translations": [
         "rarely"
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "id": 267,
+      "id": 11,
       "word": "già",
       "translations": [
         "already"
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "id": 268,
+      "id": 12,
       "word": "ancora",
       "translations": [
         "still",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "id": 269,
+      "id": 13,
       "word": "prima",
       "translations": [
         "before"
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "id": 270,
+      "id": 14,
       "word": "dopo",
       "translations": [
         "after"
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": 271,
+      "id": 15,
       "word": "subito",
       "translations": [
         "immediately"
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "id": 272,
+      "id": 16,
       "word": "presto",
       "translations": [
         "soon",
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "id": 273,
+      "id": 17,
       "word": "tardi",
       "translations": [
         "late"
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "id": 274,
+      "id": 18,
       "word": "ieri",
       "translations": [
         "yesterday"
@@ -403,7 +403,7 @@
       ]
     },
     {
-      "id": 275,
+      "id": 19,
       "word": "oggi",
       "translations": [
         "today"
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "id": 276,
+      "id": 20,
       "word": "domani",
       "translations": [
         "tomorrow"
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "id": 277,
+      "id": 21,
       "word": "stamattina",
       "translations": [
         "this morning"
@@ -469,7 +469,7 @@
       ]
     },
     {
-      "id": 278,
+      "id": 22,
       "word": "stasera",
       "translations": [
         "tonight"
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "id": 279,
+      "id": 23,
       "word": "stanotte",
       "translations": [
         "tonight",
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "id": 280,
+      "id": 24,
       "word": "bene",
       "translations": [
         "well"
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "id": 281,
+      "id": 25,
       "word": "male",
       "translations": [
         "badly"
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "id": 282,
+      "id": 26,
       "word": "meglio",
       "translations": [
         "better"
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "id": 283,
+      "id": 27,
       "word": "peggio",
       "translations": [
         "worse"
@@ -602,7 +602,7 @@
       ]
     },
     {
-      "id": 284,
+      "id": 28,
       "word": "insieme",
       "translations": [
         "together"
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "id": 285,
+      "id": 29,
       "word": "solo",
       "translations": [
         "alone",
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "id": 286,
+      "id": 30,
       "word": "anche",
       "translations": [
         "also"
@@ -669,7 +669,7 @@
       ]
     },
     {
-      "id": 287,
+      "id": 31,
       "word": "forse",
       "translations": [
         "maybe"
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "id": 288,
+      "id": 32,
       "word": "certamente",
       "translations": [
         "certainly"
@@ -713,7 +713,7 @@
       ]
     },
     {
-      "id": 289,
+      "id": 33,
       "word": "probabilmente",
       "translations": [
         "probably"
@@ -735,7 +735,7 @@
       ]
     },
     {
-      "id": 290,
+      "id": 34,
       "word": "sicuramente",
       "translations": [
         "surely"
@@ -757,7 +757,7 @@
       ]
     },
     {
-      "id": 291,
+      "id": 35,
       "word": "veramente",
       "translations": [
         "truly"
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "id": 292,
+      "id": 36,
       "word": "davvero",
       "translations": [
         "really"
@@ -801,7 +801,7 @@
       ]
     },
     {
-      "id": 293,
+      "id": 37,
       "word": "abbastanza",
       "translations": [
         "enough"
@@ -823,7 +823,7 @@
       ]
     },
     {
-      "id": 294,
+      "id": 38,
       "word": "troppo",
       "translations": [
         "too much"
@@ -845,7 +845,7 @@
       ]
     },
     {
-      "id": 295,
+      "id": 39,
       "word": "poco",
       "translations": [
         "little"
@@ -867,7 +867,7 @@
       ]
     },
     {
-      "id": 296,
+      "id": 40,
       "word": "tanto",
       "translations": [
         "so much"
@@ -889,7 +889,7 @@
       ]
     },
     {
-      "id": 297,
+      "id": 41,
       "word": "parecchio",
       "translations": [
         "quite a bit"
@@ -911,7 +911,7 @@
       ]
     },
     {
-      "id": 298,
+      "id": 42,
       "word": "niente",
       "translations": [
         "nothing"
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "id": 299,
+      "id": 43,
       "word": "nessuno",
       "translations": [
         "nobody"
@@ -955,7 +955,7 @@
       ]
     },
     {
-      "id": 300,
+      "id": 44,
       "word": "tutti",
       "translations": [
         "everyone"
@@ -977,7 +977,7 @@
       ]
     },
     {
-      "id": 301,
+      "id": 45,
       "word": "qualcuno",
       "translations": [
         "someone"
@@ -999,7 +999,7 @@
       ]
     },
     {
-      "id": 302,
+      "id": 46,
       "word": "qualcosa",
       "translations": [
         "something"
@@ -1021,7 +1021,7 @@
       ]
     },
     {
-      "id": 303,
+      "id": 47,
       "word": "dove",
       "translations": [
         "where"
@@ -1043,7 +1043,7 @@
       ]
     },
     {
-      "id": 304,
+      "id": 48,
       "word": "quando",
       "translations": [
         "when"
@@ -1065,7 +1065,7 @@
       ]
     },
     {
-      "id": 305,
+      "id": 49,
       "word": "come",
       "translations": [
         "how"
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "id": 306,
+      "id": 50,
       "word": "perché",
       "translations": [
         "why"
@@ -1109,7 +1109,7 @@
       ]
     },
     {
-      "id": 307,
+      "id": 51,
       "word": "quanto",
       "translations": [
         "how much"
@@ -1131,7 +1131,7 @@
       ]
     },
     {
-      "id": 308,
+      "id": 52,
       "word": "velocemente",
       "translations": [
         "quickly"
@@ -1153,7 +1153,7 @@
       ]
     },
     {
-      "id": 309,
+      "id": 53,
       "word": "lentamente",
       "translations": [
         "slowly"
@@ -1175,7 +1175,7 @@
       ]
     },
     {
-      "id": 310,
+      "id": 54,
       "word": "facilmente",
       "translations": [
         "easily"
@@ -1197,7 +1197,7 @@
       ]
     },
     {
-      "id": 311,
+      "id": 55,
       "word": "difficilmente",
       "translations": [
         "hardly"
@@ -1219,7 +1219,7 @@
       ]
     },
     {
-      "id": 312,
+      "id": 56,
       "word": "attentamente",
       "translations": [
         "carefully"
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "id": 313,
+      "id": 57,
       "word": "gentilmente",
       "translations": [
         "kindly"
@@ -1263,7 +1263,7 @@
       ]
     },
     {
-      "id": 314,
+      "id": 58,
       "word": "duramente",
       "translations": [
         "hard"
@@ -1285,7 +1285,7 @@
       ]
     },
     {
-      "id": 315,
+      "id": 59,
       "word": "dolcemente",
       "translations": [
         "sweetly"
@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "id": 316,
+      "id": 60,
       "word": "fortemente",
       "translations": [
         "strongly"
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "id": 317,
+      "id": 61,
       "word": "debolmente",
       "translations": [
         "weakly"
@@ -1351,7 +1351,7 @@
       ]
     },
     {
-      "id": 318,
+      "id": 62,
       "word": "qui",
       "translations": [
         "here"
@@ -1373,7 +1373,7 @@
       ]
     },
     {
-      "id": 319,
+      "id": 63,
       "word": "qua",
       "translations": [
         "here"
@@ -1395,7 +1395,7 @@
       ]
     },
     {
-      "id": 320,
+      "id": 64,
       "word": "là",
       "translations": [
         "there"
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "id": 321,
+      "id": 65,
       "word": "lì",
       "translations": [
         "there"
@@ -1439,7 +1439,7 @@
       ]
     },
     {
-      "id": 322,
+      "id": 66,
       "word": "sopra",
       "translations": [
         "above"
@@ -1461,7 +1461,7 @@
       ]
     },
     {
-      "id": 323,
+      "id": 67,
       "word": "sotto",
       "translations": [
         "below"
@@ -1483,7 +1483,7 @@
       ]
     },
     {
-      "id": 324,
+      "id": 68,
       "word": "davanti",
       "translations": [
         "in front"
@@ -1505,7 +1505,7 @@
       ]
     },
     {
-      "id": 325,
+      "id": 69,
       "word": "dietro",
       "translations": [
         "behind"
@@ -1527,7 +1527,7 @@
       ]
     },
     {
-      "id": 326,
+      "id": 70,
       "word": "dentro",
       "translations": [
         "inside"
@@ -1549,7 +1549,7 @@
       ]
     },
     {
-      "id": 327,
+      "id": 71,
       "word": "fuori",
       "translations": [
         "outside"
@@ -1571,7 +1571,7 @@
       ]
     },
     {
-      "id": 328,
+      "id": 72,
       "word": "vicino",
       "translations": [
         "near"
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "id": 329,
+      "id": 73,
       "word": "lontano",
       "translations": [
         "far"
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "id": 330,
+      "id": 74,
       "word": "destra",
       "translations": [
         "right"
@@ -1637,7 +1637,7 @@
       ]
     },
     {
-      "id": 331,
+      "id": 75,
       "word": "sinistra",
       "translations": [
         "left"
@@ -1659,7 +1659,7 @@
       ]
     },
     {
-      "id": 332,
+      "id": 76,
       "word": "nord",
       "translations": [
         "north"
@@ -1681,7 +1681,7 @@
       ]
     },
     {
-      "id": 333,
+      "id": 77,
       "word": "sud",
       "translations": [
         "south"
@@ -1703,7 +1703,7 @@
       ]
     },
     {
-      "id": 334,
+      "id": 78,
       "word": "est",
       "translations": [
         "east"
@@ -1725,7 +1725,7 @@
       ]
     },
     {
-      "id": 335,
+      "id": 79,
       "word": "ovest",
       "translations": [
         "west"

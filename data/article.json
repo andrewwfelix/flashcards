@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 2,
       "word": "un",
       "translations": [
         "a",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": 424,
+      "id": 3,
       "word": "la",
       "translations": [
         "the (fem)"
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": 425,
+      "id": 4,
       "word": "lo",
       "translations": [
         "the (masc)"
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "id": 426,
+      "id": 5,
       "word": "gli",
       "translations": [
         "the (masc plural)"
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "id": 427,
+      "id": 6,
       "word": "le",
       "translations": [
         "the (fem plural)"
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "id": 428,
+      "id": 7,
       "word": "i",
       "translations": [
         "the (masc plural)"
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "id": 429,
+      "id": 8,
       "word": "uno",
       "translations": [
         "a",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "id": 430,
+      "id": 9,
       "word": "una",
       "translations": [
         "a",
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "id": 431,
+      "id": 10,
       "word": "dell",
       "translations": [
         "of the"
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "id": 432,
+      "id": 11,
       "word": "dello",
       "translations": [
         "of the (masc)"
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "id": 433,
+      "id": 12,
       "word": "della",
       "translations": [
         "of the (fem)"
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "id": 434,
+      "id": 13,
       "word": "degli",
       "translations": [
         "of the (masc plural)"
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "id": 435,
+      "id": 14,
       "word": "delle",
       "translations": [
         "of the (fem plural)"
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": 436,
+      "id": 15,
       "word": "del",
       "translations": [
         "of the"
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "id": 437,
+      "id": 16,
       "word": "al",
       "translations": [
         "to the"
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "id": 438,
+      "id": 17,
       "word": "allo",
       "translations": [
         "to the (masc)"
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "id": 439,
+      "id": 18,
       "word": "alla",
       "translations": [
         "to the (fem)"
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "id": 440,
+      "id": 19,
       "word": "agli",
       "translations": [
         "to the (masc plural)"
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "id": 441,
+      "id": 20,
       "word": "alle",
       "translations": [
         "to the (fem plural)"
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "id": 442,
+      "id": 21,
       "word": "dal",
       "translations": [
         "from the"
@@ -468,7 +468,7 @@
       ]
     },
     {
-      "id": 443,
+      "id": 22,
       "word": "dallo",
       "translations": [
         "from the (masc)"
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "id": 444,
+      "id": 23,
       "word": "dalla",
       "translations": [
         "from the (fem)"
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "id": 445,
+      "id": 24,
       "word": "dagli",
       "translations": [
         "from the (masc plural)"
@@ -534,7 +534,7 @@
       ]
     },
     {
-      "id": 446,
+      "id": 25,
       "word": "dalle",
       "translations": [
         "from the (fem plural)"
@@ -556,7 +556,7 @@
       ]
     },
     {
-      "id": 447,
+      "id": 26,
       "word": "nel",
       "translations": [
         "in the"
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "id": 448,
+      "id": 27,
       "word": "nello",
       "translations": [
         "in the (masc)"
@@ -600,7 +600,7 @@
       ]
     },
     {
-      "id": 449,
+      "id": 28,
       "word": "nella",
       "translations": [
         "in the (fem)"
@@ -622,7 +622,7 @@
       ]
     },
     {
-      "id": 450,
+      "id": 29,
       "word": "negli",
       "translations": [
         "in the (masc plural)"
@@ -644,7 +644,7 @@
       ]
     },
     {
-      "id": 451,
+      "id": 30,
       "word": "nelle",
       "translations": [
         "in the (fem plural)"
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "id": 452,
+      "id": 31,
       "word": "sul",
       "translations": [
         "on the"
@@ -688,7 +688,7 @@
       ]
     },
     {
-      "id": 453,
+      "id": 32,
       "word": "sullo",
       "translations": [
         "on the (masc)"
@@ -710,7 +710,7 @@
       ]
     },
     {
-      "id": 454,
+      "id": 33,
       "word": "sulla",
       "translations": [
         "on the (fem)"
@@ -732,7 +732,7 @@
       ]
     },
     {
-      "id": 455,
+      "id": 34,
       "word": "sugli",
       "translations": [
         "on the (masc plural)"
@@ -754,7 +754,7 @@
       ]
     },
     {
-      "id": 456,
+      "id": 35,
       "word": "sulle",
       "translations": [
         "on the (fem plural)"
@@ -776,7 +776,7 @@
       ]
     },
     {
-      "id": 457,
+      "id": 36,
       "word": "col",
       "translations": [
         "with the"
@@ -798,7 +798,7 @@
       ]
     },
     {
-      "id": 458,
+      "id": 37,
       "word": "coi",
       "translations": [
         "with the (plural)"
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": 459,
+      "id": 38,
       "word": "colla",
       "translations": [
         "with the (fem)"
@@ -842,7 +842,7 @@
       ]
     },
     {
-      "id": 460,
+      "id": 39,
       "word": "colle",
       "translations": [
         "with the (fem plural)"

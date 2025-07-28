@@ -3,7 +3,7 @@
   "count": 134,
   "flashcards": [
     {
-      "id": 5,
+      "id": 1,
       "word": "essere",
       "translations": [
         "to be"
@@ -30,222 +30,222 @@
         "noi": "siamo",
         "voi": "siete",
         "loro": "sono"
+      }
+    },
+    {
+      "id": 2,
+      "word": "avere",
+      "translations": [
+        "to have"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho fame",
+          "english": "I am hungry",
+          "context": "common expression"
+        },
+        {
+          "italian": "Hai una macchina?",
+          "english": "Do you have a car?",
+          "context": "possession"
+        }
+      ],
+      "conjugations": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "id": 3,
+      "word": "fare",
+      "translations": [
+        "to do",
+        "make"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa fai oggi?",
+          "english": "What are you doing today?",
+          "context": "daily activities"
+        },
+        {
+          "italian": "Faccio i compiti",
+          "english": "I'm doing homework",
+          "context": "tasks"
+        }
+      ],
+      "conjugations": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      }
+    },
+    {
+      "id": 4,
+      "word": "dire",
+      "translations": [
+        "to say"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa dici?",
+          "english": "What are you saying?",
+          "context": "communication"
+        },
+        {
+          "italian": "Dico sempre la verità",
+          "english": "I always tell the truth",
+          "context": "honesty"
+        }
+      ],
+      "conjugations": {
+        "io": "dico",
+        "tu": "dici",
+        "lui/lei": "dice",
+        "noi": "diciamo",
+        "voi": "dite",
+        "loro": "dicono"
+      }
+    },
+    {
+      "id": 5,
+      "word": "andare",
+      "translations": [
+        "to go"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a casa",
+          "english": "I go home",
+          "context": "movement"
+        },
+        {
+          "italian": "Andiamo al cinema",
+          "english": "We go to the cinema",
+          "context": "activities"
+        }
+      ],
+      "conjugations": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "id": 6,
+      "word": "essere",
+      "translations": [
+        "to be"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Io sono felice",
+          "english": "I am happy",
+          "context": "state of being"
+        },
+        {
+          "italian": "Lei è dottoressa",
+          "english": "She is a doctor",
+          "context": "profession"
+        }
+      ],
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "id": 7,
+      "word": "avere",
+      "translations": [
+        "to have"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho fame",
+          "english": "I am hungry",
+          "context": "common expression"
+        },
+        {
+          "italian": "Hai una macchina?",
+          "english": "Do you have a car?",
+          "context": "possession"
+        }
+      ],
+      "conjugations": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "id": 8,
+      "word": "fare",
+      "translations": [
+        "to do",
+        "make"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa fai oggi?",
+          "english": "What are you doing today?",
+          "context": "daily activities"
+        },
+        {
+          "italian": "Faccio i compiti",
+          "english": "I'm doing homework",
+          "context": "tasks"
+        }
+      ],
+      "conjugations": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
       }
     },
     {
       "id": 9,
-      "word": "avere",
-      "translations": [
-        "to have"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Medium",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ho fame",
-          "english": "I am hungry",
-          "context": "common expression"
-        },
-        {
-          "italian": "Hai una macchina?",
-          "english": "Do you have a car?",
-          "context": "possession"
-        }
-      ],
-      "conjugations": {
-        "io": "ho",
-        "tu": "hai",
-        "lui/lei": "ha",
-        "noi": "abbiamo",
-        "voi": "avete",
-        "loro": "hanno"
-      }
-    },
-    {
-      "id": 15,
-      "word": "fare",
-      "translations": [
-        "to do",
-        "make"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Medium",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Cosa fai oggi?",
-          "english": "What are you doing today?",
-          "context": "daily activities"
-        },
-        {
-          "italian": "Faccio i compiti",
-          "english": "I'm doing homework",
-          "context": "tasks"
-        }
-      ],
-      "conjugations": {
-        "io": "faccio",
-        "tu": "fai",
-        "lui/lei": "fa",
-        "noi": "facciamo",
-        "voi": "fate",
-        "loro": "fanno"
-      }
-    },
-    {
-      "id": 19,
-      "word": "dire",
-      "translations": [
-        "to say"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Medium",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Cosa dici?",
-          "english": "What are you saying?",
-          "context": "communication"
-        },
-        {
-          "italian": "Dico sempre la verità",
-          "english": "I always tell the truth",
-          "context": "honesty"
-        }
-      ],
-      "conjugations": {
-        "io": "dico",
-        "tu": "dici",
-        "lui/lei": "dice",
-        "noi": "diciamo",
-        "voi": "dite",
-        "loro": "dicono"
-      }
-    },
-    {
-      "id": 24,
-      "word": "andare",
-      "translations": [
-        "to go"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Medium",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Vado a casa",
-          "english": "I go home",
-          "context": "movement"
-        },
-        {
-          "italian": "Andiamo al cinema",
-          "english": "We go to the cinema",
-          "context": "activities"
-        }
-      ],
-      "conjugations": {
-        "io": "vado",
-        "tu": "vai",
-        "lui/lei": "va",
-        "noi": "andiamo",
-        "voi": "andate",
-        "loro": "vanno"
-      }
-    },
-    {
-      "id": 133,
-      "word": "essere",
-      "translations": [
-        "to be"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Hard",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Io sono felice",
-          "english": "I am happy",
-          "context": "state of being"
-        },
-        {
-          "italian": "Lei è dottoressa",
-          "english": "She is a doctor",
-          "context": "profession"
-        }
-      ],
-      "conjugations": {
-        "io": "sono",
-        "tu": "sei",
-        "lui/lei": "è",
-        "noi": "siamo",
-        "voi": "siete",
-        "loro": "sono"
-      }
-    },
-    {
-      "id": 134,
-      "word": "avere",
-      "translations": [
-        "to have"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Hard",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ho fame",
-          "english": "I am hungry",
-          "context": "common expression"
-        },
-        {
-          "italian": "Hai una macchina?",
-          "english": "Do you have a car?",
-          "context": "possession"
-        }
-      ],
-      "conjugations": {
-        "io": "ho",
-        "tu": "hai",
-        "lui/lei": "ha",
-        "noi": "abbiamo",
-        "voi": "avete",
-        "loro": "hanno"
-      }
-    },
-    {
-      "id": 135,
-      "word": "fare",
-      "translations": [
-        "to do",
-        "make"
-      ],
-      "part_of_speech": "Verb",
-      "difficulty": "Hard",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Cosa fai oggi?",
-          "english": "What are you doing today?",
-          "context": "daily activities"
-        },
-        {
-          "italian": "Faccio i compiti",
-          "english": "I'm doing homework",
-          "context": "tasks"
-        }
-      ],
-      "conjugations": {
-        "io": "faccio",
-        "tu": "fai",
-        "lui/lei": "fa",
-        "noi": "facciamo",
-        "voi": "fate",
-        "loro": "fanno"
-      }
-    },
-    {
-      "id": 136,
       "word": "dire",
       "translations": [
         "to say"
@@ -275,7 +275,7 @@
       }
     },
     {
-      "id": 137,
+      "id": 10,
       "word": "andare",
       "translations": [
         "to go"
@@ -305,7 +305,7 @@
       }
     },
     {
-      "id": 138,
+      "id": 11,
       "word": "potere",
       "translations": [
         "to be able"
@@ -335,7 +335,7 @@
       }
     },
     {
-      "id": 139,
+      "id": 12,
       "word": "dovere",
       "translations": [
         "to have to"
@@ -365,7 +365,7 @@
       }
     },
     {
-      "id": 140,
+      "id": 13,
       "word": "volere",
       "translations": [
         "to want"
@@ -395,7 +395,7 @@
       }
     },
     {
-      "id": 141,
+      "id": 14,
       "word": "sapere",
       "translations": [
         "to know"
@@ -425,7 +425,7 @@
       }
     },
     {
-      "id": 142,
+      "id": 15,
       "word": "dare",
       "translations": [
         "to give"
@@ -455,7 +455,7 @@
       }
     },
     {
-      "id": 143,
+      "id": 16,
       "word": "stare",
       "translations": [
         "to stay"
@@ -485,7 +485,7 @@
       }
     },
     {
-      "id": 144,
+      "id": 17,
       "word": "vedere",
       "translations": [
         "to see"
@@ -515,7 +515,7 @@
       }
     },
     {
-      "id": 145,
+      "id": 18,
       "word": "venire",
       "translations": [
         "to come"
@@ -549,7 +549,7 @@
       }
     },
     {
-      "id": 146,
+      "id": 19,
       "word": "uscire",
       "translations": [
         "to go out"
@@ -582,7 +582,7 @@
       }
     },
     {
-      "id": 147,
+      "id": 20,
       "word": "parlare",
       "translations": [
         "to speak"
@@ -616,7 +616,7 @@
       }
     },
     {
-      "id": 148,
+      "id": 21,
       "word": "trovare",
       "translations": [
         "to find"
@@ -649,7 +649,7 @@
       }
     },
     {
-      "id": 149,
+      "id": 22,
       "word": "portare",
       "translations": [
         "to bring"
@@ -683,7 +683,7 @@
       }
     },
     {
-      "id": 150,
+      "id": 23,
       "word": "lasciare",
       "translations": [
         "to leave"
@@ -716,7 +716,7 @@
       }
     },
     {
-      "id": 151,
+      "id": 24,
       "word": "mettere",
       "translations": [
         "to put"
@@ -746,7 +746,7 @@
       }
     },
     {
-      "id": 152,
+      "id": 25,
       "word": "sentire",
       "translations": [
         "to hear",
@@ -781,7 +781,7 @@
       }
     },
     {
-      "id": 153,
+      "id": 26,
       "word": "chiamare",
       "translations": [
         "to call"
@@ -815,7 +815,7 @@
       }
     },
     {
-      "id": 154,
+      "id": 27,
       "word": "aspettare",
       "translations": [
         "to wait"
@@ -845,7 +845,7 @@
       }
     },
     {
-      "id": 155,
+      "id": 28,
       "word": "entrare",
       "translations": [
         "to enter"
@@ -878,7 +878,7 @@
       }
     },
     {
-      "id": 156,
+      "id": 29,
       "word": "vivere",
       "translations": [
         "to live"
@@ -912,7 +912,7 @@
       }
     },
     {
-      "id": 157,
+      "id": 30,
       "word": "morire",
       "translations": [
         "to die"
@@ -942,7 +942,7 @@
       }
     },
     {
-      "id": 158,
+      "id": 31,
       "word": "aprire",
       "translations": [
         "to open"
@@ -975,7 +975,7 @@
       }
     },
     {
-      "id": 159,
+      "id": 32,
       "word": "chiudere",
       "translations": [
         "to close"
@@ -1008,7 +1008,7 @@
       }
     },
     {
-      "id": 160,
+      "id": 33,
       "word": "credere",
       "translations": [
         "to believe"
@@ -1038,7 +1038,7 @@
       }
     },
     {
-      "id": 161,
+      "id": 34,
       "word": "leggere",
       "translations": [
         "to read"
@@ -1068,7 +1068,7 @@
       }
     },
     {
-      "id": 162,
+      "id": 35,
       "word": "scrivere",
       "translations": [
         "to write"
@@ -1098,7 +1098,7 @@
       }
     },
     {
-      "id": 163,
+      "id": 36,
       "word": "comprare",
       "translations": [
         "to buy"
@@ -1131,7 +1131,7 @@
       }
     },
     {
-      "id": 164,
+      "id": 37,
       "word": "vendere",
       "translations": [
         "to sell"
@@ -1164,7 +1164,7 @@
       }
     },
     {
-      "id": 165,
+      "id": 38,
       "word": "mangiare",
       "translations": [
         "to eat"
@@ -1194,7 +1194,7 @@
       }
     },
     {
-      "id": 166,
+      "id": 39,
       "word": "bere",
       "translations": [
         "to drink"
@@ -1224,7 +1224,7 @@
       }
     },
     {
-      "id": 167,
+      "id": 40,
       "word": "dormire",
       "translations": [
         "to sleep"
@@ -1254,7 +1254,7 @@
       }
     },
     {
-      "id": 168,
+      "id": 41,
       "word": "svegliare",
       "translations": [
         "to wake up"
@@ -1287,7 +1287,7 @@
       }
     },
     {
-      "id": 169,
+      "id": 42,
       "word": "alzare",
       "translations": [
         "to raise",
@@ -1318,7 +1318,7 @@
       }
     },
     {
-      "id": 170,
+      "id": 43,
       "word": "cadere",
       "translations": [
         "to fall"
@@ -1348,7 +1348,7 @@
       }
     },
     {
-      "id": 171,
+      "id": 44,
       "word": "correre",
       "translations": [
         "to run"
@@ -1382,7 +1382,7 @@
       }
     },
     {
-      "id": 172,
+      "id": 45,
       "word": "camminare",
       "translations": [
         "to walk"
@@ -1412,7 +1412,7 @@
       }
     },
     {
-      "id": 173,
+      "id": 46,
       "word": "volare",
       "translations": [
         "to fly"
@@ -1445,7 +1445,7 @@
       }
     },
     {
-      "id": 174,
+      "id": 47,
       "word": "nuotare",
       "translations": [
         "to swim"
@@ -1475,7 +1475,7 @@
       }
     },
     {
-      "id": 175,
+      "id": 48,
       "word": "guidare",
       "translations": [
         "to drive"
@@ -1508,7 +1508,7 @@
       }
     },
     {
-      "id": 176,
+      "id": 49,
       "word": "giocare",
       "translations": [
         "to play"
@@ -1538,7 +1538,7 @@
       }
     },
     {
-      "id": 177,
+      "id": 50,
       "word": "lavorare",
       "translations": [
         "to work"
@@ -1568,7 +1568,7 @@
       }
     },
     {
-      "id": 178,
+      "id": 51,
       "word": "studiare",
       "translations": [
         "to study"
@@ -1601,7 +1601,7 @@
       }
     },
     {
-      "id": 179,
+      "id": 52,
       "word": "insegnare",
       "translations": [
         "to teach"
@@ -1634,7 +1634,7 @@
       }
     },
     {
-      "id": 180,
+      "id": 53,
       "word": "imparare",
       "translations": [
         "to learn"
@@ -1667,7 +1667,7 @@
       }
     },
     {
-      "id": 181,
+      "id": 54,
       "word": "cucinare",
       "translations": [
         "to cook"
@@ -1697,7 +1697,7 @@
       }
     },
     {
-      "id": 182,
+      "id": 55,
       "word": "cantare",
       "translations": [
         "to sing"
@@ -1727,7 +1727,7 @@
       }
     },
     {
-      "id": 183,
+      "id": 56,
       "word": "ballare",
       "translations": [
         "to dance"
@@ -1757,7 +1757,7 @@
       }
     },
     {
-      "id": 184,
+      "id": 57,
       "word": "ridere",
       "translations": [
         "to laugh"
@@ -1790,7 +1790,7 @@
       }
     },
     {
-      "id": 185,
+      "id": 58,
       "word": "piangere",
       "translations": [
         "to cry"
@@ -1820,7 +1820,7 @@
       }
     },
     {
-      "id": 186,
+      "id": 59,
       "word": "sorridere",
       "translations": [
         "to smile"
@@ -1850,7 +1850,7 @@
       }
     },
     {
-      "id": 187,
+      "id": 60,
       "word": "abbracciare",
       "translations": [
         "to hug"
@@ -1880,7 +1880,7 @@
       }
     },
     {
-      "id": 188,
+      "id": 61,
       "word": "baciare",
       "translations": [
         "to kiss"
@@ -1910,7 +1910,7 @@
       }
     },
     {
-      "id": 189,
+      "id": 62,
       "word": "sposare",
       "translations": [
         "to marry"
@@ -1943,7 +1943,7 @@
       }
     },
     {
-      "id": 190,
+      "id": 63,
       "word": "nascere",
       "translations": [
         "to be born"
@@ -1976,7 +1976,7 @@
       }
     },
     {
-      "id": 191,
+      "id": 64,
       "word": "crescere",
       "translations": [
         "to grow"
@@ -2009,7 +2009,7 @@
       }
     },
     {
-      "id": 192,
+      "id": 65,
       "word": "diventare",
       "translations": [
         "to become"
@@ -2042,7 +2042,7 @@
       }
     },
     {
-      "id": 193,
+      "id": 66,
       "word": "rimanere",
       "translations": [
         "to remain"
@@ -2075,7 +2075,7 @@
       }
     },
     {
-      "id": 194,
+      "id": 67,
       "word": "partire",
       "translations": [
         "to leave",
@@ -2110,7 +2110,7 @@
       }
     },
     {
-      "id": 195,
+      "id": 68,
       "word": "arrivare",
       "translations": [
         "to arrive"
@@ -2143,7 +2143,7 @@
       }
     },
     {
-      "id": 196,
+      "id": 69,
       "word": "tornare",
       "translations": [
         "to return"
@@ -2176,7 +2176,7 @@
       }
     },
     {
-      "id": 197,
+      "id": 70,
       "word": "incontrare",
       "translations": [
         "to meet"
@@ -2209,7 +2209,7 @@
       }
     },
     {
-      "id": 198,
+      "id": 71,
       "word": "conoscere",
       "translations": [
         "to know"
@@ -2239,7 +2239,7 @@
       }
     },
     {
-      "id": 199,
+      "id": 72,
       "word": "ricordare",
       "translations": [
         "to remember"
@@ -2272,7 +2272,7 @@
       }
     },
     {
-      "id": 200,
+      "id": 73,
       "word": "dimenticare",
       "translations": [
         "to forget"
@@ -2302,7 +2302,7 @@
       }
     },
     {
-      "id": 201,
+      "id": 74,
       "word": "pensare",
       "translations": [
         "to think"
@@ -2335,7 +2335,7 @@
       }
     },
     {
-      "id": 202,
+      "id": 75,
       "word": "sognare",
       "translations": [
         "to dream"
@@ -2368,7 +2368,7 @@
       }
     },
     {
-      "id": 203,
+      "id": 76,
       "word": "sperare",
       "translations": [
         "to hope"
@@ -2398,7 +2398,7 @@
       }
     },
     {
-      "id": 204,
+      "id": 77,
       "word": "desiderare",
       "translations": [
         "to wish"
@@ -2428,7 +2428,7 @@
       }
     },
     {
-      "id": 205,
+      "id": 78,
       "word": "amare",
       "translations": [
         "to love"
@@ -2458,7 +2458,7 @@
       }
     },
     {
-      "id": 206,
+      "id": 79,
       "word": "odiare",
       "translations": [
         "to hate"
@@ -2488,7 +2488,7 @@
       }
     },
     {
-      "id": 207,
+      "id": 80,
       "word": "aiutare",
       "translations": [
         "to help"
@@ -2521,7 +2521,7 @@
       }
     },
     {
-      "id": 208,
+      "id": 81,
       "word": "vincere",
       "translations": [
         "to win"
@@ -2554,7 +2554,7 @@
       }
     },
     {
-      "id": 209,
+      "id": 82,
       "word": "perdere",
       "translations": [
         "to lose"
@@ -2587,7 +2587,7 @@
       }
     },
     {
-      "id": 210,
+      "id": 83,
       "word": "spingere",
       "translations": [
         "to push"
@@ -2617,7 +2617,7 @@
       }
     },
     {
-      "id": 211,
+      "id": 84,
       "word": "tirare",
       "translations": [
         "to pull"
@@ -2647,7 +2647,7 @@
       }
     },
     {
-      "id": 212,
+      "id": 85,
       "word": "tagliare",
       "translations": [
         "to cut"
@@ -2680,7 +2680,7 @@
       }
     },
     {
-      "id": 213,
+      "id": 86,
       "word": "rompere",
       "translations": [
         "to break"
@@ -2710,7 +2710,7 @@
       }
     },
     {
-      "id": 214,
+      "id": 87,
       "word": "riparare",
       "translations": [
         "to repair"
@@ -2740,7 +2740,7 @@
       }
     },
     {
-      "id": 215,
+      "id": 88,
       "word": "costruire",
       "translations": [
         "to build"
@@ -2773,7 +2773,7 @@
       }
     },
     {
-      "id": 216,
+      "id": 89,
       "word": "distruggere",
       "translations": [
         "to destroy"
@@ -2803,7 +2803,7 @@
       }
     },
     {
-      "id": 217,
+      "id": 90,
       "word": "prendere",
       "translations": [
         "to take"
@@ -2833,7 +2833,7 @@
       }
     },
     {
-      "id": 218,
+      "id": 91,
       "word": "tenere",
       "translations": [
         "to hold"
@@ -2867,7 +2867,7 @@
       }
     },
     {
-      "id": 219,
+      "id": 92,
       "word": "toccare",
       "translations": [
         "to touch"
@@ -2897,7 +2897,7 @@
       }
     },
     {
-      "id": 220,
+      "id": 93,
       "word": "guardare",
       "translations": [
         "to look",
@@ -2931,7 +2931,7 @@
       }
     },
     {
-      "id": 221,
+      "id": 94,
       "word": "ascoltare",
       "translations": [
         "to listen"
@@ -2961,7 +2961,7 @@
       }
     },
     {
-      "id": 222,
+      "id": 95,
       "word": "odorare",
       "translations": [
         "to smell"
@@ -2991,7 +2991,7 @@
       }
     },
     {
-      "id": 223,
+      "id": 96,
       "word": "assaggiare",
       "translations": [
         "to taste"
@@ -3021,7 +3021,7 @@
       }
     },
     {
-      "id": 224,
+      "id": 97,
       "word": "accendere",
       "translations": [
         "to turn on"
@@ -3051,7 +3051,7 @@
       }
     },
     {
-      "id": 225,
+      "id": 98,
       "word": "spegnere",
       "translations": [
         "to turn off"
@@ -3084,7 +3084,7 @@
       }
     },
     {
-      "id": 226,
+      "id": 99,
       "word": "iniziare",
       "translations": [
         "to start"
@@ -3117,7 +3117,7 @@
       }
     },
     {
-      "id": 227,
+      "id": 100,
       "word": "finire",
       "translations": [
         "to finish"
@@ -3147,7 +3147,7 @@
       }
     },
     {
-      "id": 228,
+      "id": 101,
       "word": "continuare",
       "translations": [
         "to continue"
@@ -3177,7 +3177,7 @@
       }
     },
     {
-      "id": 229,
+      "id": 102,
       "word": "fermare",
       "translations": [
         "to stop"
@@ -3207,7 +3207,7 @@
       }
     },
     {
-      "id": 230,
+      "id": 103,
       "word": "seguire",
       "translations": [
         "to follow"
@@ -3240,7 +3240,7 @@
       }
     },
     {
-      "id": 231,
+      "id": 104,
       "word": "precedere",
       "translations": [
         "to precede"
@@ -3270,7 +3270,7 @@
       }
     },
     {
-      "id": 232,
+      "id": 105,
       "word": "salire",
       "translations": [
         "to go up"
@@ -3300,7 +3300,7 @@
       }
     },
     {
-      "id": 233,
+      "id": 106,
       "word": "scendere",
       "translations": [
         "to go down"
@@ -3333,7 +3333,7 @@
       }
     },
     {
-      "id": 234,
+      "id": 107,
       "word": "attraversare",
       "translations": [
         "to cross"
@@ -3363,7 +3363,7 @@
       }
     },
     {
-      "id": 235,
+      "id": 108,
       "word": "girare",
       "translations": [
         "to turn"
@@ -3393,7 +3393,7 @@
       }
     },
     {
-      "id": 236,
+      "id": 109,
       "word": "mostrare",
       "translations": [
         "to show"
@@ -3423,7 +3423,7 @@
       }
     },
     {
-      "id": 237,
+      "id": 110,
       "word": "nascondere",
       "translations": [
         "to hide"
@@ -3453,7 +3453,7 @@
       }
     },
     {
-      "id": 238,
+      "id": 111,
       "word": "cercare",
       "translations": [
         "to look for"
@@ -3486,7 +3486,7 @@
       }
     },
     {
-      "id": 239,
+      "id": 112,
       "word": "servire",
       "translations": [
         "to serve"
@@ -3519,7 +3519,7 @@
       }
     },
     {
-      "id": 240,
+      "id": 113,
       "word": "funzionare",
       "translations": [
         "to work",
@@ -3550,7 +3550,7 @@
       }
     },
     {
-      "id": 241,
+      "id": 114,
       "word": "utilizzare",
       "translations": [
         "to use"
@@ -3580,7 +3580,7 @@
       }
     },
     {
-      "id": 242,
+      "id": 115,
       "word": "cambiare",
       "translations": [
         "to change"
@@ -3613,7 +3613,7 @@
       }
     },
     {
-      "id": 243,
+      "id": 116,
       "word": "migliorare",
       "translations": [
         "to improve"
@@ -3643,7 +3643,7 @@
       }
     },
     {
-      "id": 244,
+      "id": 117,
       "word": "peggiorare",
       "translations": [
         "to worsen"
@@ -3673,7 +3673,7 @@
       }
     },
     {
-      "id": 245,
+      "id": 118,
       "word": "crescere",
       "translations": [
         "to increase"
@@ -3706,7 +3706,7 @@
       }
     },
     {
-      "id": 246,
+      "id": 119,
       "word": "diminuire",
       "translations": [
         "to decrease"
@@ -3736,7 +3736,7 @@
       }
     },
     {
-      "id": 247,
+      "id": 120,
       "word": "costare",
       "translations": [
         "to cost"
@@ -3766,7 +3766,7 @@
       }
     },
     {
-      "id": 248,
+      "id": 121,
       "word": "pagare",
       "translations": [
         "to pay"
@@ -3796,7 +3796,7 @@
       }
     },
     {
-      "id": 249,
+      "id": 122,
       "word": "spendere",
       "translations": [
         "to spend"
@@ -3829,7 +3829,7 @@
       }
     },
     {
-      "id": 250,
+      "id": 123,
       "word": "risparmiare",
       "translations": [
         "to save"
@@ -3859,7 +3859,7 @@
       }
     },
     {
-      "id": 251,
+      "id": 124,
       "word": "guadagnare",
       "translations": [
         "to earn"
@@ -3889,7 +3889,7 @@
       }
     },
     {
-      "id": 252,
+      "id": 125,
       "word": "decidere",
       "translations": [
         "to decide"
@@ -3922,7 +3922,7 @@
       }
     },
     {
-      "id": 253,
+      "id": 126,
       "word": "scegliere",
       "translations": [
         "to choose"
@@ -3955,7 +3955,7 @@
       }
     },
     {
-      "id": 254,
+      "id": 127,
       "word": "preferire",
       "translations": [
         "to prefer"
@@ -3985,7 +3985,7 @@
       }
     },
     {
-      "id": 255,
+      "id": 128,
       "word": "provare",
       "translations": [
         "to try"
@@ -4018,7 +4018,7 @@
       }
     },
     {
-      "id": 256,
+      "id": 129,
       "word": "riuscire",
       "translations": [
         "to succeed"
@@ -4048,7 +4048,7 @@
       }
     },
     {
-      "id": 257,
+      "id": 130,
       "word": "fallire",
       "translations": [
         "to fail"
@@ -4078,7 +4078,7 @@
       }
     },
     {
-      "id": 258,
+      "id": 131,
       "word": "sbagliare",
       "translations": [
         "to make a mistake"
@@ -4111,7 +4111,7 @@
       }
     },
     {
-      "id": 259,
+      "id": 132,
       "word": "correggere",
       "translations": [
         "to correct"
@@ -4141,7 +4141,7 @@
       }
     },
     {
-      "id": 260,
+      "id": 133,
       "word": "spiegare",
       "translations": [
         "to explain"
@@ -4174,7 +4174,7 @@
       }
     },
     {
-      "id": 261,
+      "id": 134,
       "word": "capire",
       "translations": [
         "to understand"

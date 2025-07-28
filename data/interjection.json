@@ -3,7 +3,7 @@
   "count": 40,
   "flashcards": [
     {
-      "id": 661,
+      "id": 1,
       "word": "ah!",
       "translations": [
         "ah!"
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 662,
+      "id": 2,
       "word": "oh!",
       "translations": [
         "oh!"
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": 663,
+      "id": 3,
       "word": "eh!",
       "translations": [
         "eh!"
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "id": 664,
+      "id": 4,
       "word": "ahi!",
       "translations": [
         "ouch!"
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": 665,
+      "id": 5,
       "word": "boh!",
       "translations": [
         "dunno!"
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": 666,
+      "id": 6,
       "word": "eh sì!",
       "translations": [
         "oh yes!"
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "id": 667,
+      "id": 7,
       "word": "eh no!",
       "translations": [
         "oh no!"
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "id": 668,
+      "id": 8,
       "word": "mamma mia!",
       "translations": [
         "oh my!"
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "id": 669,
+      "id": 9,
       "word": "basta!",
       "translations": [
         "enough!"
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": 670,
+      "id": 10,
       "word": "bravo!",
       "translations": [
         "well done!"
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "id": 671,
+      "id": 11,
       "word": "dai!",
       "translations": [
         "come on!"
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "id": 672,
+      "id": 12,
       "word": "forza!",
       "translations": [
         "come on!"
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "id": 673,
+      "id": 13,
       "word": "zitto!",
       "translations": [
         "quiet!"
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "id": 674,
+      "id": 14,
       "word": "attento!",
       "translations": [
         "careful!"
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "id": 675,
+      "id": 15,
       "word": "aiuto!",
       "translations": [
         "help!"
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "id": 676,
+      "id": 16,
       "word": "scusa!",
       "translations": [
         "sorry!"
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "id": 677,
+      "id": 17,
       "word": "ecco!",
       "translations": [
         "here!",
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "id": 678,
+      "id": 18,
       "word": "perfetto!",
       "translations": [
         "perfect!"
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "id": 679,
+      "id": 19,
       "word": "incredibile!",
       "translations": [
         "incredible!"
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "id": 680,
+      "id": 20,
       "word": "fantastico!",
       "translations": [
         "fantastic!"
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "id": 681,
+      "id": 21,
       "word": "meraviglioso!",
       "translations": [
         "wonderful!"
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "id": 682,
+      "id": 22,
       "word": "stupendo!",
       "translations": [
         "amazing!"
@@ -488,7 +488,7 @@
       ]
     },
     {
-      "id": 683,
+      "id": 23,
       "word": "magnifico!",
       "translations": [
         "magnificent!"
@@ -510,7 +510,7 @@
       ]
     },
     {
-      "id": 684,
+      "id": 24,
       "word": "eccellente!",
       "translations": [
         "excellent!"
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "id": 685,
+      "id": 25,
       "word": "favoloso!",
       "translations": [
         "fabulous!"
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "id": 686,
+      "id": 26,
       "word": "splendido!",
       "translations": [
         "splendid!"
@@ -576,7 +576,7 @@
       ]
     },
     {
-      "id": 687,
+      "id": 27,
       "word": "bellissimo!",
       "translations": [
         "very beautiful!"
@@ -598,7 +598,7 @@
       ]
     },
     {
-      "id": 688,
+      "id": 28,
       "word": "benissimo!",
       "translations": [
         "very well!"
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "id": 689,
+      "id": 29,
       "word": "malissimo!",
       "translations": [
         "very badly!"
@@ -642,7 +642,7 @@
       ]
     },
     {
-      "id": 690,
+      "id": 30,
       "word": "peccato!",
       "translations": [
         "what a pity!"
@@ -664,7 +664,7 @@
       ]
     },
     {
-      "id": 691,
+      "id": 31,
       "word": "evviva!",
       "translations": [
         "hooray!"
@@ -686,7 +686,7 @@
       ]
     },
     {
-      "id": 692,
+      "id": 32,
       "word": "urrà!",
       "translations": [
         "hurray!"
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "id": 693,
+      "id": 33,
       "word": "accidenti!",
       "translations": [
         "darn!"
@@ -730,7 +730,7 @@
       ]
     },
     {
-      "id": 694,
+      "id": 34,
       "word": "caspita!",
       "translations": [
         "wow!"
@@ -752,7 +752,7 @@
       ]
     },
     {
-      "id": 695,
+      "id": 35,
       "word": "oddio!",
       "translations": [
         "oh god!"
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "id": 696,
+      "id": 36,
       "word": "madonna!",
       "translations": [
         "Madonna!"
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "id": 697,
+      "id": 37,
       "word": "gesù!",
       "translations": [
         "Jesus!"
@@ -818,7 +818,7 @@
       ]
     },
     {
-      "id": 698,
+      "id": 38,
       "word": "santo cielo!",
       "translations": [
         "good heavens!"
@@ -840,7 +840,7 @@
       ]
     },
     {
-      "id": 699,
+      "id": 39,
       "word": "per carità!",
       "translations": [
         "for goodness sake!"
@@ -862,7 +862,7 @@
       ]
     },
     {
-      "id": 700,
+      "id": 40,
       "word": "figurati!",
       "translations": [
         "imagine that!"

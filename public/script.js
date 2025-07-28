@@ -547,7 +547,7 @@ function applyStudyFilter() {
     if (selectedFrequencyRange) {
         const [minFreq, maxFreq] = selectedFrequencyRange.split('-').map(Number);
         filteredCards = filteredCards.filter(card => {
-            // Use card ID as frequency rank (lower ID = more frequent)
+            // Now each part of speech has IDs from 1 to N (frequency order)
             return card.id >= minFreq && card.id <= maxFreq;
         });
     }

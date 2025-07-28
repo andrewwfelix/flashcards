@@ -3,7 +3,7 @@
   "count": 49,
   "flashcards": [
     {
-      "id": 84,
+      "id": 1,
       "word": "rosso",
       "translations": [
         "red"
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": 85,
+      "id": 2,
       "word": "blu",
       "translations": [
         "blue"
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": 86,
+      "id": 3,
       "word": "verde",
       "translations": [
         "green"
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "id": 87,
+      "id": 4,
       "word": "giallo",
       "translations": [
         "yellow"
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "id": 88,
+      "id": 5,
       "word": "nero",
       "translations": [
         "black"
@@ -125,7 +125,7 @@
       }
     },
     {
-      "id": 89,
+      "id": 6,
       "word": "bianco",
       "translations": [
         "white"
@@ -153,7 +153,7 @@
       }
     },
     {
-      "id": 90,
+      "id": 7,
       "word": "grande",
       "translations": [
         "big",
@@ -186,7 +186,7 @@
       }
     },
     {
-      "id": 91,
+      "id": 8,
       "word": "piccolo",
       "translations": [
         "small"
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 92,
+      "id": 9,
       "word": "nuovo",
       "translations": [
         "new"
@@ -242,7 +242,7 @@
       }
     },
     {
-      "id": 93,
+      "id": 10,
       "word": "vecchio",
       "translations": [
         "old"
@@ -270,7 +270,7 @@
       }
     },
     {
-      "id": 94,
+      "id": 11,
       "word": "buono",
       "translations": [
         "good"
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 95,
+      "id": 12,
       "word": "cattivo",
       "translations": [
         "bad"
@@ -320,7 +320,7 @@
       ]
     },
     {
-      "id": 96,
+      "id": 13,
       "word": "bello",
       "translations": [
         "beautiful"
@@ -348,7 +348,7 @@
       }
     },
     {
-      "id": 97,
+      "id": 14,
       "word": "brutto",
       "translations": [
         "ugly"
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "id": 98,
+      "id": 15,
       "word": "giovane",
       "translations": [
         "young"
@@ -392,7 +392,7 @@
       ]
     },
     {
-      "id": 99,
+      "id": 16,
       "word": "lungo",
       "translations": [
         "long"
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "id": 100,
+      "id": 17,
       "word": "corto",
       "translations": [
         "short"
@@ -436,7 +436,7 @@
       ]
     },
     {
-      "id": 101,
+      "id": 18,
       "word": "alto",
       "translations": [
         "tall",
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "id": 102,
+      "id": 19,
       "word": "basso",
       "translations": [
         "short",
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "id": 103,
+      "id": 20,
       "word": "facile",
       "translations": [
         "easy"
@@ -504,7 +504,7 @@
       ]
     },
     {
-      "id": 104,
+      "id": 21,
       "word": "difficile",
       "translations": [
         "difficult"
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "id": 105,
+      "id": 22,
       "word": "caldo",
       "translations": [
         "hot"
@@ -552,7 +552,7 @@
       ]
     },
     {
-      "id": 106,
+      "id": 23,
       "word": "freddo",
       "translations": [
         "cold"
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "id": 107,
+      "id": 24,
       "word": "dolce",
       "translations": [
         "sweet"
@@ -596,7 +596,7 @@
       ]
     },
     {
-      "id": 108,
+      "id": 25,
       "word": "amaro",
       "translations": [
         "bitter"
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "id": 109,
+      "id": 26,
       "word": "forte",
       "translations": [
         "strong"
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "id": 110,
+      "id": 27,
       "word": "debole",
       "translations": [
         "weak"
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "id": 111,
+      "id": 28,
       "word": "veloce",
       "translations": [
         "fast"
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "id": 112,
+      "id": 29,
       "word": "lento",
       "translations": [
         "slow"
@@ -709,7 +709,7 @@
       ]
     },
     {
-      "id": 113,
+      "id": 30,
       "word": "ricco",
       "translations": [
         "rich"
@@ -731,7 +731,7 @@
       ]
     },
     {
-      "id": 114,
+      "id": 31,
       "word": "povero",
       "translations": [
         "poor"
@@ -753,7 +753,7 @@
       ]
     },
     {
-      "id": 115,
+      "id": 32,
       "word": "felice",
       "translations": [
         "happy"
@@ -775,7 +775,7 @@
       ]
     },
     {
-      "id": 116,
+      "id": 33,
       "word": "triste",
       "translations": [
         "sad"
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "id": 117,
+      "id": 34,
       "word": "importante",
       "translations": [
         "important"
@@ -822,7 +822,7 @@
       ]
     },
     {
-      "id": 118,
+      "id": 35,
       "word": "possibile",
       "translations": [
         "possible"
@@ -853,7 +853,7 @@
       }
     },
     {
-      "id": 119,
+      "id": 36,
       "word": "necessario",
       "translations": [
         "necessary"
@@ -878,7 +878,7 @@
       ]
     },
     {
-      "id": 120,
+      "id": 37,
       "word": "diverso",
       "translations": [
         "different"
@@ -900,7 +900,7 @@
       ]
     },
     {
-      "id": 121,
+      "id": 38,
       "word": "sicuro",
       "translations": [
         "sure",
@@ -923,7 +923,7 @@
       ]
     },
     {
-      "id": 122,
+      "id": 39,
       "word": "libero",
       "translations": [
         "free"
@@ -945,7 +945,7 @@
       ]
     },
     {
-      "id": 123,
+      "id": 40,
       "word": "vero",
       "translations": [
         "true"
@@ -967,7 +967,7 @@
       ]
     },
     {
-      "id": 124,
+      "id": 41,
       "word": "falso",
       "translations": [
         "false"
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "id": 125,
+      "id": 42,
       "word": "pieno",
       "translations": [
         "full"
@@ -1011,7 +1011,7 @@
       ]
     },
     {
-      "id": 126,
+      "id": 43,
       "word": "vuoto",
       "translations": [
         "empty"
@@ -1033,7 +1033,7 @@
       ]
     },
     {
-      "id": 127,
+      "id": 44,
       "word": "aperto",
       "translations": [
         "open"
@@ -1055,7 +1055,7 @@
       ]
     },
     {
-      "id": 128,
+      "id": 45,
       "word": "chiuso",
       "translations": [
         "closed"
@@ -1077,7 +1077,7 @@
       ]
     },
     {
-      "id": 129,
+      "id": 46,
       "word": "pulito",
       "translations": [
         "clean"
@@ -1099,7 +1099,7 @@
       ]
     },
     {
-      "id": 130,
+      "id": 47,
       "word": "sporco",
       "translations": [
         "dirty"
@@ -1121,7 +1121,7 @@
       ]
     },
     {
-      "id": 131,
+      "id": 48,
       "word": "silenzioso",
       "translations": [
         "quiet"
@@ -1146,7 +1146,7 @@
       ]
     },
     {
-      "id": 132,
+      "id": 49,
       "word": "rumoroso",
       "translations": [
         "noisy"

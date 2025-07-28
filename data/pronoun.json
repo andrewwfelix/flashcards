@@ -3,7 +3,7 @@
   "count": 52,
   "flashcards": [
     {
-      "id": 8,
+      "id": 1,
       "word": "che",
       "translations": [
         "that",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 2,
       "word": "io",
       "translations": [
         "I"
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 3,
       "word": "tutto",
       "translations": [
         "all",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 4,
       "word": "si",
       "translations": [
         "yes",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 5,
       "word": "lo",
       "translations": [
         "him",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 6,
       "word": "questo",
       "translations": [
         "this"
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 7,
       "word": "suo",
       "translations": [
         "his",
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "id": 336,
+      "id": 8,
       "word": "tu",
       "translations": [
         "you"
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": 337,
+      "id": 9,
       "word": "lui",
       "translations": [
         "he"
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": 338,
+      "id": 10,
       "word": "lei",
       "translations": [
         "she"
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "id": 339,
+      "id": 11,
       "word": "noi",
       "translations": [
         "we"
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "id": 340,
+      "id": 12,
       "word": "voi",
       "translations": [
         "you (plural)"
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "id": 341,
+      "id": 13,
       "word": "loro",
       "translations": [
         "they"
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "id": 342,
+      "id": 14,
       "word": "mi",
       "translations": [
         "me"
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": 343,
+      "id": 15,
       "word": "ti",
       "translations": [
         "you (object)"
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "id": 344,
+      "id": 16,
       "word": "ci",
       "translations": [
         "us"
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "id": 345,
+      "id": 17,
       "word": "vi",
       "translations": [
         "you (object plural)"
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "id": 346,
+      "id": 18,
       "word": "li",
       "translations": [
         "them (masc)"
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "id": 347,
+      "id": 19,
       "word": "le",
       "translations": [
         "them (fem)"
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "id": 348,
+      "id": 20,
       "word": "quello",
       "translations": [
         "that"
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "id": 349,
+      "id": 21,
       "word": "questa",
       "translations": [
         "this (fem)"
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "id": 350,
+      "id": 22,
       "word": "quella",
       "translations": [
         "that (fem)"
@@ -492,7 +492,7 @@
       ]
     },
     {
-      "id": 351,
+      "id": 23,
       "word": "questi",
       "translations": [
         "these (masc)"
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "id": 352,
+      "id": 24,
       "word": "queste",
       "translations": [
         "these (fem)"
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "id": 353,
+      "id": 25,
       "word": "quelli",
       "translations": [
         "those (masc)"
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "id": 354,
+      "id": 26,
       "word": "quelle",
       "translations": [
         "those (fem)"
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "id": 355,
+      "id": 27,
       "word": "chi",
       "translations": [
         "who"
@@ -602,7 +602,7 @@
       ]
     },
     {
-      "id": 356,
+      "id": 28,
       "word": "che cosa",
       "translations": [
         "what"
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "id": 357,
+      "id": 29,
       "word": "quale",
       "translations": [
         "which"
@@ -646,7 +646,7 @@
       ]
     },
     {
-      "id": 358,
+      "id": 30,
       "word": "cui",
       "translations": [
         "whose",
@@ -669,7 +669,7 @@
       ]
     },
     {
-      "id": 359,
+      "id": 31,
       "word": "proprio",
       "translations": [
         "own"
@@ -695,7 +695,7 @@
       ]
     },
     {
-      "id": 360,
+      "id": 32,
       "word": "stesso",
       "translations": [
         "same"
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "id": 361,
+      "id": 33,
       "word": "altro",
       "translations": [
         "other"
@@ -739,7 +739,7 @@
       ]
     },
     {
-      "id": 362,
+      "id": 34,
       "word": "ogni",
       "translations": [
         "each",
@@ -762,7 +762,7 @@
       ]
     },
     {
-      "id": 363,
+      "id": 35,
       "word": "alcuni",
       "translations": [
         "some"
@@ -784,7 +784,7 @@
       ]
     },
     {
-      "id": 364,
+      "id": 36,
       "word": "molti",
       "translations": [
         "many"
@@ -806,7 +806,7 @@
       ]
     },
     {
-      "id": 365,
+      "id": 37,
       "word": "pochi",
       "translations": [
         "few"
@@ -828,7 +828,7 @@
       ]
     },
     {
-      "id": 366,
+      "id": 38,
       "word": "parecchi",
       "translations": [
         "several"
@@ -850,7 +850,7 @@
       ]
     },
     {
-      "id": 367,
+      "id": 39,
       "word": "certo",
       "translations": [
         "certain"
@@ -872,7 +872,7 @@
       ]
     },
     {
-      "id": 368,
+      "id": 40,
       "word": "tale",
       "translations": [
         "such"
@@ -894,7 +894,7 @@
       ]
     },
     {
-      "id": 369,
+      "id": 41,
       "word": "entrambi",
       "translations": [
         "both"
@@ -916,7 +916,7 @@
       ]
     },
     {
-      "id": 370,
+      "id": 42,
       "word": "nessuno",
       "translations": [
         "none"
@@ -938,7 +938,7 @@
       ]
     },
     {
-      "id": 371,
+      "id": 43,
       "word": "tutto",
       "translations": [
         "everything"
@@ -960,7 +960,7 @@
       ]
     },
     {
-      "id": 372,
+      "id": 44,
       "word": "niente",
       "translations": [
         "nothing"
@@ -982,7 +982,7 @@
       ]
     },
     {
-      "id": 373,
+      "id": 45,
       "word": "qualche",
       "translations": [
         "some"
@@ -1004,7 +1004,7 @@
       ]
     },
     {
-      "id": 374,
+      "id": 46,
       "word": "ciascuno",
       "translations": [
         "each one"
@@ -1026,7 +1026,7 @@
       ]
     },
     {
-      "id": 375,
+      "id": 47,
       "word": "ognuno",
       "translations": [
         "everyone"
@@ -1048,7 +1048,7 @@
       ]
     },
     {
-      "id": 376,
+      "id": 48,
       "word": "mio",
       "translations": [
         "my"
@@ -1070,7 +1070,7 @@
       ]
     },
     {
-      "id": 377,
+      "id": 49,
       "word": "tuo",
       "translations": [
         "your"
@@ -1092,7 +1092,7 @@
       ]
     },
     {
-      "id": 378,
+      "id": 50,
       "word": "nostro",
       "translations": [
         "our"
@@ -1114,7 +1114,7 @@
       ]
     },
     {
-      "id": 379,
+      "id": 51,
       "word": "vostro",
       "translations": [
         "your (plural)"
@@ -1136,7 +1136,7 @@
       ]
     },
     {
-      "id": 380,
+      "id": 52,
       "word": "loro",
       "translations": [
         "their"

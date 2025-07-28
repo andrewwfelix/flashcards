@@ -3,7 +3,7 @@
   "count": 46,
   "flashcards": [
     {
-      "id": 3,
+      "id": 1,
       "word": "e",
       "translations": [
         "and"
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 2,
       "word": "ma",
       "translations": [
         "but"
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 3,
       "word": "se",
       "translations": [
         "if"
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "id": 381,
+      "id": 4,
       "word": "o",
       "translations": [
         "or"
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": 382,
+      "id": 5,
       "word": "ma",
       "translations": [
         "but"
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": 383,
+      "id": 6,
       "word": "però",
       "translations": [
         "however"
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "id": 384,
+      "id": 7,
       "word": "anche",
       "translations": [
         "also"
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "id": 385,
+      "id": 8,
       "word": "se",
       "translations": [
         "if"
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "id": 386,
+      "id": 9,
       "word": "perché",
       "translations": [
         "because"
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": 387,
+      "id": 10,
       "word": "quando",
       "translations": [
         "when"
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "id": 388,
+      "id": 11,
       "word": "mentre",
       "translations": [
         "while"
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "id": 389,
+      "id": 12,
       "word": "come",
       "translations": [
         "as"
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "id": 390,
+      "id": 13,
       "word": "che",
       "translations": [
         "that"
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "id": 391,
+      "id": 14,
       "word": "così",
       "translations": [
         "so"
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "id": 392,
+      "id": 15,
       "word": "quindi",
       "translations": [
         "therefore"
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "id": 393,
+      "id": 16,
       "word": "allora",
       "translations": [
         "then"
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "id": 394,
+      "id": 17,
       "word": "oppure",
       "translations": [
         "or else"
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "id": 395,
+      "id": 18,
       "word": "infatti",
       "translations": [
         "in fact"
@@ -399,7 +399,7 @@
       ]
     },
     {
-      "id": 396,
+      "id": 19,
       "word": "inoltre",
       "translations": [
         "furthermore"
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "id": 397,
+      "id": 20,
       "word": "tuttavia",
       "translations": [
         "however"
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "id": 398,
+      "id": 21,
       "word": "nonostante",
       "translations": [
         "despite"
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "id": 399,
+      "id": 22,
       "word": "benché",
       "translations": [
         "although"
@@ -487,7 +487,7 @@
       ]
     },
     {
-      "id": 400,
+      "id": 23,
       "word": "purché",
       "translations": [
         "provided that"
@@ -509,7 +509,7 @@
       ]
     },
     {
-      "id": 401,
+      "id": 24,
       "word": "sebbene",
       "translations": [
         "although"
@@ -531,7 +531,7 @@
       ]
     },
     {
-      "id": 402,
+      "id": 25,
       "word": "affinché",
       "translations": [
         "so that"
@@ -553,7 +553,7 @@
       ]
     },
     {
-      "id": 403,
+      "id": 26,
       "word": "giacché",
       "translations": [
         "since"
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "id": 404,
+      "id": 27,
       "word": "poiché",
       "translations": [
         "since"
@@ -597,7 +597,7 @@
       ]
     },
     {
-      "id": 405,
+      "id": 28,
       "word": "siccome",
       "translations": [
         "since"
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "id": 406,
+      "id": 29,
       "word": "eppure",
       "translations": [
         "yet"
@@ -641,7 +641,7 @@
       ]
     },
     {
-      "id": 407,
+      "id": 30,
       "word": "piuttosto",
       "translations": [
         "rather"
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "id": 408,
+      "id": 31,
       "word": "ovvero",
       "translations": [
         "namely"
@@ -685,7 +685,7 @@
       ]
     },
     {
-      "id": 409,
+      "id": 32,
       "word": "ossia",
       "translations": [
         "that is"
@@ -707,7 +707,7 @@
       ]
     },
     {
-      "id": 410,
+      "id": 33,
       "word": "cioè",
       "translations": [
         "that is"
@@ -729,7 +729,7 @@
       ]
     },
     {
-      "id": 411,
+      "id": 34,
       "word": "sia",
       "translations": [
         "both"
@@ -751,7 +751,7 @@
       ]
     },
     {
-      "id": 412,
+      "id": 35,
       "word": "né",
       "translations": [
         "neither"
@@ -773,7 +773,7 @@
       ]
     },
     {
-      "id": 413,
+      "id": 36,
       "word": "prima che",
       "translations": [
         "before"
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "id": 414,
+      "id": 37,
       "word": "dopo che",
       "translations": [
         "after"
@@ -817,7 +817,7 @@
       ]
     },
     {
-      "id": 415,
+      "id": 38,
       "word": "fino a quando",
       "translations": [
         "until"
@@ -839,7 +839,7 @@
       ]
     },
     {
-      "id": 416,
+      "id": 39,
       "word": "finché",
       "translations": [
         "as long as"
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "id": 417,
+      "id": 40,
       "word": "appena",
       "translations": [
         "as soon as"
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "id": 418,
+      "id": 41,
       "word": "una volta che",
       "translations": [
         "once"
@@ -905,7 +905,7 @@
       ]
     },
     {
-      "id": 419,
+      "id": 42,
       "word": "ogni volta che",
       "translations": [
         "every time"
@@ -927,7 +927,7 @@
       ]
     },
     {
-      "id": 420,
+      "id": 43,
       "word": "dal momento che",
       "translations": [
         "since"
@@ -949,7 +949,7 @@
       ]
     },
     {
-      "id": 421,
+      "id": 44,
       "word": "visto che",
       "translations": [
         "given that"
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "id": 422,
+      "id": 45,
       "word": "considerato che",
       "translations": [
         "considering that"
@@ -993,7 +993,7 @@
       ]
     },
     {
-      "id": 423,
+      "id": 46,
       "word": "dato che",
       "translations": [
         "given that"

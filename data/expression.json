@@ -3,7 +3,7 @@
   "count": 32,
   "flashcards": [
     {
-      "id": 593,
+      "id": 1,
       "word": "grazie",
       "translations": [
         "thank you"
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 594,
+      "id": 2,
       "word": "prego",
       "translations": [
         "you're welcome"
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": 595,
+      "id": 3,
       "word": "scusi",
       "translations": [
         "excuse me (formal)"
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "id": 596,
+      "id": 4,
       "word": "scusa",
       "translations": [
         "excuse me (informal)"
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": 597,
+      "id": 5,
       "word": "mi dispiace",
       "translations": [
         "I'm sorry"
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": 598,
+      "id": 6,
       "word": "per favore",
       "translations": [
         "please"
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "id": 599,
+      "id": 7,
       "word": "per piacere",
       "translations": [
         "please"
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "id": 600,
+      "id": 8,
       "word": "mi scusi",
       "translations": [
         "excuse me"
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "id": 601,
+      "id": 9,
       "word": "non c'è di che",
       "translations": [
         "don't mention it"
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": 602,
+      "id": 10,
       "word": "figurati",
       "translations": [
         "don't mention it (informal)"
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "id": 603,
+      "id": 11,
       "word": "si figuri",
       "translations": [
         "don't mention it (formal)"
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "id": 604,
+      "id": 12,
       "word": "di niente",
       "translations": [
         "you're welcome"
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "id": 605,
+      "id": 13,
       "word": "con piacere",
       "translations": [
         "with pleasure"
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "id": 606,
+      "id": 14,
       "word": "volentieri",
       "translations": [
         "gladly"
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "id": 607,
+      "id": 15,
       "word": "naturalmente",
       "translations": [
         "naturally"
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "id": 608,
+      "id": 16,
       "word": "certamente",
       "translations": [
         "certainly"
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "id": 609,
+      "id": 17,
       "word": "d'accordo",
       "translations": [
         "agreed"
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "id": 610,
+      "id": 18,
       "word": "va bene",
       "translations": [
         "okay",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "id": 611,
+      "id": 19,
       "word": "perfetto",
       "translations": [
         "perfect"
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "id": 612,
+      "id": 20,
       "word": "esatto",
       "translations": [
         "exactly"
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "id": 613,
+      "id": 21,
       "word": "proprio così",
       "translations": [
         "exactly so"
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "id": 614,
+      "id": 22,
       "word": "hai ragione",
       "translations": [
         "you're right"
@@ -488,7 +488,7 @@
       ]
     },
     {
-      "id": 615,
+      "id": 23,
       "word": "non importa",
       "translations": [
         "it doesn't matter"
@@ -510,7 +510,7 @@
       ]
     },
     {
-      "id": 616,
+      "id": 24,
       "word": "pazienza",
       "translations": [
         "patience"
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "id": 617,
+      "id": 25,
       "word": "che peccato",
       "translations": [
         "what a pity"
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "id": 618,
+      "id": 26,
       "word": "meno male",
       "translations": [
         "thank goodness"
@@ -576,7 +576,7 @@
       ]
     },
     {
-      "id": 619,
+      "id": 27,
       "word": "per fortuna",
       "translations": [
         "luckily"
@@ -598,7 +598,7 @@
       ]
     },
     {
-      "id": 620,
+      "id": 28,
       "word": "magari",
       "translations": [
         "if only",
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "id": 621,
+      "id": 29,
       "word": "chissà",
       "translations": [
         "who knows"
@@ -643,7 +643,7 @@
       ]
     },
     {
-      "id": 622,
+      "id": 30,
       "word": "macché",
       "translations": [
         "not at all"
@@ -665,7 +665,7 @@
       ]
     },
     {
-      "id": 623,
+      "id": 31,
       "word": "figuriamoci",
       "translations": [
         "no way"
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "id": 624,
+      "id": 32,
       "word": "neanche per sogno",
       "translations": [
         "not even in dreams"
