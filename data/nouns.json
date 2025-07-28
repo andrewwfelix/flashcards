@@ -1,0 +1,3718 @@
+{
+  "part_of_speech": "Noun",
+  "count": 101,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "tempo",
+      "gender": "masculine",
+      "translations": [
+        "time",
+        "weather"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il tempo vola quando ci si diverte.",
+          "english": "Time flies when you're having fun.",
+          "context": "idiomatic expression"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "tempus",
+        "meaning": "time; a stretch or period of time, also used in grammatical and poetic senses.",
+        "notes": "From Latin 'tempus', meaning time or season, which evolved into Italian 'tempo'."
+      },
+      "related_english_words": [
+        {
+          "word": "tempo",
+          "meaning": "The speed or pace of a piece of music",
+          "usage": "The symphony has a fast tempo."
+        },
+        {
+          "word": "temporal",
+          "meaning": "Relating to time",
+          "usage": "Temporal aspects of life are fleeting."
+        },
+        {
+          "word": "temporary",
+          "meaning": "Lasting for a limited time",
+          "usage": "She found a temporary job."
+        }
+      ],
+      "cognates": [
+        "tempo",
+        "temporal",
+        "temporary"
+      ]
+    },
+    {
+      "id": 2,
+      "word": "persona",
+      "gender": "feminine",
+      "translations": [
+        "person"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È una persona molto creativa.",
+          "english": "She is a very creative person.",
+          "context": "describing personality"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "persona",
+        "meaning": "mask, character played by an actor",
+        "notes": "From Latin 'persona', originally meaning mask, later used for a character or person."
+      },
+      "related_english_words": [
+        {
+          "word": "persona",
+          "meaning": "An aspect of someone's character",
+          "usage": "She adopted a cheerful persona."
+        },
+        {
+          "word": "person",
+          "meaning": "An individual human being",
+          "usage": "He's a kind person."
+        },
+        {
+          "word": "personal",
+          "meaning": "Relating to an individual",
+          "usage": "Keep your personal documents safe."
+        }
+      ],
+      "cognates": [
+        "persona",
+        "person",
+        "personal"
+      ]
+    },
+    {
+      "id": 3,
+      "word": "anno",
+      "gender": "masculine",
+      "translations": [
+        "year"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "L'anno scorso abbiamo visitato Roma.",
+          "english": "Last year we visited Rome.",
+          "context": "recounting past event"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "annus",
+        "meaning": "year; a cycle of time or seasons, used in Roman calendar and legal contexts.",
+        "notes": "From Latin 'annus', meaning year, retained directly in Italian as 'anno'."
+      },
+      "related_english_words": [
+        {
+          "word": "annual",
+          "meaning": "Occurring every year",
+          "usage": "The annual report was released."
+        },
+        {
+          "word": "anniversary",
+          "meaning": "A yearly recurrence of an event",
+          "usage": "Today is their wedding anniversary."
+        },
+        {
+          "word": "annuity",
+          "meaning": "A fixed yearly payment",
+          "usage": "She receives an annuity from her investments."
+        }
+      ],
+      "cognates": [
+        "annual",
+        "anniversary",
+        "annuity"
+      ]
+    },
+    {
+      "id": 4,
+      "word": "giorno",
+      "gender": "masculine",
+      "translations": [
+        "day"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È stato un giorno indimenticabile.",
+          "english": "It was an unforgettable day.",
+          "context": "emotional experience"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "diurnum",
+        "meaning": "daily; relating to or occurring during the day (from 'dies' = day).",
+        "notes": "From Latin 'diurnum' (daily), evolving into 'giorno' in Italian through Vulgar Latin."
+      },
+      "related_english_words": [
+        {
+          "word": "journal",
+          "meaning": "A daily record or diary",
+          "usage": "She wrote in her journal every evening."
+        },
+        {
+          "word": "journey",
+          "meaning": "A trip or expedition",
+          "usage": "Their journey took three days."
+        },
+        {
+          "word": "diurnal",
+          "meaning": "Active during the day",
+          "usage": "The diurnal animal sleeps at night."
+        }
+      ],
+      "cognates": [
+        "journal",
+        "journey",
+        "diurnal"
+      ]
+    },
+    {
+      "id": 5,
+      "word": "cosa",
+      "gender": "feminine",
+      "translations": [
+        "thing"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è la cosa più interessante che ho visto.",
+          "english": "This is the most interesting thing I've seen.",
+          "context": "expressing surprise"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "causa",
+        "meaning": "cause, reason, motive, legal case or lawsuit.",
+        "notes": "From Latin 'causa', meaning reason or matter, evolved into 'cosa' in Vulgar Latin meaning 'thing'."
+      },
+      "related_english_words": [
+        {
+          "word": "thing",
+          "meaning": "An object or concept",
+          "usage": "That’s a strange thing to say."
+        },
+        {
+          "word": "cause",
+          "meaning": "A reason or motive",
+          "usage": "The cause of the fire is unknown."
+        },
+        {
+          "word": "case",
+          "meaning": "A particular situation or legal matter",
+          "usage": "The detective investigated the case."
+        }
+      ],
+      "cognates": [
+        "thing",
+        "cause",
+        "case"
+      ]
+    },
+    {
+      "id": 6,
+      "word": "uomo",
+      "gender": "masculine",
+      "translations": [
+        "man"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "L'uomo ha aiutato la donna anziana ad attraversare la strada.",
+          "english": "The man helped the elderly woman cross the street.",
+          "context": "demonstrating kindness"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "uomo",
+        "meaning": "uomo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "man",
+          "meaning": "Direct English translation of 'uomo'",
+          "usage": "The man was important."
+        }
+      ],
+      "cognates": [
+        "man"
+      ]
+    },
+    {
+      "id": 7,
+      "word": "donna",
+      "gender": "feminine",
+      "translations": [
+        "woman"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La donna lavora come ingegnere in una grande azienda.",
+          "english": "The woman works as an engineer in a large company.",
+          "context": "professional setting"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "donna",
+        "meaning": "donna in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "woman",
+          "meaning": "Direct English translation of 'donna'",
+          "usage": "The woman was important."
+        }
+      ],
+      "cognates": [
+        "woman"
+      ]
+    },
+    {
+      "id": 8,
+      "word": "vita",
+      "gender": "feminine",
+      "translations": [
+        "life"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La sua vita è cambiata dopo quel viaggio.",
+          "english": "Her life changed after that trip.",
+          "context": "life experience"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "vita",
+        "meaning": "vita in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "vital",
+          "meaning": "Essential to life",
+          "usage": "Oxygen is vital for survival."
+        },
+        {
+          "word": "revive",
+          "meaning": "To bring back to life",
+          "usage": "The doctors tried to revive the patient."
+        },
+        {
+          "word": "vivacious",
+          "meaning": "Full of life and energy",
+          "usage": "She had a vivacious personality."
+        }
+      ],
+      "cognates": [
+        "life"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "mano",
+      "gender": "feminine",
+      "translations": [
+        "hand"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi ha preso per mano.",
+          "english": "He took me by the hand.",
+          "context": "physical gesture"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "mano",
+        "meaning": "mano in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "manual",
+          "meaning": "Done with the hands",
+          "usage": "Manual labor is physically demanding."
+        },
+        {
+          "word": "manipulate",
+          "meaning": "To handle or control with hands",
+          "usage": "She manipulated the controls skillfully."
+        }
+      ],
+      "cognates": [
+        "hand"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "occhio",
+      "gender": "masculine",
+      "translations": [
+        "eye"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ha un occhio per i dettagli.",
+          "english": "He has an eye for detail.",
+          "context": "idiomatic usage"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "occhio",
+        "meaning": "occhio in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "eye",
+          "meaning": "Direct English translation of 'occhio'",
+          "usage": "The eye was important."
+        }
+      ],
+      "cognates": [
+        "eye"
+      ]
+    },
+    {
+      "id": 11,
+      "word": "momento",
+      "gender": "masculine",
+      "translations": [
+        "moment"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È stato un momento che non dimenticherò mai.",
+          "english": "It was a moment I will never forget.",
+          "context": "memorable experience"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "momento",
+        "meaning": "momento in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "moment",
+          "meaning": "Direct English translation of 'momento'",
+          "usage": "The moment was important."
+        }
+      ],
+      "cognates": [
+        "moment"
+      ]
+    },
+    {
+      "id": 12,
+      "word": "modo",
+      "gender": "masculine",
+      "translations": [
+        "way",
+        "manner"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ha un modo gentile di parlare.",
+          "english": "He has a gentle way of speaking.",
+          "context": "describing behavior"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "modo",
+        "meaning": "modo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "way",
+          "meaning": "Direct English translation of 'modo'",
+          "usage": "The way was important."
+        },
+        {
+          "word": "manner",
+          "meaning": "Direct English translation of 'modo'",
+          "usage": "The manner was important."
+        }
+      ],
+      "cognates": [
+        "way",
+        "manner"
+      ]
+    },
+    {
+      "id": 13,
+      "word": "parte",
+      "gender": "feminine",
+      "translations": [
+        "part"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'parte' in una frase.",
+          "english": "I used the word 'parte' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "parte",
+        "meaning": "parte in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "part",
+          "meaning": "Direct English translation of 'parte'",
+          "usage": "The part was important."
+        }
+      ],
+      "cognates": [
+        "part"
+      ]
+    },
+    {
+      "id": 14,
+      "word": "lavoro",
+      "gender": "masculine",
+      "translations": [
+        "work",
+        "job"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'lavoro' in una frase.",
+          "english": "I used the word 'lavoro' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "lavoro",
+        "meaning": "lavoro in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "work",
+          "meaning": "Direct English translation of 'lavoro'",
+          "usage": "The work was important."
+        },
+        {
+          "word": "job",
+          "meaning": "Direct English translation of 'lavoro'",
+          "usage": "The job was important."
+        }
+      ],
+      "cognates": [
+        "work",
+        "job"
+      ]
+    },
+    {
+      "id": 15,
+      "word": "caso",
+      "gender": "masculine",
+      "translations": [
+        "case"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'caso' in una frase.",
+          "english": "I used the word 'caso' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "caso",
+        "meaning": "caso in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "case",
+          "meaning": "Direct English translation of 'caso'",
+          "usage": "The case was important."
+        }
+      ],
+      "cognates": [
+        "case"
+      ]
+    },
+    {
+      "id": 16,
+      "word": "occasione",
+      "gender": "feminine",
+      "translations": [
+        "opportunity",
+        "occasion"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'occasione' in una frase.",
+          "english": "I used the word 'occasione' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "occasione",
+        "meaning": "occasione in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "opportunity",
+          "meaning": "Direct English translation of 'occasione'",
+          "usage": "The opportunity was important."
+        },
+        {
+          "word": "occasion",
+          "meaning": "Direct English translation of 'occasione'",
+          "usage": "The occasion was important."
+        }
+      ],
+      "cognates": [
+        "occasion"
+      ]
+    },
+    {
+      "id": 17,
+      "word": "notte",
+      "gender": "feminine",
+      "translations": [
+        "night"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La notte era tranquilla e silenziosa.",
+          "english": "The night was calm and quiet.",
+          "context": "setting the mood"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "notte",
+        "meaning": "notte in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "nocturnal",
+          "meaning": "Active at night",
+          "usage": "Owls are nocturnal animals."
+        },
+        {
+          "word": "night",
+          "meaning": "The period of darkness",
+          "usage": "It was a quiet night."
+        }
+      ],
+      "cognates": [
+        "night"
+      ]
+    },
+    {
+      "id": 18,
+      "word": "posto",
+      "gender": "masculine",
+      "translations": [
+        "place"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'posto' in una frase.",
+          "english": "I used the word 'posto' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "posto",
+        "meaning": "posto in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "place",
+          "meaning": "Direct English translation of 'posto'",
+          "usage": "The place was important."
+        }
+      ],
+      "cognates": [
+        "place"
+      ]
+    },
+    {
+      "id": 19,
+      "word": "mese",
+      "gender": "masculine",
+      "translations": [
+        "month"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'mese' in una frase.",
+          "english": "I used the word 'mese' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "mese",
+        "meaning": "mese in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "monthly",
+          "meaning": "Occurring every month",
+          "usage": "He gets a monthly paycheck."
+        }
+      ],
+      "cognates": [
+        "month"
+      ]
+    },
+    {
+      "id": 20,
+      "word": "gente",
+      "gender": "feminine",
+      "translations": [
+        "people"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'gente' in una frase.",
+          "english": "I used the word 'gente' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "gente",
+        "meaning": "gente in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "persona",
+          "meaning": "A social mask or character",
+          "usage": "His persona was cold and distant."
+        },
+        {
+          "word": "person",
+          "meaning": "An individual human being",
+          "usage": "She is a nice person."
+        }
+      ],
+      "cognates": [
+        "people"
+      ]
+    },
+    {
+      "id": 21,
+      "word": "voce",
+      "gender": "feminine",
+      "translations": [
+        "voice"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'voce' in una frase.",
+          "english": "I used the word 'voce' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "voce",
+        "meaning": "voce in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "voice",
+          "meaning": "Direct English translation of 'voce'",
+          "usage": "The voice was important."
+        }
+      ],
+      "cognates": [
+        "voice"
+      ]
+    },
+    {
+      "id": 22,
+      "word": "capo",
+      "gender": "masculine",
+      "translations": [
+        "head",
+        "leader"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'capo' in una frase.",
+          "english": "I used the word 'capo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "capo",
+        "meaning": "capo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "head",
+          "meaning": "Direct English translation of 'capo'",
+          "usage": "The head was important."
+        },
+        {
+          "word": "leader",
+          "meaning": "Direct English translation of 'capo'",
+          "usage": "The leader was important."
+        }
+      ],
+      "cognates": [
+        "head",
+        "leader"
+      ]
+    },
+    {
+      "id": 23,
+      "word": "amico",
+      "gender": "masculine",
+      "translations": [
+        "friend (male)"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'amico' in una frase.",
+          "english": "I used the word 'amico' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "amico",
+        "meaning": "amico in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "friend",
+          "meaning": "A person with whom one has a bond of mutual affection",
+          "usage": "He is my best friend."
+        },
+        {
+          "word": "amicable",
+          "meaning": "Characterized by friendliness or goodwill",
+          "usage": "They maintained an amicable relationship after the split."
+        },
+        {
+          "word": "amiable",
+          "meaning": "Having a friendly and pleasant manner",
+          "usage": "She was known for her amiable nature."
+        }
+      ],
+      "cognates": []
+    },
+    {
+      "id": 24,
+      "word": "amica",
+      "gender": "feminine",
+      "translations": [
+        "friend (female)"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'amica' in una frase.",
+          "english": "I used the word 'amica' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "amica",
+        "meaning": "amica in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "friend (female)",
+          "meaning": "Direct English translation of 'amica'",
+          "usage": "The friend (female) was important."
+        }
+      ],
+      "cognates": []
+    },
+    {
+      "id": 25,
+      "word": "cuore",
+      "gender": "masculine",
+      "translations": [
+        "heart"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il suo cuore batteva forte per l’emozione.",
+          "english": "Her heart was pounding with emotion.",
+          "context": "emotional state"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "cuore",
+        "meaning": "cuore in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "core",
+          "meaning": "The central or most important part of something",
+          "usage": "The core of the issue was overlooked."
+        },
+        {
+          "word": "courage",
+          "meaning": "Mental or moral strength",
+          "usage": "He showed great courage in adversity."
+        }
+      ],
+      "cognates": [
+        "heart"
+      ]
+    },
+    {
+      "id": 26,
+      "word": "sera",
+      "gender": "feminine",
+      "translations": [
+        "evening"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'sera' in una frase.",
+          "english": "I used the word 'sera' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "sera",
+        "meaning": "sera in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "evening",
+          "meaning": "Direct English translation of 'sera'",
+          "usage": "The evening was important."
+        }
+      ],
+      "cognates": [
+        "evening"
+      ]
+    },
+    {
+      "id": 27,
+      "word": "forza",
+      "gender": "feminine",
+      "translations": [
+        "strength",
+        "force"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'forza' in una frase.",
+          "english": "I used the word 'forza' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "forza",
+        "meaning": "forza in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "strength",
+          "meaning": "Direct English translation of 'forza'",
+          "usage": "The strength was important."
+        },
+        {
+          "word": "force",
+          "meaning": "Direct English translation of 'forza'",
+          "usage": "The force was important."
+        }
+      ],
+      "cognates": [
+        "strength",
+        "force"
+      ]
+    },
+    {
+      "id": 28,
+      "word": "mondo",
+      "gender": "masculine",
+      "translations": [
+        "world"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'mondo' in una frase.",
+          "english": "I used the word 'mondo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "mondo",
+        "meaning": "mondo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "world",
+          "meaning": "Direct English translation of 'mondo'",
+          "usage": "The world was important."
+        }
+      ],
+      "cognates": [
+        "world"
+      ]
+    },
+    {
+      "id": 29,
+      "word": "figlio",
+      "gender": "masculine",
+      "translations": [
+        "son"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'figlio' in una frase.",
+          "english": "I used the word 'figlio' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "figlio",
+        "meaning": "figlio in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "son",
+          "meaning": "Direct English translation of 'figlio'",
+          "usage": "The son was important."
+        }
+      ],
+      "cognates": [
+        "son"
+      ]
+    },
+    {
+      "id": 30,
+      "word": "figlia",
+      "gender": "feminine",
+      "translations": [
+        "daughter"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'figlia' in una frase.",
+          "english": "I used the word 'figlia' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "figlia",
+        "meaning": "figlia in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "daughter",
+          "meaning": "Direct English translation of 'figlia'",
+          "usage": "The daughter was important."
+        }
+      ],
+      "cognates": [
+        "daughter"
+      ]
+    },
+    {
+      "id": 31,
+      "word": "strada",
+      "gender": "feminine",
+      "translations": [
+        "street",
+        "road"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'strada' in una frase.",
+          "english": "I used the word 'strada' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "strada",
+        "meaning": "strada in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "street",
+          "meaning": "Direct English translation of 'strada'",
+          "usage": "The street was important."
+        },
+        {
+          "word": "road",
+          "meaning": "Direct English translation of 'strada'",
+          "usage": "The road was important."
+        }
+      ],
+      "cognates": [
+        "street",
+        "road"
+      ]
+    },
+    {
+      "id": 32,
+      "word": "acqua",
+      "gender": "feminine",
+      "translations": [
+        "water"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'acqua' in una frase.",
+          "english": "I used the word 'acqua' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "acqua",
+        "meaning": "acqua in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "water",
+          "meaning": "Direct English translation of 'acqua'",
+          "usage": "The water was important."
+        }
+      ],
+      "cognates": [
+        "water"
+      ]
+    },
+    {
+      "id": 33,
+      "word": "aria",
+      "gender": "feminine",
+      "translations": [
+        "air"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'aria' in una frase.",
+          "english": "I used the word 'aria' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "aria",
+        "meaning": "aria in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "air",
+          "meaning": "Direct English translation of 'aria'",
+          "usage": "The air was important."
+        }
+      ],
+      "cognates": [
+        "air"
+      ]
+    },
+    {
+      "id": 34,
+      "word": "nome",
+      "gender": "masculine",
+      "translations": [
+        "name"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'nome' in una frase.",
+          "english": "I used the word 'nome' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "nome",
+        "meaning": "nome in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "name",
+          "meaning": "Direct English translation of 'nome'",
+          "usage": "The name was important."
+        }
+      ],
+      "cognates": [
+        "name"
+      ]
+    },
+    {
+      "id": 35,
+      "word": "famiglia",
+      "gender": "feminine",
+      "translations": [
+        "family"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'famiglia' in una frase.",
+          "english": "I used the word 'famiglia' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "famiglia",
+        "meaning": "famiglia in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "family",
+          "meaning": "Direct English translation of 'famiglia'",
+          "usage": "The family was important."
+        }
+      ],
+      "cognates": [
+        "family"
+      ]
+    },
+    {
+      "id": 36,
+      "word": "ragazzo",
+      "gender": "masculine",
+      "translations": [
+        "boy"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'ragazzo' in una frase.",
+          "english": "I used the word 'ragazzo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "ragazzo",
+        "meaning": "ragazzo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "boy",
+          "meaning": "Direct English translation of 'ragazzo'",
+          "usage": "The boy was important."
+        }
+      ],
+      "cognates": [
+        "boy"
+      ]
+    },
+    {
+      "id": 37,
+      "word": "ragazza",
+      "gender": "feminine",
+      "translations": [
+        "girl"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'ragazza' in una frase.",
+          "english": "I used the word 'ragazza' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "ragazza",
+        "meaning": "ragazza in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "girl",
+          "meaning": "Direct English translation of 'ragazza'",
+          "usage": "The girl was important."
+        }
+      ],
+      "cognates": [
+        "girl"
+      ]
+    },
+    {
+      "id": 38,
+      "word": "storia",
+      "gender": "feminine",
+      "translations": [
+        "history",
+        "story"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'storia' in una frase.",
+          "english": "I used the word 'storia' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "storia",
+        "meaning": "storia in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "history",
+          "meaning": "Direct English translation of 'storia'",
+          "usage": "The history was important."
+        },
+        {
+          "word": "story",
+          "meaning": "Direct English translation of 'storia'",
+          "usage": "The story was important."
+        }
+      ],
+      "cognates": [
+        "history",
+        "story"
+      ]
+    },
+    {
+      "id": 39,
+      "word": "città",
+      "gender": "feminine",
+      "translations": [
+        "city"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La città è famosa per la sua architettura.",
+          "english": "The city is famous for its architecture.",
+          "context": "describing a location"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "città",
+        "meaning": "città in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "city",
+          "meaning": "A large urban settlement",
+          "usage": "Rome is a beautiful city."
+        },
+        {
+          "word": "civic",
+          "meaning": "Relating to a city or citizenship",
+          "usage": "Civic responsibility is important."
+        },
+        {
+          "word": "civil",
+          "meaning": "Relating to citizens or public life",
+          "usage": "They discussed civil liberties."
+        }
+      ],
+      "cognates": [
+        "city"
+      ]
+    },
+    {
+      "id": 40,
+      "word": "paese",
+      "gender": "masculine",
+      "translations": [
+        "country",
+        "village"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'paese' in una frase.",
+          "english": "I used the word 'paese' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "paese",
+        "meaning": "paese in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "country",
+          "meaning": "Direct English translation of 'paese'",
+          "usage": "The country was important."
+        },
+        {
+          "word": "village",
+          "meaning": "Direct English translation of 'paese'",
+          "usage": "The village was important."
+        }
+      ],
+      "cognates": [
+        "country",
+        "village"
+      ]
+    },
+    {
+      "id": 41,
+      "word": "mente",
+      "gender": "feminine",
+      "translations": [
+        "mind"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'mente' in una frase.",
+          "english": "I used the word 'mente' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "mente",
+        "meaning": "mente in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "mind",
+          "meaning": "Direct English translation of 'mente'",
+          "usage": "The mind was important."
+        }
+      ],
+      "cognates": [
+        "mind"
+      ]
+    },
+    {
+      "id": 42,
+      "word": "corpo",
+      "gender": "masculine",
+      "translations": [
+        "body"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'corpo' in una frase.",
+          "english": "I used the word 'corpo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "corpo",
+        "meaning": "corpo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "corpse",
+          "meaning": "A dead body",
+          "usage": "The police found the corpse in the alley."
+        },
+        {
+          "word": "corporation",
+          "meaning": "A body of people acting as one",
+          "usage": "The corporation grew rapidly."
+        }
+      ],
+      "cognates": [
+        "body"
+      ]
+    },
+    {
+      "id": 43,
+      "word": "ora",
+      "gender": "feminine",
+      "translations": [
+        "hour",
+        "now"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'ora' in una frase.",
+          "english": "I used the word 'ora' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "ora",
+        "meaning": "ora in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "hour",
+          "meaning": "Direct English translation of 'ora'",
+          "usage": "The hour was important."
+        },
+        {
+          "word": "now",
+          "meaning": "Direct English translation of 'ora'",
+          "usage": "The now was important."
+        }
+      ],
+      "cognates": [
+        "hour",
+        "now"
+      ]
+    },
+    {
+      "id": 44,
+      "word": "lato",
+      "gender": "masculine",
+      "translations": [
+        "side"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'lato' in una frase.",
+          "english": "I used the word 'lato' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "lato",
+        "meaning": "lato in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "side",
+          "meaning": "Direct English translation of 'lato'",
+          "usage": "The side was important."
+        }
+      ],
+      "cognates": [
+        "side"
+      ]
+    },
+    {
+      "id": 45,
+      "word": "occasione",
+      "gender": "feminine",
+      "translations": [
+        "opportunity"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'occasione' in una frase.",
+          "english": "I used the word 'occasione' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "occasione",
+        "meaning": "occasione in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "opportunity",
+          "meaning": "Direct English translation of 'occasione'",
+          "usage": "The opportunity was important."
+        }
+      ],
+      "cognates": []
+    },
+    {
+      "id": 46,
+      "word": "guerra",
+      "gender": "feminine",
+      "translations": [
+        "war"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'guerra' in una frase.",
+          "english": "I used the word 'guerra' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "guerra",
+        "meaning": "guerra in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "war",
+          "meaning": "Direct English translation of 'guerra'",
+          "usage": "The war was important."
+        }
+      ],
+      "cognates": [
+        "war"
+      ]
+    },
+    {
+      "id": 47,
+      "word": "pace",
+      "gender": "feminine",
+      "translations": [
+        "peace"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'pace' in una frase.",
+          "english": "I used the word 'pace' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "pace",
+        "meaning": "pace in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "peace",
+          "meaning": "Direct English translation of 'pace'",
+          "usage": "The peace was important."
+        }
+      ],
+      "cognates": [
+        "peace"
+      ]
+    },
+    {
+      "id": 48,
+      "word": "piede",
+      "gender": "masculine",
+      "translations": [
+        "foot"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'piede' in una frase.",
+          "english": "I used the word 'piede' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "piede",
+        "meaning": "piede in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "foot",
+          "meaning": "Direct English translation of 'piede'",
+          "usage": "The foot was important."
+        }
+      ],
+      "cognates": [
+        "foot"
+      ]
+    },
+    {
+      "id": 49,
+      "word": "porta",
+      "gender": "feminine",
+      "translations": [
+        "door"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho chiuso la porta per non sentire il rumore.",
+          "english": "I closed the door to block out the noise.",
+          "context": "real-world action"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "porta",
+        "meaning": "porta in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "portal",
+          "meaning": "A grand entrance, often used metaphorically",
+          "usage": "She stepped through the portal into another world."
+        },
+        {
+          "word": "transport",
+          "meaning": "To carry something from one place to another",
+          "usage": "Goods were transported through the port."
+        },
+        {
+          "word": "port",
+          "meaning": "A harbor or gate",
+          "usage": "The ship arrived at the port in the morning."
+        }
+      ],
+      "cognates": [
+        "door"
+      ]
+    },
+    {
+      "id": 50,
+      "word": "parola",
+      "gender": "feminine",
+      "translations": [
+        "word"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'parola' in una frase.",
+          "english": "I used the word 'parola' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "parola",
+        "meaning": "parola in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "word",
+          "meaning": "Direct English translation of 'parola'",
+          "usage": "The word was important."
+        }
+      ],
+      "cognates": [
+        "word"
+      ]
+    },
+    {
+      "id": 51,
+      "word": "luogo",
+      "gender": "masculine",
+      "translations": [
+        "place",
+        "location"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'luogo' in una frase.",
+          "english": "I used the word 'luogo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "luogo",
+        "meaning": "luogo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "place",
+          "meaning": "Direct English translation of 'luogo'",
+          "usage": "The place was important."
+        },
+        {
+          "word": "location",
+          "meaning": "Direct English translation of 'luogo'",
+          "usage": "The location was important."
+        }
+      ],
+      "cognates": [
+        "place",
+        "location"
+      ]
+    },
+    {
+      "id": 52,
+      "word": "denaro",
+      "gender": "masculine",
+      "translations": [
+        "money"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'denaro' in una frase.",
+          "english": "I used the word 'denaro' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "denaro",
+        "meaning": "denaro in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "money",
+          "meaning": "Direct English translation of 'denaro'",
+          "usage": "The money was important."
+        }
+      ],
+      "cognates": [
+        "money"
+      ]
+    },
+    {
+      "id": 53,
+      "word": "testa",
+      "gender": "feminine",
+      "translations": [
+        "head"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'testa' in una frase.",
+          "english": "I used the word 'testa' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "testa",
+        "meaning": "testa in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "head",
+          "meaning": "Direct English translation of 'testa'",
+          "usage": "The head was important."
+        }
+      ],
+      "cognates": [
+        "head"
+      ]
+    },
+    {
+      "id": 54,
+      "word": "ragione",
+      "gender": "feminine",
+      "translations": [
+        "reason"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'ragione' in una frase.",
+          "english": "I used the word 'ragione' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "ragione",
+        "meaning": "ragione in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "reason",
+          "meaning": "Direct English translation of 'ragione'",
+          "usage": "The reason was important."
+        }
+      ],
+      "cognates": [
+        "reason"
+      ]
+    },
+    {
+      "id": 55,
+      "word": "volto",
+      "gender": "masculine",
+      "translations": [
+        "face"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'volto' in una frase.",
+          "english": "I used the word 'volto' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "volto",
+        "meaning": "volto in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "face",
+          "meaning": "Direct English translation of 'volto'",
+          "usage": "The face was important."
+        }
+      ],
+      "cognates": [
+        "face"
+      ]
+    },
+    {
+      "id": 56,
+      "word": "mare",
+      "gender": "masculine",
+      "translations": [
+        "sea"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'mare' in una frase.",
+          "english": "I used the word 'mare' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "mare",
+        "meaning": "mare in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "marine",
+          "meaning": "Related to the sea",
+          "usage": "He studies marine biology."
+        },
+        {
+          "word": "maritime",
+          "meaning": "Connected with the sea",
+          "usage": "Maritime laws regulate shipping."
+        }
+      ],
+      "cognates": [
+        "sea"
+      ]
+    },
+    {
+      "id": 57,
+      "word": "sole",
+      "gender": "masculine",
+      "translations": [
+        "sun"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'sole' in una frase.",
+          "english": "I used the word 'sole' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "sole",
+        "meaning": "sole in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "solar",
+          "meaning": "Relating to the sun",
+          "usage": "Solar panels generate clean energy."
+        }
+      ],
+      "cognates": [
+        "sun"
+      ]
+    },
+    {
+      "id": 58,
+      "word": "cielo",
+      "gender": "masculine",
+      "translations": [
+        "sky"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'cielo' in una frase.",
+          "english": "I used the word 'cielo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "cielo",
+        "meaning": "cielo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "sky",
+          "meaning": "Direct English translation of 'cielo'",
+          "usage": "The sky was important."
+        }
+      ],
+      "cognates": [
+        "sky"
+      ]
+    },
+    {
+      "id": 59,
+      "word": "fuoco",
+      "gender": "masculine",
+      "translations": [
+        "fire"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'fuoco' in una frase.",
+          "english": "I used the word 'fuoco' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "fuoco",
+        "meaning": "fuoco in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "fire",
+          "meaning": "Direct English translation of 'fuoco'",
+          "usage": "The fire was important."
+        }
+      ],
+      "cognates": [
+        "fire"
+      ]
+    },
+    {
+      "id": 60,
+      "word": "punto",
+      "gender": "masculine",
+      "translations": [
+        "point"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'punto' in una frase.",
+          "english": "I used the word 'punto' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "punto",
+        "meaning": "punto in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "point",
+          "meaning": "Direct English translation of 'punto'",
+          "usage": "The point was important."
+        }
+      ],
+      "cognates": [
+        "point"
+      ]
+    },
+    {
+      "id": 61,
+      "word": "linea",
+      "gender": "feminine",
+      "translations": [
+        "line"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'linea' in una frase.",
+          "english": "I used the word 'linea' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "linea",
+        "meaning": "linea in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "line",
+          "meaning": "Direct English translation of 'linea'",
+          "usage": "The line was important."
+        }
+      ],
+      "cognates": [
+        "line"
+      ]
+    },
+    {
+      "id": 62,
+      "word": "desiderio",
+      "gender": "masculine",
+      "translations": [
+        "desire"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'desiderio' in una frase.",
+          "english": "I used the word 'desiderio' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "desiderio",
+        "meaning": "desiderio in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "desire",
+          "meaning": "Direct English translation of 'desiderio'",
+          "usage": "The desire was important."
+        }
+      ],
+      "cognates": [
+        "desire"
+      ]
+    },
+    {
+      "id": 63,
+      "word": "amore",
+      "gender": "masculine",
+      "translations": [
+        "love"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'amore' in una frase.",
+          "english": "I used the word 'amore' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "amore",
+        "meaning": "amore in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "amorous",
+          "meaning": "Relating to love or desire",
+          "usage": "He wrote her an amorous letter."
+        },
+        {
+          "word": "amity",
+          "meaning": "A friendly relationship",
+          "usage": "The nations lived in amity after the treaty."
+        }
+      ],
+      "cognates": [
+        "love"
+      ]
+    },
+    {
+      "id": 64,
+      "word": "paura",
+      "gender": "feminine",
+      "translations": [
+        "fear"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'paura' in una frase.",
+          "english": "I used the word 'paura' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "paura",
+        "meaning": "paura in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "fear",
+          "meaning": "Direct English translation of 'paura'",
+          "usage": "The fear was important."
+        }
+      ],
+      "cognates": [
+        "fear"
+      ]
+    },
+    {
+      "id": 65,
+      "word": "sogno",
+      "gender": "masculine",
+      "translations": [
+        "dream"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'sogno' in una frase.",
+          "english": "I used the word 'sogno' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "sogno",
+        "meaning": "sogno in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "dream",
+          "meaning": "Direct English translation of 'sogno'",
+          "usage": "The dream was important."
+        }
+      ],
+      "cognates": [
+        "dream"
+      ]
+    },
+    {
+      "id": 66,
+      "word": "lume",
+      "gender": "masculine",
+      "translations": [
+        "light"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'lume' in una frase.",
+          "english": "I used the word 'lume' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "lume",
+        "meaning": "lume in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "light",
+          "meaning": "Direct English translation of 'lume'",
+          "usage": "The light was important."
+        }
+      ],
+      "cognates": [
+        "light"
+      ]
+    },
+    {
+      "id": 67,
+      "word": "gioco",
+      "gender": "masculine",
+      "translations": [
+        "game"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'gioco' in una frase.",
+          "english": "I used the word 'gioco' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "gioco",
+        "meaning": "gioco in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "game",
+          "meaning": "Direct English translation of 'gioco'",
+          "usage": "The game was important."
+        }
+      ],
+      "cognates": [
+        "game"
+      ]
+    },
+    {
+      "id": 68,
+      "word": "legge",
+      "gender": "feminine",
+      "translations": [
+        "law"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'legge' in una frase.",
+          "english": "I used the word 'legge' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "legge",
+        "meaning": "legge in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "legal",
+          "meaning": "Pertaining to the law",
+          "usage": "He sought legal advice."
+        },
+        {
+          "word": "legislation",
+          "meaning": "Laws, considered collectively",
+          "usage": "New legislation was passed last year."
+        }
+      ],
+      "cognates": [
+        "law"
+      ]
+    },
+    {
+      "id": 69,
+      "word": "scuola",
+      "gender": "feminine",
+      "translations": [
+        "school"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'scuola' in una frase.",
+          "english": "I used the word 'scuola' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "scuola",
+        "meaning": "scuola in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "school",
+          "meaning": "Direct English translation of 'scuola'",
+          "usage": "The school was important."
+        }
+      ],
+      "cognates": [
+        "school"
+      ]
+    },
+    {
+      "id": 70,
+      "word": "porta",
+      "gender": "feminine",
+      "translations": [
+        "door"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho chiuso la porta per non sentire il rumore.",
+          "english": "I closed the door to block out the noise.",
+          "context": "real-world action"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "porta",
+        "meaning": "porta in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "portal",
+          "meaning": "A grand entrance, often used metaphorically",
+          "usage": "She stepped through the portal into another world."
+        },
+        {
+          "word": "transport",
+          "meaning": "To carry something from one place to another",
+          "usage": "Goods were transported through the port."
+        },
+        {
+          "word": "port",
+          "meaning": "A harbor or gate",
+          "usage": "The ship arrived at the port in the morning."
+        }
+      ],
+      "cognates": [
+        "door"
+      ]
+    },
+    {
+      "id": 71,
+      "word": "straniero",
+      "gender": "masculine",
+      "translations": [
+        "foreigner"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'straniero' in una frase.",
+          "english": "I used the word 'straniero' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "straniero",
+        "meaning": "straniero in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "foreigner",
+          "meaning": "Direct English translation of 'straniero'",
+          "usage": "The foreigner was important."
+        }
+      ],
+      "cognates": [
+        "foreigner"
+      ]
+    },
+    {
+      "id": 72,
+      "word": "problema",
+      "gender": "masculine",
+      "translations": [
+        "problem"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'problema' in una frase.",
+          "english": "I used the word 'problema' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "problema",
+        "meaning": "problema in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "problem",
+          "meaning": "Direct English translation of 'problema'",
+          "usage": "The problem was important."
+        }
+      ],
+      "cognates": [
+        "problem"
+      ]
+    },
+    {
+      "id": 73,
+      "word": "lingua",
+      "gender": "feminine",
+      "translations": [
+        "language",
+        "tongue"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'lingua' in una frase.",
+          "english": "I used the word 'lingua' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "lingua",
+        "meaning": "lingua in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "language",
+          "meaning": "Direct English translation of 'lingua'",
+          "usage": "The language was important."
+        },
+        {
+          "word": "tongue",
+          "meaning": "Direct English translation of 'lingua'",
+          "usage": "The tongue was important."
+        }
+      ],
+      "cognates": [
+        "language",
+        "tongue"
+      ]
+    },
+    {
+      "id": 74,
+      "word": "mezzo",
+      "gender": "masculine",
+      "translations": [
+        "means",
+        "middle"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'mezzo' in una frase.",
+          "english": "I used the word 'mezzo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "mezzo",
+        "meaning": "mezzo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "means",
+          "meaning": "Direct English translation of 'mezzo'",
+          "usage": "The means was important."
+        },
+        {
+          "word": "middle",
+          "meaning": "Direct English translation of 'mezzo'",
+          "usage": "The middle was important."
+        }
+      ],
+      "cognates": [
+        "means",
+        "middle"
+      ]
+    },
+    {
+      "id": 75,
+      "word": "camera",
+      "gender": "feminine",
+      "translations": [
+        "room"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'camera' in una frase.",
+          "english": "I used the word 'camera' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "camera",
+        "meaning": "camera in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "room",
+          "meaning": "Direct English translation of 'camera'",
+          "usage": "The room was important."
+        }
+      ],
+      "cognates": [
+        "room"
+      ]
+    },
+    {
+      "id": 76,
+      "word": "fiore",
+      "gender": "masculine",
+      "translations": [
+        "flower"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'fiore' in una frase.",
+          "english": "I used the word 'fiore' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "fiore",
+        "meaning": "fiore in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "flower",
+          "meaning": "Direct English translation of 'fiore'",
+          "usage": "The flower was important."
+        }
+      ],
+      "cognates": [
+        "flower"
+      ]
+    },
+    {
+      "id": 77,
+      "word": "giardino",
+      "gender": "masculine",
+      "translations": [
+        "garden"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il giardino è pieno di fiori in primavera.",
+          "english": "The garden is full of flowers in the spring.",
+          "context": "seasonal description"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "giardino",
+        "meaning": "giardino in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "garden",
+          "meaning": "Cultivated land",
+          "usage": "They have a garden in the backyard."
+        },
+        {
+          "word": "gardener",
+          "meaning": "One who tends a garden",
+          "usage": "The gardener pruned the bushes."
+        },
+        {
+          "word": "gardening",
+          "meaning": "The act of tending a garden",
+          "usage": "Gardening is relaxing."
+        }
+      ],
+      "cognates": [
+        "garden"
+      ]
+    },
+    {
+      "id": 78,
+      "word": "cane",
+      "gender": "masculine",
+      "translations": [
+        "dog"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'cane' in una frase.",
+          "english": "I used the word 'cane' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "cane",
+        "meaning": "cane in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "dog",
+          "meaning": "Direct English translation of 'cane'",
+          "usage": "The dog was important."
+        }
+      ],
+      "cognates": [
+        "dog"
+      ]
+    },
+    {
+      "id": 79,
+      "word": "gatto",
+      "gender": "masculine",
+      "translations": [
+        "cat"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'gatto' in una frase.",
+          "english": "I used the word 'gatto' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "gatto",
+        "meaning": "gatto in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "cat",
+          "meaning": "Direct English translation of 'gatto'",
+          "usage": "The cat was important."
+        }
+      ],
+      "cognates": [
+        "cat"
+      ]
+    },
+    {
+      "id": 80,
+      "word": "libro",
+      "gender": "masculine",
+      "translations": [
+        "book"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il ragazzo ha letto il libro.",
+          "english": "The boy read the book.",
+          "context": "past action"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "liber",
+        "meaning": "book; originally a strip of inner bark, later used to refer to a written work or volume.",
+        "notes": "Latin 'liber' evolved into Italian 'libro' retaining the meaning of 'book'."
+      },
+      "related_english_words": [
+        {
+          "word": "library",
+          "meaning": "A place where books are stored and borrowed",
+          "usage": "She borrowed the novel from the library."
+        },
+        {
+          "word": "libretto",
+          "meaning": "The written text of an opera",
+          "usage": "The composer set the libretto to music."
+        },
+        {
+          "word": "libel",
+          "meaning": "A false written statement that harms reputation",
+          "usage": "The journalist was sued for libel."
+        }
+      ],
+      "cognates": [
+        "library",
+        "libretto",
+        "libel"
+      ]
+    },
+    {
+      "id": 81,
+      "word": "lettera",
+      "gender": "feminine",
+      "translations": [
+        "letter"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'lettera' in una frase.",
+          "english": "I used the word 'lettera' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "lettera",
+        "meaning": "lettera in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "letter",
+          "meaning": "Direct English translation of 'lettera'",
+          "usage": "The letter was important."
+        }
+      ],
+      "cognates": [
+        "letter"
+      ]
+    },
+    {
+      "id": 82,
+      "word": "arte",
+      "gender": "feminine",
+      "translations": [
+        "art"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'arte' in una frase.",
+          "english": "I used the word 'arte' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "arte",
+        "meaning": "arte in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "art",
+          "meaning": "Direct English translation of 'arte'",
+          "usage": "The art was important."
+        }
+      ],
+      "cognates": [
+        "art"
+      ]
+    },
+    {
+      "id": 83,
+      "word": "scienza",
+      "gender": "feminine",
+      "translations": [
+        "science"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'scienza' in una frase.",
+          "english": "I used the word 'scienza' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "scienza",
+        "meaning": "scienza in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "science",
+          "meaning": "Direct English translation of 'scienza'",
+          "usage": "The science was important."
+        }
+      ],
+      "cognates": [
+        "science"
+      ]
+    },
+    {
+      "id": 84,
+      "word": "musica",
+      "gender": "feminine",
+      "translations": [
+        "music"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'musica' in una frase.",
+          "english": "I used the word 'musica' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "musica",
+        "meaning": "musica in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "music",
+          "meaning": "Direct English translation of 'musica'",
+          "usage": "The music was important."
+        }
+      ],
+      "cognates": [
+        "music"
+      ]
+    },
+    {
+      "id": 85,
+      "word": "film",
+      "gender": "masculine",
+      "translations": [
+        "film"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'film' in una frase.",
+          "english": "I used the word 'film' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "film",
+        "meaning": "film in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "film",
+          "meaning": "Direct English translation of 'film'",
+          "usage": "The film was important."
+        }
+      ],
+      "cognates": [
+        "film"
+      ]
+    },
+    {
+      "id": 86,
+      "word": "teatro",
+      "gender": "masculine",
+      "translations": [
+        "theater"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'teatro' in una frase.",
+          "english": "I used the word 'teatro' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "teatro",
+        "meaning": "teatro in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "theater",
+          "meaning": "Direct English translation of 'teatro'",
+          "usage": "The theater was important."
+        }
+      ],
+      "cognates": [
+        "theater"
+      ]
+    },
+    {
+      "id": 87,
+      "word": "carro",
+      "gender": "masculine",
+      "translations": [
+        "cart",
+        "wagon"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'carro' in una frase.",
+          "english": "I used the word 'carro' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "carro",
+        "meaning": "carro in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "cart",
+          "meaning": "Direct English translation of 'carro'",
+          "usage": "The cart was important."
+        },
+        {
+          "word": "wagon",
+          "meaning": "Direct English translation of 'carro'",
+          "usage": "The wagon was important."
+        }
+      ],
+      "cognates": [
+        "cart",
+        "wagon"
+      ]
+    },
+    {
+      "id": 88,
+      "word": "treno",
+      "gender": "masculine",
+      "translations": [
+        "train"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'treno' in una frase.",
+          "english": "I used the word 'treno' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "treno",
+        "meaning": "treno in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "train",
+          "meaning": "Direct English translation of 'treno'",
+          "usage": "The train was important."
+        }
+      ],
+      "cognates": [
+        "train"
+      ]
+    },
+    {
+      "id": 89,
+      "word": "macchina",
+      "gender": "feminine",
+      "translations": [
+        "car",
+        "machine"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'macchina' in una frase.",
+          "english": "I used the word 'macchina' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "macchina",
+        "meaning": "macchina in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "car",
+          "meaning": "Direct English translation of 'macchina'",
+          "usage": "The car was important."
+        },
+        {
+          "word": "machine",
+          "meaning": "Direct English translation of 'macchina'",
+          "usage": "The machine was important."
+        }
+      ],
+      "cognates": [
+        "car",
+        "machine"
+      ]
+    },
+    {
+      "id": 90,
+      "word": "bicicletta",
+      "gender": "feminine",
+      "translations": [
+        "bicycle"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'bicicletta' in una frase.",
+          "english": "I used the word 'bicicletta' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "bicicletta",
+        "meaning": "bicicletta in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "bicycle",
+          "meaning": "Direct English translation of 'bicicletta'",
+          "usage": "The bicycle was important."
+        }
+      ],
+      "cognates": [
+        "bicycle"
+      ]
+    },
+    {
+      "id": 91,
+      "word": "aereo",
+      "gender": "masculine",
+      "translations": [
+        "airplane"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'aereo' in una frase.",
+          "english": "I used the word 'aereo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "aereo",
+        "meaning": "aereo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "airplane",
+          "meaning": "Direct English translation of 'aereo'",
+          "usage": "The airplane was important."
+        }
+      ],
+      "cognates": [
+        "airplane"
+      ]
+    },
+    {
+      "id": 92,
+      "word": "barca",
+      "gender": "feminine",
+      "translations": [
+        "boat"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'barca' in una frase.",
+          "english": "I used the word 'barca' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "barca",
+        "meaning": "barca in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "boat",
+          "meaning": "Direct English translation of 'barca'",
+          "usage": "The boat was important."
+        }
+      ],
+      "cognates": [
+        "boat"
+      ]
+    },
+    {
+      "id": 93,
+      "word": "viaggio",
+      "gender": "masculine",
+      "translations": [
+        "trip",
+        "journey"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'viaggio' in una frase.",
+          "english": "I used the word 'viaggio' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "viaggio",
+        "meaning": "viaggio in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "trip",
+          "meaning": "Direct English translation of 'viaggio'",
+          "usage": "The trip was important."
+        },
+        {
+          "word": "journey",
+          "meaning": "Direct English translation of 'viaggio'",
+          "usage": "The journey was important."
+        }
+      ],
+      "cognates": [
+        "trip",
+        "journey"
+      ]
+    },
+    {
+      "id": 94,
+      "word": "vacanza",
+      "gender": "feminine",
+      "translations": [
+        "vacation"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'vacanza' in una frase.",
+          "english": "I used the word 'vacanza' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "vacanza",
+        "meaning": "vacanza in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "vacation",
+          "meaning": "Direct English translation of 'vacanza'",
+          "usage": "The vacation was important."
+        }
+      ],
+      "cognates": [
+        "vacation"
+      ]
+    },
+    {
+      "id": 95,
+      "word": "cibo",
+      "gender": "masculine",
+      "translations": [
+        "food"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'cibo' in una frase.",
+          "english": "I used the word 'cibo' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "cibo",
+        "meaning": "cibo in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "food",
+          "meaning": "Direct English translation of 'cibo'",
+          "usage": "The food was important."
+        }
+      ],
+      "cognates": [
+        "food"
+      ]
+    },
+    {
+      "id": 96,
+      "word": "bevanda",
+      "gender": "feminine",
+      "translations": [
+        "drink"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'bevanda' in una frase.",
+          "english": "I used the word 'bevanda' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "bevanda",
+        "meaning": "bevanda in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "drink",
+          "meaning": "Direct English translation of 'bevanda'",
+          "usage": "The drink was important."
+        }
+      ],
+      "cognates": [
+        "drink"
+      ]
+    },
+    {
+      "id": 97,
+      "word": "colore",
+      "gender": "masculine",
+      "translations": [
+        "color"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'colore' in una frase.",
+          "english": "I used the word 'colore' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "colore",
+        "meaning": "colore in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "color",
+          "meaning": "Direct English translation of 'colore'",
+          "usage": "The color was important."
+        }
+      ],
+      "cognates": [
+        "color"
+      ]
+    },
+    {
+      "id": 98,
+      "word": "vestito",
+      "gender": "masculine",
+      "translations": [
+        "dress",
+        "suit"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'vestito' in una frase.",
+          "english": "I used the word 'vestito' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "vestito",
+        "meaning": "vestito in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "dress",
+          "meaning": "Direct English translation of 'vestito'",
+          "usage": "The dress was important."
+        },
+        {
+          "word": "suit",
+          "meaning": "Direct English translation of 'vestito'",
+          "usage": "The suit was important."
+        }
+      ],
+      "cognates": [
+        "dress",
+        "suit"
+      ]
+    },
+    {
+      "id": 99,
+      "word": "scarpa",
+      "gender": "feminine",
+      "translations": [
+        "shoe"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'scarpa' in una frase.",
+          "english": "I used the word 'scarpa' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "scarpa",
+        "meaning": "scarpa in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "shoe",
+          "meaning": "Direct English translation of 'scarpa'",
+          "usage": "The shoe was important."
+        }
+      ],
+      "cognates": [
+        "shoe"
+      ]
+    },
+    {
+      "id": 100,
+      "word": "tempo libero",
+      "gender": "masculine",
+      "translations": [
+        "free time"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'tempo libero' in una frase.",
+          "english": "I used the word 'tempo libero' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "tempo libero",
+        "meaning": "tempo libero in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "free time",
+          "meaning": "Direct English translation of 'tempo libero'",
+          "usage": "The free time was important."
+        }
+      ],
+      "cognates": [
+        "free time"
+      ]
+    },
+    {
+      "id": 101,
+      "word": "sport",
+      "gender": "masculine",
+      "translations": [
+        "sport"
+      ],
+      "part_of_speech": "Noun",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho usato la parola 'sport' in una frase.",
+          "english": "I used the word 'sport' in a sentence.",
+          "context": "generic fallback"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "sport",
+        "meaning": "sport in Latin origin",
+        "notes": "Evolved from Latin usage into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "sport",
+          "meaning": "Direct English translation of 'sport'",
+          "usage": "The sport was important."
+        }
+      ],
+      "cognates": [
+        "sport"
+      ]
+    }
+  ]
+}

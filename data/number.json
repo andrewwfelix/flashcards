@@ -1,0 +1,1118 @@
+{
+  "part_of_speech": "Number",
+  "count": 50,
+  "flashcards": [
+    {
+      "id": 510,
+      "word": "uno",
+      "translations": [
+        "one"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"uno\"",
+          "english": "This is a sentence with \"one\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"uno\" è importante",
+          "english": "\"one\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "word": "due",
+      "translations": [
+        "two"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"due\"",
+          "english": "This is a sentence with \"two\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"due\" è importante",
+          "english": "\"two\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "word": "tre",
+      "translations": [
+        "three"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"tre\"",
+          "english": "This is a sentence with \"three\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"tre\" è importante",
+          "english": "\"three\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "word": "quattro",
+      "translations": [
+        "four"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quattro\"",
+          "english": "This is a sentence with \"four\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quattro\" è importante",
+          "english": "\"four\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "word": "cinque",
+      "translations": [
+        "five"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"cinque\"",
+          "english": "This is a sentence with \"five\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"cinque\" è importante",
+          "english": "\"five\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "word": "sei",
+      "translations": [
+        "six"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"sei\"",
+          "english": "This is a sentence with \"six\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"sei\" è importante",
+          "english": "\"six\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "word": "sette",
+      "translations": [
+        "seven"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"sette\"",
+          "english": "This is a sentence with \"seven\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"sette\" è importante",
+          "english": "\"seven\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "word": "otto",
+      "translations": [
+        "eight"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"otto\"",
+          "english": "This is a sentence with \"eight\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"otto\" è importante",
+          "english": "\"eight\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "word": "nove",
+      "translations": [
+        "nine"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"nove\"",
+          "english": "This is a sentence with \"nine\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"nove\" è importante",
+          "english": "\"nine\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "word": "dieci",
+      "translations": [
+        "ten"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dieci\"",
+          "english": "This is a sentence with \"ten\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dieci\" è importante",
+          "english": "\"ten\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "word": "undici",
+      "translations": [
+        "eleven"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"undici\"",
+          "english": "This is a sentence with \"eleven\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"undici\" è importante",
+          "english": "\"eleven\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "word": "dodici",
+      "translations": [
+        "twelve"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dodici\"",
+          "english": "This is a sentence with \"twelve\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dodici\" è importante",
+          "english": "\"twelve\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "word": "tredici",
+      "translations": [
+        "thirteen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"tredici\"",
+          "english": "This is a sentence with \"thirteen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"tredici\" è importante",
+          "english": "\"thirteen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "word": "quattordici",
+      "translations": [
+        "fourteen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quattordici\"",
+          "english": "This is a sentence with \"fourteen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quattordici\" è importante",
+          "english": "\"fourteen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "word": "quindici",
+      "translations": [
+        "fifteen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quindici\"",
+          "english": "This is a sentence with \"fifteen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quindici\" è importante",
+          "english": "\"fifteen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "word": "sedici",
+      "translations": [
+        "sixteen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"sedici\"",
+          "english": "This is a sentence with \"sixteen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"sedici\" è importante",
+          "english": "\"sixteen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "word": "diciassette",
+      "translations": [
+        "seventeen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"diciassette\"",
+          "english": "This is a sentence with \"seventeen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"diciassette\" è importante",
+          "english": "\"seventeen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "word": "diciotto",
+      "translations": [
+        "eighteen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"diciotto\"",
+          "english": "This is a sentence with \"eighteen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"diciotto\" è importante",
+          "english": "\"eighteen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "word": "diciannove",
+      "translations": [
+        "nineteen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"diciannove\"",
+          "english": "This is a sentence with \"nineteen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"diciannove\" è importante",
+          "english": "\"nineteen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "word": "venti",
+      "translations": [
+        "twenty"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"venti\"",
+          "english": "This is a sentence with \"twenty\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"venti\" è importante",
+          "english": "\"twenty\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "word": "trenta",
+      "translations": [
+        "thirty"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"trenta\"",
+          "english": "This is a sentence with \"thirty\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"trenta\" è importante",
+          "english": "\"thirty\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "word": "quaranta",
+      "translations": [
+        "forty"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quaranta\"",
+          "english": "This is a sentence with \"forty\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quaranta\" è importante",
+          "english": "\"forty\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "word": "cinquanta",
+      "translations": [
+        "fifty"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"cinquanta\"",
+          "english": "This is a sentence with \"fifty\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"cinquanta\" è importante",
+          "english": "\"fifty\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "word": "sessanta",
+      "translations": [
+        "sixty"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"sessanta\"",
+          "english": "This is a sentence with \"sixty\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"sessanta\" è importante",
+          "english": "\"sixty\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "word": "settanta",
+      "translations": [
+        "seventy"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"settanta\"",
+          "english": "This is a sentence with \"seventy\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"settanta\" è importante",
+          "english": "\"seventy\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "word": "ottanta",
+      "translations": [
+        "eighty"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ottanta\"",
+          "english": "This is a sentence with \"eighty\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ottanta\" è importante",
+          "english": "\"eighty\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "word": "novanta",
+      "translations": [
+        "ninety"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"novanta\"",
+          "english": "This is a sentence with \"ninety\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"novanta\" è importante",
+          "english": "\"ninety\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "word": "cento",
+      "translations": [
+        "hundred"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"cento\"",
+          "english": "This is a sentence with \"hundred\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"cento\" è importante",
+          "english": "\"hundred\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "word": "mille",
+      "translations": [
+        "thousand"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mille\"",
+          "english": "This is a sentence with \"thousand\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mille\" è importante",
+          "english": "\"thousand\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "word": "primo",
+      "translations": [
+        "first"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"primo\"",
+          "english": "This is a sentence with \"first\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"primo\" è importante",
+          "english": "\"first\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "word": "secondo",
+      "translations": [
+        "second"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"secondo\"",
+          "english": "This is a sentence with \"second\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"secondo\" è importante",
+          "english": "\"second\" is important",
+          "context": "general statement"
+        }
+      ],
+      "cognates": [
+        "second"
+      ]
+    },
+    {
+      "id": 541,
+      "word": "terzo",
+      "translations": [
+        "third"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"terzo\"",
+          "english": "This is a sentence with \"third\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"terzo\" è importante",
+          "english": "\"third\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "word": "quarto",
+      "translations": [
+        "fourth"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quarto\"",
+          "english": "This is a sentence with \"fourth\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quarto\" è importante",
+          "english": "\"fourth\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "word": "quinto",
+      "translations": [
+        "fifth"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quinto\"",
+          "english": "This is a sentence with \"fifth\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quinto\" è importante",
+          "english": "\"fifth\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "word": "sesto",
+      "translations": [
+        "sixth"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"sesto\"",
+          "english": "This is a sentence with \"sixth\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"sesto\" è importante",
+          "english": "\"sixth\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "word": "settimo",
+      "translations": [
+        "seventh"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"settimo\"",
+          "english": "This is a sentence with \"seventh\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"settimo\" è importante",
+          "english": "\"seventh\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "word": "ottavo",
+      "translations": [
+        "eighth"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ottavo\"",
+          "english": "This is a sentence with \"eighth\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ottavo\" è importante",
+          "english": "\"eighth\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "word": "nono",
+      "translations": [
+        "ninth"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"nono\"",
+          "english": "This is a sentence with \"ninth\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"nono\" è importante",
+          "english": "\"ninth\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "word": "decimo",
+      "translations": [
+        "tenth"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"decimo\"",
+          "english": "This is a sentence with \"tenth\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"decimo\" è importante",
+          "english": "\"tenth\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "word": "ultimo",
+      "translations": [
+        "last"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ultimo\"",
+          "english": "This is a sentence with \"last\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ultimo\" è importante",
+          "english": "\"last\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "word": "mezzo",
+      "translations": [
+        "half"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mezzo\"",
+          "english": "This is a sentence with \"half\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mezzo\" è importante",
+          "english": "\"half\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "word": "metà",
+      "translations": [
+        "half"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"metà\"",
+          "english": "This is a sentence with \"half\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"metà\" è importante",
+          "english": "\"half\" is important",
+          "context": "general statement"
+        }
+      ],
+      "cognates": [
+        "mety"
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "metas",
+        "meaning": "quality or state",
+        "notes": "From Latin -tas suffix, indicating quality or condition. Related to English -ty suffix."
+      }
+    },
+    {
+      "id": 552,
+      "word": "doppio",
+      "translations": [
+        "double"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"doppio\"",
+          "english": "This is a sentence with \"double\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"doppio\" è importante",
+          "english": "\"double\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "word": "triplo",
+      "translations": [
+        "triple"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"triplo\"",
+          "english": "This is a sentence with \"triple\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"triplo\" è importante",
+          "english": "\"triple\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "word": "paio",
+      "translations": [
+        "pair"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"paio\"",
+          "english": "This is a sentence with \"pair\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"paio\" è importante",
+          "english": "\"pair\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "word": "dozzina",
+      "translations": [
+        "dozen"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dozzina\"",
+          "english": "This is a sentence with \"dozen\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dozzina\" è importante",
+          "english": "\"dozen\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "word": "centinaio",
+      "translations": [
+        "hundred"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"centinaio\"",
+          "english": "This is a sentence with \"hundred\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"centinaio\" è importante",
+          "english": "\"hundred\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "word": "migliaio",
+      "translations": [
+        "thousand"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"migliaio\"",
+          "english": "This is a sentence with \"thousand\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"migliaio\" è importante",
+          "english": "\"thousand\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "word": "milione",
+      "translations": [
+        "million"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"milione\"",
+          "english": "This is a sentence with \"million\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"milione\" è importante",
+          "english": "\"million\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "word": "miliardo",
+      "translations": [
+        "billion"
+      ],
+      "part_of_speech": "Number",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"miliardo\"",
+          "english": "This is a sentence with \"billion\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"miliardo\" è importante",
+          "english": "\"billion\" is important",
+          "context": "general statement"
+        }
+      ]
+    }
+  ]
+}

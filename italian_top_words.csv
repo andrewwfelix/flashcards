@@ -1,0 +1,332 @@
+question,answer,category,difficulty,part_of_speech
+casa,house,Italian,Easy,Noun
+acqua,water,Italian,Easy,Noun
+pane,bread,Italian,Easy,Noun
+tempo,time,Italian,Easy,Noun
+uomo,man,Italian,Easy,Noun
+donna,woman,Italian,Easy,Noun
+bambino,child,Italian,Easy,Noun
+mondo,world,Italian,Easy,Noun
+vita,life,Italian,Easy,Noun
+mano,hand,Italian,Easy,Noun
+occhio,eye,Italian,Easy,Noun
+giorno,day,Italian,Easy,Noun
+notte,night,Italian,Easy,Noun
+anno,year,Italian,Easy,Noun
+paese,country,Italian,Easy,Noun
+città,city,Italian,Easy,Noun
+strada,street,Italian,Easy,Noun
+macchina,car,Italian,Easy,Noun
+lavoro,work,Italian,Easy,Noun
+scuola,school,Italian,Easy,Noun
+famiglia,family,Italian,Easy,Noun
+amico,friend,Italian,Easy,Noun
+denaro,money,Italian,Easy,Noun
+numero,number,Italian,Easy,Noun
+parte,part,Italian,Easy,Noun
+gruppo,group,Italian,Easy,Noun
+problema,problem,Italian,Easy,Noun
+posto,place,Italian,Easy,Noun
+caso,case,Italian,Easy,Noun
+fatto,fact,Italian,Easy,Noun
+essere,to be,Italian,Medium,Verb
+avere,to have,Italian,Medium,Verb
+fare,to do/make,Italian,Medium,Verb
+dire,to say,Italian,Medium,Verb
+andare,to go,Italian,Medium,Verb
+potere,to be able,Italian,Medium,Verb
+dovere,to have to,Italian,Medium,Verb
+volere,to want,Italian,Medium,Verb
+sapere,to know,Italian,Medium,Verb
+dare,to give,Italian,Medium,Verb
+stare,to stay,Italian,Medium,Verb
+vedere,to see,Italian,Medium,Verb
+venire,to come,Italian,Medium,Verb
+uscire,to go out,Italian,Medium,Verb
+parlare,to speak,Italian,Medium,Verb
+trovare,to find,Italian,Medium,Verb
+portare,to bring,Italian,Medium,Verb
+lasciare,to leave,Italian,Medium,Verb
+mettere,to put,Italian,Medium,Verb
+sentire,to hear/feel,Italian,Medium,Verb
+chiamare,to call,Italian,Medium,Verb
+aspettare,to wait,Italian,Medium,Verb
+entrare,to enter,Italian,Medium,Verb
+vivere,to live,Italian,Medium,Verb
+morire,to die,Italian,Medium,Verb
+aprire,to open,Italian,Medium,Verb
+chiudere,to close,Italian,Medium,Verb
+credere,to believe,Italian,Medium,Verb
+leggere,to read,Italian,Medium,Verb
+scrivere,to write,Italian,Medium,Verb
+grande,big/large,Italian,Easy,Adjective
+piccolo,small,Italian,Easy,Adjective
+nuovo,new,Italian,Easy,Adjective
+vecchio,old,Italian,Easy,Adjective
+buono,good,Italian,Easy,Adjective
+cattivo,bad,Italian,Easy,Adjective
+bello,beautiful,Italian,Easy,Adjective
+brutto,ugly,Italian,Easy,Adjective
+giovane,young,Italian,Easy,Adjective
+lungo,long,Italian,Easy,Adjective
+corto,short,Italian,Easy,Adjective
+alto,tall/high,Italian,Easy,Adjective
+basso,short/low,Italian,Easy,Adjective
+facile,easy,Italian,Easy,Adjective
+difficile,difficult,Italian,Easy,Adjective
+importante,important,Italian,Medium,Adjective
+possibile,possible,Italian,Medium,Adjective
+necessario,necessary,Italian,Medium,Adjective
+diverso,different,Italian,Medium,Adjective
+sicuro,sure/safe,Italian,Medium,Adjective
+libero,free,Italian,Medium,Adjective
+vero,true,Italian,Medium,Adjective
+falso,false,Italian,Medium,Adjective
+felice,happy,Italian,Medium,Adjective
+triste,sad,Italian,Medium,Adjective
+ricco,rich,Italian,Medium,Adjective
+povero,poor,Italian,Medium,Adjective
+pieno,full,Italian,Medium,Adjective
+vuoto,empty,Italian,Medium,Adjective
+caldo,hot,Italian,Medium,Adjective
+molto,very/much,Italian,Easy,Adverb
+più,more,Italian,Easy,Adverb
+meno,less,Italian,Easy,Adverb
+tanto,so much,Italian,Easy,Adverb
+poco,little,Italian,Easy,Adverb
+abbastanza,enough,Italian,Easy,Adverb
+troppo,too much,Italian,Easy,Adverb
+sempre,always,Italian,Easy,Adverb
+mai,never,Italian,Easy,Adverb
+spesso,often,Italian,Easy,Adverb
+qualche volta,sometimes,Italian,Medium,Adverb
+già,already,Italian,Medium,Adverb
+ancora,still/again,Italian,Medium,Adverb
+prima,before,Italian,Medium,Adverb
+dopo,after,Italian,Medium,Adverb
+subito,immediately,Italian,Medium,Adverb
+presto,soon/early,Italian,Medium,Adverb
+tardi,late,Italian,Medium,Adverb
+ieri,yesterday,Italian,Medium,Adverb
+oggi,today,Italian,Medium,Adverb
+domani,tomorrow,Italian,Medium,Adverb
+bene,well,Italian,Medium,Adverb
+male,badly,Italian,Medium,Adverb
+insieme,together,Italian,Medium,Adverb
+velocemente,quickly,Italian,Hard,Adverb
+lentamente,slowly,Italian,Hard,Adverb
+facilmente,easily,Italian,Hard,Adverb
+certamente,certainly,Italian,Hard,Adverb
+probabilmente,probably,Italian,Hard,Adverb
+fortunatamente,fortunately,Italian,Hard,Adverb
+io,I,Italian,Easy,Pronoun
+tu,you,Italian,Easy,Pronoun
+lui,he,Italian,Easy,Pronoun
+lei,she,Italian,Easy,Pronoun
+noi,we,Italian,Easy,Pronoun
+voi,you (plural),Italian,Easy,Pronoun
+loro,they,Italian,Easy,Pronoun
+mi,me,Italian,Easy,Pronoun
+ti,you (object),Italian,Easy,Pronoun
+lo,him/it,Italian,Easy,Pronoun
+la,her/it,Italian,Easy,Pronoun
+ci,us,Italian,Easy,Pronoun
+vi,you (object plural),Italian,Easy,Pronoun
+li,them (masc),Italian,Easy,Pronoun
+le,them (fem),Italian,Easy,Pronoun
+questo,this,Italian,Medium,Pronoun
+quello,that,Italian,Medium,Pronoun
+che,what/that,Italian,Medium,Pronoun
+chi,who,Italian,Medium,Pronoun
+dove,where,Italian,Medium,Pronoun
+quando,when,Italian,Medium,Pronoun
+come,how,Italian,Medium,Pronoun
+perché,why,Italian,Medium,Pronoun
+cosa,what,Italian,Medium,Pronoun
+quale,which,Italian,Medium,Pronoun
+quanto,how much,Italian,Medium,Pronoun
+qualcosa,something,Italian,Medium,Pronoun
+qualcuno,someone,Italian,Medium,Pronoun
+niente,nothing,Italian,Medium,Pronoun
+nessuno,nobody,Italian,Medium,Pronoun
+tutto,everything,Italian,Medium,Pronoun
+di,of/from,Italian,Easy,Preposition
+a,to/at,Italian,Easy,Preposition
+da,from/by,Italian,Easy,Preposition
+in,in,Italian,Easy,Preposition
+con,with,Italian,Easy,Preposition
+su,on,Italian,Easy,Preposition
+per,for,Italian,Easy,Preposition
+tra,between,Italian,Easy,Preposition
+fra,between,Italian,Easy,Preposition
+senza,without,Italian,Medium,Preposition
+sopra,above,Italian,Medium,Preposition
+sotto,under,Italian,Medium,Preposition
+dentro,inside,Italian,Medium,Preposition
+fuori,outside,Italian,Medium,Preposition
+davanti,in front of,Italian,Medium,Preposition
+dietro,behind,Italian,Medium,Preposition
+vicino,near,Italian,Medium,Preposition
+lontano,far,Italian,Medium,Preposition
+durante,during,Italian,Medium,Preposition
+dopo,after,Italian,Medium,Preposition
+prima,before,Italian,Medium,Preposition
+contro,against,Italian,Medium,Preposition
+verso,towards,Italian,Medium,Preposition
+secondo,according to,Italian,Hard,Preposition
+attraverso,through,Italian,Hard,Preposition
+lungo,along,Italian,Hard,Preposition
+intorno,around,Italian,Hard,Preposition
+invece,instead of,Italian,Hard,Preposition
+oltre,beyond,Italian,Hard,Preposition
+malgrado,despite,Italian,Hard,Preposition
+e,and,Italian,Easy,Conjunction
+o,or,Italian,Easy,Conjunction
+ma,but,Italian,Easy,Conjunction
+però,however,Italian,Easy,Conjunction
+anche,also,Italian,Easy,Conjunction
+se,if,Italian,Easy,Conjunction
+perché,because,Italian,Medium,Conjunction
+quando,when,Italian,Medium,Conjunction
+mentre,while,Italian,Medium,Conjunction
+come,as,Italian,Medium,Conjunction
+che,that,Italian,Medium,Conjunction
+così,so,Italian,Medium,Conjunction
+quindi,therefore,Italian,Medium,Conjunction
+allora,then,Italian,Medium,Conjunction
+oppure,or else,Italian,Medium,Conjunction
+infatti,in fact,Italian,Medium,Conjunction
+inoltre,furthermore,Italian,Hard,Conjunction
+tuttavia,however,Italian,Hard,Conjunction
+nonostante,despite,Italian,Hard,Conjunction
+benché,although,Italian,Hard,Conjunction
+purché,provided that,Italian,Hard,Conjunction
+sebbene,although,Italian,Hard,Conjunction
+affinché,so that,Italian,Hard,Conjunction
+giacché,since,Italian,Hard,Conjunction
+poiché,since,Italian,Hard,Conjunction
+siccome,since,Italian,Hard,Conjunction
+eppure,yet,Italian,Hard,Conjunction
+piuttosto,rather,Italian,Hard,Conjunction
+ovvero,namely,Italian,Hard,Conjunction
+ossia,that is,Italian,Hard,Conjunction
+cioè,that is,Italian,Hard,Conjunction
+ah!,ah!,Italian,Easy,Interjection
+oh!,oh!,Italian,Easy,Interjection
+eh!,eh!,Italian,Easy,Interjection
+ahi!,ouch!,Italian,Easy,Interjection
+boh!,dunno!,Italian,Easy,Interjection
+eh sì!,oh yes!,Italian,Easy,Interjection
+eh no!,oh no!,Italian,Easy,Interjection
+mamma mia!,oh my!,Italian,Easy,Interjection
+basta!,enough!,Italian,Easy,Interjection
+bravo!,well done!,Italian,Easy,Interjection
+dai!,come on!,Italian,Easy,Interjection
+forza!,come on!,Italian,Easy,Interjection
+zitto!,quiet!,Italian,Easy,Interjection
+attento!,careful!,Italian,Medium,Interjection
+aiuto!,help!,Italian,Medium,Interjection
+scusa!,sorry!,Italian,Medium,Interjection
+ecco!,here!/there!,Italian,Medium,Interjection
+perfetto!,perfect!,Italian,Medium,Interjection
+incredibile!,incredible!,Italian,Medium,Interjection
+fantastico!,fantastic!,Italian,Medium,Interjection
+meraviglioso!,wonderful!,Italian,Medium,Interjection
+stupendo!,amazing!,Italian,Medium,Interjection
+magnifico!,magnificent!,Italian,Medium,Interjection
+eccellente!,excellent!,Italian,Medium,Interjection
+favoloso!,fabulous!,Italian,Medium,Interjection
+splendido!,splendid!,Italian,Medium,Interjection
+bellissimo!,very beautiful!,Italian,Medium,Interjection
+benissimo!,very well!,Italian,Medium,Interjection
+malissimo!,very badly!,Italian,Medium,Interjection
+peccato!,what a pity!,Italian,Medium,Interjection
+ciao,hello/goodbye,Italian,Easy,Greeting
+buongiorno,good morning,Italian,Easy,Greeting
+buonasera,good evening,Italian,Easy,Greeting
+buonanotte,good night,Italian,Easy,Greeting
+salve,hello,Italian,Easy,Greeting
+arrivederci,goodbye,Italian,Easy,Greeting
+arrivederla,goodbye (formal),Italian,Medium,Greeting
+ci vediamo,see you,Italian,Medium,Greeting
+a presto,see you soon,Italian,Medium,Greeting
+a dopo,see you later,Italian,Medium,Greeting
+a domani,see you tomorrow,Italian,Medium,Greeting
+buona giornata,have a good day,Italian,Medium,Greeting
+buona serata,have a good evening,Italian,Medium,Greeting
+buon viaggio,have a good trip,Italian,Medium,Greeting
+buon appetito,enjoy your meal,Italian,Medium,Greeting
+auguri,best wishes,Italian,Medium,Greeting
+complimenti,congratulations,Italian,Medium,Greeting
+benvenuto,welcome,Italian,Medium,Greeting
+bentornato,welcome back,Italian,Medium,Greeting
+piacere,pleased to meet you,Italian,Medium,Greeting
+molto piacere,very pleased to meet you,Italian,Medium,Greeting
+felice anno nuovo,happy new year,Italian,Medium,Greeting
+buon compleanno,happy birthday,Italian,Medium,Greeting
+buona fortuna,good luck,Italian,Medium,Greeting
+in bocca al lupo,good luck,Italian,Medium,Greeting
+crepi il lupo,thank you (response),Italian,Medium,Greeting
+che la forza sia con te,may the force be with you,Italian,Hard,Greeting
+pace e amore,peace and love,Italian,Hard,Greeting
+dio ti benedica,god bless you,Italian,Hard,Greeting
+vai in pace,go in peace,Italian,Hard,Greeting
+grazie,thank you,Italian,Easy,Expression
+prego,you're welcome,Italian,Easy,Expression
+scusi,excuse me (formal),Italian,Easy,Expression
+scusa,excuse me (informal),Italian,Easy,Expression
+mi dispiace,I'm sorry,Italian,Easy,Expression
+per favore,please,Italian,Easy,Expression
+per piacere,please,Italian,Medium,Expression
+mi scusi,excuse me,Italian,Medium,Expression
+non c'è di che,don't mention it,Italian,Medium,Expression
+figurati,don't mention it (informal),Italian,Medium,Expression
+si figuri,don't mention it (formal),Italian,Medium,Expression
+di niente,you're welcome,Italian,Medium,Expression
+con piacere,with pleasure,Italian,Medium,Expression
+volentieri,gladly,Italian,Medium,Expression
+naturalmente,naturally,Italian,Medium,Expression
+certamente,certainly,Italian,Medium,Expression
+d'accordo,agreed,Italian,Medium,Expression
+va bene,okay/alright,Italian,Medium,Expression
+perfetto,perfect,Italian,Medium,Expression
+esatto,exactly,Italian,Medium,Expression
+proprio così,exactly so,Italian,Medium,Expression
+hai ragione,you're right,Italian,Medium,Expression
+non importa,it doesn't matter,Italian,Medium,Expression
+pazienza,patience,Italian,Medium,Expression
+che peccato,what a pity,Italian,Medium,Expression
+meno male,thank goodness,Italian,Medium,Expression
+per fortuna,luckily,Italian,Medium,Expression
+magari,if only/maybe,Italian,Hard,Expression
+chissà,who knows,Italian,Hard,Expression
+come stai?,how are you? (informal),Italian,Easy,Question
+come sta?,how are you? (formal),Italian,Easy,Question
+che cosa fai?,what are you doing?,Italian,Easy,Question
+dove vai?,where are you going?,Italian,Easy,Question
+quando parti?,when are you leaving?,Italian,Medium,Question
+quanto costa?,how much does it cost?,Italian,Medium,Question
+che ore sono?,what time is it?,Italian,Medium,Question
+di dove sei?,where are you from?,Italian,Medium,Question
+quanti anni hai?,how old are you?,Italian,Medium,Question
+come ti chiami?,what's your name?,Italian,Medium,Question
+parli inglese?,do you speak English?,Italian,Medium,Question
+puoi aiutarmi?,can you help me?,Italian,Medium,Question
+dove si trova?,where is it located?,Italian,Medium,Question
+quanto tempo ci vuole?,how long does it take?,Italian,Hard,Question
+che cosa significa?,what does it mean?,Italian,Hard,Question
+potresti ripetere?,could you repeat?,Italian,Hard,Question
+come si dice?,how do you say?,Italian,Hard,Question
+che tempo fa?,what's the weather like?,Italian,Medium,Question
+a che ora?,at what time?,Italian,Medium,Question
+perché no?,why not?,Italian,Medium,Question
+che ne pensi?,what do you think?,Italian,Hard,Question
+ti va di?,do you feel like?,Italian,Hard,Question
+che cosa c'è?,what's wrong?,Italian,Medium,Question
+tutto bene?,everything okay?,Italian,Medium,Question
+come va?,how's it going?,Italian,Medium,Question
+che novità?,what's new?,Italian,Medium,Question
+che si dice?,what's the word?,Italian,Medium,Question
+dove sono nato?,where was I born?,Italian,Medium,Question
+hai capito?,did you understand?,Italian,Medium,Question
+sei sicuro?,are you sure?,Italian,Medium,Question 

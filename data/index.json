@@ -1,0 +1,59 @@
+{
+  "description": "Italian Flashcards split by Part of Speech",
+  "total_flashcards": 705,
+  "created_date": "2025-07-28T16:20:38.006Z",
+  "files": {
+    "Article": {
+      "filename": "article.json",
+      "count": 39
+    },
+    "Preposition": {
+      "filename": "preposition.json",
+      "count": 56
+    },
+    "Conjunction": {
+      "filename": "conjunction.json",
+      "count": 46
+    },
+    "Verb": {
+      "filename": "verb.json",
+      "count": 134
+    },
+    "Pronoun": {
+      "filename": "pronoun.json",
+      "count": 52
+    },
+    "Adverb": {
+      "filename": "adverb.json",
+      "count": 79
+    },
+    "Noun": {
+      "filename": "noun.json",
+      "count": 59
+    },
+    "Adjective": {
+      "filename": "adjective.json",
+      "count": 49
+    },
+    "Number": {
+      "filename": "number.json",
+      "count": 50
+    },
+    "Greeting": {
+      "filename": "greeting.json",
+      "count": 33
+    },
+    "Expression": {
+      "filename": "expression.json",
+      "count": 32
+    },
+    "Question": {
+      "filename": "question.json",
+      "count": 36
+    },
+    "Interjection": {
+      "filename": "interjection.json",
+      "count": 40
+    }
+  }
+}

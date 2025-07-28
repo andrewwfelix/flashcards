@@ -1,0 +1,712 @@
+{
+  "part_of_speech": "Expression",
+  "count": 32,
+  "flashcards": [
+    {
+      "id": 593,
+      "word": "grazie",
+      "translations": [
+        "thank you"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"grazie\"",
+          "english": "This is a sentence with \"thank you\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"grazie\" è importante",
+          "english": "\"thank you\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "word": "prego",
+      "translations": [
+        "you're welcome"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"prego\"",
+          "english": "This is a sentence with \"you're welcome\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"prego\" è importante",
+          "english": "\"you're welcome\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "word": "scusi",
+      "translations": [
+        "excuse me (formal)"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"scusi\"",
+          "english": "This is a sentence with \"excuse me (formal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"scusi\" è importante",
+          "english": "\"excuse me (formal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 596,
+      "word": "scusa",
+      "translations": [
+        "excuse me (informal)"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"scusa\"",
+          "english": "This is a sentence with \"excuse me (informal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"scusa\" è importante",
+          "english": "\"excuse me (informal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "word": "mi dispiace",
+      "translations": [
+        "I'm sorry"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mi dispiace\"",
+          "english": "This is a sentence with \"I'm sorry\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mi dispiace\" è importante",
+          "english": "\"I'm sorry\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "word": "per favore",
+      "translations": [
+        "please"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"per favore\"",
+          "english": "This is a sentence with \"please\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"per favore\" è importante",
+          "english": "\"please\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "word": "per piacere",
+      "translations": [
+        "please"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"per piacere\"",
+          "english": "This is a sentence with \"please\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"per piacere\" è importante",
+          "english": "\"please\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "word": "mi scusi",
+      "translations": [
+        "excuse me"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mi scusi\"",
+          "english": "This is a sentence with \"excuse me\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mi scusi\" è importante",
+          "english": "\"excuse me\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "word": "non c'è di che",
+      "translations": [
+        "don't mention it"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"non c'è di che\"",
+          "english": "This is a sentence with \"don't mention it\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"non c'è di che\" è importante",
+          "english": "\"don't mention it\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "word": "figurati",
+      "translations": [
+        "don't mention it (informal)"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"figurati\"",
+          "english": "This is a sentence with \"don't mention it (informal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"figurati\" è importante",
+          "english": "\"don't mention it (informal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "word": "si figuri",
+      "translations": [
+        "don't mention it (formal)"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"si figuri\"",
+          "english": "This is a sentence with \"don't mention it (formal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"si figuri\" è importante",
+          "english": "\"don't mention it (formal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "word": "di niente",
+      "translations": [
+        "you're welcome"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"di niente\"",
+          "english": "This is a sentence with \"you're welcome\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"di niente\" è importante",
+          "english": "\"you're welcome\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "word": "con piacere",
+      "translations": [
+        "with pleasure"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"con piacere\"",
+          "english": "This is a sentence with \"with pleasure\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"con piacere\" è importante",
+          "english": "\"with pleasure\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "word": "volentieri",
+      "translations": [
+        "gladly"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"volentieri\"",
+          "english": "This is a sentence with \"gladly\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"volentieri\" è importante",
+          "english": "\"gladly\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "word": "naturalmente",
+      "translations": [
+        "naturally"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"naturalmente\"",
+          "english": "This is a sentence with \"naturally\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"naturalmente\" è importante",
+          "english": "\"naturally\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "word": "certamente",
+      "translations": [
+        "certainly"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"certamente\"",
+          "english": "This is a sentence with \"certainly\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"certamente\" è importante",
+          "english": "\"certainly\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "word": "d'accordo",
+      "translations": [
+        "agreed"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"d'accordo\"",
+          "english": "This is a sentence with \"agreed\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"d'accordo\" è importante",
+          "english": "\"agreed\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "word": "va bene",
+      "translations": [
+        "okay",
+        "alright"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"va bene\"",
+          "english": "This is a sentence with \"okay\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"va bene\" è importante",
+          "english": "\"okay\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "word": "perfetto",
+      "translations": [
+        "perfect"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"perfetto\"",
+          "english": "This is a sentence with \"perfect\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"perfetto\" è importante",
+          "english": "\"perfect\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 612,
+      "word": "esatto",
+      "translations": [
+        "exactly"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"esatto\"",
+          "english": "This is a sentence with \"exactly\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"esatto\" è importante",
+          "english": "\"exactly\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "word": "proprio così",
+      "translations": [
+        "exactly so"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"proprio così\"",
+          "english": "This is a sentence with \"exactly so\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"proprio così\" è importante",
+          "english": "\"exactly so\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 614,
+      "word": "hai ragione",
+      "translations": [
+        "you're right"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"hai ragione\"",
+          "english": "This is a sentence with \"you're right\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"hai ragione\" è importante",
+          "english": "\"you're right\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 615,
+      "word": "non importa",
+      "translations": [
+        "it doesn't matter"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"non importa\"",
+          "english": "This is a sentence with \"it doesn't matter\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"non importa\" è importante",
+          "english": "\"it doesn't matter\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "word": "pazienza",
+      "translations": [
+        "patience"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"pazienza\"",
+          "english": "This is a sentence with \"patience\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"pazienza\" è importante",
+          "english": "\"patience\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "word": "che peccato",
+      "translations": [
+        "what a pity"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che peccato\"",
+          "english": "This is a sentence with \"what a pity\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che peccato\" è importante",
+          "english": "\"what a pity\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 618,
+      "word": "meno male",
+      "translations": [
+        "thank goodness"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"meno male\"",
+          "english": "This is a sentence with \"thank goodness\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"meno male\" è importante",
+          "english": "\"thank goodness\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "word": "per fortuna",
+      "translations": [
+        "luckily"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"per fortuna\"",
+          "english": "This is a sentence with \"luckily\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"per fortuna\" è importante",
+          "english": "\"luckily\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "word": "magari",
+      "translations": [
+        "if only",
+        "maybe"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"magari\"",
+          "english": "This is a sentence with \"if only\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"magari\" è importante",
+          "english": "\"if only\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "word": "chissà",
+      "translations": [
+        "who knows"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"chissà\"",
+          "english": "This is a sentence with \"who knows\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"chissà\" è importante",
+          "english": "\"who knows\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "word": "macché",
+      "translations": [
+        "not at all"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"macché\"",
+          "english": "This is a sentence with \"not at all\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"macché\" è importante",
+          "english": "\"not at all\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "word": "figuriamoci",
+      "translations": [
+        "no way"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"figuriamoci\"",
+          "english": "This is a sentence with \"no way\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"figuriamoci\" è importante",
+          "english": "\"no way\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 624,
+      "word": "neanche per sogno",
+      "translations": [
+        "not even in dreams"
+      ],
+      "part_of_speech": "Expression",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"neanche per sogno\"",
+          "english": "This is a sentence with \"not even in dreams\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"neanche per sogno\" è importante",
+          "english": "\"not even in dreams\" is important",
+          "context": "general statement"
+        }
+      ]
+    }
+  ]
+}

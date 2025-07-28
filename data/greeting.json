@@ -1,0 +1,739 @@
+{
+  "part_of_speech": "Greeting",
+  "count": 33,
+  "flashcards": [
+    {
+      "id": 560,
+      "word": "ciao",
+      "translations": [
+        "hello",
+        "goodbye"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ciao\"",
+          "english": "This is a sentence with \"hello\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ciao\" è importante",
+          "english": "\"hello\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "word": "buongiorno",
+      "translations": [
+        "good morning"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buongiorno\"",
+          "english": "This is a sentence with \"good morning\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buongiorno\" è importante",
+          "english": "\"good morning\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "word": "buonasera",
+      "translations": [
+        "good evening"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buonasera\"",
+          "english": "This is a sentence with \"good evening\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buonasera\" è importante",
+          "english": "\"good evening\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "word": "buonanotte",
+      "translations": [
+        "good night"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buonanotte\"",
+          "english": "This is a sentence with \"good night\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buonanotte\" è importante",
+          "english": "\"good night\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "word": "salve",
+      "translations": [
+        "hello"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"salve\"",
+          "english": "This is a sentence with \"hello\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"salve\" è importante",
+          "english": "\"hello\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "word": "arrivederci",
+      "translations": [
+        "goodbye"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"arrivederci\"",
+          "english": "This is a sentence with \"goodbye\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"arrivederci\" è importante",
+          "english": "\"goodbye\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "word": "arrivederla",
+      "translations": [
+        "goodbye (formal)"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"arrivederla\"",
+          "english": "This is a sentence with \"goodbye (formal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"arrivederla\" è importante",
+          "english": "\"goodbye (formal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "word": "ci vediamo",
+      "translations": [
+        "see you"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ci vediamo\"",
+          "english": "This is a sentence with \"see you\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ci vediamo\" è importante",
+          "english": "\"see you\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "word": "a presto",
+      "translations": [
+        "see you soon"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"a presto\"",
+          "english": "This is a sentence with \"see you soon\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"a presto\" è importante",
+          "english": "\"see you soon\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "word": "a dopo",
+      "translations": [
+        "see you later"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"a dopo\"",
+          "english": "This is a sentence with \"see you later\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"a dopo\" è importante",
+          "english": "\"see you later\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "word": "a domani",
+      "translations": [
+        "see you tomorrow"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"a domani\"",
+          "english": "This is a sentence with \"see you tomorrow\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"a domani\" è importante",
+          "english": "\"see you tomorrow\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "word": "buona giornata",
+      "translations": [
+        "have a good day"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buona giornata\"",
+          "english": "This is a sentence with \"have a good day\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buona giornata\" è importante",
+          "english": "\"have a good day\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "word": "buona serata",
+      "translations": [
+        "have a good evening"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buona serata\"",
+          "english": "This is a sentence with \"have a good evening\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buona serata\" è importante",
+          "english": "\"have a good evening\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "word": "buon viaggio",
+      "translations": [
+        "have a good trip"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buon viaggio\"",
+          "english": "This is a sentence with \"have a good trip\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buon viaggio\" è importante",
+          "english": "\"have a good trip\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "word": "buon appetito",
+      "translations": [
+        "enjoy your meal"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buon appetito\"",
+          "english": "This is a sentence with \"enjoy your meal\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buon appetito\" è importante",
+          "english": "\"enjoy your meal\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "word": "auguri",
+      "translations": [
+        "best wishes"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"auguri\"",
+          "english": "This is a sentence with \"best wishes\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"auguri\" è importante",
+          "english": "\"best wishes\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "word": "complimenti",
+      "translations": [
+        "congratulations"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"complimenti\"",
+          "english": "This is a sentence with \"congratulations\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"complimenti\" è importante",
+          "english": "\"congratulations\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "word": "benvenuto",
+      "translations": [
+        "welcome"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"benvenuto\"",
+          "english": "This is a sentence with \"welcome\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"benvenuto\" è importante",
+          "english": "\"welcome\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "word": "bentornato",
+      "translations": [
+        "welcome back"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"bentornato\"",
+          "english": "This is a sentence with \"welcome back\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"bentornato\" è importante",
+          "english": "\"welcome back\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "word": "piacere",
+      "translations": [
+        "pleased to meet you"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"piacere\"",
+          "english": "This is a sentence with \"pleased to meet you\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"piacere\" è importante",
+          "english": "\"pleased to meet you\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "word": "molto piacere",
+      "translations": [
+        "very pleased to meet you"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"molto piacere\"",
+          "english": "This is a sentence with \"very pleased to meet you\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"molto piacere\" è importante",
+          "english": "\"very pleased to meet you\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "word": "felice anno nuovo",
+      "translations": [
+        "happy new year"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"felice anno nuovo\"",
+          "english": "This is a sentence with \"happy new year\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"felice anno nuovo\" è importante",
+          "english": "\"happy new year\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "word": "buon compleanno",
+      "translations": [
+        "happy birthday"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buon compleanno\"",
+          "english": "This is a sentence with \"happy birthday\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buon compleanno\" è importante",
+          "english": "\"happy birthday\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "word": "buona fortuna",
+      "translations": [
+        "good luck"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"buona fortuna\"",
+          "english": "This is a sentence with \"good luck\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"buona fortuna\" è importante",
+          "english": "\"good luck\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "word": "in bocca al lupo",
+      "translations": [
+        "good luck"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"in bocca al lupo\"",
+          "english": "This is a sentence with \"good luck\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"in bocca al lupo\" è importante",
+          "english": "\"good luck\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "word": "crepi il lupo",
+      "translations": [
+        "thank you (response)"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"crepi il lupo\"",
+          "english": "This is a sentence with \"thank you (response)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"crepi il lupo\" è importante",
+          "english": "\"thank you (response)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "word": "pace e bene",
+      "translations": [
+        "peace and good"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"pace e bene\"",
+          "english": "This is a sentence with \"peace and good\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"pace e bene\" è importante",
+          "english": "\"peace and good\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 587,
+      "word": "dio ti benedica",
+      "translations": [
+        "god bless you"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dio ti benedica\"",
+          "english": "This is a sentence with \"god bless you\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dio ti benedica\" è importante",
+          "english": "\"god bless you\" is important",
+          "context": "general statement"
+        }
+      ],
+      "etymology": {
+        "origin": "Greek/Latin",
+        "source": "dio ti benedica",
+        "meaning": "relating to",
+        "notes": "From Greek/Latin -icus suffix, meaning \"relating to\" or \"characteristic of\". Cognate with English -ic."
+      }
+    },
+    {
+      "id": 588,
+      "word": "vai in pace",
+      "translations": [
+        "go in peace"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"vai in pace\"",
+          "english": "This is a sentence with \"go in peace\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"vai in pace\" è importante",
+          "english": "\"go in peace\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 589,
+      "word": "saluti",
+      "translations": [
+        "greetings"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"saluti\"",
+          "english": "This is a sentence with \"greetings\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"saluti\" è importante",
+          "english": "\"greetings\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "word": "tanti saluti",
+      "translations": [
+        "many greetings"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"tanti saluti\"",
+          "english": "This is a sentence with \"many greetings\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"tanti saluti\" è importante",
+          "english": "\"many greetings\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "word": "cordiali saluti",
+      "translations": [
+        "kind regards"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"cordiali saluti\"",
+          "english": "This is a sentence with \"kind regards\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"cordiali saluti\" è importante",
+          "english": "\"kind regards\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "word": "distinti saluti",
+      "translations": [
+        "distinguished regards"
+      ],
+      "part_of_speech": "Greeting",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"distinti saluti\"",
+          "english": "This is a sentence with \"distinguished regards\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"distinti saluti\" è importante",
+          "english": "\"distinguished regards\" is important",
+          "context": "general statement"
+        }
+      ]
+    }
+  ]
+}

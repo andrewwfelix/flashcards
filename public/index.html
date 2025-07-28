@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1><i class="fas fa-brain"></i> Flashcard App</h1>
+            <nav class="nav">
+                <button class="nav-btn active" data-view="browse">Browse</button>
+                <button class="nav-btn" data-view="study">Study Mode</button>
+                <button class="nav-btn" data-view="create">Create New</button>
+            </nav>
+        </header>
+
+        <main class="main-content">
+            <!-- Browse View -->
+            <div id="browse-view" class="view active">
+                <div class="controls">
+                    <div class="search-box">
+                        <input type="text" id="search-input" placeholder="Search flashcards...">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <select id="category-filter" title="Filter by Part of Speech">
+                        <option value="">All Parts of Speech</option>
+                        <option value="Noun">Noun</option>
+                        <option value="Verb">Verb</option>
+                        <option value="Adjective">Adjective</option>
+                        <option value="Adverb">Adverb</option>
+                        <option value="Pronoun">Pronoun</option>
+                        <option value="Preposition">Preposition</option>
+                        <option value="Conjunction">Conjunction</option>
+                        <option value="Interjection">Interjection</option>
+                        <option value="Greeting">Greeting</option>
+                        <option value="Expression">Expression</option>
+                        <option value="Question">Question</option>
+                        <option value="Concept">Concept</option>
+                        <option value="General">General</option>
+                    </select>
+                </div>
+                <div id="flashcards-grid" class="flashcards-grid"></div>
+            </div>
+
+            <!-- Study View -->
+                    <div id="study-view" class="view">
+            <div class="study-container">
+                <!-- Left Sidebar with Controls -->
+                <div class="study-controls-sidebar">
+                    <div class="study-info">
+                        <div>
+                            <strong id="study-progress">0 / 0</strong>
+                            <div id="study-category">All Categories</div>
+                        </div>
+                    </div>
+                    
+                    <div class="study-filters">
+                        <label for="study-part-of-speech-filter">Filter by Part of Speech:</label>
+                        <select id="study-part-of-speech-filter" class="filter-select">
+                            <option value="">All Parts of Speech</option>
+                            <option value="Article">Article</option>
+                            <option value="Noun">Noun</option>
+                            <option value="Verb">Verb</option>
+                            <option value="Adjective">Adjective</option>
+                            <option value="Adverb">Adverb</option>
+                            <option value="Pronoun">Pronoun</option>
+                            <option value="Preposition">Preposition</option>
+                            <option value="Conjunction">Conjunction</option>
+                            <option value="Number">Number</option>
+                            <option value="Greeting">Greeting</option>
+                            <option value="Expression">Expression</option>
+                            <option value="Question">Question</option>
+                            <option value="Interjection">Interjection</option>
+                        </select>
+                    </div>
+                    
+                    <div class="study-controls">
+                        <button id="start-study" class="btn btn-primary">Start Study</button>
+                        <button id="flip-card" class="btn btn-secondary hidden">Flip Card</button>
+                        
+                        <div class="navigation-buttons hidden">
+                            <button id="prev-card" class="btn btn-secondary">← Previous</button>
+                            <button id="next-card" class="btn btn-primary">Next →</button>
+                        </div>
+                        
+                        <div class="action-buttons hidden">
+                            <button id="mark-known" class="btn btn-success">✓ Mark as Known</button>
+                            <button id="keep-studying" class="btn btn-secondary">Keep Studying</button>
+                        </div>
+                        
+                        <div class="difficulty-buttons hidden">
+                            <button class="btn btn-easy" data-difficulty="easy">Easy</button>
+                            <button class="btn btn-medium" data-difficulty="medium">Medium</button>
+                            <button class="btn btn-hard" data-difficulty="hard">Hard</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Main Card Area -->
+                <div class="study-content">
+                    <div class="flashcard-study">
+                        <div class="flashcard-card" id="study-card">
+                            <div class="card-content">
+                                <div class="question-side">
+                                    <p id="study-question" class="word-display">Click "Start Study" to begin</p>
+                                </div>
+                            </div>
+                            <div class="card-back">
+                                <div class="answer-side">
+                                    <p id="study-answer-back" class="translation-display"></p>
+                                    
+                                    <!-- Examples Section -->
+                                    <div id="examples-section" class="card-section">
+                                        <h4>📚 Examples</h4>
+                                        <div id="examples-list"></div>
+                                    </div>
+                                    
+                                    <!-- Cognates Section -->
+                                    <div id="cognates-section" class="card-section">
+                                        <h4>🔗 English Cognates</h4>
+                                        <div id="cognates-list"></div>
+                                    </div>
+                                    
+                                    <!-- Conjugations Section -->
+                                    <div id="conjugations-section" class="card-section">
+                                        <h4>📝 Conjugations</h4>
+                                        <div id="conjugations-list"></div>
+                                    </div>
+                                    
+                                    <!-- Etymology Section -->
+                                    <div id="etymology-section" class="card-section">
+                                        <h4>📜 Etymology</h4>
+                                        <div id="etymology-content"></div>
+                                    </div>
+                                    
+                                    <!-- Related English Words Section -->
+                                    <div id="related-words-section" class="card-section">
+                                        <h4>🌐 Related English Words</h4>
+                                        <div id="related-words-list"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <!-- Create View -->
+            <div id="create-view" class="view">
+                <div class="create-form">
+                    <h2>Create New Flashcard</h2>
+                    <form id="create-flashcard-form">
+                        <div class="form-group">
+                            <label for="question">Question</label>
+                            <textarea id="question" name="question" required placeholder="Enter your question here..."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="answer">Answer</label>
+                            <textarea id="answer" name="answer" required placeholder="Enter the answer here..."></textarea>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="category">Category</label>
+                                <select id="category" name="category">
+                                    <option value="Italian">Italian</option>
+                                    <option value="Programming">Programming</option>
+                                    <option value="Geography">Geography</option>
+                                    <option value="History">History</option>
+                                    <option value="Science">Science</option>
+                                    <option value="General">General</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="difficulty">Difficulty</label>
+                                <select id="difficulty" name="difficulty">
+                                    <option value="Easy">Easy</option>
+                                    <option value="Medium" selected>Medium</option>
+                                    <option value="Hard">Hard</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="part_of_speech">Part of Speech</label>
+                            <select id="part_of_speech" name="part_of_speech">
+                                <option value="Noun">Noun</option>
+                                <option value="Verb">Verb</option>
+                                <option value="Adjective">Adjective</option>
+                                <option value="Adverb">Adverb</option>
+                                <option value="Pronoun">Pronoun</option>
+                                <option value="Preposition">Preposition</option>
+                                <option value="Conjunction">Conjunction</option>
+                                <option value="Interjection">Interjection</option>
+                                <option value="Greeting">Greeting</option>
+                                <option value="Expression">Expression</option>
+                                <option value="Question">Question</option>
+                                <option value="Concept">Concept</option>
+                                <option value="General">General</option>
+                            </select>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn btn-primary">Create Flashcard</button>
+                            <button type="button" class="btn btn-secondary" id="clear-form">Clear Form</button>
+                        </div>
+                    </form>
+                </div>
+            <!-- Import View -->
+            <div id="import-view" class="view">
+                <div class="import-form">
+                    <h2>Import Flashcards from CSV</h2>
+                    <div class="import-info">
+                        <h3>CSV Format</h3>
+                        <p>Your CSV file should have the following columns:</p>
+                        <ul>
+                            <li><strong>question</strong> - The question/word in the target language</li>
+                            <li><strong>answer</strong> - The answer/translation</li>
+                            <li><strong>category</strong> - Category (e.g., "Italian")</li>
+                            <li><strong>difficulty</strong> - Easy, Medium, or Hard</li>
+                            <li><strong>part_of_speech</strong> - Noun, Verb, Adjective, etc.</li>
+                        </ul>
+                        <div class="download-sample">
+                            <a href="sample_italian_flashcards.csv" download class="btn btn-secondary">
+                                <i class="fas fa-download"></i> Download Sample CSV
+                            </a>
+                        </div>
+                    </div>
+                    <form id="import-form">
+                        <div class="form-group">
+                            <label for="csv-content">Paste CSV Content</label>
+                            <textarea id="csv-content" name="csvContent" required placeholder="Paste your CSV content here...&#10;Format: question,answer,category,difficulty,part_of_speech&#10;Example:&#10;casa,house,Italian,Easy,Noun&#10;acqua,water,Italian,Easy,Noun" rows="10"></textarea>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-upload"></i> Import Flashcards
+                            </button>
+                            <button type="button" class="btn btn-secondary" id="load-sample">
+                                <i class="fas fa-download"></i> Load Sample Italian Words
+                            </button>
+                        </div>
+                    </form>
+                    <div id="import-results" class="import-results hidden"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Edit Modal -->
+    <div id="edit-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Edit Flashcard</h2>
+            <form id="edit-flashcard-form">
+                <input type="hidden" id="edit-id">
+                <div class="form-group">
+                    <label for="edit-question">Question</label>
+                    <textarea id="edit-question" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="edit-answer">Answer</label>
+                    <textarea id="edit-answer" required></textarea>
+                </div>
+                                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="edit-category">Category</label>
+                            <select id="edit-category">
+                                <option value="Italian">Italian</option>
+                                <option value="Programming">Programming</option>
+                                <option value="Geography">Geography</option>
+                                <option value="History">History</option>
+                                <option value="Science">Science</option>
+                                <option value="General">General</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="edit-difficulty">Difficulty</label>
+                            <select id="edit-difficulty">
+                                <option value="Easy">Easy</option>
+                                <option value="Medium">Medium</option>
+                                <option value="Hard">Hard</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="edit-part-of-speech">Part of Speech</label>
+                        <select id="edit-part-of-speech">
+                            <option value="Noun">Noun</option>
+                            <option value="Verb">Verb</option>
+                            <option value="Adjective">Adjective</option>
+                            <option value="Adverb">Adverb</option>
+                            <option value="Pronoun">Pronoun</option>
+                            <option value="Preposition">Preposition</option>
+                            <option value="Conjunction">Conjunction</option>
+                            <option value="Interjection">Interjection</option>
+                            <option value="Greeting">Greeting</option>
+                            <option value="Expression">Expression</option>
+                            <option value="Question">Question</option>
+                            <option value="Concept">Concept</option>
+                            <option value="General">General</option>
+                        </select>
+                    </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                    <button type="button" class="btn btn-secondary" id="cancel-edit">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

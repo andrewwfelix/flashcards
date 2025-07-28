@@ -1,0 +1,798 @@
+{
+  "part_of_speech": "Question",
+  "count": 36,
+  "flashcards": [
+    {
+      "id": 625,
+      "word": "come stai?",
+      "translations": [
+        "how are you? (informal)"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"come stai?\"",
+          "english": "This is a sentence with \"how are you? (informal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"come stai?\" è importante",
+          "english": "\"how are you? (informal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 626,
+      "word": "come sta?",
+      "translations": [
+        "how are you? (formal)"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"come sta?\"",
+          "english": "This is a sentence with \"how are you? (formal)\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"come sta?\" è importante",
+          "english": "\"how are you? (formal)\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 627,
+      "word": "che cosa fai?",
+      "translations": [
+        "what are you doing?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che cosa fai?\"",
+          "english": "This is a sentence with \"what are you doing?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che cosa fai?\" è importante",
+          "english": "\"what are you doing?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 628,
+      "word": "dove vai?",
+      "translations": [
+        "where are you going?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dove vai?\"",
+          "english": "This is a sentence with \"where are you going?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dove vai?\" è importante",
+          "english": "\"where are you going?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 629,
+      "word": "quando parti?",
+      "translations": [
+        "when are you leaving?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quando parti?\"",
+          "english": "This is a sentence with \"when are you leaving?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quando parti?\" è importante",
+          "english": "\"when are you leaving?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 630,
+      "word": "quanto costa?",
+      "translations": [
+        "how much does it cost?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quanto costa?\"",
+          "english": "This is a sentence with \"how much does it cost?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quanto costa?\" è importante",
+          "english": "\"how much does it cost?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 631,
+      "word": "che ore sono?",
+      "translations": [
+        "what time is it?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che ore sono?\"",
+          "english": "This is a sentence with \"what time is it?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che ore sono?\" è importante",
+          "english": "\"what time is it?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 632,
+      "word": "di dove sei?",
+      "translations": [
+        "where are you from?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"di dove sei?\"",
+          "english": "This is a sentence with \"where are you from?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"di dove sei?\" è importante",
+          "english": "\"where are you from?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 633,
+      "word": "quanti anni hai?",
+      "translations": [
+        "how old are you?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quanti anni hai?\"",
+          "english": "This is a sentence with \"how old are you?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quanti anni hai?\" è importante",
+          "english": "\"how old are you?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 634,
+      "word": "come ti chiami?",
+      "translations": [
+        "what's your name?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"come ti chiami?\"",
+          "english": "This is a sentence with \"what's your name?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"come ti chiami?\" è importante",
+          "english": "\"what's your name?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 635,
+      "word": "parli inglese?",
+      "translations": [
+        "do you speak English?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"parli inglese?\"",
+          "english": "This is a sentence with \"do you speak English?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"parli inglese?\" è importante",
+          "english": "\"do you speak English?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 636,
+      "word": "puoi aiutarmi?",
+      "translations": [
+        "can you help me?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"puoi aiutarmi?\"",
+          "english": "This is a sentence with \"can you help me?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"puoi aiutarmi?\" è importante",
+          "english": "\"can you help me?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 637,
+      "word": "dove si trova?",
+      "translations": [
+        "where is it located?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dove si trova?\"",
+          "english": "This is a sentence with \"where is it located?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dove si trova?\" è importante",
+          "english": "\"where is it located?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 638,
+      "word": "quanto tempo ci vuole?",
+      "translations": [
+        "how long does it take?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"quanto tempo ci vuole?\"",
+          "english": "This is a sentence with \"how long does it take?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"quanto tempo ci vuole?\" è importante",
+          "english": "\"how long does it take?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 639,
+      "word": "che cosa significa?",
+      "translations": [
+        "what does it mean?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che cosa significa?\"",
+          "english": "This is a sentence with \"what does it mean?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che cosa significa?\" è importante",
+          "english": "\"what does it mean?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 640,
+      "word": "potresti ripetere?",
+      "translations": [
+        "could you repeat?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"potresti ripetere?\"",
+          "english": "This is a sentence with \"could you repeat?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"potresti ripetere?\" è importante",
+          "english": "\"could you repeat?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 641,
+      "word": "come si dice?",
+      "translations": [
+        "how do you say?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"come si dice?\"",
+          "english": "This is a sentence with \"how do you say?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"come si dice?\" è importante",
+          "english": "\"how do you say?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 642,
+      "word": "che tempo fa?",
+      "translations": [
+        "what's the weather like?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che tempo fa?\"",
+          "english": "This is a sentence with \"what's the weather like?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che tempo fa?\" è importante",
+          "english": "\"what's the weather like?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 643,
+      "word": "a che ora?",
+      "translations": [
+        "at what time?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"a che ora?\"",
+          "english": "This is a sentence with \"at what time?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"a che ora?\" è importante",
+          "english": "\"at what time?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 644,
+      "word": "perché no?",
+      "translations": [
+        "why not?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"perché no?\"",
+          "english": "This is a sentence with \"why not?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"perché no?\" è importante",
+          "english": "\"why not?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 645,
+      "word": "che ne pensi?",
+      "translations": [
+        "what do you think?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che ne pensi?\"",
+          "english": "This is a sentence with \"what do you think?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che ne pensi?\" è importante",
+          "english": "\"what do you think?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 646,
+      "word": "ti va di?",
+      "translations": [
+        "do you feel like?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ti va di?\"",
+          "english": "This is a sentence with \"do you feel like?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ti va di?\" è importante",
+          "english": "\"do you feel like?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 647,
+      "word": "che cosa c'è?",
+      "translations": [
+        "what's wrong?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che cosa c'è?\"",
+          "english": "This is a sentence with \"what's wrong?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che cosa c'è?\" è importante",
+          "english": "\"what's wrong?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "word": "tutto bene?",
+      "translations": [
+        "everything okay?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"tutto bene?\"",
+          "english": "This is a sentence with \"everything okay?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"tutto bene?\" è importante",
+          "english": "\"everything okay?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 649,
+      "word": "come va?",
+      "translations": [
+        "how's it going?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"come va?\"",
+          "english": "This is a sentence with \"how's it going?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"come va?\" è importante",
+          "english": "\"how's it going?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 650,
+      "word": "che novità?",
+      "translations": [
+        "what's new?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che novità?\"",
+          "english": "This is a sentence with \"what's new?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che novità?\" è importante",
+          "english": "\"what's new?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 651,
+      "word": "che si dice?",
+      "translations": [
+        "what's the word?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"che si dice?\"",
+          "english": "This is a sentence with \"what's the word?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"che si dice?\" è importante",
+          "english": "\"what's the word?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 652,
+      "word": "hai capito?",
+      "translations": [
+        "did you understand?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"hai capito?\"",
+          "english": "This is a sentence with \"did you understand?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"hai capito?\" è importante",
+          "english": "\"did you understand?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 653,
+      "word": "sei sicuro?",
+      "translations": [
+        "are you sure?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"sei sicuro?\"",
+          "english": "This is a sentence with \"are you sure?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"sei sicuro?\" è importante",
+          "english": "\"are you sure?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 654,
+      "word": "mi senti?",
+      "translations": [
+        "can you hear me?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mi senti?\"",
+          "english": "This is a sentence with \"can you hear me?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mi senti?\" è importante",
+          "english": "\"can you hear me?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 655,
+      "word": "mi vedi?",
+      "translations": [
+        "can you see me?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mi vedi?\"",
+          "english": "This is a sentence with \"can you see me?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mi vedi?\" è importante",
+          "english": "\"can you see me?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 656,
+      "word": "ti piace?",
+      "translations": [
+        "do you like it?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ti piace?\"",
+          "english": "This is a sentence with \"do you like it?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ti piace?\" è importante",
+          "english": "\"do you like it?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 657,
+      "word": "ti dispiace?",
+      "translations": [
+        "do you mind?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ti dispiace?\"",
+          "english": "This is a sentence with \"do you mind?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ti dispiace?\" è importante",
+          "english": "\"do you mind?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "word": "posso?",
+      "translations": [
+        "may I?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"posso?\"",
+          "english": "This is a sentence with \"may I?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"posso?\" è importante",
+          "english": "\"may I?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "word": "devo?",
+      "translations": [
+        "must I?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"devo?\"",
+          "english": "This is a sentence with \"must I?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"devo?\" è importante",
+          "english": "\"must I?\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "word": "voglio?",
+      "translations": [
+        "do I want?"
+      ],
+      "part_of_speech": "Question",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"voglio?\"",
+          "english": "This is a sentence with \"do I want?\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"voglio?\" è importante",
+          "english": "\"do I want?\" is important",
+          "context": "general statement"
+        }
+      ]
+    }
+  ]
+}

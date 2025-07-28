@@ -1,0 +1,887 @@
+{
+  "part_of_speech": "Interjection",
+  "count": 40,
+  "flashcards": [
+    {
+      "id": 661,
+      "word": "ah!",
+      "translations": [
+        "ah!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ah!\"",
+          "english": "This is a sentence with \"ah!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ah!\" è importante",
+          "english": "\"ah!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "word": "oh!",
+      "translations": [
+        "oh!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"oh!\"",
+          "english": "This is a sentence with \"oh!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"oh!\" è importante",
+          "english": "\"oh!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "word": "eh!",
+      "translations": [
+        "eh!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"eh!\"",
+          "english": "This is a sentence with \"eh!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"eh!\" è importante",
+          "english": "\"eh!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 664,
+      "word": "ahi!",
+      "translations": [
+        "ouch!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ahi!\"",
+          "english": "This is a sentence with \"ouch!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ahi!\" è importante",
+          "english": "\"ouch!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "word": "boh!",
+      "translations": [
+        "dunno!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"boh!\"",
+          "english": "This is a sentence with \"dunno!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"boh!\" è importante",
+          "english": "\"dunno!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "word": "eh sì!",
+      "translations": [
+        "oh yes!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"eh sì!\"",
+          "english": "This is a sentence with \"oh yes!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"eh sì!\" è importante",
+          "english": "\"oh yes!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "word": "eh no!",
+      "translations": [
+        "oh no!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"eh no!\"",
+          "english": "This is a sentence with \"oh no!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"eh no!\" è importante",
+          "english": "\"oh no!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 668,
+      "word": "mamma mia!",
+      "translations": [
+        "oh my!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"mamma mia!\"",
+          "english": "This is a sentence with \"oh my!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"mamma mia!\" è importante",
+          "english": "\"oh my!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 669,
+      "word": "basta!",
+      "translations": [
+        "enough!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"basta!\"",
+          "english": "This is a sentence with \"enough!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"basta!\" è importante",
+          "english": "\"enough!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 670,
+      "word": "bravo!",
+      "translations": [
+        "well done!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"bravo!\"",
+          "english": "This is a sentence with \"well done!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"bravo!\" è importante",
+          "english": "\"well done!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "word": "dai!",
+      "translations": [
+        "come on!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"dai!\"",
+          "english": "This is a sentence with \"come on!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"dai!\" è importante",
+          "english": "\"come on!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "word": "forza!",
+      "translations": [
+        "come on!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"forza!\"",
+          "english": "This is a sentence with \"come on!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"forza!\" è importante",
+          "english": "\"come on!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 673,
+      "word": "zitto!",
+      "translations": [
+        "quiet!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"zitto!\"",
+          "english": "This is a sentence with \"quiet!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"zitto!\" è importante",
+          "english": "\"quiet!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 674,
+      "word": "attento!",
+      "translations": [
+        "careful!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"attento!\"",
+          "english": "This is a sentence with \"careful!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"attento!\" è importante",
+          "english": "\"careful!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "word": "aiuto!",
+      "translations": [
+        "help!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"aiuto!\"",
+          "english": "This is a sentence with \"help!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"aiuto!\" è importante",
+          "english": "\"help!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "word": "scusa!",
+      "translations": [
+        "sorry!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"scusa!\"",
+          "english": "This is a sentence with \"sorry!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"scusa!\" è importante",
+          "english": "\"sorry!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 677,
+      "word": "ecco!",
+      "translations": [
+        "here!",
+        "there!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"ecco!\"",
+          "english": "This is a sentence with \"here!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"ecco!\" è importante",
+          "english": "\"here!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "word": "perfetto!",
+      "translations": [
+        "perfect!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"perfetto!\"",
+          "english": "This is a sentence with \"perfect!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"perfetto!\" è importante",
+          "english": "\"perfect!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "word": "incredibile!",
+      "translations": [
+        "incredible!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"incredibile!\"",
+          "english": "This is a sentence with \"incredible!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"incredibile!\" è importante",
+          "english": "\"incredible!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "word": "fantastico!",
+      "translations": [
+        "fantastic!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"fantastico!\"",
+          "english": "This is a sentence with \"fantastic!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"fantastico!\" è importante",
+          "english": "\"fantastic!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "word": "meraviglioso!",
+      "translations": [
+        "wonderful!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"meraviglioso!\"",
+          "english": "This is a sentence with \"wonderful!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"meraviglioso!\" è importante",
+          "english": "\"wonderful!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 682,
+      "word": "stupendo!",
+      "translations": [
+        "amazing!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"stupendo!\"",
+          "english": "This is a sentence with \"amazing!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"stupendo!\" è importante",
+          "english": "\"amazing!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "word": "magnifico!",
+      "translations": [
+        "magnificent!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"magnifico!\"",
+          "english": "This is a sentence with \"magnificent!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"magnifico!\" è importante",
+          "english": "\"magnificent!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "word": "eccellente!",
+      "translations": [
+        "excellent!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"eccellente!\"",
+          "english": "This is a sentence with \"excellent!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"eccellente!\" è importante",
+          "english": "\"excellent!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "word": "favoloso!",
+      "translations": [
+        "fabulous!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"favoloso!\"",
+          "english": "This is a sentence with \"fabulous!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"favoloso!\" è importante",
+          "english": "\"fabulous!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "word": "splendido!",
+      "translations": [
+        "splendid!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"splendido!\"",
+          "english": "This is a sentence with \"splendid!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"splendido!\" è importante",
+          "english": "\"splendid!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "word": "bellissimo!",
+      "translations": [
+        "very beautiful!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"bellissimo!\"",
+          "english": "This is a sentence with \"very beautiful!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"bellissimo!\" è importante",
+          "english": "\"very beautiful!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "word": "benissimo!",
+      "translations": [
+        "very well!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"benissimo!\"",
+          "english": "This is a sentence with \"very well!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"benissimo!\" è importante",
+          "english": "\"very well!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "word": "malissimo!",
+      "translations": [
+        "very badly!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"malissimo!\"",
+          "english": "This is a sentence with \"very badly!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"malissimo!\" è importante",
+          "english": "\"very badly!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "word": "peccato!",
+      "translations": [
+        "what a pity!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"peccato!\"",
+          "english": "This is a sentence with \"what a pity!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"peccato!\" è importante",
+          "english": "\"what a pity!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "word": "evviva!",
+      "translations": [
+        "hooray!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"evviva!\"",
+          "english": "This is a sentence with \"hooray!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"evviva!\" è importante",
+          "english": "\"hooray!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "word": "urrà!",
+      "translations": [
+        "hurray!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"urrà!\"",
+          "english": "This is a sentence with \"hurray!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"urrà!\" è importante",
+          "english": "\"hurray!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "word": "accidenti!",
+      "translations": [
+        "darn!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"accidenti!\"",
+          "english": "This is a sentence with \"darn!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"accidenti!\" è importante",
+          "english": "\"darn!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "word": "caspita!",
+      "translations": [
+        "wow!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"caspita!\"",
+          "english": "This is a sentence with \"wow!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"caspita!\" è importante",
+          "english": "\"wow!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "word": "oddio!",
+      "translations": [
+        "oh god!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"oddio!\"",
+          "english": "This is a sentence with \"oh god!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"oddio!\" è importante",
+          "english": "\"oh god!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "word": "madonna!",
+      "translations": [
+        "Madonna!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"madonna!\"",
+          "english": "This is a sentence with \"Madonna!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"madonna!\" è importante",
+          "english": "\"Madonna!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "word": "gesù!",
+      "translations": [
+        "Jesus!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"gesù!\"",
+          "english": "This is a sentence with \"Jesus!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"gesù!\" è importante",
+          "english": "\"Jesus!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "word": "santo cielo!",
+      "translations": [
+        "good heavens!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"santo cielo!\"",
+          "english": "This is a sentence with \"good heavens!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"santo cielo!\" è importante",
+          "english": "\"good heavens!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "word": "per carità!",
+      "translations": [
+        "for goodness sake!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"per carità!\"",
+          "english": "This is a sentence with \"for goodness sake!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"per carità!\" è importante",
+          "english": "\"for goodness sake!\" is important",
+          "context": "general statement"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "word": "figurati!",
+      "translations": [
+        "imagine that!"
+      ],
+      "part_of_speech": "Interjection",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questa è una frase con \"figurati!\"",
+          "english": "This is a sentence with \"imagine that!\"",
+          "context": "example usage"
+        },
+        {
+          "italian": "\"figurati!\" è importante",
+          "english": "\"imagine that!\" is important",
+          "context": "general statement"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "part_of_speech": "Article",
+  "count": 39,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "il",
+      "translations": [
+        "the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il cane è grande",
+          "english": "The dog is big",
+          "context": "definite article with masculine noun"
+        },
+        {
+          "italian": "Il libro è interessante",
+          "english": "The book is interesting",
+          "context": "common usage"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "word": "un",
+      "translations": [
+        "a",
+        "an"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Un amico mi ha chiamato",
+          "english": "A friend called me",
+          "context": "indefinite article with masculine noun"
+        },
+        {
+          "italian": "È un bel giorno",
+          "english": "It's a beautiful day",
+          "context": "common expression"
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "word": "la",
+      "translations": [
+        "the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La casa è bella",
+          "english": "The house is beautiful",
+          "context": "definite article with feminine noun"
+        },
+        {
+          "italian": "La pizza è deliziosa",
+          "english": "The pizza is delicious",
+          "context": "common usage"
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "word": "lo",
+      "translations": [
+        "the (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "lo casa è grande",
+          "english": "the (masc) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo lo cane",
+          "english": "I see the (masc) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "word": "gli",
+      "translations": [
+        "the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "gli casa è grande",
+          "english": "the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo gli cane",
+          "english": "I see the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "word": "le",
+      "translations": [
+        "the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "le casa è grande",
+          "english": "the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo le cane",
+          "english": "I see the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "word": "i",
+      "translations": [
+        "the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "i casa è grande",
+          "english": "the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo i cane",
+          "english": "I see the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "word": "uno",
+      "translations": [
+        "a",
+        "an (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "uno casa è grande",
+          "english": "a house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo uno cane",
+          "english": "I see a dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "word": "una",
+      "translations": [
+        "a",
+        "an (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Una donna cammina",
+          "english": "A woman is walking",
+          "context": "indefinite article with feminine noun"
+        },
+        {
+          "italian": "Ho una macchina nuova",
+          "english": "I have a new car",
+          "context": "possession"
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "word": "dell",
+      "translations": [
+        "of the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dell casa è grande",
+          "english": "of the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dell cane",
+          "english": "I see of the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "word": "dello",
+      "translations": [
+        "of the (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dello casa è grande",
+          "english": "of the (masc) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dello cane",
+          "english": "I see of the (masc) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "word": "della",
+      "translations": [
+        "of the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "della casa è grande",
+          "english": "of the (fem) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo della cane",
+          "english": "I see of the (fem) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "word": "degli",
+      "translations": [
+        "of the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "degli casa è grande",
+          "english": "of the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo degli cane",
+          "english": "I see of the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "word": "delle",
+      "translations": [
+        "of the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "delle casa è grande",
+          "english": "of the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo delle cane",
+          "english": "I see of the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "word": "del",
+      "translations": [
+        "of the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "del casa è grande",
+          "english": "of the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo del cane",
+          "english": "I see of the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "word": "al",
+      "translations": [
+        "to the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "al casa è grande",
+          "english": "to the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo al cane",
+          "english": "I see to the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "word": "allo",
+      "translations": [
+        "to the (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "allo casa è grande",
+          "english": "to the (masc) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo allo cane",
+          "english": "I see to the (masc) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "word": "alla",
+      "translations": [
+        "to the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "alla casa è grande",
+          "english": "to the (fem) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo alla cane",
+          "english": "I see to the (fem) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "word": "agli",
+      "translations": [
+        "to the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "agli casa è grande",
+          "english": "to the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo agli cane",
+          "english": "I see to the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "word": "alle",
+      "translations": [
+        "to the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "alle casa è grande",
+          "english": "to the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo alle cane",
+          "english": "I see to the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "word": "dal",
+      "translations": [
+        "from the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dal casa è grande",
+          "english": "from the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dal cane",
+          "english": "I see from the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "word": "dallo",
+      "translations": [
+        "from the (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dallo casa è grande",
+          "english": "from the (masc) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dallo cane",
+          "english": "I see from the (masc) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "word": "dalla",
+      "translations": [
+        "from the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dalla casa è grande",
+          "english": "from the (fem) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dalla cane",
+          "english": "I see from the (fem) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "word": "dagli",
+      "translations": [
+        "from the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dagli casa è grande",
+          "english": "from the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dagli cane",
+          "english": "I see from the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "word": "dalle",
+      "translations": [
+        "from the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "dalle casa è grande",
+          "english": "from the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo dalle cane",
+          "english": "I see from the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "word": "nel",
+      "translations": [
+        "in the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "nel casa è grande",
+          "english": "in the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo nel cane",
+          "english": "I see in the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "word": "nello",
+      "translations": [
+        "in the (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "nello casa è grande",
+          "english": "in the (masc) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo nello cane",
+          "english": "I see in the (masc) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "word": "nella",
+      "translations": [
+        "in the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "nella casa è grande",
+          "english": "in the (fem) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo nella cane",
+          "english": "I see in the (fem) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "word": "negli",
+      "translations": [
+        "in the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "negli casa è grande",
+          "english": "in the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo negli cane",
+          "english": "I see in the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "word": "nelle",
+      "translations": [
+        "in the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "nelle casa è grande",
+          "english": "in the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo nelle cane",
+          "english": "I see in the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "word": "sul",
+      "translations": [
+        "on the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "sul casa è grande",
+          "english": "on the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo sul cane",
+          "english": "I see on the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "word": "sullo",
+      "translations": [
+        "on the (masc)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "sullo casa è grande",
+          "english": "on the (masc) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo sullo cane",
+          "english": "I see on the (masc) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "word": "sulla",
+      "translations": [
+        "on the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "sulla casa è grande",
+          "english": "on the (fem) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo sulla cane",
+          "english": "I see on the (fem) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "word": "sugli",
+      "translations": [
+        "on the (masc plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "sugli casa è grande",
+          "english": "on the (masc plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo sugli cane",
+          "english": "I see on the (masc plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "word": "sulle",
+      "translations": [
+        "on the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "sulle casa è grande",
+          "english": "on the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo sulle cane",
+          "english": "I see on the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "word": "col",
+      "translations": [
+        "with the"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "col casa è grande",
+          "english": "with the house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo col cane",
+          "english": "I see with the dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "word": "coi",
+      "translations": [
+        "with the (plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "coi casa è grande",
+          "english": "with the (plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo coi cane",
+          "english": "I see with the (plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "word": "colla",
+      "translations": [
+        "with the (fem)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "colla casa è grande",
+          "english": "with the (fem) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo colla cane",
+          "english": "I see with the (fem) dog",
+          "context": "visual reference"
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "word": "colle",
+      "translations": [
+        "with the (fem plural)"
+      ],
+      "part_of_speech": "Article",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "colle casa è grande",
+          "english": "with the (fem plural) house is big",
+          "context": "definite reference"
+        },
+        {
+          "italian": "Vedo colle cane",
+          "english": "I see with the (fem plural) dog",
+          "context": "visual reference"
+        }
+      ]
+    }
+  ]
+}

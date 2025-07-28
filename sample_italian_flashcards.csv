@@ -1,0 +1,29 @@
+question,answer,category,difficulty,part_of_speech
+Ciao,Hello,Italian,Easy,Greeting
+Buongiorno,Good morning,Italian,Medium,Greeting
+Buonanotte,Good night,Italian,Medium,Greeting
+Grazie,Thank you,Italian,Easy,Expression
+Prego,You're welcome,Italian,Medium,Expression
+Per favore,Please,Italian,Medium,Expression
+Mi scusi,Excuse me,Italian,Hard,Expression
+Come stai?,How are you?,Italian,Medium,Question
+Bene,Good/Well,Italian,Easy,Adjective
+Male,Bad,Italian,Easy,Adjective
+Sì,Yes,Italian,Easy,Adverb
+No,No,Italian,Easy,Adverb
+Acqua,Water,Italian,Easy,Noun
+Pane,Bread,Italian,Easy,Noun
+Caffè,Coffee,Italian,Easy,Noun
+Vino,Wine,Italian,Easy,Noun
+Mangiare,To eat,Italian,Medium,Verb
+Bere,To drink,Italian,Medium,Verb
+Dormire,To sleep,Italian,Medium,Verb
+Studiare,To study,Italian,Medium,Verb
+Bello,Beautiful,Italian,Easy,Adjective
+Brutto,Ugly,Italian,Easy,Adjective
+Grande,Big/Large,Italian,Easy,Adjective
+Piccolo,Small,Italian,Easy,Adjective
+Dove,Where,Italian,Medium,Adverb
+Quando,When,Italian,Medium,Adverb
+Perché,Why,Italian,Medium,Adverb
+Come,How,Italian,Medium,Adverb 
