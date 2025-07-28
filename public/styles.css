@@ -621,9 +621,15 @@ body:has(#study-view.view.active) .container,
 /* Conjugations Styles */
 .conjugation-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    gap: 6px;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
     margin-top: 6px;
+}
+
+.conjugation-column {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
 }
 
 .conjugation-item {

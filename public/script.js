@@ -830,7 +830,16 @@ function populateConjugations(conjugations) {
         const conjugationGrid = document.createElement('div');
         conjugationGrid.className = 'conjugation-grid';
         
-        Object.entries(conjugations).forEach(([pronoun, verb]) => {
+        // Convert to array and split into two columns
+        const conjugationEntries = Object.entries(conjugations);
+        const leftColumn = conjugationEntries.slice(0, 3); // First 3
+        const rightColumn = conjugationEntries.slice(3, 6); // Last 3
+        
+        // Create left column
+        const leftColumnDiv = document.createElement('div');
+        leftColumnDiv.className = 'conjugation-column';
+        
+        leftColumn.forEach(([pronoun, verb]) => {
             const conjugationItem = document.createElement('div');
             conjugationItem.className = 'conjugation-item';
             
@@ -839,8 +848,27 @@ function populateConjugations(conjugations) {
                 <span class="conjugation-verb">${verb}</span>
             `;
             
-            conjugationGrid.appendChild(conjugationItem);
+            leftColumnDiv.appendChild(conjugationItem);
         });
+        
+        // Create right column
+        const rightColumnDiv = document.createElement('div');
+        rightColumnDiv.className = 'conjugation-column';
+        
+        rightColumn.forEach(([pronoun, verb]) => {
+            const conjugationItem = document.createElement('div');
+            conjugationItem.className = 'conjugation-item';
+            
+            conjugationItem.innerHTML = `
+                <span class="conjugation-pronoun">${pronoun}:</span>
+                <span class="conjugation-verb">${verb}</span>
+            `;
+            
+            rightColumnDiv.appendChild(conjugationItem);
+        });
+        
+        conjugationGrid.appendChild(leftColumnDiv);
+        conjugationGrid.appendChild(rightColumnDiv);
         
         conjugationsList.appendChild(conjugationGrid);
         conjugationsSection.style.display = 'block';
