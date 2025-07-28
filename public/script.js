@@ -43,6 +43,10 @@ const relatedWordsSection = document.getElementById('related-words-section');
 const examplesList = document.getElementById('examples-list');
 const cognatesList = document.getElementById('cognates-list');
 const conjugationsList = document.getElementById('conjugations-list');
+
+// Question-side conjugations elements (for verbs)
+const questionConjugationsSection = document.getElementById('question-conjugations-section');
+const questionConjugationsList = document.getElementById('question-conjugations-list');
 const etymologyContent = document.getElementById('etymology-content');
 const relatedWordsList = document.getElementById('related-words-list');
 
@@ -439,12 +443,24 @@ function showCurrentCard() {
     studyAnswerBack.textContent = currentCard.answer;
     console.log('Set answer text to:', currentCard.answer);
     
-    // Populate enhanced data
-            populateExamples(currentCard.examples || []);
-        populateCognates(currentCard.cognates || []);
+    // For verbs, show conjugations on the question side
+    if (currentCard.part_of_speech === 'Verb' && currentCard.conjugations) {
+        populateConjugationsInContainer(currentCard.conjugations, questionConjugationsList);
+        questionConjugationsSection.style.display = 'block';
+        // Hide conjugations on answer side since they're on question side
+        conjugationsSection.style.display = 'none';
+    } else {
+        // Hide question-side conjugations for non-verbs
+        questionConjugationsSection.style.display = 'none';
+        // Show conjugations on answer side if they exist
         populateConjugations(currentCard.conjugations);
-        populateEtymology(currentCard.etymology);
-        populateRelatedEnglishWords(currentCard.related_english_words || []);
+    }
+    
+    // Populate other enhanced data
+    populateExamples(currentCard.examples || []);
+    populateCognates(currentCard.cognates || []);
+    populateEtymology(currentCard.etymology);
+    populateRelatedEnglishWords(currentCard.related_english_words || []);
     
     // Re-enable transition after a brief moment
     setTimeout(() => {
@@ -856,9 +872,9 @@ function populateCognates(cognates) {
     cognatesSection.style.display = 'block';
 }
 
-// Populate conjugations section
-function populateConjugations(conjugations) {
-    conjugationsList.innerHTML = '';
+// Helper function to populate conjugations in any container
+function populateConjugationsInContainer(conjugations, containerElement) {
+    containerElement.innerHTML = '';
     
     if (conjugations && Object.keys(conjugations).length > 0) {
         const conjugationGrid = document.createElement('div');
@@ -904,7 +920,15 @@ function populateConjugations(conjugations) {
         conjugationGrid.appendChild(leftColumnDiv);
         conjugationGrid.appendChild(rightColumnDiv);
         
-        conjugationsList.appendChild(conjugationGrid);
+        containerElement.appendChild(conjugationGrid);
+    }
+}
+
+// Populate conjugations section (for answer side)
+function populateConjugations(conjugations) {
+    populateConjugationsInContainer(conjugations, conjugationsList);
+    
+    if (conjugations && Object.keys(conjugations).length > 0) {
         conjugationsSection.style.display = 'block';
     } else {
         conjugationsSection.style.display = 'none';
