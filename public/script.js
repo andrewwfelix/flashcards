@@ -50,6 +50,26 @@ const questionConjugationsList = document.getElementById('question-conjugations-
 const etymologyContent = document.getElementById('etymology-content');
 const relatedWordsList = document.getElementById('related-words-list');
 
+// Conjunction-specific elements
+const conjunctionClassificationSection = document.getElementById('conjunction-classification-section');
+const conjunctionClassificationContent = document.getElementById('conjunction-classification-content');
+const clauseConnectionSection = document.getElementById('clause-connection-section');
+const clauseConnectionContent = document.getElementById('clause-connection-content');
+const moodRequirementsSection = document.getElementById('mood-requirements-section');
+const moodRequirementsContent = document.getElementById('mood-requirements-content');
+const positionRulesSection = document.getElementById('position-rules-section');
+const positionRulesContent = document.getElementById('position-rules-content');
+const usageContextsSection = document.getElementById('usage-contexts-section');
+const usageContextsContent = document.getElementById('usage-contexts-content');
+const collocationsSection = document.getElementById('collocations-section');
+const collocationsContent = document.getElementById('collocations-content');
+const formalInformalSection = document.getElementById('formal-informal-section');
+const formalInformalContent = document.getElementById('formal-informal-content');
+const usageNotesSection = document.getElementById('usage-notes-section');
+const usageNotesContent = document.getElementById('usage-notes-content');
+const commonErrorsSection = document.getElementById('common-errors-section');
+const commonErrorsContent = document.getElementById('common-errors-content');
+
 // API base URL
 const API_BASE = '/api/flashcards';
 
@@ -415,7 +435,6 @@ function showCurrentCard() {
     }
 
     const currentCard = currentStudyCards[currentStudyIndex];
-    console.log('Showing card:', currentCard);
     
     // Temporarily disable transition to prevent flash
     studyCard.style.transition = 'none';
@@ -427,7 +446,6 @@ function showCurrentCard() {
     // Update content
     studyQuestion.textContent = currentCard.question;
     studyAnswerBack.textContent = currentCard.answer;
-    console.log('Set answer text to:', currentCard.answer);
     
     // For verbs, show conjugations on the question side
     if (currentCard.part_of_speech === 'Verb' && currentCard.conjugations) {
@@ -448,6 +466,22 @@ function showCurrentCard() {
     populateEtymology(currentCard.etymology);
     populateRelatedEnglishWords(currentCard.related_english_words || []);
     
+    // Populate conjunction-specific data if this is a conjunction
+    if (currentCard.part_of_speech === 'Conjunction') {
+        populateConjunctionClassification(currentCard.conjunction_classification);
+        populateClauseConnection(currentCard.clause_connection);
+        populateMoodRequirements(currentCard.mood_tense_requirements);
+        populatePositionRules(currentCard.position_rules);
+        populateUsageContexts(currentCard.usage_contexts);
+        populateCollocations(currentCard.common_collocations);
+        populateFormalInformal(currentCard.formal_vs_informal);
+        populateUsageNotes(currentCard.usage_notes);
+        populateCommonErrors(currentCard.common_errors);
+    } else {
+        // Hide conjunction sections for non-conjunction cards
+        hideConjunctionSections();
+    }
+    
     // Re-enable transition after a brief moment
     setTimeout(() => {
         studyCard.style.transition = '';
@@ -457,16 +491,12 @@ function showCurrentCard() {
 }
 
 function flipCard() {
-    console.log('Flip card called, current state:', isCardFlipped);
-    console.log('Answer text:', studyAnswerBack.textContent);
     if (isCardFlipped) {
         studyCard.classList.remove('flipped');
         isCardFlipped = false;
-        console.log('Flipped to question side');
     } else {
         studyCard.classList.add('flipped');
         isCardFlipped = true;
-        console.log('Flipped to answer side');
     }
 }
 
@@ -921,6 +951,269 @@ function populateConjugations(conjugations) {
     }
 }
 
+// Populate conjunction classification section
+function populateConjunctionClassification(classification) {
+    
+    if (!classification) {
+        conjunctionClassificationSection.style.display = 'none';
+        return;
+    }
+    
+    conjunctionClassificationContent.innerHTML = '';
+    const classificationDiv = document.createElement('div');
+    classificationDiv.className = 'conjunction-classification-item';
+    
+    classificationDiv.innerHTML = `
+        <div class="classification-detail">
+            <strong>Type:</strong> ${classification.type || 'Not specified'}
+        </div>
+        <div class="classification-detail">
+            <strong>Function:</strong> ${classification.function || 'Not specified'}
+        </div>
+        <div class="classification-detail">
+            <strong>Connects:</strong> ${classification.connects || 'Not specified'}
+        </div>
+    `;
+    
+    conjunctionClassificationContent.appendChild(classificationDiv);
+    conjunctionClassificationSection.style.display = 'block';
+}
+
+// Populate clause connection section
+function populateClauseConnection(connection) {
+    if (!connection) {
+        clauseConnectionSection.style.display = 'none';
+        return;
+    }
+    
+    clauseConnectionContent.innerHTML = '';
+    
+    if (connection.coordination && connection.coordination.examples && connection.coordination.examples.length > 0) {
+        const coordDiv = document.createElement('div');
+        coordDiv.className = 'clause-pattern';
+        coordDiv.innerHTML = `
+            <div class="pattern-type"><strong>Coordination:</strong></div>
+            <div class="pattern-description">${connection.coordination.description}</div>
+            <div class="pattern-examples">
+                ${connection.coordination.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+            </div>
+        `;
+        clauseConnectionContent.appendChild(coordDiv);
+    }
+    
+    if (connection.subordination && connection.subordination.examples && connection.subordination.examples.length > 0) {
+        const subDiv = document.createElement('div');
+        subDiv.className = 'clause-pattern';
+        subDiv.innerHTML = `
+            <div class="pattern-type"><strong>Subordination:</strong></div>
+            <div class="pattern-description">${connection.subordination.description}</div>
+            <div class="pattern-examples">
+                ${connection.subordination.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+            </div>
+        `;
+        clauseConnectionContent.appendChild(subDiv);
+    }
+    
+    clauseConnectionSection.style.display = clauseConnectionContent.children.length > 0 ? 'block' : 'none';
+}
+
+// Populate mood/tense requirements section
+function populateMoodRequirements(requirements) {
+    if (!requirements || Object.keys(requirements).length === 0) {
+        moodRequirementsSection.style.display = 'none';
+        return;
+    }
+    
+    moodRequirementsContent.innerHTML = '';
+    
+    ['indicative', 'subjunctive', 'conditional'].forEach(mood => {
+        if (requirements[mood] && requirements[mood].examples && requirements[mood].examples.length > 0) {
+            const moodDiv = document.createElement('div');
+            moodDiv.className = 'mood-requirement';
+            moodDiv.innerHTML = `
+                <div class="mood-type"><strong>${mood.charAt(0).toUpperCase() + mood.slice(1)}:</strong></div>
+                <div class="mood-description">${requirements[mood].description}</div>
+                <div class="mood-examples">
+                    ${requirements[mood].examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                </div>
+            `;
+            moodRequirementsContent.appendChild(moodDiv);
+        }
+    });
+    
+    moodRequirementsSection.style.display = moodRequirementsContent.children.length > 0 ? 'block' : 'none';
+}
+
+// Populate position rules section
+function populatePositionRules(rules) {
+    if (!rules) {
+        positionRulesSection.style.display = 'none';
+        return;
+    }
+    
+    positionRulesContent.innerHTML = '';
+    
+    ['sentence_initial', 'between_clauses', 'with_punctuation'].forEach(position => {
+        if (rules[position] && rules[position].examples && rules[position].examples.length > 0) {
+            const posDiv = document.createElement('div');
+            posDiv.className = 'position-rule';
+            posDiv.innerHTML = `
+                <div class="position-type"><strong>${position.replace('_', ' ').charAt(0).toUpperCase() + position.replace('_', ' ').slice(1)}:</strong></div>
+                <div class="position-description">${rules[position].description}</div>
+                <div class="position-examples">
+                    ${rules[position].examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                </div>
+            `;
+            positionRulesContent.appendChild(posDiv);
+        }
+    });
+    
+    positionRulesSection.style.display = positionRulesContent.children.length > 0 ? 'block' : 'none';
+}
+
+// Populate usage contexts section
+function populateUsageContexts(contexts) {
+    if (!contexts || Object.keys(contexts).length === 0) {
+        usageContextsSection.style.display = 'none';
+        return;
+    }
+    
+    usageContextsContent.innerHTML = '';
+    
+    Object.entries(contexts).forEach(([contextName, contextData]) => {
+        if (contextData.examples && contextData.examples.length > 0) {
+            const contextDiv = document.createElement('div');
+            contextDiv.className = 'usage-context';
+            contextDiv.innerHTML = `
+                <div class="context-name"><strong>${contextName.replace('_', ' ').charAt(0).toUpperCase() + contextName.replace('_', ' ').slice(1)}:</strong></div>
+                <div class="context-meaning">${contextData.meaning}</div>
+                <div class="context-examples">
+                    ${contextData.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                </div>
+            `;
+            usageContextsContent.appendChild(contextDiv);
+        }
+    });
+    
+    usageContextsSection.style.display = usageContextsContent.children.length > 0 ? 'block' : 'none';
+}
+
+// Populate collocations section
+function populateCollocations(collocations) {
+    if (!collocations || collocations.length === 0) {
+        collocationsSection.style.display = 'none';
+        return;
+    }
+    
+    collocationsContent.innerHTML = '';
+    
+    collocations.forEach(collocation => {
+        const colDiv = document.createElement('div');
+        colDiv.className = 'collocation-item';
+        colDiv.innerHTML = `
+            <div class="collocation-phrase"><strong>"${collocation.phrase}"</strong></div>
+            <div class="collocation-meaning">${collocation.meaning}</div>
+            <div class="collocation-example"><em>"${collocation.example}"</em></div>
+        `;
+        collocationsContent.appendChild(colDiv);
+    });
+    
+    collocationsSection.style.display = 'block';
+}
+
+// Populate formal/informal section
+function populateFormalInformal(formalVsInformal) {
+    if (!formalVsInformal) {
+        formalInformalSection.style.display = 'none';
+        return;
+    }
+    
+    formalInformalContent.innerHTML = '';
+    
+    if (formalVsInformal.formal && formalVsInformal.formal.examples && formalVsInformal.formal.examples.length > 0) {
+        const formalDiv = document.createElement('div');
+        formalDiv.className = 'register-type';
+        formalDiv.innerHTML = `
+            <div class="register-label"><strong>Formal:</strong></div>
+            <div class="register-usage">${formalVsInformal.formal.usage}</div>
+            <div class="register-examples">
+                ${formalVsInformal.formal.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+            </div>
+        `;
+        formalInformalContent.appendChild(formalDiv);
+    }
+    
+    if (formalVsInformal.informal && formalVsInformal.informal.examples && formalVsInformal.informal.examples.length > 0) {
+        const informalDiv = document.createElement('div');
+        informalDiv.className = 'register-type';
+        informalDiv.innerHTML = `
+            <div class="register-label"><strong>Informal:</strong></div>
+            <div class="register-usage">${formalVsInformal.informal.usage}</div>
+            <div class="register-examples">
+                ${formalVsInformal.informal.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+            </div>
+        `;
+        formalInformalContent.appendChild(informalDiv);
+    }
+    
+    formalInformalSection.style.display = formalInformalContent.children.length > 0 ? 'block' : 'none';
+}
+
+// Populate usage notes section
+function populateUsageNotes(notes) {
+    if (!notes || notes.length === 0) {
+        usageNotesSection.style.display = 'none';
+        return;
+    }
+    
+    usageNotesContent.innerHTML = '';
+    
+    notes.forEach(note => {
+        const noteDiv = document.createElement('div');
+        noteDiv.className = 'usage-note-item';
+        noteDiv.innerHTML = `<div class="note-text">${note}</div>`;
+        usageNotesContent.appendChild(noteDiv);
+    });
+    
+    usageNotesSection.style.display = 'block';
+}
+
+// Populate common errors section
+function populateCommonErrors(errors) {
+    if (!errors || errors.length === 0) {
+        commonErrorsSection.style.display = 'none';
+        return;
+    }
+    
+    commonErrorsContent.innerHTML = '';
+    
+    errors.forEach(error => {
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'common-error-item';
+        errorDiv.innerHTML = `
+            <div class="error-mistake"><strong>Mistake:</strong> ${error.mistake}</div>
+            <div class="error-correct"><strong>Correct:</strong> "${error.correct}"</div>
+            <div class="error-incorrect"><strong>Incorrect:</strong> "${error.incorrect}"</div>
+        `;
+        commonErrorsContent.appendChild(errorDiv);
+    });
+    
+    commonErrorsSection.style.display = 'block';
+}
+
+// Hide conjunction sections
+function hideConjunctionSections() {
+    conjunctionClassificationSection.style.display = 'none';
+    clauseConnectionSection.style.display = 'none';
+    moodRequirementsSection.style.display = 'none';
+    positionRulesSection.style.display = 'none';
+    usageContextsSection.style.display = 'none';
+    collocationsSection.style.display = 'none';
+    formalInformalSection.style.display = 'none';
+    usageNotesSection.style.display = 'none';
+    commonErrorsSection.style.display = 'none';
+}
+
 // Populate etymology section
 function populateEtymology(etymology) {
     if (!etymology) {
@@ -933,11 +1226,22 @@ function populateEtymology(etymology) {
     const etymologyDiv = document.createElement('div');
     etymologyDiv.className = 'etymology-item';
     
-    etymologyDiv.innerHTML = `
-        <div class="etymology-origin">Origin: ${etymology.origin}</div>
-        <div class="etymology-source">From: ${etymology.source} (${etymology.meaning})</div>
-        <div class="etymology-notes">${etymology.notes}</div>
-    `;
+    // Handle both old format (source, notes) and new conjunction format (meaning, evolution)
+    if (etymology.meaning && etymology.evolution) {
+        // New conjunction format
+        etymologyDiv.innerHTML = `
+            <div class="etymology-origin">Origin: ${etymology.origin || 'Unknown'}</div>
+            <div class="etymology-source">From: ${etymology.meaning}</div>
+            <div class="etymology-notes">${etymology.evolution}</div>
+        `;
+    } else {
+        // Old format for backwards compatibility
+        etymologyDiv.innerHTML = `
+            <div class="etymology-origin">Origin: ${etymology.origin || 'Unknown'}</div>
+            <div class="etymology-source">From: ${etymology.source || 'Unknown'} ${etymology.meaning ? `(${etymology.meaning})` : ''}</div>
+            <div class="etymology-notes">${etymology.notes || ''}</div>
+        `;
+    }
     
     etymologyContent.appendChild(etymologyDiv);
     etymologySection.style.display = 'block';

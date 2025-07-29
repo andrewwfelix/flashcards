@@ -33,7 +33,19 @@ function loadFlashcardsFromJSON() {
       cognates: card.cognates || [],
       conjugations: card.conjugations || null,
       etymology: card.etymology || null,
-      related_english_words: card.related_english_words || []
+      related_english_words: card.related_english_words || [],
+      // Conjunction-specific fields
+      conjunction_classification: card.conjunction_classification || null,
+      clause_connection: card.clause_connection || null,
+      mood_tense_requirements: card.mood_tense_requirements || null,
+      position_rules: card.position_rules || null,
+      usage_contexts: card.usage_contexts || null,
+      common_collocations: card.common_collocations || [],
+      formal_vs_informal: card.formal_vs_informal || null,
+      usage_notes: card.usage_notes || [],
+      common_errors: card.common_errors || [],
+      // Include the original word field for debugging
+      word: card.word
     }));
     
     console.log(`✅ Loaded ${flashcards.length} flashcards from JSON with examples and cognates!`);

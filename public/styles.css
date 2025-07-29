@@ -1011,3 +1011,310 @@ input[type="file"]:focus {
     outline: none;
     border-color: #667eea;
 } 
+
+/* Conjunction-specific styles */
+
+/* Classification section */
+.conjunction-classification-item {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.classification-detail {
+    padding: 6px 10px;
+    background: rgba(102, 126, 234, 0.08);
+    border-radius: 4px;
+    border-left: 3px solid #667eea;
+    font-size: 0.85rem;
+}
+
+.classification-detail strong {
+    color: #4c51bf;
+    margin-right: 8px;
+}
+
+/* Clause connection patterns */
+.clause-pattern {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: rgba(72, 187, 120, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #48bb78;
+}
+
+.clause-pattern:last-child {
+    margin-bottom: 0;
+}
+
+.pattern-type {
+    font-size: 0.9rem;
+    margin-bottom: 4px;
+    color: #2f855a;
+}
+
+.pattern-description {
+    font-size: 0.8rem;
+    color: #4a5568;
+    margin-bottom: 6px;
+    font-style: italic;
+}
+
+.pattern-examples {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.pattern-examples .example-item {
+    margin: 0;
+    padding: 4px 8px;
+    background: rgba(255, 255, 255, 0.8);
+    border-left: 2px solid #48bb78;
+    font-size: 0.8rem;
+    color: #2d3748;
+}
+
+/* Mood requirements */
+.mood-requirement {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: rgba(245, 101, 101, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #f56565;
+}
+
+.mood-requirement:last-child {
+    margin-bottom: 0;
+}
+
+.mood-type {
+    font-size: 0.9rem;
+    margin-bottom: 4px;
+    color: #c53030;
+}
+
+.mood-description {
+    font-size: 0.8rem;
+    color: #4a5568;
+    margin-bottom: 6px;
+    font-style: italic;
+}
+
+.mood-examples {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.mood-examples .example-item {
+    margin: 0;
+    padding: 4px 8px;
+    background: rgba(255, 255, 255, 0.8);
+    border-left: 2px solid #f56565;
+    font-size: 0.8rem;
+    color: #2d3748;
+}
+
+/* Position rules */
+.position-rule {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: rgba(237, 137, 54, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #ed8936;
+}
+
+.position-rule:last-child {
+    margin-bottom: 0;
+}
+
+.position-type {
+    font-size: 0.9rem;
+    margin-bottom: 4px;
+    color: #c05621;
+}
+
+.position-description {
+    font-size: 0.8rem;
+    color: #4a5568;
+    margin-bottom: 6px;
+    font-style: italic;
+}
+
+.position-examples {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.position-examples .example-item {
+    margin: 0;
+    padding: 4px 8px;
+    background: rgba(255, 255, 255, 0.8);
+    border-left: 2px solid #ed8936;
+    font-size: 0.8rem;
+    color: #2d3748;
+}
+
+/* Usage contexts */
+.usage-context {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: rgba(139, 92, 246, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #8b5cf6;
+}
+
+.usage-context:last-child {
+    margin-bottom: 0;
+}
+
+.context-name {
+    font-size: 0.9rem;
+    margin-bottom: 4px;
+    color: #6b46c1;
+}
+
+.context-meaning {
+    font-size: 0.8rem;
+    color: #4a5568;
+    margin-bottom: 6px;
+    font-style: italic;
+}
+
+.context-examples {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.context-examples .example-item {
+    margin: 0;
+    padding: 4px 8px;
+    background: rgba(255, 255, 255, 0.8);
+    border-left: 2px solid #8b5cf6;
+    font-size: 0.8rem;
+    color: #2d3748;
+}
+
+/* Collocations */
+.collocation-item {
+    margin-bottom: 10px;
+    padding: 8px;
+    background: rgba(59, 130, 246, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #3b82f6;
+}
+
+.collocation-item:last-child {
+    margin-bottom: 0;
+}
+
+.collocation-phrase {
+    color: #1e40af;
+    font-size: 0.9rem;
+    margin-bottom: 3px;
+}
+
+.collocation-meaning {
+    color: #374151;
+    font-size: 0.8rem;
+    margin-bottom: 3px;
+}
+
+.collocation-example {
+    color: #6b7280;
+    font-size: 0.75rem;
+    font-style: italic;
+}
+
+/* Formal/Informal register */
+.register-type {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: rgba(16, 185, 129, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #10b981;
+}
+
+.register-type:last-child {
+    margin-bottom: 0;
+}
+
+.register-label {
+    font-size: 0.9rem;
+    margin-bottom: 4px;
+    color: #047857;
+}
+
+.register-usage {
+    font-size: 0.8rem;
+    color: #4a5568;
+    margin-bottom: 6px;
+    font-style: italic;
+}
+
+.register-examples {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.register-examples .example-item {
+    margin: 0;
+    padding: 4px 8px;
+    background: rgba(255, 255, 255, 0.8);
+    border-left: 2px solid #10b981;
+    font-size: 0.8rem;
+    color: #2d3748;
+}
+
+/* Usage notes */
+.usage-note-item {
+    margin-bottom: 8px;
+    padding: 8px;
+    background: rgba(251, 191, 36, 0.08);
+    border-radius: 4px;
+    border-left: 3px solid #fbbf24;
+}
+
+.usage-note-item:last-child {
+    margin-bottom: 0;
+}
+
+.note-text {
+    color: #92400e;
+    font-size: 0.85rem;
+    line-height: 1.4;
+}
+
+/* Common errors */
+.common-error-item {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: rgba(220, 38, 127, 0.05);
+    border-radius: 6px;
+    border-left: 3px solid #dc2626;
+}
+
+.common-error-item:last-child {
+    margin-bottom: 0;
+}
+
+.error-mistake {
+    color: #dc2626;
+    font-size: 0.85rem;
+    margin-bottom: 4px;
+}
+
+.error-correct {
+    color: #059669;
+    font-size: 0.85rem;
+    margin-bottom: 4px;
+}
+
+.error-incorrect {
+    color: #dc2626;
+    font-size: 0.85rem;
+} 

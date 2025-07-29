@@ -1,6 +1,6 @@
 {
   "part_of_speech": "Conjunction",
-  "count": 44,
+  "count": 46,
   "flashcards": [
     {
       "id": 1,
@@ -617,6 +617,50 @@
       "related_english_words": [],
       "usage_notes": [],
       "common_errors": []
+    },
+    {
+      "id": 9,
+      "word": "perché",
+      "translations": [
+        "because"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio perché bevo",
+          "english": "I eat because drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa perché famiglia",
+          "english": "House because family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "quando",
+      "translations": [
+        "when"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio quando bevo",
+          "english": "I eat when drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa quando famiglia",
+          "english": "House when family",
+          "context": "connecting concepts"
+        }
+      ]
     },
     {
       "id": 11,
