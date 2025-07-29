@@ -521,8 +521,16 @@ body:has(#study-view.view.active) .container,
 
 .navigation-buttons {
     display: flex;
-    flex-direction: column;
-    gap: 8px;
+    flex-direction: row;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation-buttons .btn {
+    min-width: 120px;
+    font-weight: 600;
+    padding: 12px 20px;
 }
 
 .navigation-buttons .btn:disabled {

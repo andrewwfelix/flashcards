@@ -512,7 +512,7 @@ function updateNavigationButtons() {
         nextCardBtn.textContent = 'Complete';
         nextCardBtn.disabled = true;
     } else if (currentStudyIndex === currentStudyCards.length - 1) {
-        nextCardBtn.textContent = 'Next → (Auto-Shuffle)';
+        nextCardBtn.textContent = '🔄 Next (Shuffle)';
     } else {
         nextCardBtn.textContent = 'Next →';
     }
