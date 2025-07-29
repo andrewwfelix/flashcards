@@ -15,26 +15,26 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Non ho tempo per perdere tempo.",
-          "english": "I don't have time to waste time.",
-          "context": "Emphasizing the importance of time management."
+          "italian": "Il tempo è un concetto fondamentale nella nostra vita quotidiana.",
+          "english": "Time is a fundamental concept in our daily lives.",
+          "context": "Discussing the importance of time in everyday activities."
         },
         {
-          "italian": "Il tempo oggi è soleggiato e caldo.",
-          "english": "The weather today is sunny and warm.",
-          "context": "Describing the current weather conditions."
+          "italian": "Dopo il temporale, il tempo è diventato sereno.",
+          "english": "After the storm, the weather became clear.",
+          "context": "Describing a change in weather conditions after a storm."
         },
         {
-          "italian": "Il tempo cambia rapidamente in montagna.",
-          "english": "The weather changes quickly in the mountains.",
-          "context": "Discussing the unpredictable nature of mountain weather."
+          "italian": "Non possiamo fermare il tempo, ma possiamo viverlo al meglio.",
+          "english": "We cannot stop time, but we can live it to the fullest.",
+          "context": "Reflecting on the inevitability of time passing."
         }
       ],
       "etymology": {
         "origin": "Latin",
         "source": "tempus",
         "meaning": "A stretch or period of time; also refers to seasons and grammatical aspects.",
-        "notes": "The Latin 'tempus' evolved into the Italian 'tempo', retaining the meanings related to both time and weather. The word has been used in various contexts throughout history, reflecting the dual nature of its meanings."
+        "notes": "The Latin 'tempus' evolved into the Italian 'tempo', retaining meanings related to both time and weather. The word has been used in various contexts throughout history, reflecting its dual nature. In Italian, 'tempo' encompasses both the abstract concept of time and the tangible aspect of weather, illustrating the interconnectedness of these ideas."
       },
       "related_english_words": [
         {
@@ -71,32 +71,42 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È una persona molto creativa.",
-          "english": "She is a very creative person.",
-          "context": "describing personality"
+          "italian": "Ogni persona ha una storia unica.",
+          "english": "Every person has a unique story.",
+          "context": "General statement about individuality"
+        },
+        {
+          "italian": "In questa azienda, ogni persona conta.",
+          "english": "In this company, every person matters.",
+          "context": "Emphasizing the importance of individuals in a group"
+        },
+        {
+          "italian": "La persona che hai incontrato ieri è un artista.",
+          "english": "The person you met yesterday is an artist.",
+          "context": "Identifying someone in a conversation"
         }
       ],
       "etymology": {
         "origin": "Latin",
         "source": "persona",
-        "meaning": "mask, character played by an actor",
-        "notes": "From Latin 'persona', originally meaning mask, later used for a character or person."
+        "meaning": "Originally referred to a mask or character in a play",
+        "notes": "The Latin term 'persona' evolved from its meaning of a theatrical mask to denote a character or individual in society. This transition reflects the idea of roles played by individuals in social contexts, leading to the modern Italian usage referring to a person."
       },
       "related_english_words": [
         {
           "word": "persona",
-          "meaning": "An aspect of someone's character",
-          "usage": "She adopted a cheerful persona."
+          "meaning": "An aspect of someone's character or personality",
+          "usage": "She adopted a confident persona during the presentation."
         },
         {
-          "word": "person",
-          "meaning": "An individual human being",
-          "usage": "He's a kind person."
+          "word": "personify",
+          "meaning": "To represent an abstract quality or idea as a person",
+          "usage": "The author chose to personify love as a character in her novel."
         },
         {
           "word": "personal",
-          "meaning": "Relating to an individual",
-          "usage": "Keep your personal documents safe."
+          "meaning": "Relating to an individual or private matters",
+          "usage": "He shared some personal insights during the meeting."
         }
       ],
       "cognates": [
@@ -117,32 +127,42 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "L'anno scorso abbiamo visitato Roma.",
-          "english": "Last year we visited Rome.",
-          "context": "recounting past event"
+          "italian": "Quest'anno abbiamo deciso di viaggiare di più.",
+          "english": "This year we decided to travel more.",
+          "context": "Discussing future plans"
+        },
+        {
+          "italian": "Ogni anno, la mia famiglia celebra il Natale insieme.",
+          "english": "Every year, my family celebrates Christmas together.",
+          "context": "Describing a yearly tradition"
+        },
+        {
+          "italian": "L'anno 2020 è stato molto difficile per tutti.",
+          "english": "The year 2020 was very difficult for everyone.",
+          "context": "Reflecting on a specific year"
         }
       ],
       "etymology": {
         "origin": "Latin",
         "source": "annus",
-        "meaning": "year; a cycle of time or seasons, used in Roman calendar and legal contexts.",
-        "notes": "From Latin 'annus', meaning year, retained directly in Italian as 'anno'."
+        "meaning": "A period of twelve months; a cycle of time.",
+        "notes": "The word 'anno' comes directly from the Latin 'annus', which also means 'year'. In ancient Rome, it was used to denote a full cycle of seasons and was significant in both agricultural and legal contexts. The term has been retained in modern Italian with the same meaning."
       },
       "related_english_words": [
         {
           "word": "annual",
-          "meaning": "Occurring every year",
-          "usage": "The annual report was released."
+          "meaning": "Occurring once every year.",
+          "usage": "The annual festival attracts thousands of visitors."
         },
         {
           "word": "anniversary",
-          "meaning": "A yearly recurrence of an event",
-          "usage": "Today is their wedding anniversary."
+          "meaning": "The date on which an event took place in a previous year.",
+          "usage": "They celebrated their tenth wedding anniversary last month."
         },
         {
           "word": "annuity",
-          "meaning": "A fixed yearly payment",
-          "usage": "She receives an annuity from her investments."
+          "meaning": "A fixed sum of money paid to someone each year, typically for the rest of their life.",
+          "usage": "He invested in an annuity to secure his retirement income."
         }
       ],
       "cognates": [
@@ -163,16 +183,26 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È stato un giorno indimenticabile.",
-          "english": "It was an unforgettable day.",
-          "context": "emotional experience"
+          "italian": "Oggi è un giorno di festa.",
+          "english": "Today is a holiday.",
+          "context": "celebration or special occasion"
+        },
+        {
+          "italian": "Ogni giorno impariamo qualcosa di nuovo.",
+          "english": "Every day we learn something new.",
+          "context": "routine or daily activities"
+        },
+        {
+          "italian": "Il giorno dopo, tutto era cambiato.",
+          "english": "The day after, everything had changed.",
+          "context": "narrative or storytelling"
         }
       ],
       "etymology": {
         "origin": "Latin",
         "source": "diurnum",
         "meaning": "daily; relating to or occurring during the day (from 'dies' = day).",
-        "notes": "From Latin 'diurnum' (daily), evolving into 'giorno' in Italian through Vulgar Latin."
+        "notes": "The word 'giorno' evolved from the Latin 'diurnum', which means 'daily'. The transition to Italian involved phonetic changes typical of the evolution from Latin to the Romance languages, where 'diurnum' became 'giorno' through the influence of Vulgar Latin."
       },
       "related_english_words": [
         {
@@ -192,9 +222,8 @@
         }
       ],
       "cognates": [
-        "journal",
-        "journey",
-        "diurnal"
+        "diurnal",
+        "diurnity"
       ]
     },
     {
@@ -209,38 +238,48 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Questa è la cosa più interessante che ho visto.",
-          "english": "This is the most interesting thing I've seen.",
-          "context": "expressing surprise"
+          "italian": "Non ho idea di cosa stai parlando.",
+          "english": "I have no idea what you are talking about.",
+          "context": "Expressing confusion or lack of knowledge"
+        },
+        {
+          "italian": "La cosa più importante è essere felici.",
+          "english": "The most important thing is to be happy.",
+          "context": "Emphasizing priority or significance"
+        },
+        {
+          "italian": "Ci sono molte cose da fare oggi.",
+          "english": "There are many things to do today.",
+          "context": "Listing tasks or activities"
         }
       ],
       "etymology": {
         "origin": "Latin",
         "source": "causa",
-        "meaning": "cause, reason, motive, legal case or lawsuit.",
-        "notes": "From Latin 'causa', meaning reason or matter, evolved into 'cosa' in Vulgar Latin meaning 'thing'."
+        "meaning": "cause, reason, matter, or legal case",
+        "notes": "The word 'cosa' evolved from the Latin 'causa', which originally meant 'cause' or 'reason'. In Vulgar Latin, it transitioned to refer more broadly to 'thing' or 'matter', reflecting a shift in usage from legal contexts to everyday objects and concepts."
       },
       "related_english_words": [
         {
-          "word": "thing",
-          "meaning": "An object or concept",
-          "usage": "That’s a strange thing to say."
-        },
-        {
           "word": "cause",
-          "meaning": "A reason or motive",
-          "usage": "The cause of the fire is unknown."
+          "meaning": "A reason or motive for an action",
+          "usage": "The cause of the accident is still under investigation."
         },
         {
           "word": "case",
-          "meaning": "A particular situation or legal matter",
-          "usage": "The detective investigated the case."
+          "meaning": "A particular situation or instance, often legal",
+          "usage": "The lawyer presented a strong case in court."
+        },
+        {
+          "word": "causal",
+          "meaning": "Relating to or acting as a cause",
+          "usage": "There is a causal relationship between smoking and lung cancer."
         }
       ],
       "cognates": [
-        "thing",
         "cause",
-        "case"
+        "case",
+        "causal"
       ]
     },
     {
