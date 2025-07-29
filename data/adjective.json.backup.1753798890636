@@ -1,0 +1,1353 @@
+{
+  "part_of_speech": "Adjective",
+  "count": 49,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "rosso",
+      "translations": [
+        "red"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il cielo è rosso al tramonto",
+          "english": "The sky is red at sunset",
+          "context": "description of nature"
+        },
+        {
+          "italian": "La macchina rossa è veloce",
+          "english": "The red car is fast",
+          "context": "description of an object"
+        },
+        {
+          "italian": "I fiori rossi sono bellissimi",
+          "english": "The red flowers are beautiful",
+          "context": "description of plants"
+        },
+        {
+          "italian": "Le bandiere rosse sventolano",
+          "english": "The red flags are waving",
+          "context": "description of a scene"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Regular -o/-a adjectives agree in gender and number with the nouns they modify.",
+        "forms": {
+          "masculine_singular": "rosso",
+          "feminine_singular": "rossa",
+          "masculine_plural": "rossi",
+          "feminine_plural": "rosse"
+        }
+      },
+      "comparison": {
+        "comparative": "più rosso",
+        "superlative": "il più rosso",
+        "notes": "Regular comparison pattern"
+      },
+      "position": {
+        "type": "both",
+        "description": "Can be placed before or after the noun, with slight nuances in emphasis.",
+        "notes": "When placed before, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "russus",
+        "meaning": "red",
+        "notes": "Derived from Latin 'russus', which means red, and is a variant of 'ruber'. The term evolved into the modern Italian 'rosso'."
+      },
+      "related_english_words": [
+        {
+          "word": "rust",
+          "meaning": "A reddish-brown oxide coating on iron or steel",
+          "usage": "The old bike was covered in rust."
+        },
+        {
+          "word": "rouge",
+          "meaning": "A red cosmetic used for coloring the cheeks",
+          "usage": "She applied some rouge before the party."
+        },
+        {
+          "word": "rosy",
+          "meaning": "Having a pink or red color",
+          "usage": "The rosy sunset was breathtaking."
+        }
+      ],
+      "cognates": [
+        "russare",
+        "ruber"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "rosso fuoco",
+          "rosso vivo"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun. Use 'rossa' for feminine singular and 'rosse' for feminine plural."
+      }
+    },
+    {
+      "id": 2,
+      "word": "blu",
+      "translations": [
+        "blue"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il cielo è blu.",
+          "english": "The sky is blue.",
+          "context": "description of nature"
+        },
+        {
+          "italian": "Ho comprato una macchina blu.",
+          "english": "I bought a blue car.",
+          "context": "description of an object"
+        },
+        {
+          "italian": "Le pareti della stanza sono blu.",
+          "english": "The walls of the room are blue.",
+          "context": "description of a space"
+        },
+        {
+          "italian": "I suoi occhi sono blu.",
+          "english": "His/her eyes are blue.",
+          "context": "description of a person"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Blu is an invariable adjective, meaning it does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "blu",
+          "feminine_singular": "blu",
+          "masculine_plural": "blu",
+          "feminine_plural": "blu"
+        }
+      },
+      "comparison": {
+        "comparative": "più blu",
+        "superlative": "il più blu",
+        "notes": "Blu follows the regular pattern for comparison."
+      },
+      "position": {
+        "type": "both",
+        "description": "Blu can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before a noun, it may emphasize the color."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "blavus",
+        "meaning": "The original Latin term referred to a color that is dark or blue.",
+        "notes": "The word evolved through Old Italian before becoming the modern Italian 'blu'."
+      },
+      "related_english_words": [
+        {
+          "word": "blue",
+          "meaning": "The color blue.",
+          "usage": "The blue sky is beautiful."
+        },
+        {
+          "word": "blues",
+          "meaning": "A genre of music characterized by its expressive and melancholic style.",
+          "usage": "He loves listening to the blues."
+        }
+      ],
+      "cognates": [
+        "blau",
+        "bleu"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "mare blu",
+          "cielo blu"
+        ],
+        "grammatical_tips": "As an invariable adjective, blu does not require agreement in gender or number."
+      }
+    },
+    {
+      "id": 3,
+      "word": "verde",
+      "translations": [
+        "green"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "L'erba è verde.",
+          "english": "The grass is green.",
+          "context": "nature description"
+        },
+        {
+          "italian": "Ho comprato una macchina verde.",
+          "english": "I bought a green car.",
+          "context": "object description"
+        },
+        {
+          "italian": "Le foglie degli alberi sono verdi in primavera.",
+          "english": "The leaves of the trees are green in spring.",
+          "context": "seasonal description"
+        },
+        {
+          "italian": "I vestiti verdi sono di moda quest'anno.",
+          "english": "Green clothes are in fashion this year.",
+          "context": "fashion description"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "The adjective 'verde' is invariable and does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "verde",
+          "feminine_singular": "verde",
+          "masculine_plural": "verdi",
+          "feminine_plural": "verdi"
+        }
+      },
+      "comparison": {
+        "comparative": "più verde",
+        "superlative": "il più verde",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "The adjective can be placed before or after the noun without changing its meaning.",
+        "notes": "Placing 'verde' before the noun can emphasize the color."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "viridis",
+        "meaning": "green, fresh, lively",
+        "notes": "The word evolved from Latin 'viridis', which referred to the color of growing plants and freshness."
+      },
+      "related_english_words": [
+        {
+          "word": "verdant",
+          "meaning": "green with grass or other rich vegetation",
+          "usage": "The verdant hills were a sight to behold."
+        },
+        {
+          "word": "viridescent",
+          "meaning": "becoming green or greenish",
+          "usage": "The leaves were viridescent in the spring sunlight."
+        }
+      ],
+      "cognates": [
+        "viridis",
+        "verdure"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "verde speranza",
+          "verde oliva"
+        ],
+        "grammatical_tips": "Remember that 'verde' does not change for gender but does change for plural."
+      }
+    },
+    {
+      "id": 4,
+      "word": "giallo",
+      "translations": [
+        "yellow"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto giallo",
+          "english": "It is very yellow",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona giallo",
+          "english": "A yellow person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "word": "nero",
+      "translations": [
+        "black"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto nero",
+          "english": "It is very black",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona nero",
+          "english": "A black person",
+          "context": "character description"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "niger",
+        "meaning": "black",
+        "notes": "From Latin niger, related to English negative"
+      }
+    },
+    {
+      "id": 6,
+      "word": "bianco",
+      "translations": [
+        "white"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto bianco",
+          "english": "It is very white",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona bianco",
+          "english": "A white person",
+          "context": "character description"
+        }
+      ],
+      "etymology": {
+        "origin": "Germanic",
+        "source": "blank",
+        "meaning": "white, shining",
+        "notes": "From Germanic blank, cognate with English blank"
+      }
+    },
+    {
+      "id": 7,
+      "word": "grande",
+      "translations": [
+        "big",
+        "large"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Una casa grande",
+          "english": "A big house",
+          "context": "size description"
+        },
+        {
+          "italian": "È un grande uomo",
+          "english": "He is a great man",
+          "context": "character praise"
+        }
+      ],
+      "cognates": [
+        "grand",
+        "grandeur"
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "grandis",
+        "meaning": "large, great",
+        "notes": "From Latin grandis, root of English grand, grandiose"
+      }
+    },
+    {
+      "id": 8,
+      "word": "piccolo",
+      "translations": [
+        "small"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Un piccolo cane",
+          "english": "A small dog",
+          "context": "size description"
+        },
+        {
+          "italian": "Ho un piccolo problema",
+          "english": "I have a small problem",
+          "context": "minimizing issues"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "piculus",
+        "meaning": "small",
+        "notes": "Possibly from Latin piculus, diminutive form"
+      }
+    },
+    {
+      "id": 9,
+      "word": "nuovo",
+      "translations": [
+        "new"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho una macchina nuova",
+          "english": "I have a new car",
+          "context": "recent acquisition"
+        },
+        {
+          "italian": "È un nuovo giorno",
+          "english": "It's a new day",
+          "context": "fresh start"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "novus",
+        "meaning": "new",
+        "notes": "From Latin novus, cognate with English novel, novice"
+      }
+    },
+    {
+      "id": 10,
+      "word": "vecchio",
+      "translations": [
+        "old"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto vecchio",
+          "english": "It is very old",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona vecchio",
+          "english": "A old person",
+          "context": "character description"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "vetulus",
+        "meaning": "old",
+        "notes": "From Latin vetulus, diminutive of vetus (old)"
+      }
+    },
+    {
+      "id": 11,
+      "word": "buono",
+      "translations": [
+        "good"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È un buon libro",
+          "english": "It's a good book",
+          "context": "quality assessment"
+        },
+        {
+          "italian": "Buon giorno!",
+          "english": "Good day!",
+          "context": "greeting"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "bonus",
+        "meaning": "good",
+        "notes": "From Latin bonus, cognate with English bonus"
+      }
+    },
+    {
+      "id": 12,
+      "word": "cattivo",
+      "translations": [
+        "bad"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto cattivo",
+          "english": "It is very bad",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona cattivo",
+          "english": "A bad person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "bello",
+      "translations": [
+        "beautiful"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto bello",
+          "english": "It is very beautiful",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona bello",
+          "english": "A beautiful person",
+          "context": "character description"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "bellus",
+        "meaning": "pretty, handsome",
+        "notes": "From Latin bellus, related to English belle, beauty"
+      }
+    },
+    {
+      "id": 14,
+      "word": "brutto",
+      "translations": [
+        "ugly"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto brutto",
+          "english": "It is very ugly",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona brutto",
+          "english": "A ugly person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "giovane",
+      "translations": [
+        "young"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto giovane",
+          "english": "It is very young",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona giovane",
+          "english": "A young person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "lungo",
+      "translations": [
+        "long"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto lungo",
+          "english": "It is very long",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona lungo",
+          "english": "A long person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "corto",
+      "translations": [
+        "short"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto corto",
+          "english": "It is very short",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona corto",
+          "english": "A short person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "alto",
+      "translations": [
+        "tall",
+        "high"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto alto",
+          "english": "It is very tall",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona alto",
+          "english": "A tall person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "basso",
+      "translations": [
+        "short",
+        "low"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto basso",
+          "english": "It is very short",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona basso",
+          "english": "A short person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "facile",
+      "translations": [
+        "easy"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto facile",
+          "english": "It is very easy",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona facile",
+          "english": "A easy person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "difficile",
+      "translations": [
+        "difficult"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto difficile",
+          "english": "It is very difficult",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona difficile",
+          "english": "A difficult person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "difficult",
+        "difficulty"
+      ]
+    },
+    {
+      "id": 22,
+      "word": "caldo",
+      "translations": [
+        "hot"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto caldo",
+          "english": "It is very hot",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona caldo",
+          "english": "A hot person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "freddo",
+      "translations": [
+        "cold"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto freddo",
+          "english": "It is very cold",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona freddo",
+          "english": "A cold person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "dolce",
+      "translations": [
+        "sweet"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto dolce",
+          "english": "It is very sweet",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona dolce",
+          "english": "A sweet person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "amaro",
+      "translations": [
+        "bitter"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto amaro",
+          "english": "It is very bitter",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona amaro",
+          "english": "A bitter person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "forte",
+      "translations": [
+        "strong"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto forte",
+          "english": "It is very strong",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona forte",
+          "english": "A strong person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "debole",
+      "translations": [
+        "weak"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto debole",
+          "english": "It is very weak",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona debole",
+          "english": "A weak person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "veloce",
+      "translations": [
+        "fast"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto veloce",
+          "english": "It is very fast",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona veloce",
+          "english": "A fast person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "velocity"
+      ]
+    },
+    {
+      "id": 29,
+      "word": "lento",
+      "translations": [
+        "slow"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto lento",
+          "english": "It is very slow",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona lento",
+          "english": "A slow person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "ricco",
+      "translations": [
+        "rich"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto ricco",
+          "english": "It is very rich",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona ricco",
+          "english": "A rich person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "povero",
+      "translations": [
+        "poor"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto povero",
+          "english": "It is very poor",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona povero",
+          "english": "A poor person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "word": "felice",
+      "translations": [
+        "happy"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto felice",
+          "english": "It is very happy",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona felice",
+          "english": "A happy person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "triste",
+      "translations": [
+        "sad"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto triste",
+          "english": "It is very sad",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona triste",
+          "english": "A sad person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "importante",
+      "translations": [
+        "important"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto importante",
+          "english": "It is very important",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona importante",
+          "english": "A important person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "important"
+      ]
+    },
+    {
+      "id": 35,
+      "word": "possibile",
+      "translations": [
+        "possible"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto possibile",
+          "english": "It is very possible",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona possibile",
+          "english": "A possible person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "possible"
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "source": "possibilis",
+        "meaning": "able to be",
+        "notes": "From Latin -bilis suffix, meaning \"able to be\" or \"worthy of\". Cognate with English -ble suffix."
+      }
+    },
+    {
+      "id": 36,
+      "word": "necessario",
+      "translations": [
+        "necessary"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto necessario",
+          "english": "It is very necessary",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona necessario",
+          "english": "A necessary person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "necessary"
+      ]
+    },
+    {
+      "id": 37,
+      "word": "diverso",
+      "translations": [
+        "different"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto diverso",
+          "english": "It is very different",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona diverso",
+          "english": "A different person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "sicuro",
+      "translations": [
+        "sure",
+        "safe"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto sicuro",
+          "english": "It is very sure",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona sicuro",
+          "english": "A sure person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "libero",
+      "translations": [
+        "free"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto libero",
+          "english": "It is very free",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona libero",
+          "english": "A free person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "vero",
+      "translations": [
+        "true"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto vero",
+          "english": "It is very true",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona vero",
+          "english": "A true person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "falso",
+      "translations": [
+        "false"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto falso",
+          "english": "It is very false",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona falso",
+          "english": "A false person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "pieno",
+      "translations": [
+        "full"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto pieno",
+          "english": "It is very full",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona pieno",
+          "english": "A full person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "vuoto",
+      "translations": [
+        "empty"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto vuoto",
+          "english": "It is very empty",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona vuoto",
+          "english": "A empty person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "aperto",
+      "translations": [
+        "open"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto aperto",
+          "english": "It is very open",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona aperto",
+          "english": "A open person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "chiuso",
+      "translations": [
+        "closed"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto chiuso",
+          "english": "It is very closed",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona chiuso",
+          "english": "A closed person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "pulito",
+      "translations": [
+        "clean"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto pulito",
+          "english": "It is very clean",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona pulito",
+          "english": "A clean person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "word": "sporco",
+      "translations": [
+        "dirty"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto sporco",
+          "english": "It is very dirty",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona sporco",
+          "english": "A dirty person",
+          "context": "character description"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "word": "silenzioso",
+      "translations": [
+        "quiet"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto silenzioso",
+          "english": "It is very quiet",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona silenzioso",
+          "english": "A quiet person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "silenzious"
+      ]
+    },
+    {
+      "id": 49,
+      "word": "rumoroso",
+      "translations": [
+        "noisy"
+      ],
+      "part_of_speech": "Adjective",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "È molto rumoroso",
+          "english": "It is very noisy",
+          "context": "description"
+        },
+        {
+          "italian": "Una persona rumoroso",
+          "english": "A noisy person",
+          "context": "character description"
+        }
+      ],
+      "cognates": [
+        "rumorous"
+      ]
+    }
+  ]
+}

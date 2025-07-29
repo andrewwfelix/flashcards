@@ -165,22 +165,23 @@ body:has(#study-view.view.active) .container,
 /* Flashcards grid */
 .flashcards-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
 }
 
 .flashcard-item {
     background: white;
-    border-radius: 16px;
-    padding: 25px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    padding: 16px 20px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
     transition: all 0.3s ease;
     border: 1px solid #e2e8f0;
 }
 
 .flashcard-item:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.10);
+    border-color: #cbd5e0;
 }
 
 .flashcard-header {
@@ -221,37 +222,47 @@ body:has(#study-view.view.active) .container,
     color: #742a2a;
 }
 
-.flashcard-question {
-    font-weight: 600;
+.flashcard-content {
+    font-size: 1.1rem;
+    line-height: 1.4;
     color: #2d3748;
-    margin-bottom: 15px;
-    line-height: 1.5;
 }
 
-.flashcard-answer {
+.flashcard-word {
+    font-weight: 700;
+    color: #1a202c;
+}
+
+.flashcard-translation {
     color: #4a5568;
-    line-height: 1.6;
-    margin-bottom: 15px;
-}
-
-.flashcard-tags {
-    margin-bottom: 20px;
-}
-
-.flashcard-part-of-speech {
-    background: #edf2f7;
-    color: #4a5568;
-    padding: 4px 12px;
-    border-radius: 16px;
-    font-size: 0.8rem;
     font-weight: 500;
-    display: inline-block;
-    margin-right: 8px;
 }
 
-.flashcard-actions {
-    display: flex;
-    gap: 10px;
+/* Format 1: Arrow style */
+.arrow {
+    color: #667eea;
+    font-weight: 600;
+    margin: 0 2px;
+}
+
+/* Format 2: Pipe style */
+.pipe {
+    color: #a0aec0;
+    font-weight: 400;
+    margin: 0 4px;
+}
+
+/* Format 3: Colon style */
+.colon {
+    color: #4a5568;
+    font-weight: 600;
+}
+
+/* Format 4: Bullet style */
+.bullet {
+    color: #ed8936;
+    font-weight: 600;
+    margin: 0 6px;
 }
 
 .btn {
@@ -685,15 +696,42 @@ body:has(#study-view.view.active) .container,
     border-left: 2px solid #d69e2e;
 }
 
-/* Related English Words Styles - Compact Format */
+/* Related English Words Styles - Multi-line Format */
 #related-words-list {
-    color: #374151;
-    font-size: 0.85rem;
-    line-height: 1.4;
     padding: 8px;
     background: rgba(59, 130, 246, 0.05);
     border-radius: 6px;
     border-left: 3px solid #3b82f6;
+}
+
+.related-word-item {
+    margin-bottom: 12px;
+    padding: 8px 0;
+}
+
+.related-word-item:last-child {
+    margin-bottom: 0;
+}
+
+.related-word-name {
+    color: #1e40af;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.related-word-meaning {
+    color: #374151;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    margin-bottom: 2px;
+}
+
+.related-word-usage {
+    color: #6b7280;
+    font-size: 0.8rem;
+    font-style: italic;
+    line-height: 1.3;
 }
 
 .difficulty-buttons {

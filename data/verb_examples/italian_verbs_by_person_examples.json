@@ -1,0 +1,109 @@
+{
+  "io": [],
+  "tu": [],
+  "lui/lei": [
+    {
+      "italian": "Lui è molto simpatico.",
+      "english": "He is very nice.",
+      "verb": "essere"
+    },
+    {
+      "italian": "Lei ha una voce bellissima.",
+      "english": "She has a beautiful voice.",
+      "verb": "avere"
+    },
+    {
+      "italian": "Lui fa sempre colazione tardi.",
+      "english": "He always eats breakfast late.",
+      "verb": "fare"
+    },
+    {
+      "italian": "Lei dice che arriverà presto.",
+      "english": "She says she will arrive soon.",
+      "verb": "dire"
+    },
+    {
+      "italian": "Lui va a scuola ogni giorno.",
+      "english": "He goes to school every day.",
+      "verb": "andare"
+    },
+    {
+      "italian": "Lei può cantare molto bene.",
+      "english": "She can sing very well.",
+      "verb": "potere"
+    },
+    {
+      "italian": "Lui vuole un bicchiere d’acqua.",
+      "english": "He wants a glass of water.",
+      "verb": "volere"
+    },
+    {
+      "italian": "Lei deve finire il lavoro.",
+      "english": "She has to finish the work.",
+      "verb": "dovere"
+    },
+    {
+      "italian": "Lui sa guidare una moto.",
+      "english": "He knows how to ride a motorcycle.",
+      "verb": "sapere"
+    },
+    {
+      "italian": "Lei sta con sua nonna oggi.",
+      "english": "She is staying with her grandmother today.",
+      "verb": "stare"
+    },
+    {
+      "italian": "Lui vede qualcosa fuori dalla finestra.",
+      "english": "He sees something outside the window.",
+      "verb": "vedere"
+    },
+    {
+      "italian": "Lei dà lezioni di musica.",
+      "english": "She gives music lessons.",
+      "verb": "dare"
+    },
+    {
+      "italian": "Lui parla tre lingue.",
+      "english": "He speaks three languages.",
+      "verb": "parlare"
+    },
+    {
+      "italian": "Lei trova sempre una soluzione.",
+      "english": "She always finds a solution.",
+      "verb": "trovare"
+    },
+    {
+      "italian": "Lui mangia molto a pranzo.",
+      "english": "He eats a lot at lunch.",
+      "verb": "mangiare"
+    },
+    {
+      "italian": "Lei prende appunti durante la lezione.",
+      "english": "She takes notes during the lesson.",
+      "verb": "prendere"
+    },
+    {
+      "italian": "Lui capisce l’italiano perfettamente.",
+      "english": "He understands Italian perfectly.",
+      "verb": "capire"
+    },
+    {
+      "italian": "Lei mette il cappello quando fa freddo.",
+      "english": "She puts on a hat when it’s cold.",
+      "verb": "mettere"
+    },
+    {
+      "italian": "Lui esce ogni venerdì sera.",
+      "english": "He goes out every Friday night.",
+      "verb": "uscire"
+    },
+    {
+      "italian": "Lei viene da Milano.",
+      "english": "She comes from Milan.",
+      "verb": "venire"
+    }
+  ],
+  "noi": [],
+  "voi": [],
+  "loro": []
+}

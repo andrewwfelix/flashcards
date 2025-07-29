@@ -1,0 +1,2056 @@
+{
+  "part_of_speech": "Adverb",
+  "count": 79,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "non",
+      "translations": [
+        "not"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Non parlo italiano.",
+          "english": "I do not speak Italian.",
+          "context": "Negation of ability"
+        },
+        {
+          "italian": "Non è interessante.",
+          "english": "It is not interesting.",
+          "context": "Evaluation of something"
+        },
+        {
+          "italian": "Non voglio andare.",
+          "english": "I do not want to go.",
+          "context": "Expression of desire"
+        },
+        {
+          "italian": "Non ho visto il film.",
+          "english": "I have not seen the movie.",
+          "context": "Negation of experience"
+        }
+      ],
+      "formation": {
+        "type": "original_adverb",
+        "base_adjective": null,
+        "description": "The adverb 'non' is a native Italian adverb used for negation.",
+        "formation_rule": "It does not follow a specific formation rule as it is an original adverb."
+      },
+      "function": {
+        "type": "manner",
+        "description": "This adverb negates verbs, indicating the absence of an action or quality.",
+        "question_answered": "Come?"
+      },
+      "position": {
+        "type": "pre_verb",
+        "description": "This adverb typically precedes the verb it negates.",
+        "notes": "It can also start a sentence for emphasis."
+      },
+      "comparison": {
+        "comparative": null,
+        "superlative": null,
+        "notes": "Not applicable as 'non' does not have comparative or superlative forms."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "non",
+        "meaning": "The original Latin word means 'not'.",
+        "notes": "The word has retained its meaning through evolution into modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "none",
+          "meaning": "Not any; no one.",
+          "usage": "None of the options were suitable."
+        },
+        {
+          "word": "nonchalant",
+          "meaning": "Feeling or appearing casually calm and relaxed.",
+          "usage": "She was nonchalant about the exam results."
+        }
+      ],
+      "cognates": [
+        "none",
+        "nonexistent"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "Non è vero",
+          "Non lo so"
+        ],
+        "grammatical_tips": "Always place 'non' before the verb to negate it."
+      }
+    },
+    {
+      "id": 2,
+      "word": "come",
+      "translations": [
+        "how",
+        "as"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo come un esperto.",
+          "english": "I speak like an expert.",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Com'è interessante questo libro!",
+          "english": "How interesting this book is!",
+          "context": "evaluation"
+        },
+        {
+          "italian": "Come posso aiutarti?",
+          "english": "How can I help you?",
+          "context": "asking for assistance"
+        },
+        {
+          "italian": "Vivi come vuoi.",
+          "english": "Live as you wish.",
+          "context": "giving advice"
+        }
+      ],
+      "formation": {
+        "type": "original_adverb",
+        "base_adjective": null,
+        "description": "The adverb 'come' is a native Italian adverb that expresses manner or comparison.",
+        "formation_rule": "It does not follow a specific formation rule as it is an original adverb."
+      },
+      "function": {
+        "type": "manner",
+        "description": "This adverb describes the manner in which an action is performed.",
+        "question_answered": "Come?"
+      },
+      "position": {
+        "type": "flexible",
+        "description": "This adverb can appear in various positions within a sentence.",
+        "notes": "It can be placed before or after the verb, depending on emphasis."
+      },
+      "comparison": {
+        "comparative": "più come",
+        "superlative": "il più come",
+        "notes": "The adverb does not have a standard comparative or superlative form."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "quomodo",
+        "meaning": "In what manner, how.",
+        "notes": "The word evolved from Latin to express manner and comparison in modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "come",
+          "meaning": "To move or travel toward or into a place thought of as near.",
+          "usage": "Come here, please."
+        },
+        {
+          "word": "comet",
+          "meaning": "A celestial object consisting of a nucleus of ice and dust.",
+          "usage": "The comet will be visible tonight."
+        }
+      ],
+      "cognates": [
+        "como",
+        "comme"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "come va?",
+          "come stai?",
+          "come si dice?"
+        ],
+        "grammatical_tips": "Use 'come' to express manner or comparison; it can be flexible in position."
+      }
+    },
+    {
+      "id": 3,
+      "word": "più",
+      "translations": [
+        "more"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo più lentamente quando sono stanco.",
+          "english": "I speak more slowly when I am tired.",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Questo libro è più interessante di quello.",
+          "english": "This book is more interesting than that one.",
+          "context": "evaluation"
+        },
+        {
+          "italian": "Voglio più cibo per cena.",
+          "english": "I want more food for dinner.",
+          "context": "quantity"
+        },
+        {
+          "italian": "Studiamo più spesso insieme.",
+          "english": "We study more often together.",
+          "context": "frequency"
+        }
+      ],
+      "formation": {
+        "type": "original_adverb",
+        "base_adjective": null,
+        "description": "The adverb 'più' is an original adverb that expresses an increase in degree or quantity.",
+        "formation_rule": "It does not follow a specific formation rule as it is a native adverb."
+      },
+      "function": {
+        "type": "quantity",
+        "description": "This adverb describes an increase in quantity or degree.",
+        "question_answered": "Quanto?"
+      },
+      "position": {
+        "type": "flexible",
+        "description": "This adverb can appear in various positions within a sentence.",
+        "notes": "It typically follows the verb but can also be used for emphasis before the verb."
+      },
+      "comparison": {
+        "comparative": "più",
+        "superlative": "il più",
+        "notes": "Used to form comparative and superlative degrees without irregular changes."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "plus",
+        "meaning": "The original Latin word means 'more' or 'greater'.",
+        "notes": "The word evolved from Latin to modern Italian, retaining its meaning."
+      },
+      "related_english_words": [
+        {
+          "word": "plus",
+          "meaning": "An additional amount.",
+          "usage": "The price is $10 plus tax."
+        },
+        {
+          "word": "plural",
+          "meaning": "Referring to more than one.",
+          "usage": "The plural form of 'cat' is 'cats'."
+        }
+      ],
+      "cognates": [
+        "plus",
+        "plenty"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "più che mai",
+          "più o meno"
+        ],
+        "grammatical_tips": "Use 'più' to indicate comparison or increase; it can modify adjectives, verbs, and nouns."
+      }
+    },
+    {
+      "id": 4,
+      "word": "ora",
+      "translations": [
+        "now"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo ora con te.",
+          "english": "I am speaking now with you.",
+          "context": "indicating the current time of speaking"
+        },
+        {
+          "italian": "Ora è il momento di agire.",
+          "english": "Now is the time to act.",
+          "context": "emphasizing the importance of the current moment"
+        },
+        {
+          "italian": "Ora capisco tutto.",
+          "english": "Now I understand everything.",
+          "context": "indicating a change in understanding"
+        },
+        {
+          "italian": "Ora, che ne dici di andare al cinema?",
+          "english": "Now, what do you say about going to the cinema?",
+          "context": "introducing a suggestion"
+        }
+      ],
+      "formation": {
+        "type": "original_adverb",
+        "base_adjective": null,
+        "description": "The adverb 'ora' is a native adverb that indicates the present time.",
+        "formation_rule": "It does not follow a specific formation rule as it is an original adverb."
+      },
+      "function": {
+        "type": "time",
+        "description": "This adverb describes the timing of an action.",
+        "question_answered": "Quando?"
+      },
+      "position": {
+        "type": "flexible",
+        "description": "This adverb can appear in various positions within a sentence.",
+        "notes": "It is commonly used at the beginning or after the verb for emphasis."
+      },
+      "comparison": {
+        "comparative": null,
+        "superlative": null,
+        "notes": "The adverb 'ora' does not have comparative or superlative forms."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "hora",
+        "meaning": "The original word means 'hour' or 'time'.",
+        "notes": "The word evolved from Latin to modern Italian, retaining its meaning related to time."
+      },
+      "related_english_words": [
+        {
+          "word": "hour",
+          "meaning": "A unit of time equal to 60 minutes.",
+          "usage": "The meeting will start in one hour."
+        },
+        {
+          "word": "horology",
+          "meaning": "The study and measurement of time.",
+          "usage": "He has a keen interest in horology."
+        }
+      ],
+      "cognates": [
+        "hora",
+        "horas"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "Ora di pranzo",
+          "Ora di andare"
+        ],
+        "grammatical_tips": "Use 'ora' to indicate the present moment, and it can be placed flexibly in sentences."
+      }
+    },
+    {
+      "id": 5,
+      "word": "molto",
+      "translations": [
+        "very",
+        "much"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Sono molto felice.",
+          "english": "I am very happy.",
+          "context": "intensity"
+        },
+        {
+          "italian": "Mangio molto.",
+          "english": "I eat a lot.",
+          "context": "quantity"
+        },
+        {
+          "italian": "Lavoro molto duramente.",
+          "english": "I work very hard.",
+          "context": "intensity"
+        },
+        {
+          "italian": "Ci sono molte persone qui.",
+          "english": "There are many people here.",
+          "context": "quantity"
+        }
+      ],
+      "formation": {
+        "type": "irregular_formation",
+        "base_adjective": "molto",
+        "description": "The adverb 'molto' is derived from the adjective 'molto', which means 'much' or 'many'.",
+        "formation_rule": "The adverb does not follow the typical -mente formation as it is an irregular formation."
+      },
+      "function": {
+        "type": "quantity",
+        "description": "This adverb describes the extent or amount of something.",
+        "question_answered": "Quanto?"
+      },
+      "position": {
+        "type": "flexible",
+        "description": "This adverb can appear in various positions within a sentence.",
+        "notes": "It typically follows the verb but can also be used for emphasis before the verb."
+      },
+      "comparison": {
+        "comparative": "più molto",
+        "superlative": "il più molto",
+        "notes": "The comparative and superlative forms are not commonly used in everyday language."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "multum",
+        "meaning": "The original Latin word means 'much' or 'many'.",
+        "notes": "The word evolved into 'molto' in Italian, retaining its meaning related to quantity."
+      },
+      "related_english_words": [
+        {
+          "word": "multiple",
+          "meaning": "Consisting of or involving several parts, elements, or members.",
+          "usage": "She has multiple options to choose from."
+        },
+        {
+          "word": "multitude",
+          "meaning": "A large number of people or things.",
+          "usage": "A multitude of fans gathered at the concert."
+        }
+      ],
+      "cognates": [
+        "multitude",
+        "multiple"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "molto bene",
+          "molto interessante"
+        ],
+        "grammatical_tips": "Use 'molto' to emphasize adjectives or verbs, and remember it can be placed flexibly in sentences."
+      }
+    },
+    {
+      "id": 6,
+      "word": "sempre",
+      "translations": [
+        "always"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo sempre",
+          "english": "I speak always",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Sempre interessante",
+          "english": "Always interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "mai",
+      "translations": [
+        "never"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo mai",
+          "english": "I speak never",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Mai interessante",
+          "english": "Never interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "spesso",
+      "translations": [
+        "often"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo spesso",
+          "english": "I speak often",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Spesso interessante",
+          "english": "Often interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "qualche volta",
+      "translations": [
+        "sometimes"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo qualche volta",
+          "english": "I speak sometimes",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Qualche volta interessante",
+          "english": "Sometimes interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "raramente",
+      "translations": [
+        "rarely"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo raramente",
+          "english": "I speak rarely",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Raramente interessante",
+          "english": "Rarely interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "già",
+      "translations": [
+        "already"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo già",
+          "english": "I speak already",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Già interessante",
+          "english": "Already interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "ancora",
+      "translations": [
+        "still",
+        "again"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo ancora",
+          "english": "I speak still",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Ancora interessante",
+          "english": "Still interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "prima",
+      "translations": [
+        "before"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo prima",
+          "english": "I speak before",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Prima interessante",
+          "english": "Before interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "dopo",
+      "translations": [
+        "after"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo dopo",
+          "english": "I speak after",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Dopo interessante",
+          "english": "After interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "subito",
+      "translations": [
+        "immediately"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo subito",
+          "english": "I speak immediately",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Subito interessante",
+          "english": "Immediately interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "presto",
+      "translations": [
+        "soon",
+        "early"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo presto",
+          "english": "I speak soon",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Presto interessante",
+          "english": "Soon interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "tardi",
+      "translations": [
+        "late"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo tardi",
+          "english": "I speak late",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Tardi interessante",
+          "english": "Late interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "ieri",
+      "translations": [
+        "yesterday"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo ieri",
+          "english": "I speak yesterday",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Ieri interessante",
+          "english": "Yesterday interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "oggi",
+      "translations": [
+        "today"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo oggi",
+          "english": "I speak today",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Oggi interessante",
+          "english": "Today interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "domani",
+      "translations": [
+        "tomorrow"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo domani",
+          "english": "I speak tomorrow",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Domani interessante",
+          "english": "Tomorrow interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "stamattina",
+      "translations": [
+        "this morning"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo stamattina",
+          "english": "I speak this morning",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Stamattina interessante",
+          "english": "This morning interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "word": "stasera",
+      "translations": [
+        "tonight"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo stasera",
+          "english": "I speak tonight",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Stasera interessante",
+          "english": "Tonight interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "stanotte",
+      "translations": [
+        "tonight",
+        "last night"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo stanotte",
+          "english": "I speak tonight",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Stanotte interessante",
+          "english": "Tonight interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "bene",
+      "translations": [
+        "well"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Sto bene",
+          "english": "I am well",
+          "context": "health status"
+        },
+        {
+          "italian": "Parli bene italiano",
+          "english": "You speak Italian well",
+          "context": "skill level"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "male",
+      "translations": [
+        "badly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo male",
+          "english": "I speak badly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Male interessante",
+          "english": "Badly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "meglio",
+      "translations": [
+        "better"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo meglio",
+          "english": "I speak better",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Meglio interessante",
+          "english": "Better interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "peggio",
+      "translations": [
+        "worse"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo peggio",
+          "english": "I speak worse",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Peggio interessante",
+          "english": "Worse interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "insieme",
+      "translations": [
+        "together"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo insieme",
+          "english": "I speak together",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Insieme interessante",
+          "english": "Together interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "word": "solo",
+      "translations": [
+        "alone",
+        "only"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Sono solo a casa",
+          "english": "I am alone at home",
+          "context": "solitude"
+        },
+        {
+          "italian": "Solo due persone",
+          "english": "Only two people",
+          "context": "limitation"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "anche",
+      "translations": [
+        "also"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Anch'io vengo",
+          "english": "I come too",
+          "context": "inclusion"
+        },
+        {
+          "italian": "Anche lei è italiana",
+          "english": "She is Italian too",
+          "context": "similarity"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "forse",
+      "translations": [
+        "maybe"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo forse",
+          "english": "I speak maybe",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Forse interessante",
+          "english": "Maybe interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "word": "certamente",
+      "translations": [
+        "certainly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo certamente",
+          "english": "I speak certainly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Certamente interessante",
+          "english": "Certainly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "probabilmente",
+      "translations": [
+        "probably"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo probabilmente",
+          "english": "I speak probably",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Probabilmente interessante",
+          "english": "Probably interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "sicuramente",
+      "translations": [
+        "surely"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo sicuramente",
+          "english": "I speak surely",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Sicuramente interessante",
+          "english": "Surely interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "word": "veramente",
+      "translations": [
+        "truly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo veramente",
+          "english": "I speak truly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Veramente interessante",
+          "english": "Truly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "word": "davvero",
+      "translations": [
+        "really"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo davvero",
+          "english": "I speak really",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Davvero interessante",
+          "english": "Really interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "word": "abbastanza",
+      "translations": [
+        "enough"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo abbastanza",
+          "english": "I speak enough",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Abbastanza interessante",
+          "english": "Enough interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "troppo",
+      "translations": [
+        "too much"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo troppo",
+          "english": "I speak too much",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Troppo interessante",
+          "english": "Too much interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "poco",
+      "translations": [
+        "little"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo poco",
+          "english": "I speak little",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Poco interessante",
+          "english": "Little interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "tanto",
+      "translations": [
+        "so much"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo tanto",
+          "english": "I speak so much",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Tanto interessante",
+          "english": "So much interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "parecchio",
+      "translations": [
+        "quite a bit"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo parecchio",
+          "english": "I speak quite a bit",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Parecchio interessante",
+          "english": "Quite a bit interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "niente",
+      "translations": [
+        "nothing"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo niente",
+          "english": "I speak nothing",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Niente interessante",
+          "english": "Nothing interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "nessuno",
+      "translations": [
+        "nobody"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo nessuno",
+          "english": "I speak nobody",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Nessuno interessante",
+          "english": "Nobody interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "tutti",
+      "translations": [
+        "everyone"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo tutti",
+          "english": "I speak everyone",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Tutti interessante",
+          "english": "Everyone interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "qualcuno",
+      "translations": [
+        "someone"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo qualcuno",
+          "english": "I speak someone",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Qualcuno interessante",
+          "english": "Someone interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "qualcosa",
+      "translations": [
+        "something"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo qualcosa",
+          "english": "I speak something",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Qualcosa interessante",
+          "english": "Something interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "word": "dove",
+      "translations": [
+        "where"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo dove",
+          "english": "I speak where",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Dove interessante",
+          "english": "Where interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "word": "quando",
+      "translations": [
+        "when"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo quando",
+          "english": "I speak when",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Quando interessante",
+          "english": "When interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "word": "come",
+      "translations": [
+        "how"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo come",
+          "english": "I speak how",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Come interessante",
+          "english": "How interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "word": "perché",
+      "translations": [
+        "why"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo perché",
+          "english": "I speak why",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Perché interessante",
+          "english": "Why interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "word": "quanto",
+      "translations": [
+        "how much"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo quanto",
+          "english": "I speak how much",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Quanto interessante",
+          "english": "How much interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "word": "velocemente",
+      "translations": [
+        "quickly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo velocemente",
+          "english": "I speak quickly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Velocemente interessante",
+          "english": "Quickly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "word": "lentamente",
+      "translations": [
+        "slowly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo lentamente",
+          "english": "I speak slowly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Lentamente interessante",
+          "english": "Slowly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "word": "facilmente",
+      "translations": [
+        "easily"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo facilmente",
+          "english": "I speak easily",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Facilmente interessante",
+          "english": "Easily interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "word": "difficilmente",
+      "translations": [
+        "hardly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo difficilmente",
+          "english": "I speak hardly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Difficilmente interessante",
+          "english": "Hardly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "word": "attentamente",
+      "translations": [
+        "carefully"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo attentamente",
+          "english": "I speak carefully",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Attentamente interessante",
+          "english": "Carefully interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "word": "gentilmente",
+      "translations": [
+        "kindly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo gentilmente",
+          "english": "I speak kindly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Gentilmente interessante",
+          "english": "Kindly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "word": "duramente",
+      "translations": [
+        "hard"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo duramente",
+          "english": "I speak hard",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Duramente interessante",
+          "english": "Hard interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "word": "dolcemente",
+      "translations": [
+        "sweetly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo dolcemente",
+          "english": "I speak sweetly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Dolcemente interessante",
+          "english": "Sweetly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "word": "fortemente",
+      "translations": [
+        "strongly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo fortemente",
+          "english": "I speak strongly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Fortemente interessante",
+          "english": "Strongly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "word": "debolmente",
+      "translations": [
+        "weakly"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo debolmente",
+          "english": "I speak weakly",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Debolmente interessante",
+          "english": "Weakly interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "word": "qui",
+      "translations": [
+        "here"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo qui",
+          "english": "I speak here",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Qui interessante",
+          "english": "Here interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "word": "qua",
+      "translations": [
+        "here"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo qua",
+          "english": "I speak here",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Qua interessante",
+          "english": "Here interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "word": "là",
+      "translations": [
+        "there"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo là",
+          "english": "I speak there",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Là interessante",
+          "english": "There interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "word": "lì",
+      "translations": [
+        "there"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo lì",
+          "english": "I speak there",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Lì interessante",
+          "english": "There interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "word": "sopra",
+      "translations": [
+        "above"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo sopra",
+          "english": "I speak above",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Sopra interessante",
+          "english": "Above interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "word": "sotto",
+      "translations": [
+        "below"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo sotto",
+          "english": "I speak below",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Sotto interessante",
+          "english": "Below interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "word": "davanti",
+      "translations": [
+        "in front"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo davanti",
+          "english": "I speak in front",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Davanti interessante",
+          "english": "In front interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "word": "dietro",
+      "translations": [
+        "behind"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo dietro",
+          "english": "I speak behind",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Dietro interessante",
+          "english": "Behind interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "word": "dentro",
+      "translations": [
+        "inside"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo dentro",
+          "english": "I speak inside",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Dentro interessante",
+          "english": "Inside interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "word": "fuori",
+      "translations": [
+        "outside"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo fuori",
+          "english": "I speak outside",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Fuori interessante",
+          "english": "Outside interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "word": "vicino",
+      "translations": [
+        "near"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo vicino",
+          "english": "I speak near",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Vicino interessante",
+          "english": "Near interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "word": "lontano",
+      "translations": [
+        "far"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo lontano",
+          "english": "I speak far",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Lontano interessante",
+          "english": "Far interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "word": "destra",
+      "translations": [
+        "right"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo destra",
+          "english": "I speak right",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Destra interessante",
+          "english": "Right interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "word": "sinistra",
+      "translations": [
+        "left"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo sinistra",
+          "english": "I speak left",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Sinistra interessante",
+          "english": "Left interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "word": "nord",
+      "translations": [
+        "north"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo nord",
+          "english": "I speak north",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Nord interessante",
+          "english": "North interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "word": "sud",
+      "translations": [
+        "south"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo sud",
+          "english": "I speak south",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Sud interessante",
+          "english": "South interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "word": "est",
+      "translations": [
+        "east"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo est",
+          "english": "I speak east",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Est interessante",
+          "english": "East interesting",
+          "context": "evaluation"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "word": "ovest",
+      "translations": [
+        "west"
+      ],
+      "part_of_speech": "Adverb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Parlo ovest",
+          "english": "I speak west",
+          "context": "manner of speaking"
+        },
+        {
+          "italian": "Ovest interessante",
+          "english": "West interesting",
+          "context": "evaluation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4368 @@
+{
+  "part_of_speech": "Verb",
+  "count": 134,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "essere",
+      "translations": [
+        "to be"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Io sono felice.",
+          "english": "I am happy.",
+          "context": "state of being",
+          "tense": "present"
+        },
+        {
+          "italian": "Loro sono andati al cinema ieri.",
+          "english": "They went to the cinema yesterday.",
+          "context": "past action",
+          "tense": "past"
+        },
+        {
+          "italian": "Domani saremo in vacanza.",
+          "english": "Tomorrow we will be on vacation.",
+          "context": "future plan",
+          "tense": "future"
+        },
+        {
+          "italian": "Se fossi ricco, sarei felice.",
+          "english": "If I were rich, I would be happy.",
+          "context": "conditional scenario",
+          "tense": "conditional"
+        }
+      ],
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "conjugation_pattern": {
+        "type": "irregular",
+        "description": "Essere is an irregular verb that does not follow standard conjugation patterns.",
+        "notes": "The verb has unique forms in different tenses and does not conform to regular -are, -ere, or -ire endings."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "esse",
+        "meaning": "to be, to exist",
+        "notes": "The Latin verb 'esse' evolved into the Italian 'essere', retaining its core meaning of existence and identity."
+      },
+      "related_english_words": [
+        {
+          "word": "essence",
+          "meaning": "The intrinsic nature or indispensable quality of something.",
+          "usage": "The essence of the argument was clear."
+        },
+        {
+          "word": "essential",
+          "meaning": "Absolutely necessary; extremely important.",
+          "usage": "Water is essential for life."
+        },
+        {
+          "word": "existent",
+          "meaning": "Having existence; being.",
+          "usage": "The concept of an existent reality is debated in philosophy."
+        }
+      ],
+      "cognates": [
+        "essere",
+        "essenza",
+        "essenziale"
+      ],
+      "usage_notes": {
+        "register": "neutral - commonly used in both formal and informal contexts.",
+        "common_phrases": [
+          "essere in grado di",
+          "essere d'accordo"
+        ],
+        "grammatical_tips": "Essere is used as an auxiliary verb in compound tenses, particularly with intransitive verbs."
+      }
+    },
+    {
+      "id": 2,
+      "word": "avere",
+      "translations": [
+        "to have"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho avuto un giorno difficile.",
+          "english": "I had a difficult day.",
+          "context": "Reflecting on a past experience",
+          "tense": "past"
+        },
+        {
+          "italian": "Avrò bisogno di aiuto domani.",
+          "english": "I will need help tomorrow.",
+          "context": "Planning for future assistance",
+          "tense": "future"
+        },
+        {
+          "italian": "Hai mai visto questo film?",
+          "english": "Have you ever seen this movie?",
+          "context": "Asking about past experiences",
+          "tense": "present"
+        },
+        {
+          "italian": "Noi abbiamo sempre amato viaggiare.",
+          "english": "We have always loved to travel.",
+          "context": "Expressing a continuous past action",
+          "tense": "present"
+        }
+      ],
+      "conjugations": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "conjugation_pattern": {
+        "type": "irregular",
+        "description": "Avere is an irregular verb that does not follow the standard conjugation patterns of regular -ere verbs.",
+        "notes": "The verb 'avere' has unique forms in the present tense and is commonly used as an auxiliary verb in compound tenses."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "habere",
+        "meaning": "to hold, to possess",
+        "notes": "The Latin 'habere' evolved into 'avere' in Italian, retaining the core meaning of possession and existence."
+      },
+      "related_english_words": [
+        {
+          "word": "habitat",
+          "meaning": "The natural home or environment of an animal, plant, or other organism.",
+          "usage": "The rainforest is a rich habitat for many species."
+        },
+        {
+          "word": "habit",
+          "meaning": "A settled or regular tendency or practice, especially one that is hard to give up.",
+          "usage": "He has a habit of reading before bed."
+        },
+        {
+          "word": "exhibit",
+          "meaning": "To publicly display (a work of art or item of interest) in an art gallery or museum.",
+          "usage": "The museum will exhibit ancient artifacts next month."
+        }
+      ],
+      "cognates": [
+        "avereccio",
+        "averevolezza"
+      ],
+      "usage_notes": {
+        "register": "neutral - commonly used in both formal and informal contexts.",
+        "common_phrases": [
+          "avere fame",
+          "avere freddo",
+          "avere bisogno di"
+        ],
+        "grammatical_tips": "Avere is used as an auxiliary verb in compound tenses, such as 'ho mangiato' (I have eaten)."
+      }
+    },
+    {
+      "id": 3,
+      "word": "fare",
+      "translations": [
+        "to do",
+        "make"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa fai stasera?",
+          "english": "What are you doing tonight?",
+          "context": "evening plans",
+          "tense": "present"
+        },
+        {
+          "italian": "Ieri ho fatto una lunga passeggiata.",
+          "english": "Yesterday I took a long walk.",
+          "context": "past activity",
+          "tense": "past"
+        },
+        {
+          "italian": "La prossima settimana faremo una gita.",
+          "english": "Next week we will go on a trip.",
+          "context": "future plans",
+          "tense": "future"
+        },
+        {
+          "italian": "Se avessi più tempo, farei un viaggio.",
+          "english": "If I had more time, I would take a trip.",
+          "context": "conditional scenario",
+          "tense": "conditional"
+        }
+      ],
+      "conjugations": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      },
+      "conjugation_pattern": {
+        "type": "irregular",
+        "description": "Fare is an irregular verb that does not follow the standard conjugation patterns of regular verbs.",
+        "notes": "The verb has unique forms in different tenses and does not conform to typical endings."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "facere",
+        "meaning": "to make, to do",
+        "notes": "The Latin 'facere' evolved into the Italian 'fare', retaining its core meaning of making or doing."
+      },
+      "related_english_words": [
+        {
+          "word": "factory",
+          "meaning": "A place where goods are manufactured.",
+          "usage": "The factory produces thousands of toys each year."
+        },
+        {
+          "word": "facilitate",
+          "meaning": "To make an action or process easier.",
+          "usage": "The new software will facilitate communication between teams."
+        }
+      ],
+      "cognates": [
+        "fatto",
+        "facile",
+        "facilità"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "fare attenzione",
+          "fare una domanda",
+          "fare una pausa"
+        ],
+        "grammatical_tips": "Fare is often used as an auxiliary verb in idiomatic expressions and can indicate actions or tasks."
+      }
+    },
+    {
+      "id": 4,
+      "word": "dire",
+      "translations": [
+        "to say"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa dici?",
+          "english": "What are you saying?",
+          "context": "communication"
+        },
+        {
+          "italian": "Dico sempre la verità",
+          "english": "I always tell the truth",
+          "context": "honesty"
+        }
+      ],
+      "conjugations": {
+        "io": "dico",
+        "tu": "dici",
+        "lui/lei": "dice",
+        "noi": "diciamo",
+        "voi": "dite",
+        "loro": "dicono"
+      }
+    },
+    {
+      "id": 5,
+      "word": "andare",
+      "translations": [
+        "to go"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a casa",
+          "english": "I go home",
+          "context": "movement"
+        },
+        {
+          "italian": "Andiamo al cinema",
+          "english": "We go to the cinema",
+          "context": "activities"
+        }
+      ],
+      "conjugations": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "id": 6,
+      "word": "essere",
+      "translations": [
+        "to be"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Io sono felice",
+          "english": "I am happy",
+          "context": "state of being"
+        },
+        {
+          "italian": "Lei è dottoressa",
+          "english": "She is a doctor",
+          "context": "profession"
+        }
+      ],
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "id": 7,
+      "word": "avere",
+      "translations": [
+        "to have"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Ho fame",
+          "english": "I am hungry",
+          "context": "common expression"
+        },
+        {
+          "italian": "Hai una macchina?",
+          "english": "Do you have a car?",
+          "context": "possession"
+        }
+      ],
+      "conjugations": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "id": 8,
+      "word": "fare",
+      "translations": [
+        "to do",
+        "make"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa fai oggi?",
+          "english": "What are you doing today?",
+          "context": "daily activities"
+        },
+        {
+          "italian": "Faccio i compiti",
+          "english": "I'm doing homework",
+          "context": "tasks"
+        }
+      ],
+      "conjugations": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      }
+    },
+    {
+      "id": 9,
+      "word": "dire",
+      "translations": [
+        "to say"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Cosa dici?",
+          "english": "What are you saying?",
+          "context": "communication"
+        },
+        {
+          "italian": "Dico sempre la verità",
+          "english": "I always tell the truth",
+          "context": "honesty"
+        }
+      ],
+      "conjugations": {
+        "io": "dico",
+        "tu": "dici",
+        "lui/lei": "dice",
+        "noi": "diciamo",
+        "voi": "dite",
+        "loro": "dicono"
+      }
+    },
+    {
+      "id": 10,
+      "word": "andare",
+      "translations": [
+        "to go"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a casa",
+          "english": "I go home",
+          "context": "movement"
+        },
+        {
+          "italian": "Andiamo al cinema",
+          "english": "We go to the cinema",
+          "context": "activities"
+        }
+      ],
+      "conjugations": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "id": 11,
+      "word": "potere",
+      "translations": [
+        "to be able"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace potere",
+          "english": "I like to to be able",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo potere",
+          "english": "I must to be able",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "poto",
+        "tu": "poti",
+        "lui/lei": "pote",
+        "noi": "potiamo",
+        "voi": "potete",
+        "loro": "potono"
+      }
+    },
+    {
+      "id": 12,
+      "word": "dovere",
+      "translations": [
+        "to have to"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace dovere",
+          "english": "I like to to have to",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo dovere",
+          "english": "I must to have to",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "dovo",
+        "tu": "dovi",
+        "lui/lei": "dove",
+        "noi": "doviamo",
+        "voi": "dovete",
+        "loro": "dovono"
+      }
+    },
+    {
+      "id": 13,
+      "word": "volere",
+      "translations": [
+        "to want"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace volere",
+          "english": "I like to to want",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo volere",
+          "english": "I must to want",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "volo",
+        "tu": "voli",
+        "lui/lei": "vole",
+        "noi": "voliamo",
+        "voi": "volete",
+        "loro": "volono"
+      }
+    },
+    {
+      "id": 14,
+      "word": "sapere",
+      "translations": [
+        "to know"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace sapere",
+          "english": "I like to to know",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo sapere",
+          "english": "I must to know",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "so",
+        "tu": "sai",
+        "lui/lei": "sa",
+        "noi": "sappiamo",
+        "voi": "sapete",
+        "loro": "sanno"
+      }
+    },
+    {
+      "id": 15,
+      "word": "dare",
+      "translations": [
+        "to give"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace dare",
+          "english": "I like to to give",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo dare",
+          "english": "I must to give",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "do",
+        "tu": "dai",
+        "lui/lei": "dà",
+        "noi": "diamo",
+        "voi": "date",
+        "loro": "danno"
+      }
+    },
+    {
+      "id": 16,
+      "word": "stare",
+      "translations": [
+        "to stay"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace stare",
+          "english": "I like to to stay",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo stare",
+          "english": "I must to stay",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "sto",
+        "tu": "stai",
+        "lui/lei": "sta",
+        "noi": "stiamo",
+        "voi": "state",
+        "loro": "stanno"
+      }
+    },
+    {
+      "id": 17,
+      "word": "vedere",
+      "translations": [
+        "to see"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vedo un uccello",
+          "english": "I see a bird",
+          "context": "visual perception"
+        },
+        {
+          "italian": "Ci vediamo domani",
+          "english": "See you tomorrow",
+          "context": "farewell"
+        }
+      ],
+      "conjugations": {
+        "io": "vedo",
+        "tu": "vedi",
+        "lui/lei": "vede",
+        "noi": "vediamo",
+        "voi": "vedete",
+        "loro": "vedono"
+      }
+    },
+    {
+      "id": 18,
+      "word": "venire",
+      "translations": [
+        "to come"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vieni con me?",
+          "english": "Are you coming with me?",
+          "context": "invitation"
+        },
+        {
+          "italian": "Vengo domani",
+          "english": "I'm coming tomorrow",
+          "context": "future plans"
+        }
+      ],
+      "cognates": [
+        "venue",
+        "advent"
+      ],
+      "conjugations": {
+        "io": "vengo",
+        "tu": "vieni",
+        "lui/lei": "viene",
+        "noi": "veniamo",
+        "voi": "venite",
+        "loro": "vengono"
+      }
+    },
+    {
+      "id": 19,
+      "word": "uscire",
+      "translations": [
+        "to go out"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace uscire",
+          "english": "I like to to go out",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo uscire",
+          "english": "I must to go out",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "exit"
+      ],
+      "conjugations": {
+        "io": "usco",
+        "tu": "usci",
+        "lui/lei": "usce",
+        "noi": "usciamo",
+        "voi": "uscite",
+        "loro": "uscono"
+      }
+    },
+    {
+      "id": 20,
+      "word": "parlare",
+      "translations": [
+        "to speak"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace parlare",
+          "english": "I like to to speak",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo parlare",
+          "english": "I must to speak",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "parlor",
+        "parliament"
+      ],
+      "conjugations": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    },
+    {
+      "id": 21,
+      "word": "trovare",
+      "translations": [
+        "to find"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace trovare",
+          "english": "I like to to find",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo trovare",
+          "english": "I must to find",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "trove"
+      ],
+      "conjugations": {
+        "io": "trovo",
+        "tu": "trovi",
+        "lui/lei": "trova",
+        "noi": "troviamo",
+        "voi": "trovate",
+        "loro": "trovano"
+      }
+    },
+    {
+      "id": 22,
+      "word": "portare",
+      "translations": [
+        "to bring"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace portare",
+          "english": "I like to to bring",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo portare",
+          "english": "I must to bring",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "port",
+        "transport"
+      ],
+      "conjugations": {
+        "io": "porto",
+        "tu": "porti",
+        "lui/lei": "porta",
+        "noi": "portiamo",
+        "voi": "portate",
+        "loro": "portano"
+      }
+    },
+    {
+      "id": 23,
+      "word": "lasciare",
+      "translations": [
+        "to leave"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace lasciare",
+          "english": "I like to to leave",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo lasciare",
+          "english": "I must to leave",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "lax"
+      ],
+      "conjugations": {
+        "io": "lascio",
+        "tu": "lascii",
+        "lui/lei": "lascia",
+        "noi": "lasciiamo",
+        "voi": "lasciate",
+        "loro": "lasciano"
+      }
+    },
+    {
+      "id": 24,
+      "word": "mettere",
+      "translations": [
+        "to put"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace mettere",
+          "english": "I like to to put",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo mettere",
+          "english": "I must to put",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "metto",
+        "tu": "metti",
+        "lui/lei": "mette",
+        "noi": "mettiamo",
+        "voi": "mettete",
+        "loro": "mettono"
+      }
+    },
+    {
+      "id": 25,
+      "word": "sentire",
+      "translations": [
+        "to hear",
+        "feel"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Sento la musica",
+          "english": "I hear the music",
+          "context": "auditory perception"
+        },
+        {
+          "italian": "Come ti senti?",
+          "english": "How do you feel?",
+          "context": "emotions"
+        }
+      ],
+      "cognates": [
+        "sense",
+        "sentiment"
+      ],
+      "conjugations": {
+        "io": "sento",
+        "tu": "senti",
+        "lui/lei": "sente",
+        "noi": "sentiamo",
+        "voi": "sentite",
+        "loro": "sentono"
+      }
+    },
+    {
+      "id": 26,
+      "word": "chiamare",
+      "translations": [
+        "to call"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace chiamare",
+          "english": "I like to to call",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo chiamare",
+          "english": "I must to call",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "claim",
+        "clamor"
+      ],
+      "conjugations": {
+        "io": "chiamo",
+        "tu": "chiami",
+        "lui/lei": "chiama",
+        "noi": "chiamiamo",
+        "voi": "chiamate",
+        "loro": "chiamano"
+      }
+    },
+    {
+      "id": 27,
+      "word": "aspettare",
+      "translations": [
+        "to wait"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace aspettare",
+          "english": "I like to to wait",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo aspettare",
+          "english": "I must to wait",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "aspetto",
+        "tu": "aspetti",
+        "lui/lei": "aspetta",
+        "noi": "aspettiamo",
+        "voi": "aspettate",
+        "loro": "aspettano"
+      }
+    },
+    {
+      "id": 28,
+      "word": "entrare",
+      "translations": [
+        "to enter"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace entrare",
+          "english": "I like to to enter",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo entrare",
+          "english": "I must to enter",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "enter"
+      ],
+      "conjugations": {
+        "io": "entro",
+        "tu": "entri",
+        "lui/lei": "entra",
+        "noi": "entriamo",
+        "voi": "entrate",
+        "loro": "entrano"
+      }
+    },
+    {
+      "id": 29,
+      "word": "vivere",
+      "translations": [
+        "to live"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace vivere",
+          "english": "I like to to live",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo vivere",
+          "english": "I must to live",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "vivid",
+        "vital"
+      ],
+      "conjugations": {
+        "io": "vivo",
+        "tu": "vivi",
+        "lui/lei": "vive",
+        "noi": "viviamo",
+        "voi": "vivete",
+        "loro": "vivono"
+      }
+    },
+    {
+      "id": 30,
+      "word": "morire",
+      "translations": [
+        "to die"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace morire",
+          "english": "I like to to die",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo morire",
+          "english": "I must to die",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "moro",
+        "tu": "mori",
+        "lui/lei": "more",
+        "noi": "moriamo",
+        "voi": "morite",
+        "loro": "morono"
+      }
+    },
+    {
+      "id": 31,
+      "word": "aprire",
+      "translations": [
+        "to open"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace aprire",
+          "english": "I like to to open",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo aprire",
+          "english": "I must to open",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "aperture"
+      ],
+      "conjugations": {
+        "io": "apro",
+        "tu": "apri",
+        "lui/lei": "apre",
+        "noi": "apriamo",
+        "voi": "aprite",
+        "loro": "aprono"
+      }
+    },
+    {
+      "id": 32,
+      "word": "chiudere",
+      "translations": [
+        "to close"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace chiudere",
+          "english": "I like to to close",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo chiudere",
+          "english": "I must to close",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "close"
+      ],
+      "conjugations": {
+        "io": "chiudo",
+        "tu": "chiudi",
+        "lui/lei": "chiude",
+        "noi": "chiudiamo",
+        "voi": "chiudete",
+        "loro": "chiudono"
+      }
+    },
+    {
+      "id": 33,
+      "word": "credere",
+      "translations": [
+        "to believe"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace credere",
+          "english": "I like to to believe",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo credere",
+          "english": "I must to believe",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "credo",
+        "tu": "credi",
+        "lui/lei": "crede",
+        "noi": "crediamo",
+        "voi": "credete",
+        "loro": "credono"
+      }
+    },
+    {
+      "id": 34,
+      "word": "leggere",
+      "translations": [
+        "to read"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace leggere",
+          "english": "I like to to read",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo leggere",
+          "english": "I must to read",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "leggo",
+        "tu": "leggi",
+        "lui/lei": "legge",
+        "noi": "leggiamo",
+        "voi": "leggete",
+        "loro": "leggono"
+      }
+    },
+    {
+      "id": 35,
+      "word": "scrivere",
+      "translations": [
+        "to write"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace scrivere",
+          "english": "I like to to write",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo scrivere",
+          "english": "I must to write",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "scrivo",
+        "tu": "scrivi",
+        "lui/lei": "scrive",
+        "noi": "scriviamo",
+        "voi": "scrivete",
+        "loro": "scrivono"
+      }
+    },
+    {
+      "id": 36,
+      "word": "comprare",
+      "translations": [
+        "to buy"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace comprare",
+          "english": "I like to to buy",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo comprare",
+          "english": "I must to buy",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "compare"
+      ],
+      "conjugations": {
+        "io": "compro",
+        "tu": "compri",
+        "lui/lei": "compra",
+        "noi": "compriamo",
+        "voi": "comprate",
+        "loro": "comprano"
+      }
+    },
+    {
+      "id": 37,
+      "word": "vendere",
+      "translations": [
+        "to sell"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace vendere",
+          "english": "I like to to sell",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo vendere",
+          "english": "I must to sell",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "vend"
+      ],
+      "conjugations": {
+        "io": "vendo",
+        "tu": "vendi",
+        "lui/lei": "vende",
+        "noi": "vendiamo",
+        "voi": "vendete",
+        "loro": "vendono"
+      }
+    },
+    {
+      "id": 38,
+      "word": "mangiare",
+      "translations": [
+        "to eat"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace mangiare la pizza",
+          "english": "I like to eat pizza",
+          "context": "preferences"
+        },
+        {
+          "italian": "Cosa vuoi mangiare?",
+          "english": "What do you want to eat?",
+          "context": "asking questions"
+        }
+      ],
+      "conjugations": {
+        "io": "mangio",
+        "tu": "mangii",
+        "lui/lei": "mangia",
+        "noi": "mangiiamo",
+        "voi": "mangiate",
+        "loro": "mangiano"
+      }
+    },
+    {
+      "id": 39,
+      "word": "bere",
+      "translations": [
+        "to drink"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Bevo acqua ogni giorno",
+          "english": "I drink water every day",
+          "context": "daily habits"
+        },
+        {
+          "italian": "Vuoi bere qualcosa?",
+          "english": "Do you want to drink something?",
+          "context": "offering"
+        }
+      ],
+      "conjugations": {
+        "io": "bo",
+        "tu": "bi",
+        "lui/lei": "be",
+        "noi": "biamo",
+        "voi": "bete",
+        "loro": "bono"
+      }
+    },
+    {
+      "id": 40,
+      "word": "dormire",
+      "translations": [
+        "to sleep"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace dormire",
+          "english": "I like to to sleep",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo dormire",
+          "english": "I must to sleep",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "dormo",
+        "tu": "dormi",
+        "lui/lei": "dorme",
+        "noi": "dormiamo",
+        "voi": "dormite",
+        "loro": "dormono"
+      }
+    },
+    {
+      "id": 41,
+      "word": "svegliare",
+      "translations": [
+        "to wake up"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace svegliare",
+          "english": "I like to to wake up",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo svegliare",
+          "english": "I must to wake up",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "vigil"
+      ],
+      "conjugations": {
+        "io": "sveglio",
+        "tu": "sveglii",
+        "lui/lei": "sveglia",
+        "noi": "svegliiamo",
+        "voi": "svegliate",
+        "loro": "svegliano"
+      }
+    },
+    {
+      "id": 42,
+      "word": "alzare",
+      "translations": [
+        "to raise",
+        "get up"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace alzare",
+          "english": "I like to to raise",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo alzare",
+          "english": "I must to raise",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "alzo",
+        "tu": "alzi",
+        "lui/lei": "alza",
+        "noi": "alziamo",
+        "voi": "alzate",
+        "loro": "alzano"
+      }
+    },
+    {
+      "id": 43,
+      "word": "cadere",
+      "translations": [
+        "to fall"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace cadere",
+          "english": "I like to to fall",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo cadere",
+          "english": "I must to fall",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "cado",
+        "tu": "cadi",
+        "lui/lei": "cade",
+        "noi": "cadiamo",
+        "voi": "cadete",
+        "loro": "cadono"
+      }
+    },
+    {
+      "id": 44,
+      "word": "correre",
+      "translations": [
+        "to run"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace correre",
+          "english": "I like to to run",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo correre",
+          "english": "I must to run",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "current",
+        "course"
+      ],
+      "conjugations": {
+        "io": "corro",
+        "tu": "corri",
+        "lui/lei": "corre",
+        "noi": "corriamo",
+        "voi": "correte",
+        "loro": "corrono"
+      }
+    },
+    {
+      "id": 45,
+      "word": "camminare",
+      "translations": [
+        "to walk"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace camminare",
+          "english": "I like to to walk",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo camminare",
+          "english": "I must to walk",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "cammino",
+        "tu": "cammini",
+        "lui/lei": "cammina",
+        "noi": "camminiamo",
+        "voi": "camminate",
+        "loro": "camminano"
+      }
+    },
+    {
+      "id": 46,
+      "word": "volare",
+      "translations": [
+        "to fly"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace volare",
+          "english": "I like to to fly",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo volare",
+          "english": "I must to fly",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "volatile"
+      ],
+      "conjugations": {
+        "io": "volo",
+        "tu": "voli",
+        "lui/lei": "vola",
+        "noi": "voliamo",
+        "voi": "volate",
+        "loro": "volano"
+      }
+    },
+    {
+      "id": 47,
+      "word": "nuotare",
+      "translations": [
+        "to swim"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace nuotare",
+          "english": "I like to to swim",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo nuotare",
+          "english": "I must to swim",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "nuoto",
+        "tu": "nuoti",
+        "lui/lei": "nuota",
+        "noi": "nuotiamo",
+        "voi": "nuotate",
+        "loro": "nuotano"
+      }
+    },
+    {
+      "id": 48,
+      "word": "guidare",
+      "translations": [
+        "to drive"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace guidare",
+          "english": "I like to to drive",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo guidare",
+          "english": "I must to drive",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "guide"
+      ],
+      "conjugations": {
+        "io": "guido",
+        "tu": "guidi",
+        "lui/lei": "guida",
+        "noi": "guidiamo",
+        "voi": "guidate",
+        "loro": "guidano"
+      }
+    },
+    {
+      "id": 49,
+      "word": "giocare",
+      "translations": [
+        "to play"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace giocare",
+          "english": "I like to to play",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo giocare",
+          "english": "I must to play",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "gioco",
+        "tu": "gioci",
+        "lui/lei": "gioca",
+        "noi": "giociamo",
+        "voi": "giocate",
+        "loro": "giocano"
+      }
+    },
+    {
+      "id": 50,
+      "word": "lavorare",
+      "translations": [
+        "to work"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace lavorare",
+          "english": "I like to to work",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo lavorare",
+          "english": "I must to work",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      }
+    },
+    {
+      "id": 51,
+      "word": "studiare",
+      "translations": [
+        "to study"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace studiare",
+          "english": "I like to to study",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo studiare",
+          "english": "I must to study",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "study"
+      ],
+      "conjugations": {
+        "io": "studio",
+        "tu": "studii",
+        "lui/lei": "studia",
+        "noi": "studiiamo",
+        "voi": "studiate",
+        "loro": "studiano"
+      }
+    },
+    {
+      "id": 52,
+      "word": "insegnare",
+      "translations": [
+        "to teach"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace insegnare",
+          "english": "I like to to teach",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo insegnare",
+          "english": "I must to teach",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "teach"
+      ],
+      "conjugations": {
+        "io": "insegno",
+        "tu": "insegni",
+        "lui/lei": "insegna",
+        "noi": "insegniamo",
+        "voi": "insegnate",
+        "loro": "insegnano"
+      }
+    },
+    {
+      "id": 53,
+      "word": "imparare",
+      "translations": [
+        "to learn"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace imparare",
+          "english": "I like to to learn",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo imparare",
+          "english": "I must to learn",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "learn"
+      ],
+      "conjugations": {
+        "io": "imparo",
+        "tu": "impari",
+        "lui/lei": "impara",
+        "noi": "impariamo",
+        "voi": "imparate",
+        "loro": "imparano"
+      }
+    },
+    {
+      "id": 54,
+      "word": "cucinare",
+      "translations": [
+        "to cook"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace cucinare",
+          "english": "I like to to cook",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo cucinare",
+          "english": "I must to cook",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "cucino",
+        "tu": "cucini",
+        "lui/lei": "cucina",
+        "noi": "cuciniamo",
+        "voi": "cucinate",
+        "loro": "cucinano"
+      }
+    },
+    {
+      "id": 55,
+      "word": "cantare",
+      "translations": [
+        "to sing"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace cantare",
+          "english": "I like to to sing",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo cantare",
+          "english": "I must to sing",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "canto",
+        "tu": "canti",
+        "lui/lei": "canta",
+        "noi": "cantiamo",
+        "voi": "cantate",
+        "loro": "cantano"
+      }
+    },
+    {
+      "id": 56,
+      "word": "ballare",
+      "translations": [
+        "to dance"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace ballare",
+          "english": "I like to to dance",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo ballare",
+          "english": "I must to dance",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "ballo",
+        "tu": "balli",
+        "lui/lei": "balla",
+        "noi": "balliamo",
+        "voi": "ballate",
+        "loro": "ballano"
+      }
+    },
+    {
+      "id": 57,
+      "word": "ridere",
+      "translations": [
+        "to laugh"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace ridere",
+          "english": "I like to to laugh",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo ridere",
+          "english": "I must to laugh",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "ridiculous"
+      ],
+      "conjugations": {
+        "io": "rido",
+        "tu": "ridi",
+        "lui/lei": "ride",
+        "noi": "ridiamo",
+        "voi": "ridete",
+        "loro": "ridono"
+      }
+    },
+    {
+      "id": 58,
+      "word": "piangere",
+      "translations": [
+        "to cry"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace piangere",
+          "english": "I like to to cry",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo piangere",
+          "english": "I must to cry",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "piango",
+        "tu": "piangi",
+        "lui/lei": "piange",
+        "noi": "piangiamo",
+        "voi": "piangete",
+        "loro": "piangono"
+      }
+    },
+    {
+      "id": 59,
+      "word": "sorridere",
+      "translations": [
+        "to smile"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace sorridere",
+          "english": "I like to to smile",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo sorridere",
+          "english": "I must to smile",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "sorrido",
+        "tu": "sorridi",
+        "lui/lei": "sorride",
+        "noi": "sorridiamo",
+        "voi": "sorridete",
+        "loro": "sorridono"
+      }
+    },
+    {
+      "id": 60,
+      "word": "abbracciare",
+      "translations": [
+        "to hug"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace abbracciare",
+          "english": "I like to to hug",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo abbracciare",
+          "english": "I must to hug",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "abbraccio",
+        "tu": "abbraccii",
+        "lui/lei": "abbraccia",
+        "noi": "abbracciiamo",
+        "voi": "abbracciate",
+        "loro": "abbracciano"
+      }
+    },
+    {
+      "id": 61,
+      "word": "baciare",
+      "translations": [
+        "to kiss"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace baciare",
+          "english": "I like to to kiss",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo baciare",
+          "english": "I must to kiss",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "bacio",
+        "tu": "bacii",
+        "lui/lei": "bacia",
+        "noi": "baciiamo",
+        "voi": "baciate",
+        "loro": "baciano"
+      }
+    },
+    {
+      "id": 62,
+      "word": "sposare",
+      "translations": [
+        "to marry"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace sposare",
+          "english": "I like to to marry",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo sposare",
+          "english": "I must to marry",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "spouse"
+      ],
+      "conjugations": {
+        "io": "sposo",
+        "tu": "sposi",
+        "lui/lei": "sposa",
+        "noi": "sposiamo",
+        "voi": "sposate",
+        "loro": "sposano"
+      }
+    },
+    {
+      "id": 63,
+      "word": "nascere",
+      "translations": [
+        "to be born"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace nascere",
+          "english": "I like to to be born",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo nascere",
+          "english": "I must to be born",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "nascent"
+      ],
+      "conjugations": {
+        "io": "nasco",
+        "tu": "nasci",
+        "lui/lei": "nasce",
+        "noi": "nasciamo",
+        "voi": "nascete",
+        "loro": "nascono"
+      }
+    },
+    {
+      "id": 64,
+      "word": "crescere",
+      "translations": [
+        "to grow"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace crescere",
+          "english": "I like to to grow",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo crescere",
+          "english": "I must to grow",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "crescent"
+      ],
+      "conjugations": {
+        "io": "cresco",
+        "tu": "cresci",
+        "lui/lei": "cresce",
+        "noi": "cresciamo",
+        "voi": "crescete",
+        "loro": "crescono"
+      }
+    },
+    {
+      "id": 65,
+      "word": "diventare",
+      "translations": [
+        "to become"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace diventare",
+          "english": "I like to to become",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo diventare",
+          "english": "I must to become",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "advent"
+      ],
+      "conjugations": {
+        "io": "divento",
+        "tu": "diventi",
+        "lui/lei": "diventa",
+        "noi": "diventiamo",
+        "voi": "diventate",
+        "loro": "diventano"
+      }
+    },
+    {
+      "id": 66,
+      "word": "rimanere",
+      "translations": [
+        "to remain"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace rimanere",
+          "english": "I like to to remain",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo rimanere",
+          "english": "I must to remain",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "remain"
+      ],
+      "conjugations": {
+        "io": "rimano",
+        "tu": "rimani",
+        "lui/lei": "rimane",
+        "noi": "rimaniamo",
+        "voi": "rimanete",
+        "loro": "rimanono"
+      }
+    },
+    {
+      "id": 67,
+      "word": "partire",
+      "translations": [
+        "to leave",
+        "depart"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace partire",
+          "english": "I like to to leave",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo partire",
+          "english": "I must to leave",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "part",
+        "depart"
+      ],
+      "conjugations": {
+        "io": "parto",
+        "tu": "parti",
+        "lui/lei": "parte",
+        "noi": "partiamo",
+        "voi": "partite",
+        "loro": "partono"
+      }
+    },
+    {
+      "id": 68,
+      "word": "arrivare",
+      "translations": [
+        "to arrive"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace arrivare",
+          "english": "I like to to arrive",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo arrivare",
+          "english": "I must to arrive",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "arrive"
+      ],
+      "conjugations": {
+        "io": "arrivo",
+        "tu": "arrivi",
+        "lui/lei": "arriva",
+        "noi": "arriviamo",
+        "voi": "arrivate",
+        "loro": "arrivano"
+      }
+    },
+    {
+      "id": 69,
+      "word": "tornare",
+      "translations": [
+        "to return"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace tornare",
+          "english": "I like to to return",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo tornare",
+          "english": "I must to return",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "turn"
+      ],
+      "conjugations": {
+        "io": "torno",
+        "tu": "torni",
+        "lui/lei": "torna",
+        "noi": "torniamo",
+        "voi": "tornate",
+        "loro": "tornano"
+      }
+    },
+    {
+      "id": 70,
+      "word": "incontrare",
+      "translations": [
+        "to meet"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace incontrare",
+          "english": "I like to to meet",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo incontrare",
+          "english": "I must to meet",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "encounter"
+      ],
+      "conjugations": {
+        "io": "incontro",
+        "tu": "incontri",
+        "lui/lei": "incontra",
+        "noi": "incontriamo",
+        "voi": "incontrate",
+        "loro": "incontrano"
+      }
+    },
+    {
+      "id": 71,
+      "word": "conoscere",
+      "translations": [
+        "to know"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace conoscere",
+          "english": "I like to to know",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo conoscere",
+          "english": "I must to know",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "conosco",
+        "tu": "conosci",
+        "lui/lei": "conosce",
+        "noi": "conosciamo",
+        "voi": "conoscete",
+        "loro": "conoscono"
+      }
+    },
+    {
+      "id": 72,
+      "word": "ricordare",
+      "translations": [
+        "to remember"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace ricordare",
+          "english": "I like to to remember",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo ricordare",
+          "english": "I must to remember",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "record"
+      ],
+      "conjugations": {
+        "io": "ricordo",
+        "tu": "ricordi",
+        "lui/lei": "ricorda",
+        "noi": "ricordiamo",
+        "voi": "ricordate",
+        "loro": "ricordano"
+      }
+    },
+    {
+      "id": 73,
+      "word": "dimenticare",
+      "translations": [
+        "to forget"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace dimenticare",
+          "english": "I like to to forget",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo dimenticare",
+          "english": "I must to forget",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "dimentico",
+        "tu": "dimentici",
+        "lui/lei": "dimentica",
+        "noi": "dimenticiamo",
+        "voi": "dimenticate",
+        "loro": "dimenticano"
+      }
+    },
+    {
+      "id": 74,
+      "word": "pensare",
+      "translations": [
+        "to think"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace pensare",
+          "english": "I like to to think",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo pensare",
+          "english": "I must to think",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "pensive"
+      ],
+      "conjugations": {
+        "io": "penso",
+        "tu": "pensi",
+        "lui/lei": "pensa",
+        "noi": "pensiamo",
+        "voi": "pensate",
+        "loro": "pensano"
+      }
+    },
+    {
+      "id": 75,
+      "word": "sognare",
+      "translations": [
+        "to dream"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace sognare",
+          "english": "I like to to dream",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo sognare",
+          "english": "I must to dream",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "somnium"
+      ],
+      "conjugations": {
+        "io": "sogno",
+        "tu": "sogni",
+        "lui/lei": "sogna",
+        "noi": "sogniamo",
+        "voi": "sognate",
+        "loro": "sognano"
+      }
+    },
+    {
+      "id": 76,
+      "word": "sperare",
+      "translations": [
+        "to hope"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace sperare",
+          "english": "I like to to hope",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo sperare",
+          "english": "I must to hope",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "spero",
+        "tu": "speri",
+        "lui/lei": "spera",
+        "noi": "speriamo",
+        "voi": "sperate",
+        "loro": "sperano"
+      }
+    },
+    {
+      "id": 77,
+      "word": "desiderare",
+      "translations": [
+        "to wish"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace desiderare",
+          "english": "I like to to wish",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo desiderare",
+          "english": "I must to wish",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "desidero",
+        "tu": "desideri",
+        "lui/lei": "desidera",
+        "noi": "desideriamo",
+        "voi": "desiderate",
+        "loro": "desiderano"
+      }
+    },
+    {
+      "id": 78,
+      "word": "amare",
+      "translations": [
+        "to love"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace amare",
+          "english": "I like to to love",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo amare",
+          "english": "I must to love",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "amo",
+        "tu": "ami",
+        "lui/lei": "ama",
+        "noi": "amiamo",
+        "voi": "amate",
+        "loro": "amano"
+      }
+    },
+    {
+      "id": 79,
+      "word": "odiare",
+      "translations": [
+        "to hate"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace odiare",
+          "english": "I like to to hate",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo odiare",
+          "english": "I must to hate",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "odio",
+        "tu": "odii",
+        "lui/lei": "odia",
+        "noi": "odiiamo",
+        "voi": "odiate",
+        "loro": "odiano"
+      }
+    },
+    {
+      "id": 80,
+      "word": "aiutare",
+      "translations": [
+        "to help"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace aiutare",
+          "english": "I like to to help",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo aiutare",
+          "english": "I must to help",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "aid"
+      ],
+      "conjugations": {
+        "io": "aiuto",
+        "tu": "aiuti",
+        "lui/lei": "aiuta",
+        "noi": "aiutiamo",
+        "voi": "aiutate",
+        "loro": "aiutano"
+      }
+    },
+    {
+      "id": 81,
+      "word": "vincere",
+      "translations": [
+        "to win"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace vincere",
+          "english": "I like to to win",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo vincere",
+          "english": "I must to win",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "victory"
+      ],
+      "conjugations": {
+        "io": "vinco",
+        "tu": "vinci",
+        "lui/lei": "vince",
+        "noi": "vinciamo",
+        "voi": "vincete",
+        "loro": "vincono"
+      }
+    },
+    {
+      "id": 82,
+      "word": "perdere",
+      "translations": [
+        "to lose"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace perdere",
+          "english": "I like to to lose",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo perdere",
+          "english": "I must to lose",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "perdition"
+      ],
+      "conjugations": {
+        "io": "perdo",
+        "tu": "perdi",
+        "lui/lei": "perde",
+        "noi": "perdiamo",
+        "voi": "perdete",
+        "loro": "perdono"
+      }
+    },
+    {
+      "id": 83,
+      "word": "spingere",
+      "translations": [
+        "to push"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace spingere",
+          "english": "I like to to push",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo spingere",
+          "english": "I must to push",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "spingo",
+        "tu": "spingi",
+        "lui/lei": "spinge",
+        "noi": "spingiamo",
+        "voi": "spingete",
+        "loro": "spingono"
+      }
+    },
+    {
+      "id": 84,
+      "word": "tirare",
+      "translations": [
+        "to pull"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace tirare",
+          "english": "I like to to pull",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo tirare",
+          "english": "I must to pull",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "tiro",
+        "tu": "tiri",
+        "lui/lei": "tira",
+        "noi": "tiriamo",
+        "voi": "tirate",
+        "loro": "tirano"
+      }
+    },
+    {
+      "id": 85,
+      "word": "tagliare",
+      "translations": [
+        "to cut"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace tagliare",
+          "english": "I like to to cut",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo tagliare",
+          "english": "I must to cut",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "cut"
+      ],
+      "conjugations": {
+        "io": "taglio",
+        "tu": "taglii",
+        "lui/lei": "taglia",
+        "noi": "tagliiamo",
+        "voi": "tagliate",
+        "loro": "tagliano"
+      }
+    },
+    {
+      "id": 86,
+      "word": "rompere",
+      "translations": [
+        "to break"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace rompere",
+          "english": "I like to to break",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo rompere",
+          "english": "I must to break",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "rompo",
+        "tu": "rompi",
+        "lui/lei": "rompe",
+        "noi": "rompiamo",
+        "voi": "rompete",
+        "loro": "rompono"
+      }
+    },
+    {
+      "id": 87,
+      "word": "riparare",
+      "translations": [
+        "to repair"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace riparare",
+          "english": "I like to to repair",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo riparare",
+          "english": "I must to repair",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "riparo",
+        "tu": "ripari",
+        "lui/lei": "ripara",
+        "noi": "ripariamo",
+        "voi": "riparate",
+        "loro": "riparano"
+      }
+    },
+    {
+      "id": 88,
+      "word": "costruire",
+      "translations": [
+        "to build"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace costruire",
+          "english": "I like to to build",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo costruire",
+          "english": "I must to build",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "construct"
+      ],
+      "conjugations": {
+        "io": "costruo",
+        "tu": "costrui",
+        "lui/lei": "costrue",
+        "noi": "costruiamo",
+        "voi": "costruite",
+        "loro": "costruono"
+      }
+    },
+    {
+      "id": 89,
+      "word": "distruggere",
+      "translations": [
+        "to destroy"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace distruggere",
+          "english": "I like to to destroy",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo distruggere",
+          "english": "I must to destroy",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "distruggo",
+        "tu": "distruggi",
+        "lui/lei": "distrugge",
+        "noi": "distruggiamo",
+        "voi": "distruggete",
+        "loro": "distruggono"
+      }
+    },
+    {
+      "id": 90,
+      "word": "prendere",
+      "translations": [
+        "to take"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace prendere",
+          "english": "I like to to take",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo prendere",
+          "english": "I must to take",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      }
+    },
+    {
+      "id": 91,
+      "word": "tenere",
+      "translations": [
+        "to hold"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace tenere",
+          "english": "I like to to hold",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo tenere",
+          "english": "I must to hold",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "tenacious",
+        "tenant"
+      ],
+      "conjugations": {
+        "io": "teno",
+        "tu": "teni",
+        "lui/lei": "tene",
+        "noi": "teniamo",
+        "voi": "tenete",
+        "loro": "tenono"
+      }
+    },
+    {
+      "id": 92,
+      "word": "toccare",
+      "translations": [
+        "to touch"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace toccare",
+          "english": "I like to to touch",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo toccare",
+          "english": "I must to touch",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "tocco",
+        "tu": "tocci",
+        "lui/lei": "tocca",
+        "noi": "tocciamo",
+        "voi": "toccate",
+        "loro": "toccano"
+      }
+    },
+    {
+      "id": 93,
+      "word": "guardare",
+      "translations": [
+        "to look",
+        "watch"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace guardare",
+          "english": "I like to to look",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo guardare",
+          "english": "I must to look",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "guard"
+      ],
+      "conjugations": {
+        "io": "guardo",
+        "tu": "guardi",
+        "lui/lei": "guarda",
+        "noi": "guardiamo",
+        "voi": "guardate",
+        "loro": "guardano"
+      }
+    },
+    {
+      "id": 94,
+      "word": "ascoltare",
+      "translations": [
+        "to listen"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace ascoltare",
+          "english": "I like to to listen",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo ascoltare",
+          "english": "I must to listen",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "ascolto",
+        "tu": "ascolti",
+        "lui/lei": "ascolta",
+        "noi": "ascoltiamo",
+        "voi": "ascoltate",
+        "loro": "ascoltano"
+      }
+    },
+    {
+      "id": 95,
+      "word": "odorare",
+      "translations": [
+        "to smell"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace odorare",
+          "english": "I like to to smell",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo odorare",
+          "english": "I must to smell",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "odoro",
+        "tu": "odori",
+        "lui/lei": "odora",
+        "noi": "odoriamo",
+        "voi": "odorate",
+        "loro": "odorano"
+      }
+    },
+    {
+      "id": 96,
+      "word": "assaggiare",
+      "translations": [
+        "to taste"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace assaggiare",
+          "english": "I like to to taste",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo assaggiare",
+          "english": "I must to taste",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "assaggio",
+        "tu": "assaggii",
+        "lui/lei": "assaggia",
+        "noi": "assaggiiamo",
+        "voi": "assaggiate",
+        "loro": "assaggiano"
+      }
+    },
+    {
+      "id": 97,
+      "word": "accendere",
+      "translations": [
+        "to turn on"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace accendere",
+          "english": "I like to to turn on",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo accendere",
+          "english": "I must to turn on",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "accendo",
+        "tu": "accendi",
+        "lui/lei": "accende",
+        "noi": "accendiamo",
+        "voi": "accendete",
+        "loro": "accendono"
+      }
+    },
+    {
+      "id": 98,
+      "word": "spegnere",
+      "translations": [
+        "to turn off"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace spegnere",
+          "english": "I like to to turn off",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo spegnere",
+          "english": "I must to turn off",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "extinct"
+      ],
+      "conjugations": {
+        "io": "spegno",
+        "tu": "spegni",
+        "lui/lei": "spegne",
+        "noi": "spegniamo",
+        "voi": "spegnete",
+        "loro": "spegnono"
+      }
+    },
+    {
+      "id": 99,
+      "word": "iniziare",
+      "translations": [
+        "to start"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace iniziare",
+          "english": "I like to to start",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo iniziare",
+          "english": "I must to start",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "initiate"
+      ],
+      "conjugations": {
+        "io": "inizio",
+        "tu": "inizii",
+        "lui/lei": "inizia",
+        "noi": "iniziiamo",
+        "voi": "iniziate",
+        "loro": "iniziano"
+      }
+    },
+    {
+      "id": 100,
+      "word": "finire",
+      "translations": [
+        "to finish"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace finire",
+          "english": "I like to to finish",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo finire",
+          "english": "I must to finish",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "fino",
+        "tu": "fini",
+        "lui/lei": "fine",
+        "noi": "finiamo",
+        "voi": "finite",
+        "loro": "finono"
+      }
+    },
+    {
+      "id": 101,
+      "word": "continuare",
+      "translations": [
+        "to continue"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace continuare",
+          "english": "I like to to continue",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo continuare",
+          "english": "I must to continue",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "continuo",
+        "tu": "continui",
+        "lui/lei": "continua",
+        "noi": "continuiamo",
+        "voi": "continuate",
+        "loro": "continuano"
+      }
+    },
+    {
+      "id": 102,
+      "word": "fermare",
+      "translations": [
+        "to stop"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace fermare",
+          "english": "I like to to stop",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo fermare",
+          "english": "I must to stop",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "fermo",
+        "tu": "fermi",
+        "lui/lei": "ferma",
+        "noi": "fermiamo",
+        "voi": "fermate",
+        "loro": "fermano"
+      }
+    },
+    {
+      "id": 103,
+      "word": "seguire",
+      "translations": [
+        "to follow"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace seguire",
+          "english": "I like to to follow",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo seguire",
+          "english": "I must to follow",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "sequence"
+      ],
+      "conjugations": {
+        "io": "seguo",
+        "tu": "segui",
+        "lui/lei": "segue",
+        "noi": "seguiamo",
+        "voi": "seguite",
+        "loro": "seguono"
+      }
+    },
+    {
+      "id": 104,
+      "word": "precedere",
+      "translations": [
+        "to precede"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace precedere",
+          "english": "I like to to precede",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo precedere",
+          "english": "I must to precede",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "precedo",
+        "tu": "precedi",
+        "lui/lei": "precede",
+        "noi": "precediamo",
+        "voi": "precedete",
+        "loro": "precedono"
+      }
+    },
+    {
+      "id": 105,
+      "word": "salire",
+      "translations": [
+        "to go up"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace salire",
+          "english": "I like to to go up",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo salire",
+          "english": "I must to go up",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "salo",
+        "tu": "sali",
+        "lui/lei": "sale",
+        "noi": "saliamo",
+        "voi": "salite",
+        "loro": "salono"
+      }
+    },
+    {
+      "id": 106,
+      "word": "scendere",
+      "translations": [
+        "to go down"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace scendere",
+          "english": "I like to to go down",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo scendere",
+          "english": "I must to go down",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "descend"
+      ],
+      "conjugations": {
+        "io": "scendo",
+        "tu": "scendi",
+        "lui/lei": "scende",
+        "noi": "scendiamo",
+        "voi": "scendete",
+        "loro": "scendono"
+      }
+    },
+    {
+      "id": 107,
+      "word": "attraversare",
+      "translations": [
+        "to cross"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace attraversare",
+          "english": "I like to to cross",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo attraversare",
+          "english": "I must to cross",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "attraverso",
+        "tu": "attraversi",
+        "lui/lei": "attraversa",
+        "noi": "attraversiamo",
+        "voi": "attraversate",
+        "loro": "attraversano"
+      }
+    },
+    {
+      "id": 108,
+      "word": "girare",
+      "translations": [
+        "to turn"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace girare",
+          "english": "I like to to turn",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo girare",
+          "english": "I must to turn",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "giro",
+        "tu": "giri",
+        "lui/lei": "gira",
+        "noi": "giriamo",
+        "voi": "girate",
+        "loro": "girano"
+      }
+    },
+    {
+      "id": 109,
+      "word": "mostrare",
+      "translations": [
+        "to show"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace mostrare",
+          "english": "I like to to show",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo mostrare",
+          "english": "I must to show",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "mostro",
+        "tu": "mostri",
+        "lui/lei": "mostra",
+        "noi": "mostriamo",
+        "voi": "mostrate",
+        "loro": "mostrano"
+      }
+    },
+    {
+      "id": 110,
+      "word": "nascondere",
+      "translations": [
+        "to hide"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace nascondere",
+          "english": "I like to to hide",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo nascondere",
+          "english": "I must to hide",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "nascondo",
+        "tu": "nascondi",
+        "lui/lei": "nasconde",
+        "noi": "nascondiamo",
+        "voi": "nascondete",
+        "loro": "nascondono"
+      }
+    },
+    {
+      "id": 111,
+      "word": "cercare",
+      "translations": [
+        "to look for"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace cercare",
+          "english": "I like to to look for",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo cercare",
+          "english": "I must to look for",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "search"
+      ],
+      "conjugations": {
+        "io": "cerco",
+        "tu": "cerci",
+        "lui/lei": "cerca",
+        "noi": "cerciamo",
+        "voi": "cercate",
+        "loro": "cercano"
+      }
+    },
+    {
+      "id": 112,
+      "word": "servire",
+      "translations": [
+        "to serve"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace servire",
+          "english": "I like to to serve",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo servire",
+          "english": "I must to serve",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "serve"
+      ],
+      "conjugations": {
+        "io": "servo",
+        "tu": "servi",
+        "lui/lei": "serve",
+        "noi": "serviamo",
+        "voi": "servite",
+        "loro": "servono"
+      }
+    },
+    {
+      "id": 113,
+      "word": "funzionare",
+      "translations": [
+        "to work",
+        "function"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace funzionare",
+          "english": "I like to to work",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo funzionare",
+          "english": "I must to work",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "funziono",
+        "tu": "funzioni",
+        "lui/lei": "funziona",
+        "noi": "funzioniamo",
+        "voi": "funzionate",
+        "loro": "funzionano"
+      }
+    },
+    {
+      "id": 114,
+      "word": "utilizzare",
+      "translations": [
+        "to use"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace utilizzare",
+          "english": "I like to to use",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo utilizzare",
+          "english": "I must to use",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "utilizzo",
+        "tu": "utilizzi",
+        "lui/lei": "utilizza",
+        "noi": "utilizziamo",
+        "voi": "utilizzate",
+        "loro": "utilizzano"
+      }
+    },
+    {
+      "id": 115,
+      "word": "cambiare",
+      "translations": [
+        "to change"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace cambiare",
+          "english": "I like to to change",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo cambiare",
+          "english": "I must to change",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "change"
+      ],
+      "conjugations": {
+        "io": "cambio",
+        "tu": "cambii",
+        "lui/lei": "cambia",
+        "noi": "cambiiamo",
+        "voi": "cambiate",
+        "loro": "cambiano"
+      }
+    },
+    {
+      "id": 116,
+      "word": "migliorare",
+      "translations": [
+        "to improve"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace migliorare",
+          "english": "I like to to improve",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo migliorare",
+          "english": "I must to improve",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "miglioro",
+        "tu": "migliori",
+        "lui/lei": "migliora",
+        "noi": "miglioriamo",
+        "voi": "migliorate",
+        "loro": "migliorano"
+      }
+    },
+    {
+      "id": 117,
+      "word": "peggiorare",
+      "translations": [
+        "to worsen"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace peggiorare",
+          "english": "I like to to worsen",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo peggiorare",
+          "english": "I must to worsen",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "peggioro",
+        "tu": "peggiori",
+        "lui/lei": "peggiora",
+        "noi": "peggioriamo",
+        "voi": "peggiorate",
+        "loro": "peggiorano"
+      }
+    },
+    {
+      "id": 118,
+      "word": "crescere",
+      "translations": [
+        "to increase"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace crescere",
+          "english": "I like to to increase",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo crescere",
+          "english": "I must to increase",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "crescent"
+      ],
+      "conjugations": {
+        "io": "cresco",
+        "tu": "cresci",
+        "lui/lei": "cresce",
+        "noi": "cresciamo",
+        "voi": "crescete",
+        "loro": "crescono"
+      }
+    },
+    {
+      "id": 119,
+      "word": "diminuire",
+      "translations": [
+        "to decrease"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace diminuire",
+          "english": "I like to to decrease",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo diminuire",
+          "english": "I must to decrease",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "diminuo",
+        "tu": "diminui",
+        "lui/lei": "diminue",
+        "noi": "diminuiamo",
+        "voi": "diminuite",
+        "loro": "diminuono"
+      }
+    },
+    {
+      "id": 120,
+      "word": "costare",
+      "translations": [
+        "to cost"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace costare",
+          "english": "I like to to cost",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo costare",
+          "english": "I must to cost",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "costo",
+        "tu": "costi",
+        "lui/lei": "costa",
+        "noi": "costiamo",
+        "voi": "costate",
+        "loro": "costano"
+      }
+    },
+    {
+      "id": 121,
+      "word": "pagare",
+      "translations": [
+        "to pay"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace pagare",
+          "english": "I like to to pay",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo pagare",
+          "english": "I must to pay",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "pago",
+        "tu": "pagi",
+        "lui/lei": "paga",
+        "noi": "pagiamo",
+        "voi": "pagate",
+        "loro": "pagano"
+      }
+    },
+    {
+      "id": 122,
+      "word": "spendere",
+      "translations": [
+        "to spend"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace spendere",
+          "english": "I like to to spend",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo spendere",
+          "english": "I must to spend",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "spend"
+      ],
+      "conjugations": {
+        "io": "spendo",
+        "tu": "spendi",
+        "lui/lei": "spende",
+        "noi": "spendiamo",
+        "voi": "spendete",
+        "loro": "spendono"
+      }
+    },
+    {
+      "id": 123,
+      "word": "risparmiare",
+      "translations": [
+        "to save"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace risparmiare",
+          "english": "I like to to save",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo risparmiare",
+          "english": "I must to save",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "risparmio",
+        "tu": "risparmii",
+        "lui/lei": "risparmia",
+        "noi": "risparmiiamo",
+        "voi": "risparmiate",
+        "loro": "risparmiano"
+      }
+    },
+    {
+      "id": 124,
+      "word": "guadagnare",
+      "translations": [
+        "to earn"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace guadagnare",
+          "english": "I like to to earn",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo guadagnare",
+          "english": "I must to earn",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "guadagno",
+        "tu": "guadagni",
+        "lui/lei": "guadagna",
+        "noi": "guadagniamo",
+        "voi": "guadagnate",
+        "loro": "guadagnano"
+      }
+    },
+    {
+      "id": 125,
+      "word": "decidere",
+      "translations": [
+        "to decide"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace decidere",
+          "english": "I like to to decide",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo decidere",
+          "english": "I must to decide",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "decide"
+      ],
+      "conjugations": {
+        "io": "decido",
+        "tu": "decidi",
+        "lui/lei": "decide",
+        "noi": "decidiamo",
+        "voi": "decidete",
+        "loro": "decidono"
+      }
+    },
+    {
+      "id": 126,
+      "word": "scegliere",
+      "translations": [
+        "to choose"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace scegliere",
+          "english": "I like to to choose",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo scegliere",
+          "english": "I must to choose",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "select"
+      ],
+      "conjugations": {
+        "io": "sceglio",
+        "tu": "sceglii",
+        "lui/lei": "sceglie",
+        "noi": "scegliiamo",
+        "voi": "scegliete",
+        "loro": "scegliono"
+      }
+    },
+    {
+      "id": 127,
+      "word": "preferire",
+      "translations": [
+        "to prefer"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace preferire",
+          "english": "I like to to prefer",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo preferire",
+          "english": "I must to prefer",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "prefero",
+        "tu": "preferi",
+        "lui/lei": "prefere",
+        "noi": "preferiamo",
+        "voi": "preferite",
+        "loro": "preferono"
+      }
+    },
+    {
+      "id": 128,
+      "word": "provare",
+      "translations": [
+        "to try"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace provare",
+          "english": "I like to to try",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo provare",
+          "english": "I must to try",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "prove"
+      ],
+      "conjugations": {
+        "io": "provo",
+        "tu": "provi",
+        "lui/lei": "prova",
+        "noi": "proviamo",
+        "voi": "provate",
+        "loro": "provano"
+      }
+    },
+    {
+      "id": 129,
+      "word": "riuscire",
+      "translations": [
+        "to succeed"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace riuscire",
+          "english": "I like to to succeed",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo riuscire",
+          "english": "I must to succeed",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "riusco",
+        "tu": "riusci",
+        "lui/lei": "riusce",
+        "noi": "riusciamo",
+        "voi": "riuscite",
+        "loro": "riuscono"
+      }
+    },
+    {
+      "id": 130,
+      "word": "fallire",
+      "translations": [
+        "to fail"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace fallire",
+          "english": "I like to to fail",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo fallire",
+          "english": "I must to fail",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "fallo",
+        "tu": "falli",
+        "lui/lei": "falle",
+        "noi": "falliamo",
+        "voi": "fallite",
+        "loro": "fallono"
+      }
+    },
+    {
+      "id": 131,
+      "word": "sbagliare",
+      "translations": [
+        "to make a mistake"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace sbagliare",
+          "english": "I like to to make a mistake",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo sbagliare",
+          "english": "I must to make a mistake",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "error"
+      ],
+      "conjugations": {
+        "io": "sbaglio",
+        "tu": "sbaglii",
+        "lui/lei": "sbaglia",
+        "noi": "sbagliiamo",
+        "voi": "sbagliate",
+        "loro": "sbagliano"
+      }
+    },
+    {
+      "id": 132,
+      "word": "correggere",
+      "translations": [
+        "to correct"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace correggere",
+          "english": "I like to to correct",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo correggere",
+          "english": "I must to correct",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "correggo",
+        "tu": "correggi",
+        "lui/lei": "corregge",
+        "noi": "correggiamo",
+        "voi": "correggete",
+        "loro": "correggono"
+      }
+    },
+    {
+      "id": 133,
+      "word": "spiegare",
+      "translations": [
+        "to explain"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace spiegare",
+          "english": "I like to to explain",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo spiegare",
+          "english": "I must to explain",
+          "context": "necessity"
+        }
+      ],
+      "cognates": [
+        "explain"
+      ],
+      "conjugations": {
+        "io": "spiego",
+        "tu": "spiegi",
+        "lui/lei": "spiega",
+        "noi": "spiegiamo",
+        "voi": "spiegate",
+        "loro": "spiegano"
+      }
+    },
+    {
+      "id": 134,
+      "word": "capire",
+      "translations": [
+        "to understand"
+      ],
+      "part_of_speech": "Verb",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mi piace capire",
+          "english": "I like to to understand",
+          "context": "preference"
+        },
+        {
+          "italian": "Devo capire",
+          "english": "I must to understand",
+          "context": "necessity"
+        }
+      ],
+      "conjugations": {
+        "io": "capo",
+        "tu": "capi",
+        "lui/lei": "cape",
+        "noi": "capiamo",
+        "voi": "capite",
+        "loro": "capono"
+      }
+    }
+  ]
+}

@@ -259,29 +259,15 @@ function renderFlashcards(cardsToRender) {
 function createFlashcardElement(flashcard) {
     const div = document.createElement('div');
     div.className = 'flashcard-item';
+    
+    // Consistent bullet format for all cards: "il • the"
     div.innerHTML = `
-        <div class="flashcard-header">
-            <span class="flashcard-category">${flashcard.category}</span>
-            <span class="flashcard-difficulty ${flashcard.difficulty.toLowerCase()}">${flashcard.difficulty}</span>
-        </div>
-        <div class="flashcard-question">${flashcard.question}</div>
-        <div class="flashcard-answer">${flashcard.answer}</div>
-        <div class="flashcard-tags">
-            ${flashcard.part_of_speech ? `<span class="flashcard-part-of-speech">${flashcard.part_of_speech}</span>` : ''}
-        </div>
-        <div class="flashcard-actions">
-            <button class="btn btn-secondary edit-btn" data-id="${flashcard.id}">
-                <i class="fas fa-edit"></i> Edit
-            </button>
-            <button class="btn btn-danger delete-btn" data-id="${flashcard.id}">
-                <i class="fas fa-trash"></i> Delete
-            </button>
+        <div class="flashcard-content format-bullet">
+            <span class="flashcard-word">${flashcard.question}</span>
+            <span class="bullet"> • </span>
+            <span class="flashcard-translation">${flashcard.answer}</span>
         </div>
     `;
-
-    // Add event listeners
-    div.querySelector('.edit-btn').addEventListener('click', () => openEditModal(flashcard));
-    div.querySelector('.delete-btn').addEventListener('click', () => deleteFlashcard(flashcard.id));
 
     return div;
 }
@@ -969,13 +955,19 @@ function populateRelatedEnglishWords(relatedWords) {
     // Limit to first 4 related words to keep card readable
     const limitedWords = relatedWords.slice(0, 4);
     
-    // Create compact single-line format for each word
-    const wordStrings = limitedWords.map(wordInfo => 
-        `${wordInfo.word}; ${wordInfo.meaning}; "${wordInfo.usage}"`
-    );
-    
-    // Join all words with bullet separators on one line
-    relatedWordsList.innerHTML = wordStrings.join(' • ');
+    // Create formatted entries with each word on its own line
+    limitedWords.forEach(wordInfo => {
+        const wordDiv = document.createElement('div');
+        wordDiv.className = 'related-word-item';
+        
+        wordDiv.innerHTML = `
+            <div class="related-word-name"><strong>${wordInfo.word}</strong></div>
+            <div class="related-word-meaning">${wordInfo.meaning}</div>
+            <div class="related-word-usage">"${wordInfo.usage}"</div>
+        `;
+        
+        relatedWordsList.appendChild(wordDiv);
+    });
     
     relatedWordsSection.style.display = 'block';
 }
