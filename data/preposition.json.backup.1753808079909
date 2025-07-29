@@ -1,0 +1,1247 @@
+{
+  "part_of_speech": "Preposition",
+  "count": 56,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "di",
+      "translations": [
+        "of",
+        "from"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La casa di Maria",
+          "english": "Maria's house",
+          "context": "possession"
+        },
+        {
+          "italian": "Sono di Roma",
+          "english": "I am from Rome",
+          "context": "origin"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "word": "a",
+      "translations": [
+        "to",
+        "at"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a casa",
+          "english": "I go home",
+          "context": "direction"
+        },
+        {
+          "italian": "Sono a scuola",
+          "english": "I am at school",
+          "context": "location"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "word": "in",
+      "translations": [
+        "in"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Sono in macchina",
+          "english": "I am in the car",
+          "context": "inside location"
+        },
+        {
+          "italian": "Vivo in Italia",
+          "english": "I live in Italy",
+          "context": "country"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "word": "per",
+      "translations": [
+        "for"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questo è per te",
+          "english": "This is for you",
+          "context": "beneficiary"
+        },
+        {
+          "italian": "Studio per l'esame",
+          "english": "I study for the exam",
+          "context": "purpose"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "word": "con",
+      "translations": [
+        "with"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vengo con te",
+          "english": "I come with you",
+          "context": "accompaniment"
+        },
+        {
+          "italian": "Mangio con la forchetta",
+          "english": "I eat with a fork",
+          "context": "instruments"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "word": "da",
+      "translations": [
+        "from",
+        "by"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vengo da casa",
+          "english": "I come from home",
+          "context": "origin point"
+        },
+        {
+          "italian": "Vado dal medico",
+          "english": "I go to the doctor",
+          "context": "destination person"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "su",
+      "translations": [
+        "on"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il libro è sul tavolo",
+          "english": "The book is on the table",
+          "context": "position"
+        },
+        {
+          "italian": "Saliamo su",
+          "english": "We go up",
+          "context": "direction"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "di",
+      "translations": [
+        "of",
+        "from"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "La casa di Maria",
+          "english": "Maria's house",
+          "context": "possession"
+        },
+        {
+          "italian": "Sono di Roma",
+          "english": "I am from Rome",
+          "context": "origin"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "a",
+      "translations": [
+        "to",
+        "at"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a casa",
+          "english": "I go home",
+          "context": "direction"
+        },
+        {
+          "italian": "Sono a scuola",
+          "english": "I am at school",
+          "context": "location"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "da",
+      "translations": [
+        "from",
+        "by"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vengo da casa",
+          "english": "I come from home",
+          "context": "origin point"
+        },
+        {
+          "italian": "Vado dal medico",
+          "english": "I go to the doctor",
+          "context": "destination person"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "in",
+      "translations": [
+        "in"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Sono in macchina",
+          "english": "I am in the car",
+          "context": "inside location"
+        },
+        {
+          "italian": "Vivo in Italia",
+          "english": "I live in Italy",
+          "context": "country"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "con",
+      "translations": [
+        "with"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vengo con te",
+          "english": "I come with you",
+          "context": "accompaniment"
+        },
+        {
+          "italian": "Mangio con la forchetta",
+          "english": "I eat with a fork",
+          "context": "instruments"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "su",
+      "translations": [
+        "on"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Il libro è sul tavolo",
+          "english": "The book is on the table",
+          "context": "position"
+        },
+        {
+          "italian": "Saliamo su",
+          "english": "We go up",
+          "context": "direction"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "per",
+      "translations": [
+        "for"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Questo è per te",
+          "english": "This is for you",
+          "context": "beneficiary"
+        },
+        {
+          "italian": "Studio per l'esame",
+          "english": "I study for the exam",
+          "context": "purpose"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "tra",
+      "translations": [
+        "between"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado tra casa",
+          "english": "I go between home",
+          "context": "movement"
+        },
+        {
+          "italian": "È tra tavolo",
+          "english": "It is between the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "fra",
+      "translations": [
+        "between"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado fra casa",
+          "english": "I go between home",
+          "context": "movement"
+        },
+        {
+          "italian": "È fra tavolo",
+          "english": "It is between the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "senza",
+      "translations": [
+        "without"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado senza casa",
+          "english": "I go without home",
+          "context": "movement"
+        },
+        {
+          "italian": "È senza tavolo",
+          "english": "It is without the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "sopra",
+      "translations": [
+        "above"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado sopra casa",
+          "english": "I go above home",
+          "context": "movement"
+        },
+        {
+          "italian": "È sopra tavolo",
+          "english": "It is above the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "sotto",
+      "translations": [
+        "under"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado sotto casa",
+          "english": "I go under home",
+          "context": "movement"
+        },
+        {
+          "italian": "È sotto tavolo",
+          "english": "It is under the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "dentro",
+      "translations": [
+        "inside"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado dentro casa",
+          "english": "I go inside home",
+          "context": "movement"
+        },
+        {
+          "italian": "È dentro tavolo",
+          "english": "It is inside the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "fuori",
+      "translations": [
+        "outside"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado fuori casa",
+          "english": "I go outside home",
+          "context": "movement"
+        },
+        {
+          "italian": "È fuori tavolo",
+          "english": "It is outside the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "word": "davanti",
+      "translations": [
+        "in front of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado davanti casa",
+          "english": "I go in front of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È davanti tavolo",
+          "english": "It is in front of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "dietro",
+      "translations": [
+        "behind"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado dietro casa",
+          "english": "I go behind home",
+          "context": "movement"
+        },
+        {
+          "italian": "È dietro tavolo",
+          "english": "It is behind the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "vicino",
+      "translations": [
+        "near"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado vicino casa",
+          "english": "I go near home",
+          "context": "movement"
+        },
+        {
+          "italian": "È vicino tavolo",
+          "english": "It is near the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "lontano",
+      "translations": [
+        "far"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado lontano casa",
+          "english": "I go far home",
+          "context": "movement"
+        },
+        {
+          "italian": "È lontano tavolo",
+          "english": "It is far the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "durante",
+      "translations": [
+        "during"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado durante casa",
+          "english": "I go during home",
+          "context": "movement"
+        },
+        {
+          "italian": "È durante tavolo",
+          "english": "It is during the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "dopo",
+      "translations": [
+        "after"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado dopo casa",
+          "english": "I go after home",
+          "context": "movement"
+        },
+        {
+          "italian": "È dopo tavolo",
+          "english": "It is after the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "prima",
+      "translations": [
+        "before"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado prima casa",
+          "english": "I go before home",
+          "context": "movement"
+        },
+        {
+          "italian": "È prima tavolo",
+          "english": "It is before the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "word": "contro",
+      "translations": [
+        "against"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado contro casa",
+          "english": "I go against home",
+          "context": "movement"
+        },
+        {
+          "italian": "È contro tavolo",
+          "english": "It is against the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "verso",
+      "translations": [
+        "towards"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado verso casa",
+          "english": "I go towards home",
+          "context": "movement"
+        },
+        {
+          "italian": "È verso tavolo",
+          "english": "It is towards the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "secondo",
+      "translations": [
+        "according to"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado secondo casa",
+          "english": "I go according to home",
+          "context": "movement"
+        },
+        {
+          "italian": "È secondo tavolo",
+          "english": "It is according to the table",
+          "context": "position"
+        }
+      ],
+      "cognates": [
+        "second"
+      ]
+    },
+    {
+      "id": 32,
+      "word": "attraverso",
+      "translations": [
+        "through"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado attraverso casa",
+          "english": "I go through home",
+          "context": "movement"
+        },
+        {
+          "italian": "È attraverso tavolo",
+          "english": "It is through the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "lungo",
+      "translations": [
+        "along"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado lungo casa",
+          "english": "I go along home",
+          "context": "movement"
+        },
+        {
+          "italian": "È lungo tavolo",
+          "english": "It is along the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "intorno",
+      "translations": [
+        "around"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado intorno casa",
+          "english": "I go around home",
+          "context": "movement"
+        },
+        {
+          "italian": "È intorno tavolo",
+          "english": "It is around the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "word": "invece",
+      "translations": [
+        "instead of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado invece casa",
+          "english": "I go instead of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È invece tavolo",
+          "english": "It is instead of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "word": "oltre",
+      "translations": [
+        "beyond"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado oltre casa",
+          "english": "I go beyond home",
+          "context": "movement"
+        },
+        {
+          "italian": "È oltre tavolo",
+          "english": "It is beyond the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "word": "malgrado",
+      "translations": [
+        "despite"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado malgrado casa",
+          "english": "I go despite home",
+          "context": "movement"
+        },
+        {
+          "italian": "È malgrado tavolo",
+          "english": "It is despite the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "nonostante",
+      "translations": [
+        "despite"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado nonostante casa",
+          "english": "I go despite home",
+          "context": "movement"
+        },
+        {
+          "italian": "È nonostante tavolo",
+          "english": "It is despite the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "eccetto",
+      "translations": [
+        "except"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado eccetto casa",
+          "english": "I go except home",
+          "context": "movement"
+        },
+        {
+          "italian": "È eccetto tavolo",
+          "english": "It is except the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "tranne",
+      "translations": [
+        "except"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado tranne casa",
+          "english": "I go except home",
+          "context": "movement"
+        },
+        {
+          "italian": "È tranne tavolo",
+          "english": "It is except the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "salvo",
+      "translations": [
+        "except"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado salvo casa",
+          "english": "I go except home",
+          "context": "movement"
+        },
+        {
+          "italian": "È salvo tavolo",
+          "english": "It is except the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "mediante",
+      "translations": [
+        "through"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado mediante casa",
+          "english": "I go through home",
+          "context": "movement"
+        },
+        {
+          "italian": "È mediante tavolo",
+          "english": "It is through the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "tramite",
+      "translations": [
+        "through"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado tramite casa",
+          "english": "I go through home",
+          "context": "movement"
+        },
+        {
+          "italian": "È tramite tavolo",
+          "english": "It is through the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "grazie a",
+      "translations": [
+        "thanks to"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado grazie a casa",
+          "english": "I go thanks to home",
+          "context": "movement"
+        },
+        {
+          "italian": "È grazie a tavolo",
+          "english": "It is thanks to the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "a causa di",
+      "translations": [
+        "because of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a causa di casa",
+          "english": "I go because of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È a causa di tavolo",
+          "english": "It is because of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "a favore di",
+      "translations": [
+        "in favor of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a favore di casa",
+          "english": "I go in favor of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È a favore di tavolo",
+          "english": "It is in favor of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "word": "a dispetto di",
+      "translations": [
+        "in spite of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado a dispetto di casa",
+          "english": "I go in spite of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È a dispetto di tavolo",
+          "english": "It is in spite of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "word": "in base a",
+      "translations": [
+        "based on"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado in base a casa",
+          "english": "I go based on home",
+          "context": "movement"
+        },
+        {
+          "italian": "È in base a tavolo",
+          "english": "It is based on the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "word": "in mezzo a",
+      "translations": [
+        "in the middle of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado in mezzo a casa",
+          "english": "I go in the middle of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È in mezzo a tavolo",
+          "english": "It is in the middle of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "word": "in cima a",
+      "translations": [
+        "on top of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado in cima a casa",
+          "english": "I go on top of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È in cima a tavolo",
+          "english": "It is on top of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "word": "in fondo a",
+      "translations": [
+        "at the bottom of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado in fondo a casa",
+          "english": "I go at the bottom of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È in fondo a tavolo",
+          "english": "It is at the bottom of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "word": "accanto a",
+      "translations": [
+        "next to"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado accanto a casa",
+          "english": "I go next to home",
+          "context": "movement"
+        },
+        {
+          "italian": "È accanto a tavolo",
+          "english": "It is next to the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "word": "di fronte a",
+      "translations": [
+        "in front of"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado di fronte a casa",
+          "english": "I go in front of home",
+          "context": "movement"
+        },
+        {
+          "italian": "È di fronte a tavolo",
+          "english": "It is in front of the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "word": "di fianco a",
+      "translations": [
+        "beside"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado di fianco a casa",
+          "english": "I go beside home",
+          "context": "movement"
+        },
+        {
+          "italian": "È di fianco a tavolo",
+          "english": "It is beside the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "word": "insieme a",
+      "translations": [
+        "together with"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado insieme a casa",
+          "english": "I go together with home",
+          "context": "movement"
+        },
+        {
+          "italian": "È insieme a tavolo",
+          "english": "It is together with the table",
+          "context": "position"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "word": "assieme a",
+      "translations": [
+        "together with"
+      ],
+      "part_of_speech": "Preposition",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Vado assieme a casa",
+          "english": "I go together with home",
+          "context": "movement"
+        },
+        {
+          "italian": "È assieme a tavolo",
+          "english": "It is together with the table",
+          "context": "position"
+        }
+      ]
+    }
+  ]
+}
