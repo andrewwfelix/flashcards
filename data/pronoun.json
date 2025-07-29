@@ -12,18 +12,68 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Che sono felice",
-          "english": "That am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "relative",
+        "person": "third",
+        "number": "singular|plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
-        {
-          "italian": "Dove sei che?",
-          "english": "Where are that?",
-          "context": "location question"
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
         }
-      ]
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "relative_clause": {
+          "meaning": "used to introduce relative clauses",
+          "examples": [
+            "Il libro che leggo è interessante.",
+            "La persona che hai visto è mia sorella."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "qui, quae, quod",
+        "evolution": "retained its function as a relative pronoun in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to connect clauses or phrases.",
+        "Can refer to people or things."
+      ],
+      "common_errors": []
     },
     {
       "id": 2,
@@ -34,16 +84,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Io sono felice",
-          "english": "I am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "first",
+        "number": "singular",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Io sono felice.",
+            "Io vado al mercato."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "ego",
+        "evolution": "remained as the first person singular pronoun"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Always used as the subject of the verb.",
+        "Cannot be used in enclitic form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei io?",
-          "english": "Where are I?",
-          "context": "location question"
+          "mistake": "Using 'io' in an object position",
+          "correct": "Use 'me' instead",
+          "incorrect": "Io vedo Maria."
         }
       ]
     },
@@ -57,41 +163,140 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Tutto sono felice",
-          "english": "All am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
-        {
-          "italian": "Dove sei tutto?",
-          "english": "Where are all?",
-          "context": "location question"
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
         }
-      ]
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "used to refer to all or everything",
+          "examples": [
+            "Tutto è possibile.",
+            "Ho fatto tutto."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "totus",
+        "evolution": "maintained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to express totality.",
+        "Can be used in both singular and plural contexts."
+      ],
+      "common_errors": []
     },
     {
       "id": 4,
       "word": "si",
       "translations": [
-        "yes",
         "oneself"
       ],
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Si sono felice",
-          "english": "Yes am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "reflexive",
+        "person": "third",
+        "number": "singular|plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
-        {
-          "italian": "Dove sei si?",
-          "english": "Where are yes?",
-          "context": "location question"
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
         }
-      ]
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "reflexive_action": {
+          "meaning": "used to indicate that the subject performs an action on itself",
+          "examples": [
+            "Si lava le mani.",
+            "Si sveglia presto."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "sui",
+        "evolution": "retained reflexive function in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used in reflexive verbs.",
+        "Can also be used in impersonal constructions."
+      ],
+      "common_errors": []
     },
     {
       "id": 5,
@@ -103,16 +308,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Lo sono felice",
-          "english": "Him am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object",
+        "person": "third",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Lo vedo."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Vedilo!"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Lo voglio vedere / Voglio vederlo."
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "L'ho visto."
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "lo/li (masculine)",
+            "la/le (feminine)"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object pronoun",
+          "examples": [
+            "Lo vedo.",
+            "Non lo so."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "illum",
+        "evolution": "maintained its function as a direct object pronoun"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to refer to masculine singular objects.",
+        "Positioning is crucial for clarity."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei lo?",
-          "english": "Where are him?",
-          "context": "location question"
+          "mistake": "Using 'lo' in a subject position",
+          "correct": "Use 'lui' instead",
+          "incorrect": "Lo è felice."
         }
       ]
     },
@@ -125,18 +397,68 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Questo sono felice",
-          "english": "This am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
-        {
-          "italian": "Dove sei questo?",
-          "english": "Where are this?",
-          "context": "location question"
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
         }
-      ]
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "demonstrative_reference": {
+          "meaning": "used to indicate a specific object or person",
+          "examples": [
+            "Questo è il mio libro.",
+            "Questa è la mia casa."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "hic, haec, hoc",
+        "evolution": "retained its demonstrative function in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to indicate proximity.",
+        "Can refer to objects or people."
+      ],
+      "common_errors": []
     },
     {
       "id": 7,
@@ -148,18 +470,68 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Suo sono felice",
-          "english": "His am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "third",
+        "number": "singular",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
-        {
-          "italian": "Dove sei suo?",
-          "english": "Where are his?",
-          "context": "location question"
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
         }
-      ]
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "used to indicate possession",
+          "examples": [
+            "Questo è suo.",
+            "La casa è sua."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "suus",
+        "evolution": "maintained its possessive function in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Indicates ownership.",
+        "Agrees in gender and number with the noun it modifies."
+      ],
+      "common_errors": []
     },
     {
       "id": 8,
@@ -170,16 +542,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Tu sono felice",
-          "english": "You am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "second",
+        "number": "singular",
+        "gender": "invariable",
+        "formality": "informal"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Tu sei felice.",
+            "Tu vai al mercato."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "tu",
+        "evolution": "remained as the second person singular pronoun"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used as the subject of the verb.",
+        "Cannot be used in enclitic form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei tu?",
-          "english": "Where are you?",
-          "context": "location question"
+          "mistake": "Using 'tu' in an object position",
+          "correct": "Use 'te' instead",
+          "incorrect": "Tu vedo Maria."
         }
       ]
     },
@@ -192,16 +620,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Lui sono felice",
-          "english": "He am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "third",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Lui è felice.",
+            "Lui va al mercato."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "ille",
+        "evolution": "retained its function as a third person singular pronoun"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used as the subject of the verb.",
+        "Cannot be used in enclitic form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei lui?",
-          "english": "Where are he?",
-          "context": "location question"
+          "mistake": "Using 'lui' in an object position",
+          "correct": "Use 'lo' instead",
+          "incorrect": "Lui vedo Maria."
         }
       ]
     },
@@ -214,16 +698,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Lei sono felice",
-          "english": "She am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "third",
+        "number": "singular",
+        "gender": "feminine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Lei è felice.",
+            "Lei va al mercato."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "illa",
+        "evolution": "retained its function as a third person singular pronoun"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used as the subject of the verb.",
+        "Cannot be used in enclitic form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei lei?",
-          "english": "Where are she?",
-          "context": "location question"
+          "mistake": "Using 'lei' in an object position",
+          "correct": "Use 'la' instead",
+          "incorrect": "Lei vedo Maria."
         }
       ]
     },
@@ -236,16 +776,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Noi sono felice",
-          "english": "We am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "first",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Noi siamo felici",
+            "Noi andiamo al cinema"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "nos",
+        "evolution": "developed to refer to a group including the speaker"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'noi' is always used in the plural form.",
+        "Ensure correct verb agreement with 'noi' as it requires the plural form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei noi?",
-          "english": "Where are we?",
-          "context": "location question"
+          "mistake": "Using 'noi' with a singular verb",
+          "correct": "Noi siamo felici",
+          "incorrect": "Noi sono felice"
         }
       ]
     },
@@ -258,16 +854,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Voi sono felice",
-          "english": "You (plural) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "second",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Voi siete felici",
+            "Voi andate al cinema"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "vos",
+        "evolution": "developed to refer to a group being addressed"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'voi' is always used in the plural form.",
+        "Ensure correct verb agreement with 'voi' as it requires the plural form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei voi?",
-          "english": "Where are you (plural)?",
-          "context": "location question"
+          "mistake": "Using 'voi' with a singular verb",
+          "correct": "Voi siete felici",
+          "incorrect": "Voi sono felice"
         }
       ]
     },
@@ -280,16 +932,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Loro sono felice",
-          "english": "They am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "subject",
+        "person": "third",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "subject": {
+          "meaning": "used as the subject of a sentence",
+          "examples": [
+            "Loro sono felici",
+            "Loro vanno al cinema"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "illorum",
+        "evolution": "developed to refer to a group not including the speaker"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'loro' is always used in the plural form.",
+        "Ensure correct verb agreement with 'loro' as it requires the plural form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei loro?",
-          "english": "Where are they?",
-          "context": "location question"
+          "mistake": "Using 'loro' with a singular verb",
+          "correct": "Loro sono felici",
+          "incorrect": "Loro è felice"
         }
       ]
     },
@@ -302,16 +1010,85 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mi sono felice",
-          "english": "Me am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object|indirect_object|reflexive",
+        "person": "first",
+        "number": "singular",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Mi piace"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Aiutami!"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Mi voglio vedere / Voglio vedermi"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object in a sentence",
+          "examples": [
+            "Mi vedi?",
+            "Mi hai chiamato."
+          ]
+        },
+        "reflexive_action": {
+          "meaning": "used for reflexive actions",
+          "examples": [
+            "Mi lavo",
+            "Mi sveglio."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "me",
+        "evolution": "remained consistent in meaning throughout the evolution of Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'mi' is used for both direct and reflexive actions.",
+        "Ensure correct verb agreement with 'mi' when used in reflexive constructions."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei mi?",
-          "english": "Where are me?",
-          "context": "location question"
+          "mistake": "Using 'mi' incorrectly in a sentence",
+          "correct": "Mi sento bene.",
+          "incorrect": "Mi sono bene."
         }
       ]
     },
@@ -324,16 +1101,85 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ti sono felice",
-          "english": "You (object) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object|indirect_object|reflexive",
+        "person": "second",
+        "number": "singular",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Ti piace"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Aiutami!"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Ti voglio vedere / Voglio vederti"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object in a sentence",
+          "examples": [
+            "Ti vedo",
+            "Ti ho chiamato."
+          ]
+        },
+        "reflexive_action": {
+          "meaning": "used for reflexive actions",
+          "examples": [
+            "Ti lavo",
+            "Ti sveglio."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "te",
+        "evolution": "remained consistent in meaning throughout the evolution of Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'ti' is used for both direct and reflexive actions.",
+        "Ensure correct verb agreement with 'ti' when used in reflexive constructions."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei ti?",
-          "english": "Where are you (object)?",
-          "context": "location question"
+          "mistake": "Using 'ti' incorrectly in a sentence",
+          "correct": "Ti senti bene.",
+          "incorrect": "Ti sono bene."
         }
       ]
     },
@@ -346,16 +1192,85 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ci sono felice",
-          "english": "Us am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object|indirect_object|reflexive",
+        "person": "first",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Ci piace"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Aiutaci!"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Ci voglio vedere / Voglio vederci"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object in a sentence",
+          "examples": [
+            "Ci vedete?",
+            "Ci avete chiamato."
+          ]
+        },
+        "reflexive_action": {
+          "meaning": "used for reflexive actions",
+          "examples": [
+            "Ci laviamo",
+            "Ci svegliamo."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "nos",
+        "evolution": "remained consistent in meaning throughout the evolution of Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'ci' is used for both direct and reflexive actions.",
+        "Ensure correct verb agreement with 'ci' when used in reflexive constructions."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei ci?",
-          "english": "Where are us?",
-          "context": "location question"
+          "mistake": "Using 'ci' incorrectly in a sentence",
+          "correct": "Ci sentiamo bene.",
+          "incorrect": "Ci sono bene."
         }
       ]
     },
@@ -368,16 +1283,85 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Vi sono felice",
-          "english": "You (object plural) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object|indirect_object|reflexive",
+        "person": "second",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Vi piace"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Aiutateci!"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Vi voglio vedere / Voglio vedervi"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object in a sentence",
+          "examples": [
+            "Vi vediamo?",
+            "Vi abbiamo chiamato."
+          ]
+        },
+        "reflexive_action": {
+          "meaning": "used for reflexive actions",
+          "examples": [
+            "Vi lavate",
+            "Vi svegliate."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "vos",
+        "evolution": "remained consistent in meaning throughout the evolution of Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'vi' is used for both direct and reflexive actions.",
+        "Ensure correct verb agreement with 'vi' when used in reflexive constructions."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei vi?",
-          "english": "Where are you (object plural)?",
-          "context": "location question"
+          "mistake": "Using 'vi' incorrectly in a sentence",
+          "correct": "Vi sentite bene.",
+          "incorrect": "Vi sono bene."
         }
       ]
     },
@@ -390,16 +1374,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Li sono felice",
-          "english": "Them (masc) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Li vedo"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Vedendoli"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Li voglio vedere / Voglio vederli"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Li ho visti"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "lo/li (masculine)",
+            "la/le (feminine)"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object in a sentence",
+          "examples": [
+            "Li vedete?",
+            "Li avete chiamati."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "illos",
+        "evolution": "developed to refer to a group of masculine nouns"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'li' is used exclusively for masculine plural direct objects.",
+        "Ensure correct verb agreement with 'li' when used in sentences."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei li?",
-          "english": "Where are them (masc)?",
-          "context": "location question"
+          "mistake": "Using 'li' incorrectly in a sentence",
+          "correct": "Li vedo.",
+          "incorrect": "Li è felice."
         }
       ]
     },
@@ -412,16 +1463,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Le sono felice",
-          "english": "Them (fem) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "direct_object",
+        "person": "third",
+        "number": "plural",
+        "gender": "feminine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Le vedo"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Vedendole"
+          ]
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": [
+            "Le voglio vedere / Voglio vederle"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Le ho viste"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "lo/li (masculine)",
+            "la/le (feminine)"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "direct_object": {
+          "meaning": "used as a direct object in a sentence",
+          "examples": [
+            "Le vedete?",
+            "Le avete chiamate."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "illas",
+        "evolution": "developed to refer to a group of feminine nouns"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'le' is used exclusively for feminine plural direct objects.",
+        "Ensure correct verb agreement with 'le' when used in sentences."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei le?",
-          "english": "Where are them (fem)?",
-          "context": "location question"
+          "mistake": "Using 'le' incorrectly in a sentence",
+          "correct": "Le vedo.",
+          "incorrect": "Le è felice."
         }
       ]
     },
@@ -434,16 +1552,72 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Quello sono felice",
-          "english": "That am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "demonstrative": {
+          "meaning": "used to indicate a specific object",
+          "examples": [
+            "Quello è il mio libro",
+            "Quello che vuoi è qui."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "quod",
+        "evolution": "developed to refer to a specific object or idea"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "In Italian, 'quello' is used to refer to a specific item or concept.",
+        "Ensure correct agreement in gender and number when using 'quello'."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei quello?",
-          "english": "Where are that?",
-          "context": "location question"
+          "mistake": "Using 'quello' incorrectly in a sentence",
+          "correct": "Quello è bello.",
+          "incorrect": "Quello sono bello."
         }
       ]
     },
@@ -456,16 +1630,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Questa sono felice",
-          "english": "This (fem) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "singular",
+        "gender": "feminine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Questa è la mia casa"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Portamela!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "L'ho vista"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "questa/queste"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "demonstration": {
+          "meaning": "used to indicate a specific object or person",
+          "examples": [
+            "Questa è la mia penna",
+            "Questa è la tua macchina"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei questa?",
-          "english": "Where are this (fem)?",
-          "context": "location question"
+          "phrase": "questa mattina",
+          "meaning": "this morning",
+          "example": "Questa mattina ho fatto colazione."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "this, feminine form",
+        "evolution": "derived from 'ista' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "this",
+          "meaning": "used to identify a specific thing",
+          "usage": "connection to demonstrative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'questa' to refer to feminine singular nouns.",
+        "Ensure agreement in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'questa' with masculine nouns",
+          "correct": "Usare 'questo' per i nomi maschili",
+          "incorrect": "Questa libro"
         }
       ]
     },
@@ -478,16 +1738,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Quella sono felice",
-          "english": "That (fem) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "singular",
+        "gender": "feminine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Quella è la mia casa"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Portamela!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "L'ho vista"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "quella/quelle"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "demonstration": {
+          "meaning": "used to indicate a specific object or person at a distance",
+          "examples": [
+            "Quella è la mia penna",
+            "Quella è la tua macchina"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei quella?",
-          "english": "Where are that (fem)?",
-          "context": "location question"
+          "phrase": "quella sera",
+          "meaning": "that evening",
+          "example": "Quella sera ho visto un film."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "that, feminine form",
+        "evolution": "derived from 'illa' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "that",
+          "meaning": "used to identify a specific thing at a distance",
+          "usage": "connection to demonstrative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'quella' to refer to feminine singular nouns at a distance.",
+        "Ensure agreement in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'quella' with masculine nouns",
+          "correct": "Usare 'quello' per i nomi maschili",
+          "incorrect": "Quella libro"
         }
       ]
     },
@@ -500,16 +1846,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Questi sono felice",
-          "english": "These (masc) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Questi sono i miei amici"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Portameli!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Li ho visti"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "questi/queste"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "demonstration": {
+          "meaning": "used to indicate specific objects or people",
+          "examples": [
+            "Questi sono i miei amici",
+            "Questi sono i tuoi libri"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei questi?",
-          "english": "Where are these (masc)?",
-          "context": "location question"
+          "phrase": "questi giorni",
+          "meaning": "these days",
+          "example": "Questi giorni sono molto impegnato."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "these, masculine form",
+        "evolution": "derived from 'isti' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "these",
+          "meaning": "used to identify specific things",
+          "usage": "connection to demonstrative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'questi' to refer to masculine plural nouns.",
+        "Ensure agreement in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'questi' with feminine nouns",
+          "correct": "Usare 'queste' per i nomi femminili",
+          "incorrect": "Questi ragazze"
         }
       ]
     },
@@ -522,16 +1954,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Queste sono felice",
-          "english": "These (fem) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "plural",
+        "gender": "feminine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Queste sono le mie amiche"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Portamele!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Le ho viste"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "queste/questi"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "demonstration": {
+          "meaning": "used to indicate specific objects or people",
+          "examples": [
+            "Queste sono le mie amiche",
+            "Queste sono le tue penne"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei queste?",
-          "english": "Where are these (fem)?",
-          "context": "location question"
+          "phrase": "queste settimane",
+          "meaning": "these weeks",
+          "example": "Queste settimane sono state intense."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "these, feminine form",
+        "evolution": "derived from 'istae' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "these",
+          "meaning": "used to identify specific things",
+          "usage": "connection to demonstrative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'queste' to refer to feminine plural nouns.",
+        "Ensure agreement in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'queste' with masculine nouns",
+          "correct": "Usare 'questi' per i nomi maschili",
+          "incorrect": "Queste ragazzi"
         }
       ]
     },
@@ -544,16 +2062,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Quelli sono felice",
-          "english": "Those (masc) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Quelli sono i miei amici"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Portameli!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Li ho visti"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "quelli/quelle"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "demonstration": {
+          "meaning": "used to indicate specific objects or people at a distance",
+          "examples": [
+            "Quelli sono i miei amici",
+            "Quelli sono i tuoi libri"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei quelli?",
-          "english": "Where are those (masc)?",
-          "context": "location question"
+          "phrase": "quelli giorni",
+          "meaning": "those days",
+          "example": "Quelli giorni erano difficili."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "those, masculine form",
+        "evolution": "derived from 'illi' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "those",
+          "meaning": "used to identify specific things at a distance",
+          "usage": "connection to demonstrative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'quelli' to refer to masculine plural nouns at a distance.",
+        "Ensure agreement in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'quelli' with feminine nouns",
+          "correct": "Usare 'quelle' per i nomi femminili",
+          "incorrect": "Quelli ragazze"
         }
       ]
     },
@@ -566,16 +2170,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Quelle sono felice",
-          "english": "Those (fem) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "demonstrative",
+        "person": "third",
+        "number": "plural",
+        "gender": "feminine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Quelle sono le mie amiche"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Portamele!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Le ho viste"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "quelle/quelli"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "demonstration": {
+          "meaning": "used to indicate specific objects or people at a distance",
+          "examples": [
+            "Quelle sono le mie amiche",
+            "Quelle sono le tue penne"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei quelle?",
-          "english": "Where are those (fem)?",
-          "context": "location question"
+          "phrase": "quelle settimane",
+          "meaning": "those weeks",
+          "example": "Quelle settimane sono state intense."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "those, feminine form",
+        "evolution": "derived from 'illae' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "those",
+          "meaning": "used to identify specific things at a distance",
+          "usage": "connection to demonstrative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'quelle' to refer to feminine plural nouns at a distance.",
+        "Ensure agreement in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'quelle' with masculine nouns",
+          "correct": "Usare 'quelli' per i nomi maschili",
+          "incorrect": "Quelle ragazzi"
         }
       ]
     },
@@ -588,16 +2278,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Chi sono felice",
-          "english": "Who am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "interrogative",
+        "person": "third",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Chi è il tuo amico?"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Non lo so chi!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Chi ha vinto?"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "chi"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "interrogation": {
+          "meaning": "used to ask about identity",
+          "examples": [
+            "Chi è?",
+            "Chi ha chiamato?"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei chi?",
-          "english": "Where are who?",
-          "context": "location question"
+          "phrase": "chi sei?",
+          "meaning": "who are you?",
+          "example": "Chi sei tu?"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "who",
+        "evolution": "derived from 'qui' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "who",
+          "meaning": "used to ask about identity",
+          "usage": "connection to interrogative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'chi' to ask about people.",
+        "It does not change form for singular or plural."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'chi' with inanimate objects",
+          "correct": "Use 'che cosa' for things",
+          "incorrect": "Chi è il libro?"
         }
       ]
     },
@@ -610,16 +2386,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Che cosa sono felice",
-          "english": "What am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "interrogative",
+        "person": "third",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Che cosa vuoi?"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Non so che cosa dire!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Che cosa hai fatto?"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "che cosa"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "interrogation": {
+          "meaning": "used to ask about things",
+          "examples": [
+            "Che cosa è?",
+            "Che cosa stai facendo?"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei che cosa?",
-          "english": "Where are what?",
-          "context": "location question"
+          "phrase": "che cosa vuoi?",
+          "meaning": "what do you want?",
+          "example": "Che cosa vuoi da me?"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "what",
+        "evolution": "derived from 'quid' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "what",
+          "meaning": "used to ask about things",
+          "usage": "connection to interrogative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'che cosa' to ask about inanimate objects.",
+        "It does not change form for singular or plural."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'che cosa' with people",
+          "correct": "Use 'chi' for people",
+          "incorrect": "Che cosa è Marco?"
         }
       ]
     },
@@ -632,16 +2494,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Quale sono felice",
-          "english": "Which am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "interrogative",
+        "person": "third",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Quale vuoi?"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Non so quale scegliere!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Quale hai scelto?"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "quale"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "interrogation": {
+          "meaning": "used to ask about a specific choice",
+          "examples": [
+            "Quale preferisci?",
+            "Quale libro leggi?"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei quale?",
-          "english": "Where are which?",
-          "context": "location question"
+          "phrase": "quale dei due?",
+          "meaning": "which of the two?",
+          "example": "Quale dei due preferisci?"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "which",
+        "evolution": "derived from 'qualis' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "which",
+          "meaning": "used to ask about a specific choice",
+          "usage": "connection to interrogative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'quale' to ask about specific items or choices.",
+        "It does not change form for singular or plural."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'quale' with inanimate objects",
+          "correct": "Use 'che cosa' for things",
+          "incorrect": "Quale è il libro?"
         }
       ]
     },
@@ -655,16 +2603,102 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Cui sono felice",
-          "english": "Whose am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "relative",
+        "person": "third",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Cui appartiene questo libro?"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": [
+            "Non so a chi dare questo, cui non conosco!"
+          ]
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": [
+            "Cui hai dato il libro?"
+          ]
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": [
+            "cui"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "used to indicate possession or relation",
+          "examples": [
+            "Cui è questo libro?",
+            "Cui appartiene questa penna?"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tu",
+            "ti",
+            "tuo"
+          ],
+          "examples": [
+            "Come stai tu?",
+            "Ti vedo domani"
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Lei",
+            "La",
+            "Suo"
+          ],
+          "examples": [
+            "Come sta Lei?",
+            "La ringrazio"
+          ]
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei cui?",
-          "english": "Where are whose?",
-          "context": "location question"
+          "phrase": "cui appartiene?",
+          "meaning": "whose does it belong to?",
+          "example": "Cui appartiene questo libro?"
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "whose, which",
+        "evolution": "derived from 'cuius' in Latin, adapted in Italian"
+      },
+      "related_english_words": [
+        {
+          "word": "whose",
+          "meaning": "used to indicate possession",
+          "usage": "connection to relative pronoun"
+        }
+      ],
+      "usage_notes": [
+        "Use 'cui' to indicate possession or relation.",
+        "It does not change form for singular or plural."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'cui' incorrectly as a subject",
+          "correct": "Use 'chi' for subjects",
+          "incorrect": "Cui è il libro?"
         }
       ]
     },
@@ -677,21 +2711,88 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Proprio sono felice",
-          "english": "Own am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "first|second|third",
+        "number": "singular|plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Proprio sono felice"
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "indicates ownership or belonging",
+          "examples": [
+            "Questo è il mio libro proprio."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": [
+            "Questo è tuo proprio."
+          ]
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": [
+            "Questo è Suo proprio."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "proprius",
+        "evolution": "retained meaning of ownership in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei proprio?",
-          "english": "Where are own?",
-          "context": "location question"
+          "word": "proper",
+          "meaning": "suitable or appropriate",
+          "usage": "related to ownership"
         }
       ],
-      "cognates": [
-        "proper",
-        "property"
+      "usage_notes": [
+        "Used to emphasize personal ownership.",
+        "Can be used formally or informally."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'proprio' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Proprio sono felice."
+        }
       ]
     },
     {
@@ -703,16 +2804,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Stesso sono felice",
-          "english": "Same am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "reflexive",
+        "person": "first|second|third",
+        "number": "singular|plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Io stesso ho fatto questo."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "emphasis": {
+          "meaning": "to emphasize identity or similarity",
+          "examples": [
+            "Lui stesso ha detto di no."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "stissus",
+        "evolution": "retained meaning of sameness in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei stesso?",
-          "english": "Where are same?",
-          "context": "location question"
+          "word": "same",
+          "meaning": "identical",
+          "usage": "direct translation"
+        }
+      ],
+      "usage_notes": [
+        "Used to emphasize the subject's identity.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'stesso' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Stesso sono felice."
         }
       ]
     },
@@ -725,16 +2893,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Altro sono felice",
-          "english": "Other am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "singular|plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Altro ho visto."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to an unspecified person or thing",
+          "examples": [
+            "Ho bisogno di un altro."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "alter",
+        "evolution": "retained meaning of difference in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei altro?",
-          "english": "Where are other?",
-          "context": "location question"
+          "word": "alternative",
+          "meaning": "one of two or more available options",
+          "usage": "related to the concept of 'other'"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate an alternative or different option.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'altro' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Altro sono felice."
         }
       ]
     },
@@ -748,16 +2983,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ogni sono felice",
-          "english": "Each am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Ogni giorno è bello."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "universal_reference": {
+          "meaning": "to refer to all members of a group",
+          "examples": [
+            "Ogni persona ha diritto."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "omnis",
+        "evolution": "retained meaning of all in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei ogni?",
-          "english": "Where are each?",
-          "context": "location question"
+          "word": "omni",
+          "meaning": "all",
+          "usage": "prefix indicating all or everywhere"
+        }
+      ],
+      "usage_notes": [
+        "Used to refer to every individual in a group.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'ogni' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Ogni sono felice."
         }
       ]
     },
@@ -770,16 +3072,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Alcuni sono felice",
-          "english": "Some am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Alcuni sono felici."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to an unspecified number of people or things",
+          "examples": [
+            "Alcuni sono arrivati."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "alcuni",
+        "evolution": "retained meaning of some in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei alcuni?",
-          "english": "Where are some?",
-          "context": "location question"
+          "word": "some",
+          "meaning": "an unspecified amount",
+          "usage": "direct translation"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate an unspecified quantity.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'alcuni' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Alcuni sono felice."
         }
       ]
     },
@@ -792,16 +3161,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Molti sono felice",
-          "english": "Many am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Molti sono felici."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to an unspecified large number of people or things",
+          "examples": [
+            "Molti sono partiti."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "multus",
+        "evolution": "retained meaning of many in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei molti?",
-          "english": "Where are many?",
-          "context": "location question"
+          "word": "multiple",
+          "meaning": "more than one",
+          "usage": "related to quantity"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate a large quantity.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'molti' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Molti sono felice."
         }
       ]
     },
@@ -814,16 +3250,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Pochi sono felice",
-          "english": "Few am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Pochi sono arrivati."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to an unspecified small number of people or things",
+          "examples": [
+            "Pochi sono rimasti."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "paucus",
+        "evolution": "retained meaning of few in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei pochi?",
-          "english": "Where are few?",
-          "context": "location question"
+          "word": "paucity",
+          "meaning": "the presence of something in only small or insufficient quantities",
+          "usage": "related to the concept of few"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate a small quantity.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'pochi' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Pochi sono felice."
         }
       ]
     },
@@ -836,16 +3339,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Parecchi sono felice",
-          "english": "Several am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Parecchi sono arrivati."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to an unspecified number of people or things, more than a few",
+          "examples": [
+            "Parecchi sono venuti."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "plures",
+        "evolution": "retained meaning of several in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei parecchi?",
-          "english": "Where are several?",
-          "context": "location question"
+          "word": "particular",
+          "meaning": "used to single out an individual member of a specified group",
+          "usage": "related to the concept of several"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate a moderate quantity.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'parecchi' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Parecchi sono felice."
         }
       ]
     },
@@ -858,16 +3428,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Certo sono felice",
-          "english": "Certain am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "singular|plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Certo è vero."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to an unspecified individual or thing",
+          "examples": [
+            "Certo è il migliore."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "certus",
+        "evolution": "retained meaning of certainty in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei certo?",
-          "english": "Where are certain?",
-          "context": "location question"
+          "word": "certain",
+          "meaning": "known for sure",
+          "usage": "direct translation"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate a specific but unspecified individual.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'certo' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Certo sono felice."
         }
       ]
     },
@@ -880,16 +3517,83 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Tale sono felice",
-          "english": "Such am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "third",
+        "number": "singular|plural",
+        "gender": "masculine|feminine|invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": [
+            "Tale è la vita."
+          ]
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "to refer to a type or category",
+          "examples": [
+            "Tale è la situazione."
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [
+            "tuo"
+          ],
+          "examples": []
+        },
+        "formal": {
+          "forms": [
+            "Suo"
+          ],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "talis",
+        "evolution": "retained meaning of type in Italian"
+      },
+      "related_english_words": [
         {
-          "italian": "Dove sei tale?",
-          "english": "Where are such?",
-          "context": "location question"
+          "word": "tale",
+          "meaning": "a story or narrative",
+          "usage": "related to type or category"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate a type or category of something.",
+        "Can be used in both formal and informal contexts."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Using 'tale' incorrectly as a subject.",
+          "correct": "Use 'io' for 'I'.",
+          "incorrect": "Tale sono felice."
         }
       ]
     },
@@ -902,16 +3606,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Entrambi sono felice",
-          "english": "Both am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_reference": {
+          "meaning": "used to refer to two people or things",
+          "examples": [
+            "Entrambi sono felici",
+            "Entrambi hanno vinto"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "both",
+        "evolution": "derived from 'ambos' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to refer to two entities, must agree in number and gender with the nouns it refers to."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei entrambi?",
-          "english": "Where are both?",
-          "context": "location question"
+          "mistake": "Entrambi sono felice",
+          "correct": "Entrambi sono felici",
+          "incorrect": "Entrambi è felice"
         }
       ]
     },
@@ -924,16 +3683,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Nessuno sono felice",
-          "english": "None am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "negation": {
+          "meaning": "used to indicate the absence of people or things",
+          "examples": [
+            "Nessuno è presente",
+            "Nessuno ha risposto"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "not one",
+        "evolution": "derived from 'nec unus' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to indicate absence, must be used in negative contexts."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei nessuno?",
-          "english": "Where are none?",
-          "context": "location question"
+          "mistake": "Nessuno sono felice",
+          "correct": "Nessuno è felice",
+          "incorrect": "Nessuno sono felici"
         }
       ]
     },
@@ -946,16 +3760,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Tutto sono felice",
-          "english": "Everything am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "totality": {
+          "meaning": "used to refer to all things or people",
+          "examples": [
+            "Tutto è possibile",
+            "Tutto va bene"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "all",
+        "evolution": "derived from 'totus' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to refer to the entirety of something, does not change form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei tutto?",
-          "english": "Where are everything?",
-          "context": "location question"
+          "mistake": "Tutto sono felice",
+          "correct": "Tutto è felice",
+          "incorrect": "Tutto è felici"
         }
       ]
     },
@@ -968,16 +3837,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Niente sono felice",
-          "english": "Nothing am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "negation": {
+          "meaning": "used to indicate the absence of anything",
+          "examples": [
+            "Non c'è niente",
+            "Niente è impossibile"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "not anything",
+        "evolution": "derived from 'nec ante' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used in negative contexts to indicate the absence of something."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei niente?",
-          "english": "Where are nothing?",
-          "context": "location question"
+          "mistake": "Niente sono felice",
+          "correct": "Niente è felice",
+          "incorrect": "Niente sono felici"
         }
       ]
     },
@@ -990,16 +3914,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Qualche sono felice",
-          "english": "Some am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "invariable",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "indefinite_quantity": {
+          "meaning": "used to refer to an unspecified quantity",
+          "examples": [
+            "Qualche persona è arrivata",
+            "Qualche libro è interessante"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "some",
+        "evolution": "derived from 'qualis' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to refer to an unspecified quantity, does not change form."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei qualche?",
-          "english": "Where are some?",
-          "context": "location question"
+          "mistake": "Qualche sono felice",
+          "correct": "Qualche è felice",
+          "incorrect": "Qualche sono felici"
         }
       ]
     },
@@ -1012,16 +3991,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ciascuno sono felice",
-          "english": "Each one am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "individual_reference": {
+          "meaning": "used to refer to each individual in a group",
+          "examples": [
+            "Ciascuno ha il proprio libro",
+            "Ciascuno è responsabile"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "each one",
+        "evolution": "derived from 'cuiusque' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to refer to each individual, must agree in number and gender with the nouns it refers to."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei ciascuno?",
-          "english": "Where are each one?",
-          "context": "location question"
+          "mistake": "Ciascuno sono felice",
+          "correct": "Ciascuno è felice",
+          "incorrect": "Ciascuno sono felici"
         }
       ]
     },
@@ -1034,16 +4068,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Ognuno sono felice",
-          "english": "Everyone am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "indefinite",
+        "person": "impersonal",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "collective_reference": {
+          "meaning": "used to refer to all individuals in a group",
+          "examples": [
+            "Ognuno ha diritto",
+            "Ognuno può partecipare"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "each one",
+        "evolution": "derived from 'omnis' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to refer to all individuals, must agree in number and gender with the nouns it refers to."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei ognuno?",
-          "english": "Where are everyone?",
-          "context": "location question"
+          "mistake": "Ognuno sono felice",
+          "correct": "Ognuno è felice",
+          "incorrect": "Ognuno sono felici"
         }
       ]
     },
@@ -1056,16 +4145,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mio sono felice",
-          "english": "My am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "first",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "used to indicate ownership",
+          "examples": [
+            "Questo è mio",
+            "La mia casa è bella"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "my",
+        "evolution": "derived from 'meus' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to indicate possession, must agree in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei mio?",
-          "english": "Where are my?",
-          "context": "location question"
+          "mistake": "Mio sono felice",
+          "correct": "Io sono felice",
+          "incorrect": "Mio è felice"
         }
       ]
     },
@@ -1078,16 +4222,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Tuo sono felice",
-          "english": "Your am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "second",
+        "number": "singular",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "used to indicate ownership",
+          "examples": [
+            "Questo è tuo",
+            "La tua macchina è nuova"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "your",
+        "evolution": "derived from 'tuus' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to indicate possession, must agree in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei tuo?",
-          "english": "Where are your?",
-          "context": "location question"
+          "mistake": "Tuo sono felice",
+          "correct": "Io sono felice",
+          "incorrect": "Tuo è felice"
         }
       ]
     },
@@ -1100,16 +4299,71 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Nostro sono felice",
-          "english": "Our am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "first",
+        "number": "plural",
+        "gender": "masculine",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "used to indicate ownership",
+          "examples": [
+            "Questo è nostro",
+            "La nostra casa è grande"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "our",
+        "evolution": "derived from 'noster' in Latin"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to indicate possession, must agree in gender and number with the noun it modifies."
+      ],
+      "common_errors": [
         {
-          "italian": "Dove sei nostro?",
-          "english": "Where are our?",
-          "context": "location question"
+          "mistake": "Nostro sono felice",
+          "correct": "Noi siamo felici",
+          "incorrect": "Nostro è felice"
         }
       ]
     },
@@ -1122,16 +4376,84 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Vostro sono felice",
-          "english": "Your (plural) am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "second",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "indicates ownership by a group",
+          "examples": [
+            "Questo è vostro",
+            "La casa è vostra"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei vostro?",
-          "english": "Where are your (plural)?",
-          "context": "location question"
+          "phrase": "vostro onore",
+          "meaning": "your honor",
+          "example": "Vostro onore, la verità è questa."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "tuus, tua, tuum",
+        "evolution": "developed to indicate possession in the plural form"
+      },
+      "related_english_words": [
+        {
+          "word": "your",
+          "meaning": "belonging to you",
+          "usage": "indicates possession"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate possession by multiple people.",
+        "Always agrees in number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Vostro sono felice",
+          "correct": "Voi siete felici",
+          "incorrect": "Vostro sono felice"
         }
       ]
     },
@@ -1144,16 +4466,84 @@
       "part_of_speech": "Pronoun",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Loro sono felice",
-          "english": "Their am happy",
-          "context": "personal statement"
+      "pronoun_classification": {
+        "type": "possessive",
+        "person": "third",
+        "number": "plural",
+        "gender": "invariable",
+        "formality": "both"
+      },
+      "position_rules": {
+        "proclitic": {
+          "description": "when pronoun comes before verb",
+          "examples": []
         },
+        "enclitic": {
+          "description": "when pronoun attaches to verb",
+          "examples": []
+        },
+        "clitic_climbing": {
+          "description": "movement with modal verbs",
+          "examples": []
+        }
+      },
+      "agreement_patterns": {
+        "with_participle": {
+          "description": "agreement with past participle",
+          "examples": []
+        },
+        "number_agreement": {
+          "description": "singular vs plural forms",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "possession": {
+          "meaning": "indicates ownership by a group",
+          "examples": [
+            "Questo è loro",
+            "La casa è loro"
+          ]
+        }
+      },
+      "formal_vs_informal": {
+        "informal": {
+          "forms": [],
+          "examples": []
+        },
+        "formal": {
+          "forms": [],
+          "examples": []
+        }
+      },
+      "common_collocations": [
         {
-          "italian": "Dove sei loro?",
-          "english": "Where are their?",
-          "context": "location question"
+          "phrase": "loro diritto",
+          "meaning": "their right",
+          "example": "Questo è il loro diritto."
+        }
+      ],
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "eorum",
+        "evolution": "used to denote possession by a group"
+      },
+      "related_english_words": [
+        {
+          "word": "their",
+          "meaning": "belonging to them",
+          "usage": "indicates possession"
+        }
+      ],
+      "usage_notes": [
+        "Used to indicate possession by multiple people.",
+        "Always agrees in number with the noun it modifies."
+      ],
+      "common_errors": [
+        {
+          "mistake": "Loro sono felice",
+          "correct": "Loro sono felici",
+          "incorrect": "Loro sono felice"
         }
       ]
     }
