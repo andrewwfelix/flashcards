@@ -1,0 +1,1018 @@
+{
+  "part_of_speech": "Conjunction",
+  "count": 46,
+  "flashcards": [
+    {
+      "id": 1,
+      "word": "e",
+      "translations": [
+        "and"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio e bevo",
+          "english": "I eat and drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa e famiglia",
+          "english": "House and family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "word": "ma",
+      "translations": [
+        "but"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio ma bevo",
+          "english": "I eat but drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa ma famiglia",
+          "english": "House but family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "word": "se",
+      "translations": [
+        "if"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio se bevo",
+          "english": "I eat if drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa se famiglia",
+          "english": "House if family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "word": "o",
+      "translations": [
+        "or"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio o bevo",
+          "english": "I eat or drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa o famiglia",
+          "english": "House or family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "word": "ma",
+      "translations": [
+        "but"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio ma bevo",
+          "english": "I eat but drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa ma famiglia",
+          "english": "House but family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "word": "però",
+      "translations": [
+        "however"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio però bevo",
+          "english": "I eat however drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa però famiglia",
+          "english": "House however family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "anche",
+      "translations": [
+        "also"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio anche bevo",
+          "english": "I eat also drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa anche famiglia",
+          "english": "House also family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "se",
+      "translations": [
+        "if"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Easy",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio se bevo",
+          "english": "I eat if drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa se famiglia",
+          "english": "House if family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "perché",
+      "translations": [
+        "because"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio perché bevo",
+          "english": "I eat because drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa perché famiglia",
+          "english": "House because family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "quando",
+      "translations": [
+        "when"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio quando bevo",
+          "english": "I eat when drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa quando famiglia",
+          "english": "House when family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "mentre",
+      "translations": [
+        "while"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio mentre bevo",
+          "english": "I eat while drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa mentre famiglia",
+          "english": "House while family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "come",
+      "translations": [
+        "as"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio come bevo",
+          "english": "I eat as drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa come famiglia",
+          "english": "House as family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "che",
+      "translations": [
+        "that"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio che bevo",
+          "english": "I eat that drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa che famiglia",
+          "english": "House that family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "così",
+      "translations": [
+        "so"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio così bevo",
+          "english": "I eat so drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa così famiglia",
+          "english": "House so family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "quindi",
+      "translations": [
+        "therefore"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio quindi bevo",
+          "english": "I eat therefore drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa quindi famiglia",
+          "english": "House therefore family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "allora",
+      "translations": [
+        "then"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio allora bevo",
+          "english": "I eat then drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa allora famiglia",
+          "english": "House then family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "oppure",
+      "translations": [
+        "or else"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio oppure bevo",
+          "english": "I eat or else drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa oppure famiglia",
+          "english": "House or else family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "infatti",
+      "translations": [
+        "in fact"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio infatti bevo",
+          "english": "I eat in fact drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa infatti famiglia",
+          "english": "House in fact family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "inoltre",
+      "translations": [
+        "furthermore"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio inoltre bevo",
+          "english": "I eat furthermore drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa inoltre famiglia",
+          "english": "House furthermore family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "tuttavia",
+      "translations": [
+        "however"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio tuttavia bevo",
+          "english": "I eat however drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa tuttavia famiglia",
+          "english": "House however family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "nonostante",
+      "translations": [
+        "despite"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio nonostante bevo",
+          "english": "I eat despite drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa nonostante famiglia",
+          "english": "House despite family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "word": "benché",
+      "translations": [
+        "although"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio benché bevo",
+          "english": "I eat although drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa benché famiglia",
+          "english": "House although family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "purché",
+      "translations": [
+        "provided that"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio purché bevo",
+          "english": "I eat provided that drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa purché famiglia",
+          "english": "House provided that family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "sebbene",
+      "translations": [
+        "although"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio sebbene bevo",
+          "english": "I eat although drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa sebbene famiglia",
+          "english": "House although family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "affinché",
+      "translations": [
+        "so that"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio affinché bevo",
+          "english": "I eat so that drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa affinché famiglia",
+          "english": "House so that family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "giacché",
+      "translations": [
+        "since"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio giacché bevo",
+          "english": "I eat since drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa giacché famiglia",
+          "english": "House since family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "poiché",
+      "translations": [
+        "since"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio poiché bevo",
+          "english": "I eat since drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa poiché famiglia",
+          "english": "House since family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "siccome",
+      "translations": [
+        "since"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio siccome bevo",
+          "english": "I eat since drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa siccome famiglia",
+          "english": "House since family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "word": "eppure",
+      "translations": [
+        "yet"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio eppure bevo",
+          "english": "I eat yet drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa eppure famiglia",
+          "english": "House yet family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "piuttosto",
+      "translations": [
+        "rather"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio piuttosto bevo",
+          "english": "I eat rather drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa piuttosto famiglia",
+          "english": "House rather family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "ovvero",
+      "translations": [
+        "namely"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio ovvero bevo",
+          "english": "I eat namely drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa ovvero famiglia",
+          "english": "House namely family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "word": "ossia",
+      "translations": [
+        "that is"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio ossia bevo",
+          "english": "I eat that is drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa ossia famiglia",
+          "english": "House that is family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "cioè",
+      "translations": [
+        "that is"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio cioè bevo",
+          "english": "I eat that is drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa cioè famiglia",
+          "english": "House that is family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "sia",
+      "translations": [
+        "both"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio sia bevo",
+          "english": "I eat both drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa sia famiglia",
+          "english": "House both family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "word": "né",
+      "translations": [
+        "neither"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio né bevo",
+          "english": "I eat neither drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa né famiglia",
+          "english": "House neither family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "word": "prima che",
+      "translations": [
+        "before"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio prima che bevo",
+          "english": "I eat before drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa prima che famiglia",
+          "english": "House before family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "word": "dopo che",
+      "translations": [
+        "after"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio dopo che bevo",
+          "english": "I eat after drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa dopo che famiglia",
+          "english": "House after family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "fino a quando",
+      "translations": [
+        "until"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio fino a quando bevo",
+          "english": "I eat until drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa fino a quando famiglia",
+          "english": "House until family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "finché",
+      "translations": [
+        "as long as"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio finché bevo",
+          "english": "I eat as long as drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa finché famiglia",
+          "english": "House as long as family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "appena",
+      "translations": [
+        "as soon as"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio appena bevo",
+          "english": "I eat as soon as drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa appena famiglia",
+          "english": "House as soon as family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "una volta che",
+      "translations": [
+        "once"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio una volta che bevo",
+          "english": "I eat once drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa una volta che famiglia",
+          "english": "House once family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "ogni volta che",
+      "translations": [
+        "every time"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio ogni volta che bevo",
+          "english": "I eat every time drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa ogni volta che famiglia",
+          "english": "House every time family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "dal momento che",
+      "translations": [
+        "since"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio dal momento che bevo",
+          "english": "I eat since drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa dal momento che famiglia",
+          "english": "House since family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "visto che",
+      "translations": [
+        "given that"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio visto che bevo",
+          "english": "I eat given that drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa visto che famiglia",
+          "english": "House given that family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "considerato che",
+      "translations": [
+        "considering that"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio considerato che bevo",
+          "english": "I eat considering that drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa considerato che famiglia",
+          "english": "House considering that family",
+          "context": "connecting concepts"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "dato che",
+      "translations": [
+        "given that"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Hard",
+      "category": "Italian",
+      "examples": [
+        {
+          "italian": "Mangio dato che bevo",
+          "english": "I eat given that drink",
+          "context": "connecting actions"
+        },
+        {
+          "italian": "Casa dato che famiglia",
+          "english": "House given that family",
+          "context": "connecting concepts"
+        }
+      ]
+    }
+  ]
+}

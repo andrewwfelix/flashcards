@@ -11,18 +11,70 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio e bevo",
-          "english": "I eat and drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa e famiglia",
-          "english": "House and family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "words|phrases|clauses|sentences"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Marco e Giulia studiano",
+            "Luca e Maria sono amici"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Studio italiano e parlo inglese",
+            "È tardi e devo andare"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": [
+            "Viene Marco, e anche Giulia"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "addition": {
+          "meaning": "used to add information",
+          "examples": [
+            "Mangio e bevo",
+            "Lavoro e studio"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "E allora che fai?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "et",
+        "evolution": "retained similar meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
       "id": 2,
@@ -33,18 +85,72 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio ma bevo",
-          "english": "I eat but drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa ma famiglia",
-          "english": "House but family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "adversative",
+        "connects": "words|phrases|clauses|sentences"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "È intelligente ma pigro",
+            "Volevo venire, ma ho avuto un impegno"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Ma non posso venire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio ma non bevo",
+            "Studio ma non capisco"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": [
+            "È tardi, ma resto"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "contrast": {
+          "meaning": "used to introduce a contrast",
+          "examples": [
+            "Volevo andare, ma pioveva",
+            "Studia, ma non si impegna"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Ma dai!"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "sed",
+        "evolution": "retained similar meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
       "id": 3,
@@ -55,18 +161,82 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio se bevo",
-          "english": "I eat if drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa se famiglia",
-          "english": "House if family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "conditional",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Vengo se hai tempo",
+            "Se piove, rimaniamo a casa"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Penso che è vero"
+          ]
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": [
+            "Se avessi tempo, verrei",
+            "Se fossi in te, non lo farei"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio se bevo",
+            "Lavoro se necessario"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "condition": {
+          "meaning": "used to express a condition",
+          "examples": [
+            "Se hai bisogno, chiamami",
+            "Se vuoi, possiamo andare"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Se vuoi, andiamo"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "si",
+        "evolution": "retained similar meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
       "id": 4,
@@ -77,43 +247,71 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio o bevo",
-          "english": "I eat or drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa o famiglia",
-          "english": "House or family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "alternative",
+        "connects": "words|phrases|clauses|sentences"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Vuoi tè o caffè?",
+            "Andiamo al cinema o a teatro?"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio o bevo",
+            "Studiamo o andiamo a casa"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "alternative": {
+          "meaning": "used to present alternatives",
+          "examples": [
+            "Preferisci il tè o il caffè?",
+            "Andiamo al mare o in montagna?"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "O che fai?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "aut",
+        "evolution": "retained similar meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
       "id": 5,
-      "word": "ma",
-      "translations": [
-        "but"
-      ],
-      "part_of_speech": "Conjunction",
-      "difficulty": "Easy",
-      "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio ma bevo",
-          "english": "I eat but drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa ma famiglia",
-          "english": "House but family",
-          "context": "connecting concepts"
-        }
-      ]
-    },
-    {
-      "id": 6,
       "word": "però",
       "translations": [
         "however"
@@ -121,21 +319,77 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio però bevo",
-          "english": "I eat however drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa però famiglia",
-          "english": "House however family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "adversative",
+        "connects": "words|phrases|clauses|sentences"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "È tardi, però resto",
+            "Volevo venire, però ho avuto un impegno"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Però non posso venire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio, però non bevo",
+            "Studio, però non capisco"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": [
+            "È tardi, però resto"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "contrast": {
+          "meaning": "used to introduce a contrast",
+          "examples": [
+            "Volevo andare, però pioveva",
+            "Studia, però non si impegna"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Tuttavia, la situazione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Però non posso"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "per hoc",
+        "evolution": "developed to express contrast in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
-      "id": 7,
+      "id": 6,
       "word": "anche",
       "translations": [
         "also"
@@ -143,40 +397,226 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Easy",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio anche bevo",
-          "english": "I eat also drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa anche famiglia",
-          "english": "House also family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "words|phrases|clauses|sentences"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Marco anche Giulia studiano",
+            "Luca anche Maria sono amici"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio anche bevo",
+            "Lavoro anche studio"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "addition": {
+          "meaning": "used to add information",
+          "examples": [
+            "Mangio anche bevo",
+            "Lavoro anche studio"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Anche tu sei qui?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "etiam",
+        "evolution": "retained similar meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
+    },
+    {
+      "id": 7,
+      "word": "perché",
+      "translations": [
+        "because"
+      ],
+      "part_of_speech": "Conjunction",
+      "difficulty": "Medium",
+      "category": "Italian",
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio perché ho fame",
+            "Vado a letto perché sono stanco"
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Penso che è vero"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio perché ho fame",
+            "Studio perché voglio imparare"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "cause_effect": {
+          "meaning": "used to express a reason",
+          "examples": [
+            "Mangio perché ho fame",
+            "Vado a letto perché sono stanco"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Perché non vieni?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "per quod",
+        "evolution": "developed to express causality in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
       "id": 8,
-      "word": "se",
+      "word": "quando",
       "translations": [
-        "if"
+        "when"
       ],
       "part_of_speech": "Conjunction",
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio se bevo",
-          "english": "I eat if drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa se famiglia",
-          "english": "House if family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio quando ho fame",
+            "Vado a letto quando sono stanco"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Penso che è vero"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio quando ho fame",
+            "Studio quando ho tempo"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "time_sequence": {
+          "meaning": "used to express time",
+          "examples": [
+            "Mangio quando ho fame",
+            "Vado a letto quando sono stanco"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Quando arrivi?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "quando",
+        "evolution": "retained similar meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [],
+      "common_errors": []
     },
     {
       "id": 9,
@@ -231,16 +671,93 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio mentre bevo",
-          "english": "I eat while drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio mentre bevo",
+            "Leggo mentre ascolto musica"
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Mentre sono a casa, lavoro"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio mentre bevo"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "temporal": {
+          "meaning": "used to indicate simultaneous actions",
+          "examples": [
+            "Mangio mentre guardo la televisione",
+            "Scrivo mentre parlo al telefono"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Mentre parli, ascolto"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "interim",
+        "evolution": "developed to indicate simultaneous actions in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Often used to describe actions happening at the same time.",
+        "Ensure correct verb conjugation in both clauses."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa mentre famiglia",
-          "english": "House while family",
-          "context": "connecting concepts"
+          "mistake": "Using 'mentre' with the wrong tense",
+          "correct": "Mangio mentre bevo",
+          "incorrect": "Mangio mentre bevi"
         }
       ]
     },
@@ -253,16 +770,93 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio come bevo",
-          "english": "I eat as drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "comparative",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio come bevo",
+            "Lavora come un professionista"
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Come sei, così sono io"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio come bevo"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "comparative": {
+          "meaning": "used to compare actions or states",
+          "examples": [
+            "Lavora come un esperto",
+            "Parla come un madrelingua"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Come vuoi, io vado"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "quomodo",
+        "evolution": "maintained comparative function in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to draw comparisons between actions or states.",
+        "Ensure clarity in what is being compared."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa come famiglia",
-          "english": "House as family",
-          "context": "connecting concepts"
+          "mistake": "Using 'come' incorrectly in comparisons",
+          "correct": "Lavora come un professionista",
+          "incorrect": "Lavora come professionista"
         }
       ]
     },
@@ -275,16 +869,95 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio che bevo",
-          "english": "I eat that drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "complementizer",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Penso che sia vero",
+            "Dico che arrivi domani"
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "So che è tardi"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Temo che non venga"
+          ]
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Penso che sia vero"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "complement": {
+          "meaning": "used to introduce a subordinate clause",
+          "examples": [
+            "Credo che sia importante",
+            "Spero che tu venga"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Che bello!"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "quod",
+        "evolution": "retained its function in Italian as a complementizer"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to introduce clauses that provide additional information.",
+        "Be mindful of mood changes in subordinate clauses."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa che famiglia",
-          "english": "House that family",
-          "context": "connecting concepts"
+          "mistake": "Using 'che' without a proper clause",
+          "correct": "Penso che sia vero",
+          "incorrect": "Penso che"
         }
       ]
     },
@@ -297,16 +970,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio così bevo",
-          "english": "I eat so drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "consecutive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "È tardi, così resto a casa"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Ho studiato, così ho superato l'esame"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Ho studiato, così ho superato l'esame"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "consequence": {
+          "meaning": "used to indicate a result or consequence",
+          "examples": [
+            "Ho fame, così mangio",
+            "È tardi, così vado a letto"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Così non si fa!"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "sic",
+        "evolution": "maintained its function in Italian to indicate consequence"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to show cause and effect.",
+        "Ensure correct placement within the sentence."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa così famiglia",
-          "english": "House so family",
-          "context": "connecting concepts"
+          "mistake": "Using 'così' incorrectly in sentences",
+          "correct": "Ho studiato, così ho superato l'esame",
+          "incorrect": "Ho studiato così ho superato l'esame"
         }
       ]
     },
@@ -319,16 +1068,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio quindi bevo",
-          "english": "I eat therefore drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "consecutive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Ho studiato, quindi ho superato l'esame"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "È tardi, quindi vado a casa"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Ho studiato, quindi ho superato l'esame"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "consequence": {
+          "meaning": "used to indicate a result or conclusion",
+          "examples": [
+            "Non ho studiato, quindi non ho passato l'esame",
+            "Piove, quindi rimaniamo a casa"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Quindi, che facciamo?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "igitur",
+        "evolution": "maintained its function in Italian to indicate consequence"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to indicate logical conclusions.",
+        "Ensure clarity in the relationship between clauses."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa quindi famiglia",
-          "english": "House therefore family",
-          "context": "connecting concepts"
+          "mistake": "Using 'quindi' incorrectly in sentences",
+          "correct": "Non ho studiato, quindi non ho passato l'esame",
+          "incorrect": "Non ho studiato quindi non ho passato l'esame"
         }
       ]
     },
@@ -341,16 +1166,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio allora bevo",
-          "english": "I eat then drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Ho finito, allora vado a casa"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Se piove, allora rimaniamo a casa"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Ho finito, allora vado a casa"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "temporal": {
+          "meaning": "used to indicate a sequence of events",
+          "examples": [
+            "Se hai finito, allora andiamo",
+            "Se sei pronto, allora partiamo"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Allora, che facciamo?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "tunc",
+        "evolution": "maintained its function in Italian to indicate sequence"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to indicate a sequence of actions.",
+        "Ensure correct placement within the sentence."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa allora famiglia",
-          "english": "House then family",
-          "context": "connecting concepts"
+          "mistake": "Using 'allora' incorrectly in sentences",
+          "correct": "Se hai finito, allora andiamo",
+          "incorrect": "Se hai finito allora andiamo"
         }
       ]
     },
@@ -363,16 +1264,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio oppure bevo",
-          "english": "I eat or else drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "alternative",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Vuoi un caffè oppure un tè?"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Puoi venire oppure restare a casa"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Vuoi un caffè oppure un tè?"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "alternative": {
+          "meaning": "used to present alternatives",
+          "examples": [
+            "Preferisci il tè oppure il caffè?",
+            "Puoi venire oppure restare a casa"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Oppure che fai?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "autem",
+        "evolution": "maintained its function in Italian to indicate alternatives"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to present choices or alternatives.",
+        "Ensure clarity in the alternatives presented."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa oppure famiglia",
-          "english": "House or else family",
-          "context": "connecting concepts"
+          "mistake": "Using 'oppure' incorrectly in sentences",
+          "correct": "Vuoi un caffè oppure un tè?",
+          "incorrect": "Vuoi un caffè oppure tè?"
         }
       ]
     },
@@ -385,16 +1362,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Medium",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio infatti bevo",
-          "english": "I eat in fact drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "È tardi, infatti resto a casa"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Ho fame, infatti mangio"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Ho fame, infatti mangio"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "additive": {
+          "meaning": "used to add information",
+          "examples": [
+            "Ho fame, infatti mangio",
+            "È un esperto, infatti lavora in questo campo"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": []
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Infatti, non lo sapevo"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "in facto",
+        "evolution": "maintained its function in Italian to indicate addition"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to add emphasis or information.",
+        "Ensure correct placement within the sentence."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa infatti famiglia",
-          "english": "House in fact family",
-          "context": "connecting concepts"
+          "mistake": "Using 'infatti' incorrectly in sentences",
+          "correct": "È tardi, infatti resto a casa",
+          "incorrect": "È tardi infatti resto a casa"
         }
       ]
     },
@@ -407,16 +1460,94 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio inoltre bevo",
-          "english": "I eat furthermore drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Ho finito, inoltre ho studiato"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Ho studiato, inoltre ho superato l'esame"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Ho finito, inoltre ho studiato"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "additive": {
+          "meaning": "used to add information",
+          "examples": [
+            "Ho studiato, inoltre ho superato l'esame",
+            "È un esperto, inoltre lavora in questo campo"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Inoltre, la situazione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Inoltre, che fai?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "insuper",
+        "evolution": "maintained its function in Italian to indicate addition"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to add information in a formal context.",
+        "Ensure clarity in the relationship between clauses."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa inoltre famiglia",
-          "english": "House furthermore family",
-          "context": "connecting concepts"
+          "mistake": "Using 'inoltre' incorrectly in sentences",
+          "correct": "Ho studiato, inoltre ho superato l'esame",
+          "incorrect": "Ho studiato inoltre ho superato l'esame"
         }
       ]
     },
@@ -429,16 +1560,94 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio tuttavia bevo",
-          "english": "I eat however drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "adversative",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Ho studiato, tuttavia non ho passato l'esame"
+          ]
         },
+        "subordination": {
+          "description": "not commonly used in subordination",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Ho studiato, tuttavia non ho passato l'esame"
+          ]
+        },
+        "subjunctive": {
+          "description": "not commonly used with subjunctive",
+          "examples": []
+        },
+        "conditional": {
+          "description": "not commonly used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": []
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Ho studiato, tuttavia non ho passato l'esame"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "adversative": {
+          "meaning": "used to indicate contrast",
+          "examples": [
+            "Ho studiato, tuttavia non ho passato l'esame",
+            "Volevo venire, tuttavia ero occupato"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Tuttavia, la situazione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Tuttavia, che fai?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "tamen",
+        "evolution": "maintained its function in Italian to indicate contrast"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to indicate contrast or exception.",
+        "Ensure clarity in the relationship between clauses."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa tuttavia famiglia",
-          "english": "House however family",
-          "context": "connecting concepts"
+          "mistake": "Using 'tuttavia' incorrectly in sentences",
+          "correct": "Ho studiato, tuttavia non ho passato l'esame",
+          "incorrect": "Ho studiato tuttavia non ho passato l'esame"
         }
       ]
     },
@@ -451,16 +1660,94 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio nonostante bevo",
-          "english": "I eat despite drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "concessive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio nonostante beva",
+            "Nonostante la pioggia, usciamo."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Nonostante sia difficile, ci proverò."
+          ]
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Nonostante tutto, andiamo avanti."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "concessive": {
+          "meaning": "used to express a concession",
+          "examples": [
+            "Nonostante il freddo, sono uscito."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Nonostante le difficoltà, abbiamo raggiunto il nostro obiettivo."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Nonostante tutto, ci divertiamo."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "non obstante",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with subjunctive mood.",
+        "Learners often confuse with 'anche se'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa nonostante famiglia",
-          "english": "House despite family",
-          "context": "connecting concepts"
+          "mistake": "Mangio nonostante bevo",
+          "correct": "Mangio nonostante beva",
+          "incorrect": "Mangio nonostante bevo"
         }
       ]
     },
@@ -473,16 +1760,94 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio benché bevo",
-          "english": "I eat although drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "concessive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Benché sia tardi, resto ancora.",
+            "Mangio benché non abbia fame."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Benché sia difficile, ci proverò."
+          ]
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Benché sia difficile, non mi arrendo."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "concessive": {
+          "meaning": "used to express a concession",
+          "examples": [
+            "Benché piova, andiamo a fare una passeggiata."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Benché sia una sfida, accettiamo la proposta."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Benché sia tardi, voglio vedere il film."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "bene quod",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with subjunctive mood.",
+        "Learners often confuse with 'anche se'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa benché famiglia",
-          "english": "House although family",
-          "context": "connecting concepts"
+          "mistake": "Mangio benché bevo",
+          "correct": "Mangio benché beva",
+          "incorrect": "Mangio benché bevo"
         }
       ]
     },
@@ -495,16 +1860,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio purché bevo",
-          "english": "I eat provided that drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "conditional",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Vengo purché tu venga.",
+            "Mangio purché ci sia cibo."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Purché tu sia felice, sono contento."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "conditional": {
+          "meaning": "used to express a condition",
+          "examples": [
+            "Vengo purché tu venga."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Purché tu rispetti le regole, puoi partecipare."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Purché ci sia pizza, va bene."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "pur quod",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with subjunctive mood.",
+        "Learners often confuse with 'se'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa purché famiglia",
-          "english": "House provided that family",
-          "context": "connecting concepts"
+          "mistake": "Mangio purché bevo",
+          "correct": "Mangio purché beva",
+          "incorrect": "Mangio purché bevo"
         }
       ]
     },
@@ -517,16 +1958,94 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio sebbene bevo",
-          "english": "I eat although drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "concessive",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Sebbene sia tardi, voglio uscire.",
+            "Mangio sebbene non abbia fame."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Sebbene sia difficile, ci proverò."
+          ]
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Sebbene sia difficile, non mi arrendo."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "concessive": {
+          "meaning": "used to express a concession",
+          "examples": [
+            "Sebbene piova, andiamo a fare una passeggiata."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Sebbene sia una sfida, accettiamo la proposta."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Sebbene sia tardi, voglio vedere il film."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "si bene",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with subjunctive mood.",
+        "Learners often confuse with 'anche se'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa sebbene famiglia",
-          "english": "House although family",
-          "context": "connecting concepts"
+          "mistake": "Mangio sebbene bevo",
+          "correct": "Mangio sebbene beva",
+          "incorrect": "Mangio sebbene bevo"
         }
       ]
     },
@@ -539,16 +2058,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio affinché bevo",
-          "english": "I eat so that drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "final",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Studio affinché tu possa capire.",
+            "Mangio affinché tu sia soddisfatto."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Affinché tu sia felice, dobbiamo lavorare insieme."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "final": {
+          "meaning": "used to express purpose",
+          "examples": [
+            "Lavoro affinché tu possa avere successo."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Affinché tu possa partecipare, devi iscriverti."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Affinché ci sia pizza, va bene."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "ad finem quod",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with subjunctive mood.",
+        "Learners often confuse with 'perché'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa affinché famiglia",
-          "english": "House so that family",
-          "context": "connecting concepts"
+          "mistake": "Mangio affinché bevo",
+          "correct": "Mangio affinché beva",
+          "incorrect": "Mangio affinché bevo"
         }
       ]
     },
@@ -561,16 +2156,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio giacché bevo",
-          "english": "I eat since drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio giacché ho fame.",
+            "Giacché piove, rimaniamo a casa."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Giacché sei qui, possiamo iniziare."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "used to express a reason",
+          "examples": [
+            "Giacché ho fame, mangio."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Giacché è tardi, andiamo."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Giacché sei qui, possiamo iniziare."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "quia",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with indicative mood.",
+        "Learners often confuse with 'poiché'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa giacché famiglia",
-          "english": "House since family",
-          "context": "connecting concepts"
+          "mistake": "Mangio giacché bevo",
+          "correct": "Mangio giacché beva",
+          "incorrect": "Mangio giacché bevo"
         }
       ]
     },
@@ -583,16 +2254,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio poiché bevo",
-          "english": "I eat since drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio poiché ho fame.",
+            "Poiché piove, rimaniamo a casa."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Poiché sei qui, possiamo iniziare."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "used to express a reason",
+          "examples": [
+            "Poiché ho fame, mangio."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Poiché è tardi, andiamo."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Poiché sei qui, possiamo iniziare."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "quia",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with indicative mood.",
+        "Learners often confuse with 'giacché'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa poiché famiglia",
-          "english": "House since family",
-          "context": "connecting concepts"
+          "mistake": "Mangio poiché bevo",
+          "correct": "Mangio poiché beva",
+          "incorrect": "Mangio poiché bevo"
         }
       ]
     },
@@ -605,16 +2352,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio siccome bevo",
-          "english": "I eat since drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio siccome ho fame.",
+            "Siccome piove, rimaniamo a casa."
+          ]
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Siccome sei qui, possiamo iniziare."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": []
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "used to express a reason",
+          "examples": [
+            "Siccome ho fame, mangio."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Siccome è tardi, andiamo."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Siccome sei qui, possiamo iniziare."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "siccome",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used with indicative mood.",
+        "Learners often confuse with 'poiché'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa siccome famiglia",
-          "english": "House since family",
-          "context": "connecting concepts"
+          "mistake": "Mangio siccome bevo",
+          "correct": "Mangio siccome beva",
+          "incorrect": "Mangio siccome bevo"
         }
       ]
     },
@@ -627,16 +2450,96 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio eppure bevo",
-          "english": "I eat yet drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "adversative",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Mangio eppure bevo.",
+            "È tardi eppure resto."
+          ]
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Eppure, non mi arrendo."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio eppure bevo."
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": [
+            "È tardi, eppure resto."
+          ]
+        }
+      },
+      "usage_contexts": {
+        "adversative": {
+          "meaning": "used to express contrast",
+          "examples": [
+            "È tardi, eppure voglio uscire."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Eppure, la situazione è complessa."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Eppure, non posso venire."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "etiam",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to express contrast.",
+        "Learners often confuse with 'ma'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa eppure famiglia",
-          "english": "House yet family",
-          "context": "connecting concepts"
+          "mistake": "Mangio eppure bevo",
+          "correct": "Mangio eppure beva",
+          "incorrect": "Mangio eppure bevo"
         }
       ]
     },
@@ -649,16 +2552,94 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio piuttosto bevo",
-          "english": "I eat rather drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "comparative",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Mangio piuttosto che bere.",
+            "Preferisco studiare piuttosto che uscire."
+          ]
         },
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": []
+        }
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": []
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Piuttosto, preferisco restare a casa."
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio piuttosto che bere."
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "comparative": {
+          "meaning": "used to express preference",
+          "examples": [
+            "Preferisco studiare piuttosto che uscire."
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Piuttosto, vorrei discutere di questo."
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Piuttosto, andiamo al cinema."
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "pius",
+        "evolution": "retained its meaning in Italian"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to express preference.",
+        "Learners often confuse with 'invece'."
+      ],
+      "common_errors": [
         {
-          "italian": "Casa piuttosto famiglia",
-          "english": "House rather family",
-          "context": "connecting concepts"
+          "mistake": "Mangio piuttosto bevo",
+          "correct": "Mangio piuttosto che bevo",
+          "incorrect": "Mangio piuttosto bevo"
         }
       ]
     },
@@ -666,111 +2647,371 @@
       "id": 31,
       "word": "ovvero",
       "translations": [
-        "namely"
+        "namely",
+        "that is"
       ],
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio ovvero bevo",
-          "english": "I eat namely drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa ovvero famiglia",
-          "english": "House namely family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "words|phrases|clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Marco e Giulia studiano",
+            "È intelligente, ovvero pigro"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Ovvero, dobbiamo decidere"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Studio italiano, ovvero parlo inglese"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "addition": {
+          "meaning": "used to clarify or specify",
+          "examples": [
+            "Ho un cane, ovvero un Labrador",
+            "Ci sono due opzioni, ovvero andare o restare"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Ovvero, la questione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Ovvero, che ne pensi?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "or rather",
+        "evolution": "developed to indicate clarification"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Often used in formal contexts to clarify statements"
+      ],
+      "common_errors": []
     },
     {
       "id": 32,
       "word": "ossia",
       "translations": [
-        "that is"
+        "that is",
+        "or rather"
       ],
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio ossia bevo",
-          "english": "I eat that is drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa ossia famiglia",
-          "english": "House that is family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "words|phrases|clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Marco e Giulia studiano",
+            "È intelligente, ossia pigro"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Ossia, dobbiamo chiarire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Studio italiano, ossia parlo inglese"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "addition": {
+          "meaning": "used to clarify or specify",
+          "examples": [
+            "Ho un cane, ossia un Labrador",
+            "Ci sono due opzioni, ossia andare o restare"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Ossia, la questione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Ossia, che ne pensi?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "that is",
+        "evolution": "used to specify or clarify"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used in both spoken and written Italian for clarification"
+      ],
+      "common_errors": []
     },
     {
       "id": 33,
       "word": "cioè",
       "translations": [
-        "that is"
+        "that is",
+        "in other words"
       ],
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio cioè bevo",
-          "english": "I eat that is drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa cioè famiglia",
-          "english": "House that is family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "coordinating",
+        "function": "additive",
+        "connects": "words|phrases|clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Marco e Giulia studiano",
+            "È intelligente, cioè pigro"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Cioè, dobbiamo chiarire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Studio italiano, cioè parlo inglese"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "addition": {
+          "meaning": "used to clarify or specify",
+          "examples": [
+            "Ho un cane, cioè un Labrador",
+            "Ci sono due opzioni, cioè andare o restare"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Cioè, la questione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Cioè, che ne pensi?"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "that is",
+        "evolution": "used to clarify or explain"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used in both spoken and written Italian for clarification"
+      ],
+      "common_errors": []
     },
     {
       "id": 34,
       "word": "sia",
       "translations": [
-        "both"
+        "both",
+        "whether"
       ],
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio sia bevo",
-          "english": "I eat both drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa sia famiglia",
-          "english": "House both family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "correlative",
+        "function": "comparative",
+        "connects": "words|phrases|clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Sia Marco che Giulia studiano",
+            "Sia intelligente che pigro"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Sia come sia, dobbiamo decidere"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Sia Marco che Giulia studiano"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "comparison": {
+          "meaning": "used to indicate both options",
+          "examples": [
+            "Sia il cane sia il gatto sono animali",
+            "Sia in estate sia in inverno, piove"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Sia chiaro, la situazione è complessa"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Sia chiaro, non ci vengo"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "whether",
+        "evolution": "used to connect two alternatives"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Often used in formal contexts to present alternatives"
+      ],
+      "common_errors": []
     },
     {
       "id": 35,
       "word": "né",
       "translations": [
-        "neither"
+        "neither",
+        "nor"
       ],
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio né bevo",
-          "english": "I eat neither drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa né famiglia",
-          "english": "House neither family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "correlative",
+        "function": "adversative",
+        "connects": "words|phrases|clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": [
+            "Né Marco né Giulia studiano",
+            "Non è intelligente né pigro"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {},
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Né posso venire, né voglio"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Non studio né lavoro"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "negation": {
+          "meaning": "used to indicate negation of both options",
+          "examples": [
+            "Non ho né tempo né voglia",
+            "Né Marco né Giulia sono qui"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Né è giusto, né è sbagliato"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Né voglio, né posso"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "nor",
+        "evolution": "used to connect negative statements"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to emphasize negation"
+      ],
+      "common_errors": []
     },
     {
       "id": 36,
@@ -781,18 +3022,77 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio prima che bevo",
-          "english": "I eat before drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa prima che famiglia",
-          "english": "House before family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Vado a casa prima che piova",
+            "Faccio i compiti prima che esca"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Vado a casa prima che piova",
+            "Spero di finire prima che arrivi"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Prima che arrivi, prepariamo tutto"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Vado a casa prima che piova"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "time_sequence": {
+          "meaning": "used to indicate an action occurring before another",
+          "examples": [
+            "Devo partire prima che arrivi il treno",
+            "Faccio i compiti prima che esca"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Prima che si concluda, dobbiamo discutere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Prima che arrivi, facciamo un giro"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "before",
+        "evolution": "used to indicate precedence in time"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Requires subjunctive mood in dependent clauses"
+      ],
+      "common_errors": []
     },
     {
       "id": 37,
@@ -803,18 +3103,77 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio dopo che bevo",
-          "english": "I eat after drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa dopo che famiglia",
-          "english": "House after family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Vado a casa dopo che piove",
+            "Faccio i compiti dopo che esco"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Vado a casa dopo che piove",
+            "Faccio i compiti dopo che esco"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Dopo che arrivo, ci vediamo"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Vado a casa dopo che piove"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "time_sequence": {
+          "meaning": "used to indicate an action occurring after another",
+          "examples": [
+            "Devo partire dopo che arriva il treno",
+            "Faccio i compiti dopo che esco"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Dopo che si conclude, dobbiamo discutere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Dopo che arrivi, facciamo un giro"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "after",
+        "evolution": "used to indicate succession in time"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Requires indicative mood in dependent clauses"
+      ],
+      "common_errors": []
     },
     {
       "id": 38,
@@ -825,18 +3184,77 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio fino a quando bevo",
-          "english": "I eat until drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa fino a quando famiglia",
-          "english": "House until family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Rimango qui fino a quando finisci",
+            "Aspetto fino a quando arrivi"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Rimango qui fino a quando tu venga",
+            "Aspetto fino a quando tu arrivi"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Fino a quando arrivi, non posso partire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Rimango qui fino a quando finisci"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "time_sequence": {
+          "meaning": "used to indicate a limit in time",
+          "examples": [
+            "Aspetto fino a quando arrivi",
+            "Rimango qui fino a quando finisci"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Fino a quando si conclude, dobbiamo discutere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Fino a quando arrivi, non posso partire"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "until",
+        "evolution": "used to indicate a limit in time"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Requires subjunctive mood in dependent clauses"
+      ],
+      "common_errors": []
     },
     {
       "id": 39,
@@ -847,18 +3265,77 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio finché bevo",
-          "english": "I eat as long as drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa finché famiglia",
-          "english": "House as long as family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "conditional",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Rimango qui finché sei qui",
+            "Aspetto finché arrivi"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": [
+            "Rimango qui finché tu sia qui",
+            "Aspetto finché tu arrivi"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Finché sei qui, non mi preoccupo"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Rimango qui finché sei qui"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "condition": {
+          "meaning": "used to indicate a condition for an action",
+          "examples": [
+            "Rimango qui finché sei qui",
+            "Aspetto finché arrivi"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Finché si conclude, dobbiamo discutere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Finché sei qui, non mi preoccupo"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "as long as",
+        "evolution": "used to indicate a condition"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Requires subjunctive mood in dependent clauses"
+      ],
+      "common_errors": []
     },
     {
       "id": 40,
@@ -869,18 +3346,77 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio appena bevo",
-          "english": "I eat as soon as drink",
-          "context": "connecting actions"
-        },
-        {
-          "italian": "Casa appena famiglia",
-          "english": "House as soon as family",
-          "context": "connecting concepts"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Vado a casa appena finisco",
+            "Faccio i compiti appena esco"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Vado a casa appena finisco",
+            "Faccio i compiti appena esco"
+          ]
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Appena arrivo, ti chiamo"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Vado a casa appena finisco"
+          ]
+        }
+      },
+      "usage_contexts": {
+        "time_sequence": {
+          "meaning": "used to indicate an action occurring immediately after another",
+          "examples": [
+            "Devo partire appena arriva il treno",
+            "Faccio i compiti appena esco"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Appena si conclude, dobbiamo discutere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Appena arrivi, facciamo un giro"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "as soon as",
+        "evolution": "used to indicate immediacy in time"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Requires indicative mood in dependent clauses"
+      ],
+      "common_errors": []
     },
     {
       "id": 41,
@@ -891,18 +3427,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio una volta che bevo",
-          "english": "I eat once drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
-        {
-          "italian": "Casa una volta che famiglia",
-          "english": "House once family",
-          "context": "connecting concepts"
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio una volta che bevo acqua",
+            "Vado a casa una volta che finisco di lavorare"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Penso che una volta che arrivi, iniziamo"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Una volta che hai finito, possiamo uscire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio una volta che bevo acqua"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "temporal": {
+          "meaning": "indicates a point in time when an action occurs",
+          "examples": [
+            "Una volta che hai finito, possiamo uscire",
+            "Una volta che arriva, iniziamo a mangiare"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Una volta che il progetto è completato, presenteremo i risultati"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Una volta che sei pronto, fammi sapere"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "once, one time",
+        "evolution": "developed in Italian to indicate a specific point in time"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to indicate a specific moment in time when an action will take place."
+      ],
+      "common_errors": []
     },
     {
       "id": 42,
@@ -913,18 +3523,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio ogni volta che bevo",
-          "english": "I eat every time drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "temporal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
-        {
-          "italian": "Casa ogni volta che famiglia",
-          "english": "House every time family",
-          "context": "connecting concepts"
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio ogni volta che bevo acqua",
+            "Vado al parco ogni volta che ho tempo"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Ogni volta che vedo Marco, saluto"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Ogni volta che piove, mi piace restare a casa"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio ogni volta che bevo acqua"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "temporal": {
+          "meaning": "indicates a repeated action at specific times",
+          "examples": [
+            "Ogni volta che vado al mercato, compro frutta",
+            "Ogni volta che suona la campana, inizio a studiare"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Ogni volta che si presenta l'occasione, partecipiamo"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Ogni volta che vedo un film, mi emoziono"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "every time",
+        "evolution": "used in Italian to express habitual actions"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to express actions that occur repeatedly under the same conditions."
+      ],
+      "common_errors": []
     },
     {
       "id": 43,
@@ -935,18 +3619,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio dal momento che bevo",
-          "english": "I eat since drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
-        {
-          "italian": "Casa dal momento che famiglia",
-          "english": "House since family",
-          "context": "connecting concepts"
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio dal momento che bevo acqua",
+            "Parto dal momento che ho finito"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Dal momento che sei qui, possiamo iniziare"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Dal momento che hai ragione, ti ascolto"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio dal momento che bevo acqua"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "indicates a reason for an action",
+          "examples": [
+            "Dal momento che piove, rimaniamo a casa",
+            "Dal momento che sei stanco, riposati"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Dal momento che le prove sono state completate, possiamo procedere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Dal momento che sei qui, facciamo festa"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Latin",
+        "meaning": "from the moment that",
+        "evolution": "used in Italian to express causality"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Often used to introduce a reason for an action."
+      ],
+      "common_errors": []
     },
     {
       "id": 44,
@@ -957,18 +3715,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio visto che bevo",
-          "english": "I eat given that drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
-        {
-          "italian": "Casa visto che famiglia",
-          "english": "House given that family",
-          "context": "connecting concepts"
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio visto che bevo acqua",
+            "Resto a casa visto che piove"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Visto che sei qui, possiamo iniziare"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Visto che hai finito, possiamo uscire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio visto che bevo acqua"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "indicates a reason for an action",
+          "examples": [
+            "Visto che sei stanco, riposati",
+            "Visto che piove, rimaniamo a casa"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Visto che le condizioni sono favorevoli, procediamo"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Visto che sei qui, facciamo festa"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Italian",
+        "meaning": "given that",
+        "evolution": "used in Italian to express causality"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to introduce a reason for an action."
+      ],
+      "common_errors": []
     },
     {
       "id": 45,
@@ -979,18 +3811,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio considerato che bevo",
-          "english": "I eat considering that drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
-        {
-          "italian": "Casa considerato che famiglia",
-          "english": "House considering that family",
-          "context": "connecting concepts"
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio considerando che bevo acqua",
+            "Parto considerando che ho finito"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Considerato che sei qui, possiamo iniziare"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Considerato che hai ragione, ti ascolto"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio considerando che bevo acqua"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "indicates a reason for an action",
+          "examples": [
+            "Considerato che piove, rimaniamo a casa",
+            "Considerato che sei stanco, riposati"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Considerato che le prove sono state completate, possiamo procedere"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Considerato che sei qui, facciamo festa"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Italian",
+        "meaning": "considering that",
+        "evolution": "used in Italian to express reasoning"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Used to introduce reasoning for an action."
+      ],
+      "common_errors": []
     },
     {
       "id": 46,
@@ -1001,18 +3907,92 @@
       "part_of_speech": "Conjunction",
       "difficulty": "Hard",
       "category": "Italian",
-      "examples": [
-        {
-          "italian": "Mangio dato che bevo",
-          "english": "I eat given that drink",
-          "context": "connecting actions"
+      "conjunction_classification": {
+        "type": "subordinating",
+        "function": "causal",
+        "connects": "clauses"
+      },
+      "clause_connection": {
+        "coordination": {
+          "description": "connects elements of equal grammatical status",
+          "examples": []
         },
-        {
-          "italian": "Casa dato che famiglia",
-          "english": "House given that family",
-          "context": "connecting concepts"
+        "subordination": {
+          "description": "connects dependent clause to main clause",
+          "examples": [
+            "Mangio dato che bevo acqua",
+            "Resto a casa dato che piove"
+          ]
         }
-      ]
+      },
+      "mood_tense_requirements": {
+        "indicative": {
+          "description": "when conjunction requires indicative mood",
+          "examples": [
+            "Dato che sei qui, possiamo iniziare"
+          ]
+        },
+        "subjunctive": {
+          "description": "when conjunction requires subjunctive mood",
+          "examples": []
+        },
+        "conditional": {
+          "description": "when conjunction is used with conditional",
+          "examples": []
+        }
+      },
+      "position_rules": {
+        "sentence_initial": {
+          "description": "conjunction can start a sentence",
+          "examples": [
+            "Dato che hai finito, possiamo uscire"
+          ]
+        },
+        "between_clauses": {
+          "description": "conjunction between two clauses",
+          "examples": [
+            "Mangio dato che bevo acqua"
+          ]
+        },
+        "with_punctuation": {
+          "description": "punctuation rules with conjunction",
+          "examples": []
+        }
+      },
+      "usage_contexts": {
+        "causal": {
+          "meaning": "indicates a reason for an action",
+          "examples": [
+            "Dato che piove, rimaniamo a casa",
+            "Dato che sei stanco, riposati"
+          ]
+        }
+      },
+      "common_collocations": [],
+      "formal_vs_informal": {
+        "formal": {
+          "usage": "written/formal speech",
+          "examples": [
+            "Dato che le condizioni sono favorevoli, procediamo"
+          ]
+        },
+        "informal": {
+          "usage": "spoken/casual",
+          "examples": [
+            "Dato che sei qui, facciamo festa"
+          ]
+        }
+      },
+      "etymology": {
+        "origin": "Italian",
+        "meaning": "given that",
+        "evolution": "used in Italian to express causality"
+      },
+      "related_english_words": [],
+      "usage_notes": [
+        "Commonly used to introduce a reason for an action."
+      ],
+      "common_errors": []
     }
   ]
 }
