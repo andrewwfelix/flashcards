@@ -70,4 +70,8 @@ Thumbs.db
 
 # Uploads directory (contains user uploaded files)
 uploads/*
-!uploads/.gitkeep 
+!uploads/.gitkeep
+
+# OpenAI quality review reports
+prompts/noun_quality_report.json
+prompts/review_errors.json 

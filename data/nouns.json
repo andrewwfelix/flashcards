@@ -15,32 +15,42 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Il tempo vola quando ci si diverte.",
-          "english": "Time flies when you're having fun.",
-          "context": "idiomatic expression"
+          "italian": "Non ho tempo per perdere tempo.",
+          "english": "I don't have time to waste time.",
+          "context": "Emphasizing the importance of time management."
+        },
+        {
+          "italian": "Il tempo oggi è soleggiato e caldo.",
+          "english": "The weather today is sunny and warm.",
+          "context": "Describing the current weather conditions."
+        },
+        {
+          "italian": "Il tempo cambia rapidamente in montagna.",
+          "english": "The weather changes quickly in the mountains.",
+          "context": "Discussing the unpredictable nature of mountain weather."
         }
       ],
       "etymology": {
         "origin": "Latin",
         "source": "tempus",
-        "meaning": "time; a stretch or period of time, also used in grammatical and poetic senses.",
-        "notes": "From Latin 'tempus', meaning time or season, which evolved into Italian 'tempo'."
+        "meaning": "A stretch or period of time; also refers to seasons and grammatical aspects.",
+        "notes": "The Latin 'tempus' evolved into the Italian 'tempo', retaining the meanings related to both time and weather. The word has been used in various contexts throughout history, reflecting the dual nature of its meanings."
       },
       "related_english_words": [
         {
           "word": "tempo",
-          "meaning": "The speed or pace of a piece of music",
-          "usage": "The symphony has a fast tempo."
+          "meaning": "The speed or pace of a piece of music.",
+          "usage": "The conductor adjusted the tempo to create a more dramatic effect."
         },
         {
           "word": "temporal",
-          "meaning": "Relating to time",
-          "usage": "Temporal aspects of life are fleeting."
+          "meaning": "Relating to time or worldly affairs.",
+          "usage": "The temporal power of the monarchy was challenged by the rise of democracy."
         },
         {
           "word": "temporary",
-          "meaning": "Lasting for a limited time",
-          "usage": "She found a temporary job."
+          "meaning": "Lasting for a limited time; not permanent.",
+          "usage": "They signed a temporary contract for the project."
         }
       ],
       "cognates": [
