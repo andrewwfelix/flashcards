@@ -13,21 +13,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto rosso",
-          "english": "It is very red",
-          "context": "description"
+          "italian": "Il sole tramonta in un cielo rosso.",
+          "english": "The sun sets in a red sky.",
+          "context": "description of a sunset"
         },
         {
-          "italian": "Una persona rosso",
-          "english": "A red person",
-          "context": "character description"
+          "italian": "La rosa rossa è il simbolo dell'amore.",
+          "english": "The red rose is the symbol of love.",
+          "context": "description of a flower"
+        },
+        {
+          "italian": "I vestiti rossi sono di moda quest'anno.",
+          "english": "Red clothes are in fashion this year.",
+          "context": "description of fashion"
+        },
+        {
+          "italian": "Le luci rosse brillano nella notte.",
+          "english": "The red lights shine in the night.",
+          "context": "description of a city at night"
         }
       ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Regular adjectives that change according to gender and number.",
+        "forms": {
+          "masculine_singular": "rosso",
+          "feminine_singular": "rossa",
+          "masculine_plural": "rossi",
+          "feminine_plural": "rosse"
+        }
+      },
+      "comparison": {
+        "comparative": "più rosso",
+        "superlative": "il più rosso",
+        "notes": "Regular comparison pattern."
+      },
+      "position": {
+        "type": "both",
+        "description": "Can be placed before or after the noun.",
+        "notes": "When placed before, it can emphasize the quality."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "russus",
         "meaning": "red",
-        "notes": "From Latin russus, variant of ruber (red)"
+        "notes": "Derived from Latin 'russus', which means red, and is a variant of 'ruber'. The term evolved into the modern Italian 'rosso'."
+      },
+      "related_english_words": [
+        {
+          "word": "rust",
+          "meaning": "A reddish-brown oxide coating on iron.",
+          "usage": "The old bike was covered in rust."
+        },
+        {
+          "word": "rosy",
+          "meaning": "Having a pink or red color.",
+          "usage": "She had a rosy complexion."
+        }
+      ],
+      "cognates": [
+        "ruber",
+        "rouge"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "rosso fuoco",
+          "rosso scarlatto"
+        ],
+        "grammatical_tips": "Ensure agreement with the noun in gender and number."
       }
     },
     {
@@ -41,16 +95,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto blu",
-          "english": "It is very blue",
-          "context": "description"
+          "italian": "La mia maglietta è blu.",
+          "english": "My t-shirt is blue.",
+          "context": "description of clothing"
         },
         {
-          "italian": "Una persona blu",
-          "english": "A blue person",
-          "context": "character description"
+          "italian": "Le onde del mare sono blu.",
+          "english": "The waves of the sea are blue.",
+          "context": "description of nature"
+        },
+        {
+          "italian": "Abbiamo scelto un divano blu per il soggiorno.",
+          "english": "We chose a blue sofa for the living room.",
+          "context": "description of furniture"
+        },
+        {
+          "italian": "I gatti hanno occhi blu.",
+          "english": "The cats have blue eyes.",
+          "context": "description of animals"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Blu is an invariable adjective, meaning it does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "blu",
+          "feminine_singular": "blu",
+          "masculine_plural": "blu",
+          "feminine_plural": "blu"
+        }
+      },
+      "comparison": {
+        "comparative": "più blu",
+        "superlative": "il più blu",
+        "notes": "Blu does not have an irregular form for comparison."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Blu typically follows the noun it describes.",
+        "notes": "There is no significant change in meaning when used in different positions."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "blavus",
+        "meaning": "The original Latin term referred to a color that is dark or blue.",
+        "notes": "The word evolved through Old Italian before becoming the modern Italian 'blu'."
+      },
+      "related_english_words": [
+        {
+          "word": "blue",
+          "meaning": "The color between green and violet in the spectrum.",
+          "usage": "The sky is often blue on a clear day."
+        },
+        {
+          "word": "blues",
+          "meaning": "A genre of music characterized by its expressive and melancholic sound.",
+          "usage": "He loves listening to the blues on weekends."
+        }
+      ],
+      "cognates": [
+        "blau",
+        "bleu"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "cielo blu",
+          "mare blu"
+        ],
+        "grammatical_tips": "As an invariable adjective, blu does not require agreement in gender or number."
+      }
     },
     {
       "id": 3,
@@ -63,16 +177,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto verde",
-          "english": "It is very green",
-          "context": "description"
+          "italian": "Il prato è verde e rigoglioso.",
+          "english": "The lawn is green and lush.",
+          "context": "nature description"
         },
         {
-          "italian": "Una persona verde",
-          "english": "A green person",
-          "context": "character description"
+          "italian": "Ho visto un vestito verde brillante.",
+          "english": "I saw a bright green dress.",
+          "context": "object description"
+        },
+        {
+          "italian": "Le piante verdi crescono meglio in estate.",
+          "english": "Green plants grow better in summer.",
+          "context": "seasonal description"
+        },
+        {
+          "italian": "I muri verdi della stanza creano un'atmosfera calma.",
+          "english": "The green walls of the room create a calm atmosphere.",
+          "context": "interior design description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "The adjective 'verde' is invariable in gender but agrees in number, taking the same form for both masculine and feminine singular, and adding -i for plural.",
+        "forms": {
+          "masculine_singular": "verde",
+          "feminine_singular": "verde",
+          "masculine_plural": "verdi",
+          "feminine_plural": "verdi"
+        }
+      },
+      "comparison": {
+        "comparative": "più verde",
+        "superlative": "il più verde",
+        "notes": "The comparative and superlative forms are regular, formed by adding 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "both",
+        "description": "The adjective 'verde' can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it may emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "viridis",
+        "meaning": "green, fresh, lively",
+        "notes": "The word evolved from Latin 'viridis', which referred to the color of growing plants and freshness, reflecting vitality and life."
+      },
+      "related_english_words": [
+        {
+          "word": "verdant",
+          "meaning": "green with grass or other rich vegetation",
+          "usage": "The verdant hills were a sight to behold."
+        },
+        {
+          "word": "viridescent",
+          "meaning": "becoming green; greenish",
+          "usage": "The leaves were viridescent in the spring sun."
+        }
+      ],
+      "cognates": [
+        "viridis",
+        "verdure"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "verde speranza",
+          "verde oliva"
+        ],
+        "grammatical_tips": "Remember that 'verde' does not change for gender but does change for number. Use 'verdi' for plural forms."
+      }
     },
     {
       "id": 4,
@@ -85,16 +259,79 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto giallo",
-          "english": "It is very yellow",
-          "context": "description"
+          "italian": "Il sole è giallo.",
+          "english": "The sun is yellow.",
+          "context": "description of an object"
         },
         {
-          "italian": "Una persona giallo",
-          "english": "A yellow person",
-          "context": "character description"
+          "italian": "La banana è gialla.",
+          "english": "The banana is yellow.",
+          "context": "description of food"
+        },
+        {
+          "italian": "I fiori gialli sono belli.",
+          "english": "The yellow flowers are beautiful.",
+          "context": "description of nature"
+        },
+        {
+          "italian": "Le macchine gialle attirano l'attenzione.",
+          "english": "Yellow cars attract attention.",
+          "context": "description of vehicles"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Giallo follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "giallo",
+          "feminine_singular": "gialla",
+          "masculine_plural": "gialli",
+          "feminine_plural": "gialle"
+        }
+      },
+      "comparison": {
+        "comparative": "più giallo",
+        "superlative": "il più giallo",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Giallo can be placed before or after the noun, with no significant change in meaning.",
+        "notes": "When placed before the noun, it may emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "giallus",
+        "meaning": "The original Latin word means 'yellow' or 'golden'.",
+        "notes": "The word evolved from Latin through Old Italian, maintaining its meaning related to color."
+      },
+      "related_english_words": [
+        {
+          "word": "gilded",
+          "meaning": "Covered thinly with gold leaf or gold paint.",
+          "usage": "The gilded frame added elegance to the painting."
+        },
+        {
+          "word": "gall",
+          "meaning": "Bold, impudent behavior.",
+          "usage": "She had the gall to ask for a raise after just one month."
+        }
+      ],
+      "cognates": [
+        "giallo",
+        "gialla",
+        "gialli",
+        "gialle"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "giallo limone",
+          "giallo sole",
+          "giallo canarino"
+        ],
+        "grammatical_tips": "Ensure agreement with the noun in gender and number."
+      }
     },
     {
       "id": 5,
@@ -107,21 +344,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto nero",
-          "english": "It is very black",
-          "context": "description"
+          "italian": "Il gatto è nero.",
+          "english": "The cat is black.",
+          "context": "description of an animal"
         },
         {
-          "italian": "Una persona nero",
-          "english": "A black person",
-          "context": "character description"
+          "italian": "La macchina nera è veloce.",
+          "english": "The black car is fast.",
+          "context": "description of a vehicle"
+        },
+        {
+          "italian": "I vestiti neri sono eleganti.",
+          "english": "Black clothes are elegant.",
+          "context": "fashion description"
+        },
+        {
+          "italian": "Le scarpe nere sono in saldo.",
+          "english": "The black shoes are on sale.",
+          "context": "shopping context"
         }
       ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Nero follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "nero",
+          "feminine_singular": "nera",
+          "masculine_plural": "neri",
+          "feminine_plural": "nere"
+        }
+      },
+      "comparison": {
+        "comparative": "più nero",
+        "superlative": "il più nero",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Nero can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before, it often emphasizes the quality."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "niger",
         "meaning": "black",
-        "notes": "From Latin niger, related to English negative"
+        "notes": "The Latin 'niger' evolved into 'nero' in Italian, maintaining the meaning of black. The term is also related to the English word 'negative', which shares the same root."
+      },
+      "related_english_words": [
+        {
+          "word": "nigrescence",
+          "meaning": "The process of becoming black.",
+          "usage": "The nigrescence of the ink was evident as it dried."
+        },
+        {
+          "word": "negro",
+          "meaning": "An outdated term for a person of African descent.",
+          "usage": "The term 'negro' is considered offensive today."
+        }
+      ],
+      "cognates": [
+        "nigrum",
+        "nigra"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "caffè nero",
+          "gatto nero"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
       }
     },
     {
@@ -135,21 +426,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto bianco",
-          "english": "It is very white",
-          "context": "description"
+          "italian": "La neve è bianca.",
+          "english": "The snow is white.",
+          "context": "description of nature"
         },
         {
-          "italian": "Una persona bianco",
-          "english": "A white person",
-          "context": "character description"
+          "italian": "Ho comprato una maglietta bianca.",
+          "english": "I bought a white t-shirt.",
+          "context": "clothing description"
+        },
+        {
+          "italian": "I muri della casa sono bianchi.",
+          "english": "The walls of the house are white.",
+          "context": "description of a house"
+        },
+        {
+          "italian": "Le nuvole sono bianche nel cielo.",
+          "english": "The clouds are white in the sky.",
+          "context": "description of weather"
         }
       ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Bianco follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "bianco",
+          "feminine_singular": "bianca",
+          "masculine_plural": "bianchi",
+          "feminine_plural": "bianche"
+        }
+      },
+      "comparison": {
+        "comparative": "più bianco",
+        "superlative": "il più bianco",
+        "notes": "The adjective 'bianco' follows the regular pattern for comparison."
+      },
+      "position": {
+        "type": "both",
+        "description": "Bianco can be placed before or after the noun, with slight nuances in emphasis.",
+        "notes": "When placed before the noun, it often emphasizes the quality."
+      },
       "etymology": {
         "origin": "Germanic",
         "source": "blank",
         "meaning": "white, shining",
-        "notes": "From Germanic blank, cognate with English blank"
+        "notes": "The term evolved from the Germanic 'blank', which means shining or bright, and is cognate with the English word 'blank'."
+      },
+      "related_english_words": [
+        {
+          "word": "blank",
+          "meaning": "Empty or devoid of content.",
+          "usage": "He handed me a blank sheet of paper."
+        },
+        {
+          "word": "blanco",
+          "meaning": "Spanish word for white.",
+          "usage": "El papel es blanco."
+        }
+      ],
+      "cognates": [
+        "blanco",
+        "blanc"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "carta bianca",
+          "bianco e nero"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
       }
     },
     {
@@ -164,25 +509,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Una casa grande",
-          "english": "A big house",
+          "italian": "Ho un grande sogno.",
+          "english": "I have a big dream.",
+          "context": "personal aspiration"
+        },
+        {
+          "italian": "Le montagne sono grandi.",
+          "english": "The mountains are large.",
           "context": "size description"
         },
         {
-          "italian": "È un grande uomo",
-          "english": "He is a great man",
+          "italian": "È una grande artista.",
+          "english": "She is a great artist.",
           "context": "character praise"
+        },
+        {
+          "italian": "Abbiamo bisogno di una grande idea.",
+          "english": "We need a big idea.",
+          "context": "problem-solving"
         }
       ],
-      "cognates": [
-        "grand",
-        "grandeur"
-      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Grande is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "grande",
+          "feminine_singular": "grande",
+          "masculine_plural": "grandi",
+          "feminine_plural": "grandi"
+        }
+      },
+      "comparison": {
+        "comparative": "più grande",
+        "superlative": "il più grande",
+        "notes": "Grande follows the regular pattern for comparatives and superlatives."
+      },
+      "position": {
+        "type": "both",
+        "description": "Grande can be placed before or after the noun, with slight nuances in meaning.",
+        "notes": "When placed before a noun, it often emphasizes the size or importance."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "grandis",
         "meaning": "large, great",
-        "notes": "From Latin grandis, root of English grand, grandiose"
+        "notes": "The Latin term 'grandis' evolved into 'grande' in Italian, retaining the meanings of size and greatness."
+      },
+      "related_english_words": [
+        {
+          "word": "grand",
+          "meaning": "Impressive in size, appearance, or general effect.",
+          "usage": "The grand hall was filled with guests."
+        },
+        {
+          "word": "grandiose",
+          "meaning": "Impressive or magnificent in appearance or style.",
+          "usage": "The grandiose plans for the new building were unveiled."
+        }
+      ],
+      "cognates": [
+        "grandezza",
+        "ingrandire"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "una grande occasione",
+          "un grande successo"
+        ],
+        "grammatical_tips": "Remember that 'grande' is invariable and can be used in both singular and plural forms without changing."
       }
     },
     {
@@ -196,21 +591,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Un piccolo cane",
-          "english": "A small dog",
-          "context": "size description"
+          "italian": "Ho visto un piccolo gatto nel giardino",
+          "english": "I saw a small cat in the garden",
+          "context": "describing an animal"
         },
         {
-          "italian": "Ho un piccolo problema",
-          "english": "I have a small problem",
+          "italian": "Quella è una piccola casa",
+          "english": "That is a small house",
+          "context": "describing a building"
+        },
+        {
+          "italian": "I bambini hanno un piccolo gioco",
+          "english": "The children have a small toy",
+          "context": "describing an object"
+        },
+        {
+          "italian": "C'è un piccolo problema con la macchina",
+          "english": "There is a small problem with the car",
           "context": "minimizing issues"
         }
       ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Piccolo follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "piccolo",
+          "feminine_singular": "piccola",
+          "masculine_plural": "piccoli",
+          "feminine_plural": "piccole"
+        }
+      },
+      "comparison": {
+        "comparative": "più piccolo",
+        "superlative": "il più piccolo",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "pre_noun",
+        "description": "Piccolo typically precedes the noun it modifies.",
+        "notes": "When placed after the noun, it can emphasize the smallness."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "piculus",
         "meaning": "small",
-        "notes": "Possibly from Latin piculus, diminutive form"
+        "notes": "Evolved from Latin 'piculus', a diminutive form indicating small size."
+      },
+      "related_english_words": [
+        {
+          "word": "piccolo",
+          "meaning": "a small musical instrument, typically a smaller version of a flute",
+          "usage": "The piccolo adds a bright sound to the orchestra."
+        },
+        {
+          "word": "pint",
+          "meaning": "a unit of volume equal to 1/8 of a gallon, often used for liquids",
+          "usage": "I ordered a pint of beer."
+        }
+      ],
+      "cognates": [
+        "piccola",
+        "piccoli",
+        "piccole"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un piccolo passo",
+          "una piccola sorpresa"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun."
       }
     },
     {
@@ -224,21 +674,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho una macchina nuova",
-          "english": "I have a new car",
-          "context": "recent acquisition"
+          "italian": "Ho comprato un nuovo telefono",
+          "english": "I bought a new phone",
+          "context": "recent purchase"
         },
         {
-          "italian": "È un nuovo giorno",
-          "english": "It's a new day",
-          "context": "fresh start"
+          "italian": "Questa è una nuova opportunità",
+          "english": "This is a new opportunity",
+          "context": "fresh chance"
+        },
+        {
+          "italian": "I nuovi studenti sono arrivati",
+          "english": "The new students have arrived",
+          "context": "arrival of newcomers"
+        },
+        {
+          "italian": "Abbiamo un progetto nuovo e innovativo",
+          "english": "We have a new and innovative project",
+          "context": "introduction of a project"
         }
       ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Follows the regular pattern for adjectives ending in -o for masculine singular and -a for feminine singular.",
+        "forms": {
+          "masculine_singular": "nuovo",
+          "feminine_singular": "nuova",
+          "masculine_plural": "nuovi",
+          "feminine_plural": "nuove"
+        }
+      },
+      "comparison": {
+        "comparative": "più nuovo",
+        "superlative": "il più nuovo",
+        "notes": "Regular comparison pattern"
+      },
+      "position": {
+        "type": "pre_noun",
+        "description": "Usually placed before the noun to emphasize the newness.",
+        "notes": "When placed after the noun, it can imply a more descriptive or qualitative aspect."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "novus",
         "meaning": "new",
-        "notes": "From Latin novus, cognate with English novel, novice"
+        "notes": "Derived from Latin 'novus', which has evolved into the modern Italian 'nuovo'. The word is cognate with English words like 'novel' and 'novice', indicating something new or recent."
+      },
+      "related_english_words": [
+        {
+          "word": "novel",
+          "meaning": "a fictitious prose narrative of book length",
+          "usage": "She is reading a new novel by her favorite author."
+        },
+        {
+          "word": "novice",
+          "meaning": "a person new to or inexperienced in a field or situation",
+          "usage": "As a novice in the kitchen, he followed the recipe closely."
+        }
+      ],
+      "cognates": [
+        "novità",
+        "innovazione"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un nuovo inizio",
+          "una nuova avventura"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
       }
     },
     {
@@ -252,21 +756,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto vecchio",
-          "english": "It is very old",
-          "context": "description"
+          "italian": "Questo libro è molto vecchio",
+          "english": "This book is very old",
+          "context": "description of an object"
         },
         {
-          "italian": "Una persona vecchio",
-          "english": "A old person",
-          "context": "character description"
+          "italian": "La mia vecchia casa è stata demolita",
+          "english": "My old house has been demolished",
+          "context": "personal experience"
+        },
+        {
+          "italian": "I vecchi amici sono sempre i migliori",
+          "english": "Old friends are always the best",
+          "context": "reflection on friendship"
+        },
+        {
+          "italian": "Una vecchia tradizione è stata rispettata",
+          "english": "An old tradition has been respected",
+          "context": "cultural reference"
         }
       ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Vecchio follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "vecchio",
+          "feminine_singular": "vecchia",
+          "masculine_plural": "vecchi",
+          "feminine_plural": "vecchie"
+        }
+      },
+      "comparison": {
+        "comparative": "più vecchio",
+        "superlative": "il più vecchio",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Vecchio can be placed before or after the noun, with a slight change in emphasis.",
+        "notes": "When placed before the noun, it often conveys a more subjective or emotional connotation."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "vetulus",
         "meaning": "old",
-        "notes": "From Latin vetulus, diminutive of vetus (old)"
+        "notes": "Derived from Latin 'vetulus', a diminutive of 'vetus', which means 'old'. The term has evolved in Italian to describe age and antiquity."
+      },
+      "related_english_words": [
+        {
+          "word": "veteran",
+          "meaning": "A person who has had long experience in a particular field.",
+          "usage": "The veteran soldier shared his experiences."
+        },
+        {
+          "word": "vintage",
+          "meaning": "Denoting something of high quality and lasting value, especially in reference to wine.",
+          "usage": "This vintage wine is from the year 1990."
+        }
+      ],
+      "cognates": [
+        "vetusto",
+        "veterano"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un vecchio amico",
+          "una vecchia storia"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
       }
     },
     {
@@ -280,21 +838,75 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È un buon libro",
-          "english": "It's a good book",
+          "italian": "Questo è un buon ristorante.",
+          "english": "This is a good restaurant.",
           "context": "quality assessment"
         },
         {
-          "italian": "Buon giorno!",
-          "english": "Good day!",
-          "context": "greeting"
+          "italian": "Ho avuto una buona idea.",
+          "english": "I had a good idea.",
+          "context": "creative thought"
+        },
+        {
+          "italian": "I bambini sono buoni.",
+          "english": "The children are good.",
+          "context": "behavioral assessment"
+        },
+        {
+          "italian": "Le mele sono buone.",
+          "english": "The apples are good.",
+          "context": "taste evaluation"
         }
       ],
+      "agreement_pattern": {
+        "type": "irregular",
+        "description": "Buono has an irregular agreement pattern, changing form based on gender and number.",
+        "forms": {
+          "masculine_singular": "buono",
+          "feminine_singular": "buona",
+          "masculine_plural": "buoni",
+          "feminine_plural": "buone"
+        }
+      },
+      "comparison": {
+        "comparative": "migliore",
+        "superlative": "il migliore",
+        "notes": "Buono has irregular comparative and superlative forms."
+      },
+      "position": {
+        "type": "pre_noun",
+        "description": "Buono typically precedes the noun it modifies.",
+        "notes": "When placed after the noun, it can emphasize the quality."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "bonus",
         "meaning": "good",
-        "notes": "From Latin bonus, cognate with English bonus"
+        "notes": "The Latin 'bonus' evolved into 'buono' in Italian, retaining the meaning of 'good'."
+      },
+      "related_english_words": [
+        {
+          "word": "bonus",
+          "meaning": "an extra payment or benefit",
+          "usage": "The company offered a bonus to its employees."
+        },
+        {
+          "word": "bounty",
+          "meaning": "generosity or abundance",
+          "usage": "The bounty of the harvest was celebrated."
+        }
+      ],
+      "cognates": [
+        "bono",
+        "bonanza"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "buon appetito",
+          "buon viaggio"
+        ],
+        "grammatical_tips": "Ensure agreement with the noun in gender and number."
       }
     },
     {
@@ -308,16 +920,77 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto cattivo",
-          "english": "It is very bad",
-          "context": "description"
+          "italian": "Il cibo è cattivo.",
+          "english": "The food is bad.",
+          "context": "description of food"
         },
         {
-          "italian": "Una persona cattivo",
-          "english": "A bad person",
+          "italian": "Una cattiva abitudine è difficile da rompere.",
+          "english": "A bad habit is hard to break.",
+          "context": "description of habits"
+        },
+        {
+          "italian": "I ragazzi cattivi non ascoltano.",
+          "english": "The bad boys do not listen.",
           "context": "character description"
+        },
+        {
+          "italian": "Le cattive notizie viaggiano veloci.",
+          "english": "Bad news travels fast.",
+          "context": "general observation"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Cattivo follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "cattivo",
+          "feminine_singular": "cattiva",
+          "masculine_plural": "cattivi",
+          "feminine_plural": "cattive"
+        }
+      },
+      "comparison": {
+        "comparative": "più cattivo",
+        "superlative": "il più cattivo",
+        "notes": "Cattivo is regular in comparison formation."
+      },
+      "position": {
+        "type": "both",
+        "description": "Cattivo can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "cattivus",
+        "meaning": "The original meaning referred to something that is bad or evil.",
+        "notes": "The word evolved from Latin 'cattivus', which indicated a negative quality, and has retained this meaning in modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "captive",
+          "meaning": "A person who has been taken prisoner or confined.",
+          "usage": "The captive was held for ransom."
+        },
+        {
+          "word": "captivity",
+          "meaning": "The condition of being imprisoned or confined.",
+          "usage": "The animal lived in captivity for many years."
+        }
+      ],
+      "cognates": [
+        "cattiveria",
+        "cattivo",
+        "cattivissimo"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "cattivo esempio",
+          "cattiva sorte"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 13,
@@ -330,21 +1003,80 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto bello",
-          "english": "It is very beautiful",
-          "context": "description"
+          "italian": "Questo paesaggio è molto bello",
+          "english": "This landscape is very beautiful",
+          "context": "description of scenery"
         },
         {
-          "italian": "Una persona bello",
-          "english": "A beautiful person",
-          "context": "character description"
+          "italian": "La ragazza è bella",
+          "english": "The girl is beautiful",
+          "context": "description of a person"
+        },
+        {
+          "italian": "I bei fiori sono nel giardino",
+          "english": "The beautiful flowers are in the garden",
+          "context": "description of flowers"
+        },
+        {
+          "italian": "Le belle opere d'arte sono in mostra",
+          "english": "The beautiful works of art are on display",
+          "context": "description of art"
         }
       ],
+      "agreement_pattern": {
+        "type": "irregular",
+        "description": "Bello has an irregular agreement pattern, changing form based on gender and number.",
+        "forms": {
+          "masculine_singular": "bello",
+          "feminine_singular": "bella",
+          "masculine_plural": "bei",
+          "feminine_plural": "belle"
+        }
+      },
+      "comparison": {
+        "comparative": "più bello",
+        "superlative": "il più bello",
+        "notes": "Bello is irregular in its comparative and superlative forms."
+      },
+      "position": {
+        "type": "pre_noun",
+        "description": "Bello typically precedes the noun it modifies.",
+        "notes": "When placed before a noun, it emphasizes beauty; after a noun, it can imply a more general quality."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "bellus",
         "meaning": "pretty, handsome",
-        "notes": "From Latin bellus, related to English belle, beauty"
+        "notes": "The Latin 'bellus' evolved into 'bello' in Italian, retaining the meaning of beauty and attractiveness."
+      },
+      "related_english_words": [
+        {
+          "word": "belle",
+          "meaning": "a beautiful woman",
+          "usage": "She was considered the belle of the ball."
+        },
+        {
+          "word": "beauty",
+          "meaning": "a combination of qualities that pleases the aesthetic senses",
+          "usage": "The beauty of the sunset was breathtaking."
+        },
+        {
+          "word": "beau",
+          "meaning": "a handsome man or boyfriend",
+          "usage": "He was her charming beau."
+        }
+      ],
+      "cognates": [
+        "bellissimo",
+        "bellamente"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un bel giorno",
+          "una bella sorpresa"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
       }
     },
     {
@@ -358,16 +1090,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto brutto",
-          "english": "It is very ugly",
-          "context": "description"
+          "italian": "Questo dipinto è brutto.",
+          "english": "This painting is ugly.",
+          "context": "art description"
         },
         {
-          "italian": "Una persona brutto",
-          "english": "A ugly person",
-          "context": "character description"
+          "italian": "La casa è brutta e trascurata.",
+          "english": "The house is ugly and neglected.",
+          "context": "property description"
+        },
+        {
+          "italian": "Non voglio un brutto sogno.",
+          "english": "I don't want an ugly dream.",
+          "context": "dream description"
+        },
+        {
+          "italian": "Quei brutti pensieri non mi lasciano in pace.",
+          "english": "Those ugly thoughts won't leave me alone.",
+          "context": "mental state description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Brutto follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "brutto",
+          "feminine_singular": "brutta",
+          "masculine_plural": "brutti",
+          "feminine_plural": "brutte"
+        }
+      },
+      "comparison": {
+        "comparative": "più brutto",
+        "superlative": "il più brutto",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Brutto typically goes after the noun it modifies.",
+        "notes": "In some contexts, it can precede the noun for emphasis."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "bruttus",
+        "meaning": "The original Latin term meant 'ugly' or 'deformed'.",
+        "notes": "The word evolved into Italian while retaining its meaning, reflecting a consistent usage in describing unattractiveness."
+      },
+      "related_english_words": [
+        {
+          "word": "brutal",
+          "meaning": "Savage; cruel.",
+          "usage": "The brutal attack shocked the community."
+        },
+        {
+          "word": "brutish",
+          "meaning": "Resembling or characteristic of a brute; savage.",
+          "usage": "His brutish behavior was unacceptable."
+        }
+      ],
+      "cognates": [
+        "brutal",
+        "brutish"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "brutto affare",
+          "brutto sogno"
+        ],
+        "grammatical_tips": "Ensure agreement with the noun in gender and number; use the comparative and superlative forms appropriately."
+      }
     },
     {
       "id": 15,
@@ -380,16 +1172,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto giovane",
-          "english": "It is very young",
-          "context": "description"
+          "italian": "Lui è un giovane artista.",
+          "english": "He is a young artist.",
+          "context": "description of a person's profession"
         },
         {
-          "italian": "Una persona giovane",
-          "english": "A young person",
-          "context": "character description"
+          "italian": "Le ragazze giovani sono molto talentuose.",
+          "english": "The young girls are very talented.",
+          "context": "description of a group"
+        },
+        {
+          "italian": "Ho visto un film giovane e innovativo.",
+          "english": "I saw a young and innovative film.",
+          "context": "description of a movie"
+        },
+        {
+          "italian": "Questa è una generazione giovane.",
+          "english": "This is a young generation.",
+          "context": "description of a demographic"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Giovane follows the regular -o/-a adjective pattern, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "giovane",
+          "feminine_singular": "giovane",
+          "masculine_plural": "giovani",
+          "feminine_plural": "giovani"
+        }
+      },
+      "comparison": {
+        "comparative": "più giovane",
+        "superlative": "il più giovane",
+        "notes": "Follows the regular pattern for comparison."
+      },
+      "position": {
+        "type": "both",
+        "description": "Giovane can be placed before or after the noun, with no significant change in meaning.",
+        "notes": "When placed before, it may emphasize youthfulness."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "juvenis",
+        "meaning": "young, youthful",
+        "notes": "The word evolved from Latin 'juvenis', which referred to youth and has influenced various Romance languages."
+      },
+      "related_english_words": [
+        {
+          "word": "juvenile",
+          "meaning": "relating to young people",
+          "usage": "The juvenile court handles cases involving minors."
+        },
+        {
+          "word": "rejuvenate",
+          "meaning": "to make someone or something look or feel younger",
+          "usage": "The spa treatment helped to rejuvenate her skin."
+        }
+      ],
+      "cognates": [
+        "gioventù",
+        "gioviale"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "giovane e bello",
+          "giovane d'età"
+        ],
+        "grammatical_tips": "Remember that 'giovane' does not change form between masculine and feminine singular."
+      }
     },
     {
       "id": 16,
@@ -402,16 +1254,77 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto lungo",
-          "english": "It is very long",
-          "context": "description"
+          "italian": "Il fiume è molto lungo.",
+          "english": "The river is very long.",
+          "context": "description of a river"
         },
         {
-          "italian": "Una persona lungo",
-          "english": "A long person",
-          "context": "character description"
+          "italian": "Ho un viaggio lungo davanti a me.",
+          "english": "I have a long journey ahead of me.",
+          "context": "travel context"
+        },
+        {
+          "italian": "Quella strada è lunga e tortuosa.",
+          "english": "That road is long and winding.",
+          "context": "description of a road"
+        },
+        {
+          "italian": "Le giornate d'estate sono lunghe.",
+          "english": "Summer days are long.",
+          "context": "seasonal description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Lungo follows the regular pattern for adjectives ending in -o for masculine singular and -a for feminine singular.",
+        "forms": {
+          "masculine_singular": "lungo",
+          "feminine_singular": "lunga",
+          "masculine_plural": "lunghi",
+          "feminine_plural": "lunghe"
+        }
+      },
+      "comparison": {
+        "comparative": "più lungo",
+        "superlative": "il più lungo",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Lungo can be placed before or after the noun, with slight nuances in meaning.",
+        "notes": "When placed before the noun, it can emphasize the length as a characteristic."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "longus",
+        "meaning": "The original Latin word means 'long' or 'tall'.",
+        "notes": "The word evolved from Latin to Italian, maintaining its meaning and adapting to the phonetic and morphological rules of Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "long",
+          "meaning": "Having considerable linear extent.",
+          "usage": "The long road stretched out before us."
+        },
+        {
+          "word": "length",
+          "meaning": "The measurement of something from end to end.",
+          "usage": "The length of the table is six feet."
+        }
+      ],
+      "cognates": [
+        "lunghezza",
+        "lungo",
+        "allungare"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un viaggio lungo",
+          "una strada lunga"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 17,
@@ -424,16 +1337,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto corto",
-          "english": "It is very short",
-          "context": "description"
+          "italian": "Il film è molto corto.",
+          "english": "The movie is very short.",
+          "context": "description of a film"
         },
         {
-          "italian": "Una persona corto",
-          "english": "A short person",
-          "context": "character description"
+          "italian": "Ho comprato una gonna corta.",
+          "english": "I bought a short skirt.",
+          "context": "fashion description"
+        },
+        {
+          "italian": "I capelli di Marco sono corti.",
+          "english": "Marco's hair is short.",
+          "context": "description of a person's hairstyle"
+        },
+        {
+          "italian": "Le mie scarpe sono corte.",
+          "english": "My shoes are short.",
+          "context": "description of shoe length"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Corto follows the regular pattern for adjectives ending in -o for masculine singular and -a for feminine singular.",
+        "forms": {
+          "masculine_singular": "corto",
+          "feminine_singular": "corta",
+          "masculine_plural": "corti",
+          "feminine_plural": "corte"
+        }
+      },
+      "comparison": {
+        "comparative": "più corto",
+        "superlative": "il più corto",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Corto can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before the noun, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "cŏrtius",
+        "meaning": "The original meaning relates to being limited in length.",
+        "notes": "The word evolved from Latin to Italian, retaining its meaning of shortness."
+      },
+      "related_english_words": [
+        {
+          "word": "curtail",
+          "meaning": "To reduce in extent or quantity.",
+          "usage": "The company decided to curtail its expenses."
+        },
+        {
+          "word": "curt",
+          "meaning": "Rudely brief in speech or abrupt.",
+          "usage": "His curt reply surprised everyone."
+        }
+      ],
+      "cognates": [
+        "corte",
+        "cortile"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "corto circuito",
+          "corto raggio"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 18,
@@ -447,16 +1420,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto alto",
-          "english": "It is very tall",
-          "context": "description"
+          "italian": "L'albero è molto alto.",
+          "english": "The tree is very tall.",
+          "context": "description of a tree"
         },
         {
-          "italian": "Una persona alto",
-          "english": "A tall person",
+          "italian": "Una ragazza alta sta leggendo.",
+          "english": "A tall girl is reading.",
           "context": "character description"
+        },
+        {
+          "italian": "I grattacieli sono alti.",
+          "english": "The skyscrapers are tall.",
+          "context": "description of buildings"
+        },
+        {
+          "italian": "Ho bisogno di una scala alta.",
+          "english": "I need a tall ladder.",
+          "context": "request for an object"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Alto follows the regular pattern for adjectives ending in -o for masculine and -a for feminine forms.",
+        "forms": {
+          "masculine_singular": "alto",
+          "feminine_singular": "alta",
+          "masculine_plural": "alti",
+          "feminine_plural": "alte"
+        }
+      },
+      "comparison": {
+        "comparative": "più alto",
+        "superlative": "il più alto",
+        "notes": "Regular comparative and superlative forms."
+      },
+      "position": {
+        "type": "both",
+        "description": "Alto can be placed before or after the noun, with slight nuances in meaning.",
+        "notes": "When placed before, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "altus",
+        "meaning": "high, deep",
+        "notes": "The Latin 'altus' evolved into 'alto' in Italian, retaining the meaning of height."
+      },
+      "related_english_words": [
+        {
+          "word": "altitude",
+          "meaning": "the height of an object or point in relation to sea level or ground level",
+          "usage": "The airplane reached an altitude of 30,000 feet."
+        },
+        {
+          "word": "altissimo",
+          "meaning": "very high or tall",
+          "usage": "The altissimo range of the singer was impressive."
+        }
+      ],
+      "cognates": [
+        "altus",
+        "altitude"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un uomo alto",
+          "una casa alta"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun."
+      }
     },
     {
       "id": 19,
@@ -470,16 +1503,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto basso",
-          "english": "It is very short",
-          "context": "description"
+          "italian": "L'albero è basso.",
+          "english": "The tree is short.",
+          "context": "description of height"
         },
         {
-          "italian": "Una persona basso",
-          "english": "A short person",
-          "context": "character description"
+          "italian": "La casa è bassa.",
+          "english": "The house is low.",
+          "context": "description of structure"
+        },
+        {
+          "italian": "I ragazzi sono bassi.",
+          "english": "The boys are short.",
+          "context": "description of a group"
+        },
+        {
+          "italian": "Le ragazze sono basse.",
+          "english": "The girls are short.",
+          "context": "description of a group"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Basso follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "basso",
+          "feminine_singular": "bassa",
+          "masculine_plural": "bassi",
+          "feminine_plural": "basse"
+        }
+      },
+      "comparison": {
+        "comparative": "più basso",
+        "superlative": "il più basso",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Basso typically follows the noun it modifies.",
+        "notes": "When placed before the noun, it can emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "bassus",
+        "meaning": "meaning 'short' or 'low'",
+        "notes": "The Latin 'bassus' evolved into 'basso' in Italian, retaining the original meaning."
+      },
+      "related_english_words": [
+        {
+          "word": "bass",
+          "meaning": "A low, deep voice or sound.",
+          "usage": "The singer has a rich bass voice."
+        },
+        {
+          "word": "base",
+          "meaning": "The bottom support of something.",
+          "usage": "The base of the statue is made of marble."
+        }
+      ],
+      "cognates": [
+        "bass",
+        "base"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un uomo basso",
+          "una voce bassa"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 20,
@@ -492,16 +1585,77 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto facile",
-          "english": "It is very easy",
-          "context": "description"
+          "italian": "Questo compito è molto facile",
+          "english": "This task is very easy",
+          "context": "description of a task"
         },
         {
-          "italian": "Una persona facile",
-          "english": "A easy person",
+          "italian": "Le soluzioni facili non sempre sono le migliori",
+          "english": "Easy solutions are not always the best",
+          "context": "general advice"
+        },
+        {
+          "italian": "È una persona facile da capire",
+          "english": "She is an easy person to understand",
           "context": "character description"
+        },
+        {
+          "italian": "Questi problemi sono facili",
+          "english": "These problems are easy",
+          "context": "description of problems"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Facile is an invariable adjective that does not change form between genders and numbers.",
+        "forms": {
+          "masculine_singular": "facile",
+          "feminine_singular": "facile",
+          "masculine_plural": "facili",
+          "feminine_plural": "facili"
+        }
+      },
+      "comparison": {
+        "comparative": "più facile",
+        "superlative": "il più facile",
+        "notes": "The comparative and superlative forms are formed with 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "both",
+        "description": "Facile can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it may emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "facilis",
+        "meaning": "Easily done, easy",
+        "notes": "The Latin word 'facilis' evolved into 'facile' in Italian, retaining the meaning of ease and simplicity."
+      },
+      "related_english_words": [
+        {
+          "word": "facilitate",
+          "meaning": "To make an action or process easier.",
+          "usage": "The new software will facilitate communication between teams."
+        },
+        {
+          "word": "facility",
+          "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+          "usage": "The facility offers easy access to various resources."
+        }
+      ],
+      "cognates": [
+        "facile",
+        "facilitate",
+        "facility"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "è facile",
+          "facile da usare"
+        ],
+        "grammatical_tips": "Remember that 'facile' does not change form and can be used in both singular and plural contexts."
+      }
     },
     {
       "id": 21,
@@ -514,20 +1668,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto difficile",
-          "english": "It is very difficult",
-          "context": "description"
+          "italian": "Questo problema è molto difficile da risolvere.",
+          "english": "This problem is very difficult to solve.",
+          "context": "problem-solving"
         },
         {
-          "italian": "Una persona difficile",
-          "english": "A difficult person",
-          "context": "character description"
+          "italian": "La vita può essere difficile a volte.",
+          "english": "Life can be difficult sometimes.",
+          "context": "general statement"
+        },
+        {
+          "italian": "Ho un compito difficile da completare.",
+          "english": "I have a difficult assignment to complete.",
+          "context": "academic context"
+        },
+        {
+          "italian": "È una decisione difficile da prendere.",
+          "english": "It is a difficult decision to make.",
+          "context": "decision-making"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Difficile is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "difficile",
+          "feminine_singular": "difficile",
+          "masculine_plural": "difficili",
+          "feminine_plural": "difficili"
+        }
+      },
+      "comparison": {
+        "comparative": "più difficile",
+        "superlative": "il più difficile",
+        "notes": "Follows the regular pattern for forming comparatives and superlatives."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Difficile typically follows the noun it modifies.",
+        "notes": "There are no significant meaning changes based on position."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "difficilis",
+        "meaning": "Hard to do, hard to manage",
+        "notes": "The Latin term 'difficilis' combines 'dis-' (not) and 'facilis' (easy), evolving into the modern Italian 'difficile'."
+      },
+      "related_english_words": [
+        {
+          "word": "difficult",
+          "meaning": "Not easy; requiring effort or skill.",
+          "usage": "The exam was difficult."
+        },
+        {
+          "word": "difficulty",
+          "meaning": "The state or condition of being difficult.",
+          "usage": "She faced many difficulties during her studies."
         }
       ],
       "cognates": [
-        "difficult",
-        "difficulty"
-      ]
+        "difficoltà",
+        "difficilmente"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "è difficile",
+          "troppo difficile"
+        ],
+        "grammatical_tips": "Remember that 'difficile' does not change for gender or number, but its plural form is 'difficili'."
+      }
     },
     {
       "id": 22,
@@ -540,16 +1750,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto caldo",
-          "english": "It is very hot",
-          "context": "description"
+          "italian": "Oggi è molto caldo.",
+          "english": "Today is very hot.",
+          "context": "weather description"
         },
         {
-          "italian": "Una persona caldo",
-          "english": "A hot person",
-          "context": "character description"
+          "italian": "Questa zuppa è calda.",
+          "english": "This soup is hot.",
+          "context": "food description"
+        },
+        {
+          "italian": "L'estate è calda in Italia.",
+          "english": "Summer is hot in Italy.",
+          "context": "seasonal description"
+        },
+        {
+          "italian": "Le giornate calde sono piacevoli.",
+          "english": "Hot days are pleasant.",
+          "context": "general observation"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Caldo follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "caldo",
+          "feminine_singular": "calda",
+          "masculine_plural": "caldi",
+          "feminine_plural": "calde"
+        }
+      },
+      "comparison": {
+        "comparative": "più caldo",
+        "superlative": "il più caldo",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Caldo typically goes after the noun it describes.",
+        "notes": "In some contexts, it can precede the noun for emphasis."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "calidus",
+        "meaning": "Warm, hot",
+        "notes": "The word evolved from Latin 'calidus', which means warm or hot, and has retained a similar meaning in modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "calid",
+          "meaning": "Warm or hot.",
+          "usage": "The calid air of the desert was overwhelming."
+        },
+        {
+          "word": "calorific",
+          "meaning": "Relating to the amount of heat produced.",
+          "usage": "The calorific value of the food was high."
+        }
+      ],
+      "cognates": [
+        "calore",
+        "caloroso"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "fa caldo",
+          "essere caldo"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 23,
@@ -562,16 +1832,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto freddo",
-          "english": "It is very cold",
-          "context": "description"
+          "italian": "Oggi è molto freddo.",
+          "english": "Today is very cold.",
+          "context": "weather description"
         },
         {
-          "italian": "Una persona freddo",
-          "english": "A cold person",
+          "italian": "Quella bevanda è fredda.",
+          "english": "That drink is cold.",
+          "context": "food and drink description"
+        },
+        {
+          "italian": "Lui è una persona fredda.",
+          "english": "He is a cold person.",
           "context": "character description"
+        },
+        {
+          "italian": "Le giornate invernali sono fredde.",
+          "english": "Winter days are cold.",
+          "context": "seasonal description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Freddo follows the regular pattern of -o for masculine singular and -a for feminine singular, with plural forms ending in -i and -e.",
+        "forms": {
+          "masculine_singular": "freddo",
+          "feminine_singular": "fredda",
+          "masculine_plural": "freddi",
+          "feminine_plural": "fredde"
+        }
+      },
+      "comparison": {
+        "comparative": "più freddo",
+        "superlative": "il più freddo",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Freddo typically goes after the noun it describes.",
+        "notes": "In some contexts, it can precede the noun for emphasis."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "frigidus",
+        "meaning": "cold, cool, chilly",
+        "notes": "The word evolved from Latin 'frigidus', which referred to low temperatures and has retained a similar meaning in modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "frigid",
+          "meaning": "extremely cold in temperature",
+          "usage": "The frigid air made it difficult to breathe."
+        },
+        {
+          "word": "refrigerate",
+          "meaning": "to make or keep something cold",
+          "usage": "Please refrigerate the leftovers."
+        }
+      ],
+      "cognates": [
+        "frigid",
+        "refrigerator"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "freddo come il ghiaccio",
+          "un cuore freddo"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 24,
@@ -584,16 +1914,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto dolce",
-          "english": "It is very sweet",
-          "context": "description"
+          "italian": "Il gelato è dolce.",
+          "english": "The ice cream is sweet.",
+          "context": "food description"
         },
         {
-          "italian": "Una persona dolce",
-          "english": "A sweet person",
-          "context": "character description"
+          "italian": "La torta è molto dolce.",
+          "english": "The cake is very sweet.",
+          "context": "dessert description"
+        },
+        {
+          "italian": "I fiori dolci profumano l'aria.",
+          "english": "The sweet flowers scent the air.",
+          "context": "nature description"
+        },
+        {
+          "italian": "Una dolce melodia risuona.",
+          "english": "A sweet melody resonates.",
+          "context": "music description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Dolce follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "dolce",
+          "feminine_singular": "dolce",
+          "masculine_plural": "dolci",
+          "feminine_plural": "dolci"
+        }
+      },
+      "comparison": {
+        "comparative": "più dolce",
+        "superlative": "il più dolce",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Dolce can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "dulcis",
+        "meaning": "Pleasant, agreeable, sweet.",
+        "notes": "The word evolved from Latin 'dulcis', which referred to sweetness in taste and character."
+      },
+      "related_english_words": [
+        {
+          "word": "dulcet",
+          "meaning": "Sweet and soothing, often used to describe music.",
+          "usage": "The dulcet tones of the piano filled the room."
+        },
+        {
+          "word": "indulge",
+          "meaning": "To allow oneself to enjoy the pleasure of something.",
+          "usage": "She decided to indulge in a sweet dessert."
+        }
+      ],
+      "cognates": [
+        "dulce",
+        "dulcimer"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "dolce vita",
+          "dolce far niente"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 25,
@@ -606,16 +1996,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto amaro",
-          "english": "It is very bitter",
-          "context": "description"
+          "italian": "Il caffè è molto amaro.",
+          "english": "The coffee is very bitter.",
+          "context": "description of taste"
         },
         {
-          "italian": "Una persona amaro",
-          "english": "A bitter person",
+          "italian": "Una persona amara può essere difficile da trattare.",
+          "english": "A bitter person can be difficult to deal with.",
           "context": "character description"
+        },
+        {
+          "italian": "Le esperienze amare ci insegnano lezioni importanti.",
+          "english": "Bitter experiences teach us important lessons.",
+          "context": "philosophical reflection"
+        },
+        {
+          "italian": "Questa medicina ha un sapore amaro.",
+          "english": "This medicine has a bitter taste.",
+          "context": "description of a product"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "The adjective 'amaro' follows the regular pattern of -o for masculine singular and -a for feminine singular, with plural forms ending in -i and -e respectively.",
+        "forms": {
+          "masculine_singular": "amaro",
+          "feminine_singular": "amara",
+          "masculine_plural": "amari",
+          "feminine_plural": "amare"
+        }
+      },
+      "comparison": {
+        "comparative": "più amaro",
+        "superlative": "il più amaro",
+        "notes": "The comparative and superlative forms are regular, formed by adding 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "The adjective 'amaro' typically follows the noun it modifies.",
+        "notes": "Placing 'amaro' before the noun can emphasize the bitterness, often used in poetic or dramatic contexts."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "amarus",
+        "meaning": "bitter, sour",
+        "notes": "The Latin 'amarus' evolved into 'amaro' in Italian, retaining the meaning of bitterness, both in taste and metaphorically in character."
+      },
+      "related_english_words": [
+        {
+          "word": "amaro",
+          "meaning": "a type of Italian herbal liqueur that is bitter",
+          "usage": "After dinner, we enjoyed a glass of amaro."
+        },
+        {
+          "word": "bitter",
+          "meaning": "having a sharp, pungent taste or smell; not sweet",
+          "usage": "The bitter taste of the chocolate surprised her."
+        }
+      ],
+      "cognates": [
+        "amaritudine",
+        "amare"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un sapore amaro",
+          "una vita amara"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 26,
@@ -628,16 +2078,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto forte",
-          "english": "It is very strong",
-          "context": "description"
+          "italian": "Il vento è molto forte oggi.",
+          "english": "The wind is very strong today.",
+          "context": "weather description"
         },
         {
-          "italian": "Una persona forte",
-          "english": "A strong person",
-          "context": "character description"
+          "italian": "Una musica forte può disturbare.",
+          "english": "Loud music can be disturbing.",
+          "context": "sound description"
+        },
+        {
+          "italian": "I ragazzi forti giocano a calcio.",
+          "english": "The strong boys play soccer.",
+          "context": "physical description"
+        },
+        {
+          "italian": "Ho bisogno di una voce forte per cantare.",
+          "english": "I need a strong voice to sing.",
+          "context": "ability description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "irregular",
+        "description": "Forte is an irregular adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "forte",
+          "feminine_singular": "forte",
+          "masculine_plural": "forti",
+          "feminine_plural": "forti"
+        }
+      },
+      "comparison": {
+        "comparative": "più forte",
+        "superlative": "il più forte",
+        "notes": "The comparative and superlative forms are formed with 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "both",
+        "description": "Forte can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it can emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "fortis",
+        "meaning": "Strong, brave, powerful",
+        "notes": "The Latin 'fortis' evolved into 'forte' in Italian, retaining the meaning of strength and power."
+      },
+      "related_english_words": [
+        {
+          "word": "fortify",
+          "meaning": "To strengthen or secure.",
+          "usage": "They decided to fortify the castle walls."
+        },
+        {
+          "word": "fortress",
+          "meaning": "A fortified place or stronghold.",
+          "usage": "The fortress stood tall against the enemy."
+        }
+      ],
+      "cognates": [
+        "fortis",
+        "fortitude"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere forte",
+          "una voce forte"
+        ],
+        "grammatical_tips": "Remember that 'forte' does not change for gender but does change for number in plural form."
+      }
     },
     {
       "id": 27,
@@ -650,16 +2160,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto debole",
-          "english": "It is very weak",
-          "context": "description"
+          "italian": "Il suo corpo è molto debole dopo la malattia",
+          "english": "His body is very weak after the illness",
+          "context": "health description"
         },
         {
-          "italian": "Una persona debole",
-          "english": "A weak person",
-          "context": "character description"
+          "italian": "Una strategia debole non porterà al successo",
+          "english": "A weak strategy will not lead to success",
+          "context": "business context"
+        },
+        {
+          "italian": "I risultati sono stati deboli quest'anno",
+          "english": "The results have been weak this year",
+          "context": "performance evaluation"
+        },
+        {
+          "italian": "Le sue gambe sono deboli dopo l'infortunio",
+          "english": "His legs are weak after the injury",
+          "context": "physical condition"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Debole is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "debole",
+          "feminine_singular": "debole",
+          "masculine_plural": "deboli",
+          "feminine_plural": "deboli"
+        }
+      },
+      "comparison": {
+        "comparative": "più debole",
+        "superlative": "il più debole",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Debole typically follows the noun it modifies.",
+        "notes": "It can occasionally precede the noun for emphasis, but this is less common."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "debilis",
+        "meaning": "The original Latin word means 'weak' or 'feeble'.",
+        "notes": "The term evolved into Italian through Vulgar Latin, retaining its meaning."
+      },
+      "related_english_words": [
+        {
+          "word": "debilitate",
+          "meaning": "To weaken or impair the strength of.",
+          "usage": "The illness will debilitate him for weeks."
+        },
+        {
+          "word": "debilitating",
+          "meaning": "Causing a loss of strength or energy.",
+          "usage": "The debilitating effects of the medication were hard to bear."
+        }
+      ],
+      "cognates": [
+        "debilis",
+        "debilitate"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un debole argomento",
+          "una voce debole"
+        ],
+        "grammatical_tips": "Remember that debole does not change form, and it is usually placed after the noun."
+      }
     },
     {
       "id": 28,
@@ -672,19 +2242,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto veloce",
-          "english": "It is very fast",
-          "context": "description"
+          "italian": "La macchina è molto veloce.",
+          "english": "The car is very fast.",
+          "context": "description of a vehicle"
         },
         {
-          "italian": "Una persona veloce",
-          "english": "A fast person",
-          "context": "character description"
+          "italian": "Un atleta veloce può vincere la gara.",
+          "english": "A fast athlete can win the race.",
+          "context": "sports context"
+        },
+        {
+          "italian": "Le sue risposte sono sempre veloci.",
+          "english": "His answers are always fast.",
+          "context": "description of a person's responses"
+        },
+        {
+          "italian": "Questi treni sono più veloci dei bus.",
+          "english": "These trains are faster than buses.",
+          "context": "comparison of transportation"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Veloce is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "veloce",
+          "feminine_singular": "veloce",
+          "masculine_plural": "veloci",
+          "feminine_plural": "veloci"
+        }
+      },
+      "comparison": {
+        "comparative": "più veloce",
+        "superlative": "il più veloce",
+        "notes": "The comparative and superlative forms are formed using 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "both",
+        "description": "Veloce can be placed both before and after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it may emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "velox",
+        "meaning": "swift, rapid",
+        "notes": "The Latin 'velox' evolved into 'veloce' in Italian, retaining the meaning of speed and quickness."
+      },
+      "related_english_words": [
+        {
+          "word": "velocity",
+          "meaning": "the speed of something in a given direction",
+          "usage": "The velocity of the car increased as it went downhill."
+        },
+        {
+          "word": "velocipede",
+          "meaning": "a human-powered vehicle with wheels, such as a bicycle",
+          "usage": "The velocipede was a popular mode of transport in the 19th century."
         }
       ],
       "cognates": [
-        "velocity"
-      ]
+        "velocità",
+        "velocemente"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un viaggio veloce",
+          "una risposta veloce"
+        ],
+        "grammatical_tips": "Remember that 'veloce' does not change form, making it easier to use in sentences."
+      }
     },
     {
       "id": 29,
@@ -697,16 +2324,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto lento",
-          "english": "It is very slow",
-          "context": "description"
+          "italian": "Il treno è lento.",
+          "english": "The train is slow.",
+          "context": "description of transportation"
         },
         {
-          "italian": "Una persona lento",
-          "english": "A slow person",
-          "context": "character description"
+          "italian": "Una risposta lenta può essere frustrante.",
+          "english": "A slow response can be frustrating.",
+          "context": "description of communication"
+        },
+        {
+          "italian": "I bambini sono lenti a finire i compiti.",
+          "english": "The children are slow to finish their homework.",
+          "context": "description of children's behavior"
+        },
+        {
+          "italian": "Lento come una tartaruga.",
+          "english": "Slow as a turtle.",
+          "context": "simile in conversation"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Lento follows the regular pattern for adjectives ending in -o for masculine and -a for feminine forms.",
+        "forms": {
+          "masculine_singular": "lento",
+          "feminine_singular": "lenta",
+          "masculine_plural": "lenti",
+          "feminine_plural": "lente"
+        }
+      },
+      "comparison": {
+        "comparative": "più lento",
+        "superlative": "il più lento",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Lento typically goes after the noun it modifies.",
+        "notes": "In some poetic or emphatic contexts, it can precede the noun."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "lente",
+        "meaning": "The original Latin word means 'slow' or 'sluggish'.",
+        "notes": "The word evolved from Latin through Old Italian, maintaining its meaning."
+      },
+      "related_english_words": [
+        {
+          "word": "lent",
+          "meaning": "A period of fasting or abstinence.",
+          "usage": "Many Christians observe Lent before Easter."
+        },
+        {
+          "word": "languid",
+          "meaning": "Weak or faint from illness or fatigue.",
+          "usage": "She felt languid after the long hike."
+        }
+      ],
+      "cognates": [
+        "lentezza",
+        "languore"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere lento",
+          "andare lento"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun."
+      }
     },
     {
       "id": 30,
@@ -719,16 +2406,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto ricco",
-          "english": "It is very rich",
-          "context": "description"
+          "italian": "L'uomo è molto ricco.",
+          "english": "The man is very rich.",
+          "context": "description of a person"
         },
         {
-          "italian": "Una persona ricco",
-          "english": "A rich person",
-          "context": "character description"
+          "italian": "Una donna ricca vive qui.",
+          "english": "A rich woman lives here.",
+          "context": "description of a person"
+        },
+        {
+          "italian": "Questi vini sono ricchi di sapore.",
+          "english": "These wines are rich in flavor.",
+          "context": "description of food"
+        },
+        {
+          "italian": "Le ricche tradizioni italiane sono affascinanti.",
+          "english": "The rich Italian traditions are fascinating.",
+          "context": "cultural description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "This adjective follows the regular pattern of -o for masculine singular, -a for feminine singular, -i for masculine plural, and -e for feminine plural.",
+        "forms": {
+          "masculine_singular": "ricco",
+          "feminine_singular": "ricca",
+          "masculine_plural": "ricchi",
+          "feminine_plural": "ricche"
+        }
+      },
+      "comparison": {
+        "comparative": "più ricco",
+        "superlative": "il più ricco",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "This adjective can be placed before or after the noun, with a slight change in emphasis.",
+        "notes": "When placed before the noun, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "riccus",
+        "meaning": "wealthy, rich",
+        "notes": "The word evolved from Latin 'riccus', which referred to wealth and abundance, and has retained this meaning in modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "rich",
+          "meaning": "having a lot of money or valuable possessions",
+          "usage": "He is a rich businessman."
+        },
+        {
+          "word": "richness",
+          "meaning": "the quality of being rich or abundant",
+          "usage": "The richness of the soil supports diverse crops."
+        }
+      ],
+      "cognates": [
+        "ricchezza",
+        "arricchire"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "una vita ricca",
+          "un uomo ricco"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 31,
@@ -741,16 +2488,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto povero",
-          "english": "It is very poor",
-          "context": "description"
+          "italian": "L'uomo è molto povero.",
+          "english": "The man is very poor.",
+          "context": "description of a person's financial status"
         },
         {
-          "italian": "Una persona povero",
-          "english": "A poor person",
-          "context": "character description"
+          "italian": "Una donna povera vive qui.",
+          "english": "A poor woman lives here.",
+          "context": "description of a person's financial status"
+        },
+        {
+          "italian": "I bambini poveri hanno bisogno di aiuto.",
+          "english": "Poor children need help.",
+          "context": "social context"
+        },
+        {
+          "italian": "Le famiglie povere sono spesso trascurate.",
+          "english": "Poor families are often neglected.",
+          "context": "social commentary"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Povero follows the regular pattern for adjectives ending in -o, changing to -a for feminine and -i/-e for plural forms.",
+        "forms": {
+          "masculine_singular": "povero",
+          "feminine_singular": "povera",
+          "masculine_plural": "poveri",
+          "feminine_plural": "povere"
+        }
+      },
+      "comparison": {
+        "comparative": "più povero",
+        "superlative": "il più povero",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Povero typically goes after the noun it modifies.",
+        "notes": "When placed before the noun, it can emphasize the adjective."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "pauper",
+        "meaning": "The original Latin word means 'poor, needy'.",
+        "notes": "The term evolved through Old Italian, maintaining its meaning related to lack of wealth."
+      },
+      "related_english_words": [
+        {
+          "word": "pauper",
+          "meaning": "A very poor person.",
+          "usage": "The pauper lived on the streets."
+        },
+        {
+          "word": "poverty",
+          "meaning": "The state of being extremely poor.",
+          "usage": "Poverty is a significant issue in many countries."
+        }
+      ],
+      "cognates": [
+        "pauper",
+        "poverty"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "povero di spirito",
+          "povero cuore"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 32,
@@ -763,16 +2570,77 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto felice",
-          "english": "It is very happy",
-          "context": "description"
+          "italian": "Luca è felice per il suo compleanno",
+          "english": "Luca is happy for his birthday",
+          "context": "celebration"
         },
         {
-          "italian": "Una persona felice",
-          "english": "A happy person",
-          "context": "character description"
+          "italian": "La giornata è stata felice e serena",
+          "english": "The day was happy and serene",
+          "context": "description of a day"
+        },
+        {
+          "italian": "Le persone felici sorridono di più",
+          "english": "Happy people smile more",
+          "context": "general observation"
+        },
+        {
+          "italian": "Ho visto una famiglia felice al parco",
+          "english": "I saw a happy family in the park",
+          "context": "family description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Felice is an invariable adjective that remains the same in both genders and changes only in number.",
+        "forms": {
+          "masculine_singular": "felice",
+          "feminine_singular": "felice",
+          "masculine_plural": "felici",
+          "feminine_plural": "felici"
+        }
+      },
+      "comparison": {
+        "comparative": "più felice",
+        "superlative": "il più felice",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Felice can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it can emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "felix",
+        "meaning": "The original Latin word means 'happy, fortunate, or lucky'.",
+        "notes": "The word evolved from Latin to Italian, retaining its meaning and adapting its form."
+      },
+      "related_english_words": [
+        {
+          "word": "felicity",
+          "meaning": "Intense happiness.",
+          "usage": "Her face radiated felicity during the celebration."
+        },
+        {
+          "word": "felicitous",
+          "meaning": "Well chosen or suited to the circumstances.",
+          "usage": "His felicitous remarks lightened the mood."
+        }
+      ],
+      "cognates": [
+        "felice",
+        "felicity",
+        "felicitous"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere felice",
+          "rendere felice"
+        ],
+        "grammatical_tips": "Remember that felice does not change for gender but does change for number."
+      }
     },
     {
       "id": 33,
@@ -785,16 +2653,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto triste",
-          "english": "It is very sad",
-          "context": "description"
+          "italian": "Il film era molto triste.",
+          "english": "The movie was very sad.",
+          "context": "description of a film"
         },
         {
-          "italian": "Una persona triste",
-          "english": "A sad person",
-          "context": "character description"
+          "italian": "Una giornata triste.",
+          "english": "A sad day.",
+          "context": "description of a day"
+        },
+        {
+          "italian": "I bambini tristi non giocano.",
+          "english": "Sad children do not play.",
+          "context": "observation about children"
+        },
+        {
+          "italian": "Le notizie erano tristi.",
+          "english": "The news was sad.",
+          "context": "description of news"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Triste is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "triste",
+          "feminine_singular": "triste",
+          "masculine_plural": "tristi",
+          "feminine_plural": "tristi"
+        }
+      },
+      "comparison": {
+        "comparative": "più triste",
+        "superlative": "il più triste",
+        "notes": "Triste follows the regular pattern for forming comparatives and superlatives."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Triste typically follows the noun it modifies.",
+        "notes": "Using triste before a noun is uncommon and may imply a more poetic or emphatic tone."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "tristis",
+        "meaning": "sorrowful, sad",
+        "notes": "The Latin term 'tristis' evolved into the Italian 'triste', retaining its meaning related to sadness and sorrow."
+      },
+      "related_english_words": [
+        {
+          "word": "tristful",
+          "meaning": "full of sadness; sorrowful.",
+          "usage": "She had a tristful expression on her face."
+        },
+        {
+          "word": "tristesse",
+          "meaning": "a feeling of sadness or melancholy.",
+          "usage": "He felt a deep tristesse after the loss."
+        }
+      ],
+      "cognates": [
+        "tristezza",
+        "tristemente"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere triste",
+          "sentirsi triste"
+        ],
+        "grammatical_tips": "Remember that triste does not change for gender, but it does change for number in the plural form."
+      }
     },
     {
       "id": 34,
@@ -807,19 +2735,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto importante",
-          "english": "It is very important",
-          "context": "description"
+          "italian": "Questo libro è molto importante per la mia ricerca.",
+          "english": "This book is very important for my research.",
+          "context": "academic context"
         },
         {
-          "italian": "Una persona importante",
-          "english": "A important person",
-          "context": "character description"
+          "italian": "Abbiamo un incontro importante domani.",
+          "english": "We have an important meeting tomorrow.",
+          "context": "business context"
+        },
+        {
+          "italian": "Le decisioni importanti richiedono tempo.",
+          "english": "Important decisions require time.",
+          "context": "general advice"
+        },
+        {
+          "italian": "È una persona molto importante nella comunità.",
+          "english": "He/She is a very important person in the community.",
+          "context": "social context"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Importante is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "importante",
+          "feminine_singular": "importante",
+          "masculine_plural": "importanti",
+          "feminine_plural": "importanti"
+        }
+      },
+      "comparison": {
+        "comparative": "più importante",
+        "superlative": "il più importante",
+        "notes": "The comparative and superlative forms are formed by adding 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "both",
+        "description": "Importante can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it may emphasize the importance more."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "importans",
+        "meaning": "Carrying in, significant, or weighty.",
+        "notes": "The word evolved from Latin 'importans', which is the present participle of 'importare', meaning to bring in or to carry in, reflecting the idea of significance."
+      },
+      "related_english_words": [
+        {
+          "word": "import",
+          "meaning": "To bring goods or services into a country.",
+          "usage": "The country decided to import more goods to meet demand."
+        },
+        {
+          "word": "importance",
+          "meaning": "The state or fact of being of great significance or value.",
+          "usage": "The importance of education cannot be overstated."
         }
       ],
       "cognates": [
-        "important"
-      ]
+        "importanza",
+        "importare"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un'importante decisione",
+          "un'importante evento"
+        ],
+        "grammatical_tips": "Remember that 'importante' does not change form, and it can be used in both formal and informal contexts."
+      }
     },
     {
       "id": 35,
@@ -832,24 +2817,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto possibile",
-          "english": "It is very possible",
-          "context": "description"
+          "italian": "È molto possibile che piova domani.",
+          "english": "It is very possible that it will rain tomorrow.",
+          "context": "weather prediction"
         },
         {
-          "italian": "Una persona possibile",
-          "english": "A possible person",
-          "context": "character description"
+          "italian": "Ci sono molte soluzioni possibili per questo problema.",
+          "english": "There are many possible solutions to this problem.",
+          "context": "problem-solving"
+        },
+        {
+          "italian": "Una decisione possibile è quella di rimandare l'incontro.",
+          "english": "A possible decision is to postpone the meeting.",
+          "context": "decision-making"
+        },
+        {
+          "italian": "Le opzioni sono tutte possibili.",
+          "english": "The options are all possible.",
+          "context": "options discussion"
         }
       ],
-      "cognates": [
-        "possible"
-      ],
+      "agreement_pattern": {
+        "type": "regular_e",
+        "description": "Possibile is an invariable adjective that does not change form based on gender or number.",
+        "forms": {
+          "masculine_singular": "possibile",
+          "feminine_singular": "possibile",
+          "masculine_plural": "possibili",
+          "feminine_plural": "possibili"
+        }
+      },
+      "comparison": {
+        "comparative": "più possibile",
+        "superlative": "il più possibile",
+        "notes": "The comparative and superlative forms are formed by adding 'più' and 'il più' respectively."
+      },
+      "position": {
+        "type": "both",
+        "description": "Possibile can be placed before or after the noun without changing its meaning.",
+        "notes": "When placed before the noun, it may emphasize the potentiality."
+      },
       "etymology": {
         "origin": "Latin",
         "source": "possibilis",
         "meaning": "able to be",
-        "notes": "From Latin -bilis suffix, meaning \"able to be\" or \"worthy of\". Cognate with English -ble suffix."
+        "notes": "The Latin root 'possibilis' combines 'posse' (to be able) with the suffix '-bilis', indicating capability."
+      },
+      "related_english_words": [
+        {
+          "word": "possible",
+          "meaning": "able to be done or achieved",
+          "usage": "It is possible to learn a new language."
+        },
+        {
+          "word": "possibility",
+          "meaning": "a thing that may happen or be the case",
+          "usage": "There is a possibility of rain tomorrow."
+        }
+      ],
+      "cognates": [
+        "possibility",
+        "impossible"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "è possibile",
+          "una possibilità",
+          "è molto possibile"
+        ],
+        "grammatical_tips": "Remember that 'possibile' does not change form, making it easier to use in various contexts."
       }
     },
     {
@@ -863,19 +2900,77 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto necessario",
-          "english": "It is very necessary",
-          "context": "description"
+          "italian": "È necessario studiare per superare l'esame",
+          "english": "It is necessary to study to pass the exam",
+          "context": "educational advice"
         },
         {
-          "italian": "Una persona necessario",
-          "english": "A necessary person",
-          "context": "character description"
+          "italian": "Una decisione necessaria per il futuro",
+          "english": "A necessary decision for the future",
+          "context": "decision-making"
+        },
+        {
+          "italian": "I cambiamenti sono necessari per migliorare",
+          "english": "Changes are necessary to improve",
+          "context": "improvement discussion"
+        },
+        {
+          "italian": "Le risorse necessarie sono state allocate",
+          "english": "The necessary resources have been allocated",
+          "context": "resource management"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "This adjective follows the regular pattern of -o for masculine singular and -a for feminine singular, with -i and -e for plural forms.",
+        "forms": {
+          "masculine_singular": "necessario",
+          "feminine_singular": "necessaria",
+          "masculine_plural": "necessari",
+          "feminine_plural": "necessarie"
+        }
+      },
+      "comparison": {
+        "comparative": "più necessario",
+        "superlative": "il più necessario",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "This adjective can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before the noun, it often emphasizes the necessity."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "necessarius",
+        "meaning": "Pertaining to necessity, indispensable",
+        "notes": "The Latin 'necessarius' comes from 'necessitas', which means necessity, indicating something that cannot be avoided."
+      },
+      "related_english_words": [
+        {
+          "word": "necessary",
+          "meaning": "Essential or required",
+          "usage": "It is necessary to wear a helmet while riding a bike."
+        },
+        {
+          "word": "necessity",
+          "meaning": "The state of being necessary",
+          "usage": "The necessity of clean water is vital for health."
         }
       ],
       "cognates": [
-        "necessary"
-      ]
+        "necessitate",
+        "necessitous"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "è necessario",
+          "necessario per",
+          "una cosa necessaria"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 37,
@@ -888,16 +2983,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto diverso",
-          "english": "It is very different",
-          "context": "description"
+          "italian": "Le culture sono molto diverse.",
+          "english": "The cultures are very different.",
+          "context": "cultural comparison"
         },
         {
-          "italian": "Una persona diverso",
-          "english": "A different person",
-          "context": "character description"
+          "italian": "Ho visto un film diverso ieri.",
+          "english": "I saw a different movie yesterday.",
+          "context": "entertainment"
+        },
+        {
+          "italian": "Ci sono diversi modi per risolvere il problema.",
+          "english": "There are different ways to solve the problem.",
+          "context": "problem-solving"
+        },
+        {
+          "italian": "Queste due idee sono completamente diverse.",
+          "english": "These two ideas are completely different.",
+          "context": "idea comparison"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Diverso follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "diverso",
+          "feminine_singular": "diversa",
+          "masculine_plural": "diversi",
+          "feminine_plural": "diverse"
+        }
+      },
+      "comparison": {
+        "comparative": "più diverso",
+        "superlative": "il più diverso",
+        "notes": "Follows the regular pattern for forming comparatives and superlatives."
+      },
+      "position": {
+        "type": "both",
+        "description": "Diverso can be placed before or after the noun, with slight nuances in meaning.",
+        "notes": "When placed before the noun, it emphasizes the difference; after the noun, it is more descriptive."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "diversus",
+        "meaning": "The original meaning refers to 'turned apart' or 'varied'.",
+        "notes": "The word evolved from Latin, where it indicated a distinction or difference, leading to its current usage in Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "diverse",
+          "meaning": "Showing a great deal of variety; very different.",
+          "usage": "The committee is made up of diverse members."
+        },
+        {
+          "word": "diversity",
+          "meaning": "The state of being diverse; variety.",
+          "usage": "The diversity of opinions is important in a democracy."
+        }
+      ],
+      "cognates": [
+        "diversify",
+        "diversion"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "persone diverse",
+          "opzioni diverse"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 38,
@@ -911,16 +3066,81 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto sicuro",
-          "english": "It is very sure",
-          "context": "description"
+          "italian": "Questa casa è molto sicura.",
+          "english": "This house is very safe.",
+          "context": "description of a place"
         },
         {
-          "italian": "Una persona sicuro",
-          "english": "A sure person",
+          "italian": "Lui è un uomo sicuro di sé.",
+          "english": "He is a self-assured man.",
           "context": "character description"
+        },
+        {
+          "italian": "Le misure di sicurezza sono sicure.",
+          "english": "The security measures are safe.",
+          "context": "description of measures"
+        },
+        {
+          "italian": "Hai fatto la scelta sicura.",
+          "english": "You made the sure choice.",
+          "context": "decision-making"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Sicuro follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "sicuro",
+          "feminine_singular": "sicura",
+          "masculine_plural": "sicuri",
+          "feminine_plural": "sicure"
+        }
+      },
+      "comparison": {
+        "comparative": "più sicuro",
+        "superlative": "il più sicuro",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Sicuro can be placed before or after the noun, with slight nuances in meaning.",
+        "notes": "When placed before, it often emphasizes the quality; when after, it describes the noun more neutrally."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "securus",
+        "meaning": "Free from care, safe, secure.",
+        "notes": "The Latin 'securus' evolved into 'sicuro' in Italian, retaining the meaning of safety and assurance."
+      },
+      "related_english_words": [
+        {
+          "word": "secure",
+          "meaning": "Free from danger or risk.",
+          "usage": "Make sure your passwords are secure."
+        },
+        {
+          "word": "security",
+          "meaning": "The state of being free from danger.",
+          "usage": "The security of the building was compromised."
+        },
+        {
+          "word": "surety",
+          "meaning": "A person who takes responsibility for another's performance.",
+          "usage": "He acted as a surety for the loan."
+        }
+      ],
+      "cognates": [
+        "securitate",
+        "secureness"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere sicuro",
+          "sentirsi sicuro"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 39,
@@ -933,16 +3153,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto libero",
-          "english": "It is very free",
-          "context": "description"
+          "italian": "Il ragazzo è libero di scegliere.",
+          "english": "The boy is free to choose.",
+          "context": "freedom of choice"
         },
         {
-          "italian": "Una persona libero",
-          "english": "A free person",
+          "italian": "La donna è molto libera e indipendente.",
+          "english": "The woman is very free and independent.",
           "context": "character description"
+        },
+        {
+          "italian": "I bambini sono liberi di giocare.",
+          "english": "The children are free to play.",
+          "context": "freedom in play"
+        },
+        {
+          "italian": "Le idee devono essere libere.",
+          "english": "Ideas must be free.",
+          "context": "concept of freedom"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Libero follows the regular pattern for adjectives ending in -o for masculine and -a for feminine, with plural forms ending in -i and -e respectively.",
+        "forms": {
+          "masculine_singular": "libero",
+          "feminine_singular": "libera",
+          "masculine_plural": "liberi",
+          "feminine_plural": "libere"
+        }
+      },
+      "comparison": {
+        "comparative": "più libero",
+        "superlative": "il più libero",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Libero can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before, it emphasizes the quality of freedom."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "liber",
+        "meaning": "The original Latin word means 'free, unrestricted'.",
+        "notes": "The word evolved from Latin through Old Italian, retaining its meaning related to freedom and lack of constraints."
+      },
+      "related_english_words": [
+        {
+          "word": "liberate",
+          "meaning": "To set free.",
+          "usage": "The movement aimed to liberate the oppressed."
+        },
+        {
+          "word": "liberty",
+          "meaning": "The state of being free within society.",
+          "usage": "Liberty is a fundamental human right."
+        }
+      ],
+      "cognates": [
+        "liberation",
+        "liberal"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere libero",
+          "libero arbitrio"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 40,
@@ -955,16 +3235,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto vero",
-          "english": "It is very true",
-          "context": "description"
+          "italian": "È molto vero che la verità fa male.",
+          "english": "It is very true that the truth hurts.",
+          "context": "philosophical statement"
         },
         {
-          "italian": "Una persona vero",
-          "english": "A true person",
+          "italian": "Una persona vera è sempre onesta.",
+          "english": "A true person is always honest.",
           "context": "character description"
+        },
+        {
+          "italian": "Le sue parole sono vere e sincere.",
+          "english": "His words are true and sincere.",
+          "context": "description of statements"
+        },
+        {
+          "italian": "Questa è una storia vera.",
+          "english": "This is a true story.",
+          "context": "narrative description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Vero follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "vero",
+          "feminine_singular": "vera",
+          "masculine_plural": "veri",
+          "feminine_plural": "vere"
+        }
+      },
+      "comparison": {
+        "comparative": "più vero",
+        "superlative": "il più vero",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "both",
+        "description": "Vero can be placed before or after the noun, with slight nuances in meaning.",
+        "notes": "When placed before, it emphasizes the quality; when after, it describes the noun more neutrally."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "verus",
+        "meaning": "true, real",
+        "notes": "The Latin 'verus' evolved into 'vero' in Italian, retaining the meaning of truthfulness and authenticity."
+      },
+      "related_english_words": [
+        {
+          "word": "verify",
+          "meaning": "to make sure or demonstrate that something is true.",
+          "usage": "Please verify your information before submitting."
+        },
+        {
+          "word": "veracity",
+          "meaning": "conformity to facts; accuracy.",
+          "usage": "The veracity of his statement was questioned."
+        }
+      ],
+      "cognates": [
+        "verità",
+        "verosimile"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "è vero",
+          "una persona vera"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 41,
@@ -977,16 +3317,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto falso",
-          "english": "It is very false",
-          "context": "description"
+          "italian": "La sua affermazione è molto falsa.",
+          "english": "His statement is very false.",
+          "context": "evaluation of a statement"
         },
         {
-          "italian": "Una persona falso",
-          "english": "A false person",
+          "italian": "Non fidarti di quella persona, è un falso.",
+          "english": "Don't trust that person, he is false.",
           "context": "character description"
+        },
+        {
+          "italian": "Le notizie erano tutte false.",
+          "english": "The news was all false.",
+          "context": "description of information"
+        },
+        {
+          "italian": "Ho ricevuto un documento falso.",
+          "english": "I received a false document.",
+          "context": "description of a document"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Falso follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "falso",
+          "feminine_singular": "falsa",
+          "masculine_plural": "falsi",
+          "feminine_plural": "false"
+        }
+      },
+      "comparison": {
+        "comparative": "più falso",
+        "superlative": "il più falso",
+        "notes": "Falso follows the regular pattern for comparison."
+      },
+      "position": {
+        "type": "both",
+        "description": "Falso can be placed before or after the noun, with a slight emphasis change when placed before.",
+        "notes": "When placed before the noun, it often emphasizes the falsehood."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "falsus",
+        "meaning": "deceitful, false",
+        "notes": "The word evolved from Latin 'falsus', which means 'deceitful' or 'false', and has retained similar meanings in modern Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "false",
+          "meaning": "not true or correct",
+          "usage": "The claim was proven to be false."
+        },
+        {
+          "word": "falsify",
+          "meaning": "to make false or incorrect",
+          "usage": "He was accused of trying to falsify the documents."
+        }
+      ],
+      "cognates": [
+        "falsità",
+        "falsificazione"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "falso allarme",
+          "falso documento"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 42,
@@ -999,16 +3399,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto pieno",
-          "english": "It is very full",
-          "context": "description"
+          "italian": "Il bicchiere è pieno d'acqua.",
+          "english": "The glass is full of water.",
+          "context": "description of an object"
         },
         {
-          "italian": "Una persona pieno",
-          "english": "A full person",
-          "context": "character description"
+          "italian": "La sala è piena di gente.",
+          "english": "The room is full of people.",
+          "context": "description of a place"
+        },
+        {
+          "italian": "Una giornata piena di sorprese.",
+          "english": "A day full of surprises.",
+          "context": "description of an experience"
+        },
+        {
+          "italian": "I cesti sono pieni di frutta.",
+          "english": "The baskets are full of fruit.",
+          "context": "description of multiple objects"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Pieno follows the regular pattern for adjectives ending in -o for masculine singular and -a for feminine singular.",
+        "forms": {
+          "masculine_singular": "pieno",
+          "feminine_singular": "piena",
+          "masculine_plural": "pieni",
+          "feminine_plural": "piene"
+        }
+      },
+      "comparison": {
+        "comparative": "più pieno",
+        "superlative": "il più pieno",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Pieno typically follows the noun it modifies.",
+        "notes": "In some contexts, it can precede the noun for emphasis or stylistic reasons."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "plenus",
+        "meaning": "The original Latin word means 'full, filled'.",
+        "notes": "The word evolved from Latin to Italian, retaining its meaning and adapting its form."
+      },
+      "related_english_words": [
+        {
+          "word": "plenary",
+          "meaning": "Full; complete; absolute.",
+          "usage": "The conference will have a plenary session."
+        },
+        {
+          "word": "plentiful",
+          "meaning": "Existing in great quantity; abundant.",
+          "usage": "The harvest was plentiful this year."
+        }
+      ],
+      "cognates": [
+        "plentiful",
+        "plenary"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un cuore pieno d'amore",
+          "una mente piena di idee"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 43,
@@ -1021,16 +3481,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto vuoto",
-          "english": "It is very empty",
-          "context": "description"
+          "italian": "Il bicchiere è vuoto.",
+          "english": "The glass is empty.",
+          "context": "description of an object"
         },
         {
-          "italian": "Una persona vuoto",
-          "english": "A empty person",
-          "context": "character description"
+          "italian": "La stanza è molto vuota.",
+          "english": "The room is very empty.",
+          "context": "description of a space"
+        },
+        {
+          "italian": "Una mente vuota può essere creativa.",
+          "english": "An empty mind can be creative.",
+          "context": "philosophical statement"
+        },
+        {
+          "italian": "I corridoi erano vuoti durante la notte.",
+          "english": "The corridors were empty during the night.",
+          "context": "description of a setting"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "This adjective follows the regular pattern of -o for masculine singular, -a for feminine singular, -i for masculine plural, and -e for feminine plural.",
+        "forms": {
+          "masculine_singular": "vuoto",
+          "feminine_singular": "vuota",
+          "masculine_plural": "vuoti",
+          "feminine_plural": "vuote"
+        }
+      },
+      "comparison": {
+        "comparative": "più vuoto",
+        "superlative": "il più vuoto",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "This adjective typically follows the noun it modifies.",
+        "notes": "When placed before the noun, it can emphasize the emptiness."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "vacuus",
+        "meaning": "The original Latin word means 'empty, vacant'.",
+        "notes": "The word evolved from Latin 'vacuus', which has retained its meaning in Italian."
+      },
+      "related_english_words": [
+        {
+          "word": "vacuum",
+          "meaning": "A space entirely devoid of matter.",
+          "usage": "The vacuum of space is a fascinating subject."
+        },
+        {
+          "word": "vacate",
+          "meaning": "To leave a place that one previously occupied.",
+          "usage": "They decided to vacate the premises."
+        }
+      ],
+      "cognates": [
+        "vacuous",
+        "vacant"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un cuore vuoto",
+          "una mente vuota"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 44,
@@ -1043,16 +3563,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto aperto",
-          "english": "It is very open",
-          "context": "description"
+          "italian": "La porta è aperta.",
+          "english": "The door is open.",
+          "context": "description of a physical object"
         },
         {
-          "italian": "Una persona aperto",
-          "english": "A open person",
+          "italian": "Lui è una persona molto aperta.",
+          "english": "He is a very open person.",
           "context": "character description"
+        },
+        {
+          "italian": "Abbiamo un dialogo aperto.",
+          "english": "We have an open dialogue.",
+          "context": "discussion context"
+        },
+        {
+          "italian": "Le idee aperte sono benvenute.",
+          "english": "Open ideas are welcome.",
+          "context": "inviting creativity"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "This adjective follows the regular pattern of -o for masculine singular and -a for feminine singular, with -i and -e for plural forms.",
+        "forms": {
+          "masculine_singular": "aperto",
+          "feminine_singular": "aperta",
+          "masculine_plural": "aperti",
+          "feminine_plural": "aperte"
+        }
+      },
+      "comparison": {
+        "comparative": "più aperto",
+        "superlative": "il più aperto",
+        "notes": "The adjective follows the regular pattern for comparison."
+      },
+      "position": {
+        "type": "both",
+        "description": "This adjective can be placed before or after the noun, with a slight change in emphasis.",
+        "notes": "When placed before the noun, it often emphasizes the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "apertus",
+        "meaning": "The original meaning refers to being 'uncovered' or 'exposed'.",
+        "notes": "The word evolved from Latin 'apertus', which is the past participle of 'aperire', meaning 'to open'."
+      },
+      "related_english_words": [
+        {
+          "word": "aperture",
+          "meaning": "An opening, hole, or gap.",
+          "usage": "The camera's aperture controls the amount of light that enters."
+        },
+        {
+          "word": "open",
+          "meaning": "To move something to allow access.",
+          "usage": "Please open the window."
+        }
+      ],
+      "cognates": [
+        "aperto",
+        "aperire"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "mente aperta",
+          "cuore aperto"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 45,
@@ -1065,16 +3645,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto chiuso",
-          "english": "It is very closed",
-          "context": "description"
+          "italian": "La porta è chiusa.",
+          "english": "The door is closed.",
+          "context": "description of an object"
         },
         {
-          "italian": "Una persona chiuso",
-          "english": "A closed person",
+          "italian": "Un libro chiuso può nascondere molte storie.",
+          "english": "A closed book can hide many stories.",
+          "context": "metaphorical usage"
+        },
+        {
+          "italian": "Le finestre sono chiuse per il freddo.",
+          "english": "The windows are closed because of the cold.",
+          "context": "practical situation"
+        },
+        {
+          "italian": "Una persona chiusa non parla facilmente.",
+          "english": "A closed person does not speak easily.",
           "context": "character description"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Chiusa follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "chiuso",
+          "feminine_singular": "chiusa",
+          "masculine_plural": "chiusi",
+          "feminine_plural": "chiuse"
+        }
+      },
+      "comparison": {
+        "comparative": "più chiuso",
+        "superlative": "il più chiuso",
+        "notes": "Regular comparative and superlative forms."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Chiuso typically follows the noun it modifies.",
+        "notes": "When placed before the noun, it can imply a more figurative meaning."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "clausus",
+        "meaning": "The original meaning refers to something that is shut or closed off.",
+        "notes": "The word evolved from Latin 'clausus', which is the past participle of 'claudere', meaning 'to close'."
+      },
+      "related_english_words": [
+        {
+          "word": "clause",
+          "meaning": "A distinct section of a legal document or a grammatical unit.",
+          "usage": "The contract included a clause about confidentiality."
+        },
+        {
+          "word": "closure",
+          "meaning": "The act of closing something.",
+          "usage": "The closure of the factory affected many workers."
+        }
+      ],
+      "cognates": [
+        "chiudere",
+        "chiusura"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere chiuso",
+          "rimanere chiuso"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number when using chiuso in sentences."
+      }
     },
     {
       "id": 46,
@@ -1087,16 +3727,82 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto pulito",
-          "english": "It is very clean",
-          "context": "description"
+          "italian": "La casa è pulita e ordinata.",
+          "english": "The house is clean and tidy.",
+          "context": "description of a place"
         },
         {
-          "italian": "Una persona pulito",
-          "english": "A clean person",
-          "context": "character description"
+          "italian": "Ho bisogno di un vestito pulito per la festa.",
+          "english": "I need a clean dress for the party.",
+          "context": "request for clothing"
+        },
+        {
+          "italian": "I piatti sono puliti dopo il lavaggio.",
+          "english": "The dishes are clean after washing.",
+          "context": "post-cleaning description"
+        },
+        {
+          "italian": "L'auto è molto pulita dopo il lavaggio.",
+          "english": "The car is very clean after the wash.",
+          "context": "description of a vehicle"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Pulito follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "pulito",
+          "feminine_singular": "pulita",
+          "masculine_plural": "puliti",
+          "feminine_plural": "pulite"
+        }
+      },
+      "comparison": {
+        "comparative": "più pulito",
+        "superlative": "il più pulito",
+        "notes": "The adjective follows the regular pattern for forming comparatives and superlatives."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Pulito typically goes after the noun it modifies.",
+        "notes": "When placed before the noun, it can emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "pūlītus",
+        "meaning": "The original meaning relates to being 'cleaned' or 'polished'.",
+        "notes": "The word evolved from Latin, where it was used to describe something that had been made clean or pure."
+      },
+      "related_english_words": [
+        {
+          "word": "clean",
+          "meaning": "Free from dirt, marks, or stains.",
+          "usage": "Make sure your hands are clean before eating."
+        },
+        {
+          "word": "cleanliness",
+          "meaning": "The state of being clean.",
+          "usage": "Cleanliness is important for health."
+        },
+        {
+          "word": "cleanse",
+          "meaning": "To make something clean.",
+          "usage": "You should cleanse your skin daily."
+        }
+      ],
+      "cognates": [
+        "pulizia",
+        "pulisci",
+        "pulisciamo"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un ambiente pulito",
+          "una mente pulita"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 47,
@@ -1109,16 +3815,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto sporco",
-          "english": "It is very dirty",
-          "context": "description"
+          "italian": "La cucina è sporca dopo la cena.",
+          "english": "The kitchen is dirty after dinner.",
+          "context": "description of a place"
         },
         {
-          "italian": "Una persona sporco",
-          "english": "A dirty person",
-          "context": "character description"
+          "italian": "Ho visto un vestito sporco nel negozio.",
+          "english": "I saw a dirty dress in the store.",
+          "context": "description of an object"
+        },
+        {
+          "italian": "I bambini sono tornati a casa sporchi dopo aver giocato.",
+          "english": "The children came home dirty after playing.",
+          "context": "description of people"
+        },
+        {
+          "italian": "Quella macchina è molto sporca.",
+          "english": "That car is very dirty.",
+          "context": "description of an object"
         }
-      ]
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Sporco follows the regular pattern for adjectives ending in -o/-a, changing according to gender and number.",
+        "forms": {
+          "masculine_singular": "sporco",
+          "feminine_singular": "sporca",
+          "masculine_plural": "sporchi",
+          "feminine_plural": "sporche"
+        }
+      },
+      "comparison": {
+        "comparative": "più sporco",
+        "superlative": "il più sporco",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "Sporco typically follows the noun it modifies.",
+        "notes": "In some contexts, it can precede the noun for emphasis."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "sordidus",
+        "meaning": "The original Latin word means 'dirty, foul, or filthy'.",
+        "notes": "The word evolved into 'sporco' in Italian, retaining the meaning of being unclean or soiled."
+      },
+      "related_english_words": [
+        {
+          "word": "sordid",
+          "meaning": "Involving ignoble actions and motives; arousing moral distaste and contempt.",
+          "usage": "The sordid details of the scandal shocked everyone."
+        },
+        {
+          "word": "sordidness",
+          "meaning": "The quality of being sordid; filthiness.",
+          "usage": "The sordidness of the situation was hard to ignore."
+        }
+      ],
+      "cognates": [
+        "sordido",
+        "sordido"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un ambiente sporco",
+          "una mente sporca"
+        ],
+        "grammatical_tips": "Remember to match the adjective with the noun in gender and number."
+      }
     },
     {
       "id": 48,
@@ -1131,19 +3897,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto silenzioso",
-          "english": "It is very quiet",
-          "context": "description"
+          "italian": "La casa è molto silenziosa di notte.",
+          "english": "The house is very quiet at night.",
+          "context": "description of a place"
         },
         {
-          "italian": "Una persona silenzioso",
-          "english": "A quiet person",
+          "italian": "Un silenzioso rifugio in montagna.",
+          "english": "A quiet refuge in the mountains.",
+          "context": "description of a location"
+        },
+        {
+          "italian": "Le persone silenziose spesso ascoltano di più.",
+          "english": "Quiet people often listen more.",
           "context": "character description"
+        },
+        {
+          "italian": "I bambini devono essere silenziosi in biblioteca.",
+          "english": "Children must be quiet in the library.",
+          "context": "instructional context"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "This adjective follows the regular pattern of -o for masculine singular and -a for feminine singular, with -i for masculine plural and -e for feminine plural.",
+        "forms": {
+          "masculine_singular": "silenzioso",
+          "feminine_singular": "silenziosa",
+          "masculine_plural": "silenziosi",
+          "feminine_plural": "silenziose"
+        }
+      },
+      "comparison": {
+        "comparative": "più silenzioso",
+        "superlative": "il più silenzioso",
+        "notes": "The comparative and superlative forms are regular."
+      },
+      "position": {
+        "type": "post_noun",
+        "description": "This adjective typically follows the noun it modifies.",
+        "notes": "When placed before the noun, it can emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "silens, silentis",
+        "meaning": "The original word means 'silent' or 'quiet'.",
+        "notes": "The word evolved from Latin, maintaining its meaning related to quietness and silence."
+      },
+      "related_english_words": [
+        {
+          "word": "silent",
+          "meaning": "Not making or accompanied by any sound.",
+          "usage": "The room was silent during the presentation."
+        },
+        {
+          "word": "silence",
+          "meaning": "The absence of sound.",
+          "usage": "There was a moment of silence before the applause."
         }
       ],
       "cognates": [
-        "silenzious"
-      ]
+        "silenzio",
+        "silenziosamente"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "essere silenzioso",
+          "un silenzioso momento"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     },
     {
       "id": 49,
@@ -1156,19 +3979,76 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "È molto rumoroso",
-          "english": "It is very noisy",
-          "context": "description"
+          "italian": "La festa era molto rumorosa.",
+          "english": "The party was very noisy.",
+          "context": "description of an event"
         },
         {
-          "italian": "Una persona rumoroso",
-          "english": "A noisy person",
-          "context": "character description"
+          "italian": "I bambini sono sempre rumorosi quando giocano.",
+          "english": "The children are always noisy when they play.",
+          "context": "description of behavior"
+        },
+        {
+          "italian": "Un ristorante rumoroso può essere divertente.",
+          "english": "A noisy restaurant can be fun.",
+          "context": "opinion about a place"
+        },
+        {
+          "italian": "Le strade della città sono rumorose di notte.",
+          "english": "The streets of the city are noisy at night.",
+          "context": "description of a location"
+        }
+      ],
+      "agreement_pattern": {
+        "type": "regular_o_a",
+        "description": "Rumoroso follows the regular pattern for adjectives ending in -oso, changing to -osa for feminine singular and adding -i and -e for plural forms.",
+        "forms": {
+          "masculine_singular": "rumoroso",
+          "feminine_singular": "rumorosa",
+          "masculine_plural": "rumorosi",
+          "feminine_plural": "rumorose"
+        }
+      },
+      "comparison": {
+        "comparative": "più rumoroso",
+        "superlative": "il più rumoroso",
+        "notes": "Follows the regular pattern for forming comparatives and superlatives."
+      },
+      "position": {
+        "type": "both",
+        "description": "Rumoroso can be placed before or after the noun, but typically follows the noun in descriptive contexts.",
+        "notes": "When placed before the noun, it can emphasize the quality."
+      },
+      "etymology": {
+        "origin": "Latin",
+        "source": "rumor",
+        "meaning": "The original Latin word 'rumor' means 'noise' or 'rumor'.",
+        "notes": "The word evolved into Italian as 'rumoroso', retaining the meaning related to noise."
+      },
+      "related_english_words": [
+        {
+          "word": "rumor",
+          "meaning": "A currently circulating story or report of uncertain or doubtful truth.",
+          "usage": "There was a rumor that the event would be canceled."
+        },
+        {
+          "word": "rumorous",
+          "meaning": "Characterized by or full of noise.",
+          "usage": "The rumorous crowd made it hard to hear the speaker."
         }
       ],
       "cognates": [
-        "rumorous"
-      ]
+        "rumore",
+        "rumoroso"
+      ],
+      "usage_notes": {
+        "register": "neutral",
+        "common_phrases": [
+          "un ambiente rumoroso",
+          "una persona rumorosa"
+        ],
+        "grammatical_tips": "Ensure agreement in gender and number with the noun it modifies."
+      }
     }
   ]
 }
