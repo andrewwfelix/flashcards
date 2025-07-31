@@ -74,7 +74,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Marco e Giulia studiano",
+          "english": "Marco and Giulia study",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Luca e Maria sono amici",
+          "english": "Luca and Maria are friends",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Studio italiano e parlo inglese",
+          "english": "I study Italian and speak English",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 2,
@@ -150,7 +167,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "È intelligente ma pigro",
+          "english": "He is intelligent but lazy",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Volevo venire, ma ho avuto un impegno",
+          "english": "I wanted to come, but I had a commitment",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Mangio ma non bevo",
+          "english": "I eat but don't drink",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 3,
@@ -236,7 +270,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio se bevo",
+          "english": "Translation: Mangio se bevo",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Lavoro se necessario",
+          "english": "Translation: Lavoro se necessario",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Se hai bisogno, chiamami",
+          "english": "Translation: Se hai bisogno, chiamami",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 4,
@@ -308,7 +359,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Vuoi tè o caffè?",
+          "english": "Translation: Vuoi tè o caffè?",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Andiamo al cinema o a teatro?",
+          "english": "Translation: Andiamo al cinema o a teatro?",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Mangio o bevo",
+          "english": "Translation: Mangio o bevo",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 5,
@@ -386,7 +454,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "È tardi, però resto",
+          "english": "Translation: È tardi, però resto",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Volevo venire, però ho avuto un impegno",
+          "english": "Translation: Volevo venire, però ho avuto un impegno",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Mangio, però non bevo",
+          "english": "Translation: Mangio, però non bevo",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 6,
@@ -458,7 +543,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Marco anche Giulia studiano",
+          "english": "Translation: Marco anche Giulia studiano",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Luca anche Maria sono amici",
+          "english": "Translation: Luca anche Maria sono amici",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Mangio anche bevo",
+          "english": "Translation: Mangio anche bevo",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 7,
@@ -537,7 +639,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio perché ho fame",
+          "english": "Translation: Mangio perché ho fame",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Studio perché voglio imparare",
+          "english": "Translation: Studio perché voglio imparare",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Vado a letto perché sono stanco",
+          "english": "Translation: Vado a letto perché sono stanco",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 8,
@@ -616,7 +735,24 @@
       },
       "related_english_words": [],
       "usage_notes": [],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio quando ho fame",
+          "english": "Translation: Mangio quando ho fame",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Studio quando ho tempo",
+          "english": "Translation: Studio quando ho tempo",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Vado a letto quando sono stanco",
+          "english": "Translation: Vado a letto quando sono stanco",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 11,
@@ -714,6 +850,23 @@
           "mistake": "Using 'mentre' with the wrong tense",
           "correct": "Mangio mentre bevo",
           "incorrect": "Mangio mentre bevi"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Mangio mentre bevo",
+          "english": "Translation: Mangio mentre bevo",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Mangio mentre guardo la televisione",
+          "english": "Translation: Mangio mentre guardo la televisione",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Scrivo mentre parlo al telefono",
+          "english": "Translation: Scrivo mentre parlo al telefono",
+          "context": "Common usage"
         }
       ]
     },
@@ -813,6 +966,23 @@
           "mistake": "Using 'come' incorrectly in comparisons",
           "correct": "Lavora come un professionista",
           "incorrect": "Lavora come professionista"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Mangio come bevo",
+          "english": "Translation: Mangio come bevo",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Lavora come un esperto",
+          "english": "Translation: Lavora come un esperto",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Parla come un madrelingua",
+          "english": "Translation: Parla come un madrelingua",
+          "context": "Common usage"
         }
       ]
     },
@@ -915,6 +1085,23 @@
           "correct": "Penso che sia vero",
           "incorrect": "Penso che"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Penso che sia vero",
+          "english": "Translation: Penso che sia vero",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Credo che sia importante",
+          "english": "Translation: Credo che sia importante",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Spero che tu venga",
+          "english": "Translation: Spero che tu venga",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -1012,6 +1199,23 @@
           "mistake": "Using 'così' incorrectly in sentences",
           "correct": "Ho studiato, così ho superato l'esame",
           "incorrect": "Ho studiato così ho superato l'esame"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "È tardi, così resto a casa",
+          "english": "Translation: È tardi, così resto a casa",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Ho studiato, così ho superato l'esame",
+          "english": "Translation: Ho studiato, così ho superato l'esame",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Ho fame, così mangio",
+          "english": "Translation: Ho fame, così mangio",
+          "context": "Common usage"
         }
       ]
     },
@@ -1111,6 +1315,23 @@
           "correct": "Non ho studiato, quindi non ho passato l'esame",
           "incorrect": "Non ho studiato quindi non ho passato l'esame"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Ho studiato, quindi ho superato l'esame",
+          "english": "Translation: Ho studiato, quindi ho superato l'esame",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Non ho studiato, quindi non ho passato l'esame",
+          "english": "Translation: Non ho studiato, quindi non ho passato l'esame",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Piove, quindi rimaniamo a casa",
+          "english": "Translation: Piove, quindi rimaniamo a casa",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -1208,6 +1429,23 @@
           "mistake": "Using 'allora' incorrectly in sentences",
           "correct": "Se hai finito, allora andiamo",
           "incorrect": "Se hai finito allora andiamo"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Ho finito, allora vado a casa",
+          "english": "Translation: Ho finito, allora vado a casa",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Se hai finito, allora andiamo",
+          "english": "Translation: Se hai finito, allora andiamo",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Se sei pronto, allora partiamo",
+          "english": "Translation: Se sei pronto, allora partiamo",
+          "context": "Common usage"
         }
       ]
     },
@@ -1307,6 +1545,23 @@
           "correct": "Vuoi un caffè oppure un tè?",
           "incorrect": "Vuoi un caffè oppure tè?"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Vuoi un caffè oppure un tè?",
+          "english": "Translation: Vuoi un caffè oppure un tè?",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Preferisci il tè oppure il caffè?",
+          "english": "Translation: Preferisci il tè oppure il caffè?",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Puoi venire oppure restare a casa",
+          "english": "Translation: Puoi venire oppure restare a casa",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -1404,6 +1659,23 @@
           "mistake": "Using 'infatti' incorrectly in sentences",
           "correct": "È tardi, infatti resto a casa",
           "incorrect": "È tardi infatti resto a casa"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "È tardi, infatti resto a casa",
+          "english": "Translation: È tardi, infatti resto a casa",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Ho fame, infatti mangio",
+          "english": "Translation: Ho fame, infatti mangio",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "È un esperto, infatti lavora in questo campo",
+          "english": "Translation: È un esperto, infatti lavora in questo campo",
+          "context": "Common usage"
         }
       ]
     },
@@ -1505,6 +1777,23 @@
           "correct": "Ho studiato, inoltre ho superato l'esame",
           "incorrect": "Ho studiato inoltre ho superato l'esame"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Ho finito, inoltre ho studiato",
+          "english": "Translation: Ho finito, inoltre ho studiato",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Ho studiato, inoltre ho superato l'esame",
+          "english": "Translation: Ho studiato, inoltre ho superato l'esame",
+          "context": "Common usage"
+        },
+        {
+          "italian": "È un esperto, inoltre lavora in questo campo",
+          "english": "Translation: È un esperto, inoltre lavora in questo campo",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -1604,6 +1893,18 @@
           "mistake": "Using 'tuttavia' incorrectly in sentences",
           "correct": "Ho studiato, tuttavia non ho passato l'esame",
           "incorrect": "Ho studiato tuttavia non ho passato l'esame"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Ho studiato, tuttavia non ho passato l'esame",
+          "english": "Translation: Ho studiato, tuttavia non ho passato l'esame",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Volevo venire, tuttavia ero occupato",
+          "english": "Translation: Volevo venire, tuttavia ero occupato",
+          "context": "Common usage"
         }
       ]
     },
@@ -1705,6 +2006,13 @@
           "correct": "Mangio nonostante beva",
           "incorrect": "Mangio nonostante bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Nonostante il freddo, sono uscito.",
+          "english": "Translation: Nonostante il freddo, sono uscito.",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -1805,6 +2113,13 @@
           "correct": "Mangio benché beva",
           "incorrect": "Mangio benché bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Benché piova, andiamo a fare una passeggiata.",
+          "english": "Translation: Benché piova, andiamo a fare una passeggiata.",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -1902,6 +2217,13 @@
           "mistake": "Mangio purché bevo",
           "correct": "Mangio purché beva",
           "incorrect": "Mangio purché bevo"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Vengo purché tu venga.",
+          "english": "Translation: Vengo purché tu venga.",
+          "context": "Common usage"
         }
       ]
     },
@@ -2003,6 +2325,13 @@
           "correct": "Mangio sebbene beva",
           "incorrect": "Mangio sebbene bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Sebbene piova, andiamo a fare una passeggiata.",
+          "english": "Translation: Sebbene piova, andiamo a fare una passeggiata.",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -2100,6 +2429,13 @@
           "mistake": "Mangio affinché bevo",
           "correct": "Mangio affinché beva",
           "incorrect": "Mangio affinché bevo"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Lavoro affinché tu possa avere successo.",
+          "english": "Translation: Lavoro affinché tu possa avere successo.",
+          "context": "Common usage"
         }
       ]
     },
@@ -2199,6 +2535,13 @@
           "correct": "Mangio giacché beva",
           "incorrect": "Mangio giacché bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Giacché ho fame, mangio.",
+          "english": "Translation: Giacché ho fame, mangio.",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -2297,6 +2640,13 @@
           "correct": "Mangio poiché beva",
           "incorrect": "Mangio poiché bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Poiché ho fame, mangio.",
+          "english": "Translation: Poiché ho fame, mangio.",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -2394,6 +2744,13 @@
           "mistake": "Mangio siccome bevo",
           "correct": "Mangio siccome beva",
           "incorrect": "Mangio siccome bevo"
+        }
+      ],
+      "examples": [
+        {
+          "italian": "Siccome ho fame, mangio.",
+          "english": "Translation: Siccome ho fame, mangio.",
+          "context": "Common usage"
         }
       ]
     },
@@ -2497,6 +2854,23 @@
           "correct": "Mangio eppure beva",
           "incorrect": "Mangio eppure bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Mangio eppure bevo.",
+          "english": "Translation: Mangio eppure bevo.",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "È tardi eppure resto.",
+          "english": "Translation: È tardi eppure resto.",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "È tardi, eppure voglio uscire.",
+          "english": "Translation: È tardi, eppure voglio uscire.",
+          "context": "Common usage"
+        }
       ]
     },
     {
@@ -2597,6 +2971,18 @@
           "correct": "Mangio piuttosto che bevo",
           "incorrect": "Mangio piuttosto bevo"
         }
+      ],
+      "examples": [
+        {
+          "italian": "Mangio piuttosto che bere.",
+          "english": "Translation: Mangio piuttosto che bere.",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Preferisco studiare piuttosto che uscire.",
+          "english": "Translation: Preferisco studiare piuttosto che uscire.",
+          "context": "Basic usage"
+        }
       ]
     },
     {
@@ -2671,7 +3057,24 @@
       "usage_notes": [
         "Often used in formal contexts to clarify statements"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Marco e Giulia studiano",
+          "english": "Translation: Marco e Giulia studiano",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "È intelligente, ovvero pigro",
+          "english": "Translation: È intelligente, ovvero pigro",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Studio italiano, ovvero parlo inglese",
+          "english": "Translation: Studio italiano, ovvero parlo inglese",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 32,
@@ -2745,7 +3148,24 @@
       "usage_notes": [
         "Commonly used in both spoken and written Italian for clarification"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Marco e Giulia studiano",
+          "english": "Translation: Marco e Giulia studiano",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "È intelligente, ossia pigro",
+          "english": "Translation: È intelligente, ossia pigro",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Studio italiano, ossia parlo inglese",
+          "english": "Translation: Studio italiano, ossia parlo inglese",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 33,
@@ -2819,7 +3239,24 @@
       "usage_notes": [
         "Commonly used in both spoken and written Italian for clarification"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Marco e Giulia studiano",
+          "english": "Translation: Marco e Giulia studiano",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "È intelligente, cioè pigro",
+          "english": "Translation: È intelligente, cioè pigro",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Studio italiano, cioè parlo inglese",
+          "english": "Translation: Studio italiano, cioè parlo inglese",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 34,
@@ -2893,7 +3330,24 @@
       "usage_notes": [
         "Often used in formal contexts to present alternatives"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Sia Marco che Giulia studiano",
+          "english": "Translation: Sia Marco che Giulia studiano",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Sia intelligente che pigro",
+          "english": "Translation: Sia intelligente che pigro",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Sia il cane sia il gatto sono animali",
+          "english": "Translation: Sia il cane sia il gatto sono animali",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 35,
@@ -2967,7 +3421,24 @@
       "usage_notes": [
         "Commonly used to emphasize negation"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Né Marco né Giulia studiano",
+          "english": "Translation: Né Marco né Giulia studiano",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Non è intelligente né pigro",
+          "english": "Translation: Non è intelligente né pigro",
+          "context": "Basic usage"
+        },
+        {
+          "italian": "Non studio né lavoro",
+          "english": "Translation: Non studio né lavoro",
+          "context": "Between clauses"
+        }
+      ]
     },
     {
       "id": 36,
@@ -3048,7 +3519,24 @@
       "usage_notes": [
         "Requires subjunctive mood in dependent clauses"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Vado a casa prima che piova",
+          "english": "Translation: Vado a casa prima che piova",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Devo partire prima che arrivi il treno",
+          "english": "Translation: Devo partire prima che arrivi il treno",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Faccio i compiti prima che esca",
+          "english": "Translation: Faccio i compiti prima che esca",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 37,
@@ -3129,7 +3617,24 @@
       "usage_notes": [
         "Requires indicative mood in dependent clauses"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Vado a casa dopo che piove",
+          "english": "Translation: Vado a casa dopo che piove",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Devo partire dopo che arriva il treno",
+          "english": "Translation: Devo partire dopo che arriva il treno",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Faccio i compiti dopo che esco",
+          "english": "Translation: Faccio i compiti dopo che esco",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 38,
@@ -3210,7 +3715,19 @@
       "usage_notes": [
         "Requires subjunctive mood in dependent clauses"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Rimango qui fino a quando finisci",
+          "english": "Translation: Rimango qui fino a quando finisci",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Aspetto fino a quando arrivi",
+          "english": "Translation: Aspetto fino a quando arrivi",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 39,
@@ -3291,7 +3808,19 @@
       "usage_notes": [
         "Requires subjunctive mood in dependent clauses"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Rimango qui finché sei qui",
+          "english": "Translation: Rimango qui finché sei qui",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Aspetto finché arrivi",
+          "english": "Translation: Aspetto finché arrivi",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 40,
@@ -3372,7 +3901,24 @@
       "usage_notes": [
         "Requires indicative mood in dependent clauses"
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Vado a casa appena finisco",
+          "english": "Translation: Vado a casa appena finisco",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Devo partire appena arriva il treno",
+          "english": "Translation: Devo partire appena arriva il treno",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Faccio i compiti appena esco",
+          "english": "Translation: Faccio i compiti appena esco",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 41,
@@ -3468,7 +4014,24 @@
       "usage_notes": [
         "Commonly used to indicate a specific moment in time when an action will take place."
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio una volta che bevo acqua",
+          "english": "Translation: Mangio una volta che bevo acqua",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Una volta che hai finito, possiamo uscire",
+          "english": "Translation: Una volta che hai finito, possiamo uscire",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Una volta che arriva, iniziamo a mangiare",
+          "english": "Translation: Una volta che arriva, iniziamo a mangiare",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 42,
@@ -3564,7 +4127,24 @@
       "usage_notes": [
         "Used to express actions that occur repeatedly under the same conditions."
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio ogni volta che bevo acqua",
+          "english": "Translation: Mangio ogni volta che bevo acqua",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Ogni volta che vado al mercato, compro frutta",
+          "english": "Translation: Ogni volta che vado al mercato, compro frutta",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Ogni volta che suona la campana, inizio a studiare",
+          "english": "Translation: Ogni volta che suona la campana, inizio a studiare",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 43,
@@ -3660,7 +4240,24 @@
       "usage_notes": [
         "Often used to introduce a reason for an action."
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio dal momento che bevo acqua",
+          "english": "Translation: Mangio dal momento che bevo acqua",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Dal momento che piove, rimaniamo a casa",
+          "english": "Translation: Dal momento che piove, rimaniamo a casa",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Dal momento che sei stanco, riposati",
+          "english": "Translation: Dal momento che sei stanco, riposati",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 44,
@@ -3756,7 +4353,24 @@
       "usage_notes": [
         "Commonly used to introduce a reason for an action."
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio visto che bevo acqua",
+          "english": "Translation: Mangio visto che bevo acqua",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Visto che sei stanco, riposati",
+          "english": "Translation: Visto che sei stanco, riposati",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Visto che piove, rimaniamo a casa",
+          "english": "Translation: Visto che piove, rimaniamo a casa",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 45,
@@ -3852,7 +4466,24 @@
       "usage_notes": [
         "Used to introduce reasoning for an action."
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio considerando che bevo acqua",
+          "english": "Translation: Mangio considerando che bevo acqua",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Considerato che piove, rimaniamo a casa",
+          "english": "Translation: Considerato che piove, rimaniamo a casa",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Considerato che sei stanco, riposati",
+          "english": "Translation: Considerato che sei stanco, riposati",
+          "context": "Common usage"
+        }
+      ]
     },
     {
       "id": 46,
@@ -3948,7 +4579,24 @@
       "usage_notes": [
         "Commonly used to introduce a reason for an action."
       ],
-      "common_errors": []
+      "common_errors": [],
+      "examples": [
+        {
+          "italian": "Mangio dato che bevo acqua",
+          "english": "Translation: Mangio dato che bevo acqua",
+          "context": "Between clauses"
+        },
+        {
+          "italian": "Dato che piove, rimaniamo a casa",
+          "english": "Translation: Dato che piove, rimaniamo a casa",
+          "context": "Common usage"
+        },
+        {
+          "italian": "Dato che sei stanco, riposati",
+          "english": "Translation: Dato che sei stanco, riposati",
+          "context": "Common usage"
+        }
+      ]
     }
   ]
 }

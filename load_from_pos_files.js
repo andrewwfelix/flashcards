@@ -58,7 +58,10 @@ function loadFlashcardsFromPOSFiles() {
                     usage_notes: card.usage_notes || [],
                     common_errors: card.common_errors || [],
                     // Include the original word field
-                    word: card.word
+                    word: card.word,
+                    // Include article fields for nouns
+                    article: card.article || null,
+                    word_with_article: card.word_with_article || null
                 }));
                 
                 allFlashcards = allFlashcards.concat(transformedCards);
@@ -121,7 +124,10 @@ function loadSpecificPartOfSpeech(partOfSpeech) {
             usage_notes: card.usage_notes || [],
             common_errors: card.common_errors || [],
             // Include the original word field
-            word: card.word
+            word: card.word,
+            // Include article fields for nouns
+            article: card.article || null,
+            word_with_article: card.word_with_article || null
         }));
         
         console.log(`✅ Loaded ${transformedCards.length} ${partOfSpeech} words`);

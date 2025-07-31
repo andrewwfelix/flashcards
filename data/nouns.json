@@ -57,7 +57,9 @@
         "tempo",
         "temporal",
         "temporary"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il tempo"
     },
     {
       "id": 2,
@@ -114,7 +116,9 @@
         "person",
         "personal",
         "personality"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la persona"
     },
     {
       "id": 3,
@@ -170,7 +174,9 @@
         "annual",
         "anniversary",
         "annuity"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' anno"
     },
     {
       "id": 4,
@@ -226,7 +232,9 @@
         "diurnal",
         "diurnity",
         "diurnally"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il giorno"
     },
     {
       "id": 5,
@@ -282,7 +290,9 @@
         "cause",
         "case",
         "causal"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la cosa"
     },
     {
       "id": 6,
@@ -337,7 +347,9 @@
       "cognates": [
         "uomini",
         "umanità"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' uomo"
     },
     {
       "id": 7,
@@ -393,7 +405,9 @@
         "domina",
         "domestic",
         "dominant"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la donna"
     },
     {
       "id": 8,
@@ -449,7 +463,9 @@
         "vital",
         "vitality",
         "vivacious"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la vita"
     },
     {
       "id": 9,
@@ -504,7 +520,9 @@
       "cognates": [
         "manuscript",
         "manipulation"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la mano"
     },
     {
       "id": 10,
@@ -560,7 +578,9 @@
         "ocular",
         "oculist",
         "oculomotor"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' occhio"
     },
     {
       "id": 11,
@@ -616,7 +636,9 @@
         "moment",
         "momentum",
         "momentary"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il momento"
     },
     {
       "id": 12,
@@ -673,7 +695,9 @@
         "mode",
         "modulate",
         "modification"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il modo"
     },
     {
       "id": 13,
@@ -729,7 +753,9 @@
         "part",
         "partial",
         "partition"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la parte"
     },
     {
       "id": 14,
@@ -786,7 +812,9 @@
         "labor",
         "laboratory",
         "laborious"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il lavoro"
     },
     {
       "id": 15,
@@ -842,7 +870,9 @@
         "caso",
         "casual",
         "casualty"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il caso"
     },
     {
       "id": 16,
@@ -899,7 +929,9 @@
         "occasion",
         "opportune",
         "opportunity"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' occasione"
     },
     {
       "id": 17,
@@ -954,7 +986,9 @@
       "cognates": [
         "nocturnal",
         "nocturne"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la notte"
     },
     {
       "id": 18,
@@ -1012,7 +1046,9 @@
         "position",
         "post",
         "deposit"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il posto"
     },
     {
       "id": 19,
@@ -1067,7 +1103,9 @@
       "cognates": [
         "mensis",
         "monthly"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il mese"
     },
     {
       "id": 20,
@@ -1123,7 +1161,9 @@
         "gentle",
         "gentility",
         "gentleman"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la gente"
     },
     {
       "id": 21,
@@ -1179,7 +1219,9 @@
         "vocal",
         "vocation",
         "advocate"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la voce"
     },
     {
       "id": 22,
@@ -1235,7 +1277,9 @@
       "cognates": [
         "caput",
         "capitol"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il capo"
     },
     {
       "id": 23,
@@ -1290,7 +1334,9 @@
       "cognates": [
         "amica",
         "amicizia"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' amico"
     },
     {
       "id": 24,
@@ -1345,7 +1391,9 @@
       "cognates": [
         "amico",
         "amicizia"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' amica"
     },
     {
       "id": 25,
@@ -1401,7 +1449,9 @@
         "cor",
         "cordis",
         "courage"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il cuore"
     },
     {
       "id": 26,
@@ -1456,7 +1506,9 @@
       "cognates": [
         "serata",
         "sereno"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la sera"
     },
     {
       "id": 27,
@@ -1512,7 +1564,9 @@
       "cognates": [
         "forte",
         "fortification"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la forza"
     },
     {
       "id": 28,
@@ -1567,7 +1621,9 @@
       "cognates": [
         "mundane",
         "mundanity"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il mondo"
     },
     {
       "id": 29,
@@ -1622,7 +1678,9 @@
       "cognates": [
         "filius",
         "filial"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il figlio"
     },
     {
       "id": 30,
@@ -1677,7 +1735,9 @@
       "cognates": [
         "filia",
         "filial"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la figlia"
     },
     {
       "id": 31,
@@ -1733,7 +1793,9 @@
       "cognates": [
         "stratum",
         "stratify"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la strada"
     },
     {
       "id": 32,
@@ -1788,7 +1850,9 @@
       "cognates": [
         "aqua",
         "aquatic"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' acqua"
     },
     {
       "id": 33,
@@ -1843,7 +1907,9 @@
       "cognates": [
         "aerate",
         "aerodynamics"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' aria"
     },
     {
       "id": 34,
@@ -1899,7 +1965,9 @@
         "nomen",
         "nominal",
         "nomenclature"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il nome"
     },
     {
       "id": 35,
@@ -1955,7 +2023,9 @@
         "familiar",
         "familiarity",
         "familiarize"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la famiglia"
     },
     {
       "id": 36,
@@ -2011,7 +2081,9 @@
       "cognates": [
         "ragazzino",
         "ragazzetta"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il ragazzo"
     },
     {
       "id": 37,
@@ -2066,7 +2138,9 @@
       "cognates": [
         "ragazzino",
         "ragazzina"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la ragazza"
     },
     {
       "id": 38,
@@ -2123,7 +2197,9 @@
         "history",
         "story",
         "historical"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la storia"
     },
     {
       "id": 39,
@@ -2179,7 +2255,9 @@
         "civitas",
         "civic",
         "citizen"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la città"
     },
     {
       "id": 40,
@@ -2235,7 +2313,9 @@
       "cognates": [
         "pays",
         "pagan"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il paese"
     },
     {
       "id": 41,
@@ -2291,7 +2371,9 @@
         "mental",
         "mentality",
         "dementia"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la mente"
     },
     {
       "id": 42,
@@ -2347,7 +2429,9 @@
         "corpus",
         "corporation",
         "corporeal"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il corpo"
     },
     {
       "id": 43,
@@ -2403,7 +2487,9 @@
       "cognates": [
         "hora",
         "horas"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' ora"
     },
     {
       "id": 44,
@@ -2461,7 +2547,9 @@
         "lateral",
         "latitude",
         "collateral"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il lato"
     },
     {
       "id": 45,
@@ -2517,7 +2605,9 @@
       "cognates": [
         "occasional",
         "occasionally"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' occasione"
     },
     {
       "id": 46,
@@ -2572,7 +2662,9 @@
       "cognates": [
         "guerre",
         "guerreiro"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la guerra"
     },
     {
       "id": 47,
@@ -2628,7 +2720,9 @@
         "pax",
         "pacific",
         "pacification"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la pace"
     },
     {
       "id": 48,
@@ -2684,7 +2778,9 @@
         "pedal",
         "pedestrian",
         "pedicure"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il piede"
     },
     {
       "id": 49,
@@ -2740,7 +2836,9 @@
         "port",
         "portal",
         "portable"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la porta"
     },
     {
       "id": 50,
@@ -2796,7 +2894,9 @@
         "parole",
         "parabola",
         "parley"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la parola"
     },
     {
       "id": 51,
@@ -2854,7 +2954,9 @@
         "locus",
         "local",
         "location"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il luogo"
     },
     {
       "id": 52,
@@ -2909,7 +3011,9 @@
       "cognates": [
         "denarius",
         "money"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il denaro"
     },
     {
       "id": 53,
@@ -2965,7 +3069,9 @@
         "testa",
         "testament",
         "testify"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la testa"
     },
     {
       "id": 54,
@@ -3020,7 +3126,9 @@
       "cognates": [
         "ragionare",
         "ragionamento"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la ragione"
     },
     {
       "id": 55,
@@ -3078,7 +3186,9 @@
         "voltage",
         "revolution",
         "evolve"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il volto"
     },
     {
       "id": 56,
@@ -3134,7 +3244,9 @@
         "mare",
         "marina",
         "marinara"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il mare"
     },
     {
       "id": 57,
@@ -3190,7 +3302,9 @@
         "sol",
         "solstice",
         "solar"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il sole"
     },
     {
       "id": 58,
@@ -3246,7 +3360,9 @@
         "celestial",
         "caelum",
         "celestia"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il cielo"
     },
     {
       "id": 59,
@@ -3301,7 +3417,9 @@
       "cognates": [
         "focus",
         "focal"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il fuoco"
     },
     {
       "id": 60,
@@ -3359,7 +3477,9 @@
         "punctum",
         "punctuate",
         "punctual"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il punto"
     },
     {
       "id": 61,
@@ -3415,7 +3535,9 @@
         "line",
         "linear",
         "lineage"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la linea"
     },
     {
       "id": 62,
@@ -3471,7 +3593,9 @@
         "desiderate",
         "desideratum",
         "desiderative"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il desiderio"
     },
     {
       "id": 63,
@@ -3527,7 +3651,9 @@
         "amor",
         "amorevole",
         "amoreggiamento"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' amore"
     },
     {
       "id": 64,
@@ -3583,7 +3709,9 @@
         "pavor",
         "fearful",
         "fearsome"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la paura"
     },
     {
       "id": 65,
@@ -3638,7 +3766,9 @@
       "cognates": [
         "sogni",
         "sognare"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il sogno"
     },
     {
       "id": 66,
@@ -3696,7 +3826,9 @@
         "lumen",
         "illuminate",
         "luminary"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il lume"
     },
     {
       "id": 67,
@@ -3751,7 +3883,9 @@
       "cognates": [
         "ludus",
         "ludicrous"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il gioco"
     },
     {
       "id": 68,
@@ -3807,7 +3941,9 @@
         "legitimate",
         "legality",
         "legislative"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la legge"
     },
     {
       "id": 69,
@@ -3863,7 +3999,9 @@
         "scholar",
         "scholarly",
         "scholarship"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la scuola"
     },
     {
       "id": 70,
@@ -3919,7 +4057,9 @@
         "port",
         "portal",
         "portable"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la porta"
     },
     {
       "id": 71,
@@ -3975,7 +4115,9 @@
         "straniero",
         "straniera",
         "stranierità"
-      ]
+      ],
+      "article": "Lo",
+      "word_with_article": "Lo straniero"
     },
     {
       "id": 72,
@@ -4030,7 +4172,9 @@
       "cognates": [
         "problematica",
         "problematicamente"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il problema"
     },
     {
       "id": 73,
@@ -4087,7 +4231,9 @@
         "linguistic",
         "bilingual",
         "multilingual"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la lingua"
     },
     {
       "id": 74,
@@ -4144,7 +4290,9 @@
         "medium",
         "median",
         "mediation"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il mezzo"
     },
     {
       "id": 75,
@@ -4200,7 +4348,9 @@
       "cognates": [
         "chamber",
         "camera"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la camera"
     },
     {
       "id": 76,
@@ -4256,7 +4406,9 @@
         "florist",
         "floral",
         "florid"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il fiore"
     },
     {
       "id": 77,
@@ -4312,7 +4464,9 @@
         "garden",
         "gardener",
         "gardening"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il giardino"
     },
     {
       "id": 78,
@@ -4367,7 +4521,9 @@
       "cognates": [
         "canis",
         "canine"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il cane"
     },
     {
       "id": 79,
@@ -4422,7 +4578,9 @@
       "cognates": [
         "cattus",
         "cat"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il gatto"
     },
     {
       "id": 80,
@@ -4478,7 +4636,9 @@
         "liberation",
         "libretto",
         "liberate"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il libro"
     },
     {
       "id": 81,
@@ -4534,7 +4694,9 @@
         "littera",
         "letter",
         "liter"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la lettera"
     },
     {
       "id": 82,
@@ -4590,7 +4752,9 @@
         "art",
         "artisan",
         "artistic"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' arte"
     },
     {
       "id": 83,
@@ -4646,7 +4810,9 @@
         "scientia",
         "scientific",
         "conscious"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la scienza"
     },
     {
       "id": 84,
@@ -4702,7 +4868,9 @@
         "musical",
         "musician",
         "muse"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la musica"
     },
     {
       "id": 85,
@@ -4758,7 +4926,9 @@
         "film",
         "filmic",
         "filmed"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il film"
     },
     {
       "id": 86,
@@ -4814,7 +4984,9 @@
         "theater",
         "theatrical",
         "theatricality"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il teatro"
     },
     {
       "id": 87,
@@ -4870,7 +5042,9 @@
       "cognates": [
         "carrion",
         "carriage"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il carro"
     },
     {
       "id": 88,
@@ -4926,7 +5100,9 @@
         "train",
         "traction",
         "tractor"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il treno"
     },
     {
       "id": 89,
@@ -4983,7 +5159,9 @@
         "machine",
         "machinist",
         "machination"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la macchina"
     },
     {
       "id": 90,
@@ -5039,7 +5217,9 @@
         "bicycle",
         "bicyclist",
         "bicycling"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la bicicletta"
     },
     {
       "id": 91,
@@ -5094,7 +5274,9 @@
       "cognates": [
         "aeronaut",
         "aeroplane"
-      ]
+      ],
+      "article": "l'",
+      "word_with_article": "l' aereo"
     },
     {
       "id": 92,
@@ -5150,7 +5332,9 @@
         "barque",
         "bark",
         "barge"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la barca"
     },
     {
       "id": 93,
@@ -5206,7 +5390,9 @@
       "cognates": [
         "viatic",
         "via"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il viaggio"
     },
     {
       "id": 94,
@@ -5263,7 +5449,9 @@
         "vacation",
         "vacant",
         "vacate"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la vacanza"
     },
     {
       "id": 95,
@@ -5319,7 +5507,9 @@
         "cibation",
         "ciborium",
         "cibous"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il cibo"
     },
     {
       "id": 96,
@@ -5375,7 +5565,9 @@
         "bibere",
         "beverage",
         "imbibe"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la bevanda"
     },
     {
       "id": 97,
@@ -5431,7 +5623,9 @@
         "color",
         "colorful",
         "coloration"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il colore"
     },
     {
       "id": 98,
@@ -5488,7 +5682,9 @@
         "vest",
         "invest",
         "divest"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il vestito"
     },
     {
       "id": 99,
@@ -5543,7 +5739,9 @@
       "cognates": [
         "scarpe",
         "scarpone"
-      ]
+      ],
+      "article": "la",
+      "word_with_article": "la scarpa"
     },
     {
       "id": 100,
@@ -5599,7 +5797,9 @@
         "liberation",
         "liberal",
         "liberty"
-      ]
+      ],
+      "article": "il",
+      "word_with_article": "il tempo libero"
     },
     {
       "id": 101,
@@ -5654,7 +5854,9 @@
       "cognates": [
         "sportivo",
         "sportività"
-      ]
+      ],
+      "article": "Lo",
+      "word_with_article": "Lo sport"
     }
   ]
 }

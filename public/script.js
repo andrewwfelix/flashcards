@@ -4,6 +4,99 @@ let currentStudyCards = [];
 let currentStudyIndex = 0;
 let isCardFlipped = false;
 let knownCardIds = new Set(); // Track cards marked as known in this session
+let autoFlipTimer = null; // Timer for auto-flip functionality
+
+// Audio Manager for pronunciation
+class AudioManager {
+    constructor() {
+        this.synthesis = window.speechSynthesis;
+        this.settings = {
+            autoPlay: false,
+            volume: 0.7,
+            rate: 0.8,
+            pitch: 1.0,
+            language: 'it-IT'
+        };
+        this.isSpeaking = false;
+        
+        // Check if speech synthesis is supported
+        if (!this.synthesis) {
+            console.error('Speech synthesis not supported in this browser');
+            return;
+        }
+        
+        console.log('AudioManager initialized. Speech synthesis available:', !!this.synthesis);
+        console.log('Available voices:', this.synthesis.getVoices().length);
+    }
+
+    speak(text, language = 'it-IT') {
+        if (!this.synthesis) {
+            console.error('Speech synthesis not available');
+            return;
+        }
+        
+        // Cancel any ongoing speech
+        this.synthesis.cancel();
+        
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = language;
+        utterance.rate = this.settings.rate;
+        utterance.volume = this.settings.volume;
+        utterance.pitch = this.settings.pitch;
+
+        utterance.onstart = () => {
+            this.isSpeaking = true;
+        };
+
+        utterance.onend = () => {
+            this.isSpeaking = false;
+        };
+
+        utterance.onerror = (event) => {
+            console.error('Speech synthesis error:', event);
+            this.isSpeaking = false;
+        };
+
+        try {
+            this.synthesis.speak(utterance);
+        } catch (error) {
+            console.error('Error starting speech synthesis:', error);
+        }
+    }
+
+    stop() {
+        this.synthesis.cancel();
+        this.isSpeaking = false;
+    }
+
+    getVoices() {
+        return this.synthesis.getVoices();
+    }
+}
+
+// Initialize audio manager
+const audioManager = new AudioManager();
+
+// Test function for debugging - call this from console: testSpeech()
+window.testSpeech = function() {
+    console.log('Testing speech synthesis...');
+    if (audioManager) {
+        audioManager.speak('ciao', 'it-IT');
+    } else {
+        console.error('AudioManager not initialized');
+    }
+};
+
+// Settings
+let userSettings = {
+    cardSize: 'medium',
+    showContext: 'none',
+    showCognates: 'none',
+    showExamplesOnFront: 'disabled',
+    examplesPerCard: 3,
+    autoFlipDelay: 5,
+    studyMode: 'random'
+};
 
 // DOM elements
 const navButtons = document.querySelectorAll('.nav-btn');
@@ -15,6 +108,16 @@ const createForm = document.getElementById('create-flashcard-form');
 const importForm = document.getElementById('import-form');
 const editModal = document.getElementById('edit-modal');
 const editForm = document.getElementById('edit-flashcard-form');
+
+// Settings elements
+const settingsBtn = document.getElementById('settings-btn');
+const settingsModal = document.getElementById('settings-modal');
+const settingsForm = document.getElementById('settings-form');
+const resetSettingsBtn = document.getElementById('reset-settings');
+const cancelSettingsBtn = document.getElementById('cancel-settings');
+
+// Audio test button
+const testAudioBtn = document.getElementById('test-audio-btn');
 
 // Study mode elements
 const startStudyBtn = document.getElementById('start-study');
@@ -47,6 +150,11 @@ const conjugationsList = document.getElementById('conjugations-list');
 // Question-side conjugations elements (for verbs)
 const questionConjugationsSection = document.getElementById('question-conjugations-section');
 const questionConjugationsList = document.getElementById('question-conjugations-list');
+
+// Question-side examples elements
+const questionExamplesSection = document.getElementById('question-examples-section');
+const questionExamplesList = document.getElementById('question-examples-list');
+
 const etymologyContent = document.getElementById('etymology-content');
 const relatedWordsList = document.getElementById('related-words-list');
 
@@ -98,9 +206,15 @@ function setupEventListeners() {
     if (importForm) {
         console.log('Import form found, adding event listener');
         importForm.addEventListener('submit', handleImportFlashcards);
-    } else {
-        console.error('Import form not found!');
     }
+
+    // Settings
+    settingsBtn.addEventListener('click', openSettingsModal);
+    settingsForm.addEventListener('submit', handleSaveSettings);
+    resetSettingsBtn.addEventListener('click', resetSettings);
+    cancelSettingsBtn.addEventListener('click', closeSettingsModal);
+    
+    // Study mode
 
     // Study mode
     startStudyBtn.addEventListener('click', startStudyMode);
@@ -119,17 +233,88 @@ function setupEventListeners() {
         btn.addEventListener('click', () => handleDifficultyRating(btn.dataset.difficulty));
     });
     
+    // Handle window resize
+    window.addEventListener('resize', () => {
+        if (currentStudyCards.length > 0) {
+            adjustCardHeight();
+        }
+    });
+    
 
 
     // Modal
     document.querySelector('.close').addEventListener('click', closeEditModal);
     document.getElementById('cancel-edit').addEventListener('click', closeEditModal);
     editForm.addEventListener('submit', handleEditFlashcard);
+    
+    // Audio test button
+    if (testAudioBtn) {
+        testAudioBtn.addEventListener('click', () => {
+            console.log('Test audio button clicked');
+            audioManager.speak('ciao', 'it-IT');
+        });
+    }
+    
+    // Event delegation for pronunciation click
+    document.addEventListener('click', (event) => {
+        // Find the word element by checking the target and its parents
+        let element = event.target;
+        let wordElement = null;
+        
+        // Check if target is an element
+        if (element && element.nodeType === Node.ELEMENT_NODE) {
+            // First check if the target itself is a word element
+            if (element.classList.contains('flashcard-word')) {
+                wordElement = element;
+            } else if (element.classList.contains('flashcard-item')) {
+                // Click is on the flashcard item, find the word element inside it
+                const wordElementInside = element.querySelector('.flashcard-word');
+                if (wordElementInside) {
+                    wordElement = wordElementInside;
+                }
+            } else {
+                // Check parent elements
+                let parent = element.parentElement;
+                while (parent && parent !== document.body) {
+                    if (parent.classList.contains('flashcard-word')) {
+                        wordElement = parent;
+                        break;
+                    } else if (parent.classList.contains('flashcard-item')) {
+                        // Found flashcard item, look for word element inside
+                        const wordElementInside = parent.querySelector('.flashcard-word');
+                        if (wordElementInside) {
+                            wordElement = wordElementInside;
+                        }
+                        break;
+                    }
+                    parent = parent.parentElement;
+                }
+            }
+        } else {
+            // If it's a text node, try to find the parent element
+            if (event.target.parentElement) {
+                element = event.target.parentElement;
+                if (element.classList.contains('flashcard-word')) {
+                    wordElement = element;
+                }
+            }
+        }
+        
+        if (wordElement) {
+            const italianWord = wordElement.getAttribute('data-pronounce');
+            if (italianWord && !audioManager.isSpeaking) {
+                audioManager.speak(italianWord, 'it-IT');
+            }
+        }
+    }, true);
 
     // Close modal when clicking outside
     window.addEventListener('click', (e) => {
         if (e.target === editModal) {
             closeEditModal();
+        }
+        if (e.target === settingsModal) {
+            closeSettingsModal();
         }
     });
 }
@@ -178,6 +363,17 @@ async function loadFlashcards() {
     try {
         const response = await fetch(API_BASE);
         flashcards = await response.json();
+        
+        // Debug: Check if we have word_with_article data
+        const nounsWithArticles = flashcards.filter(fc => 
+            fc.part_of_speech === 'Noun' && fc.word_with_article
+        );
+        console.log(`Loaded ${flashcards.length} flashcards total`);
+        console.log(`Found ${nounsWithArticles.length} nouns with articles`);
+        if (nounsWithArticles.length > 0) {
+            console.log('Sample noun with article:', nounsWithArticles[0]);
+        }
+        
         renderFlashcards(flashcards);
     } catch (error) {
         console.error('Error loading flashcards:', error);
@@ -280,14 +476,36 @@ function createFlashcardElement(flashcard) {
     const div = document.createElement('div');
     div.className = 'flashcard-item';
     
+
+    
+    // For nouns, use the word with article if available
+    const displayWord = (flashcard.part_of_speech === 'Noun' && flashcard.word_with_article) 
+        ? flashcard.word_with_article 
+        : flashcard.word || flashcard.question;
+    
+    // Get the Italian word for pronunciation
+    // For nouns, use the word with article if available
+    const italianWord = (flashcard.part_of_speech === 'Noun' && flashcard.word_with_article) 
+        ? flashcard.word_with_article 
+        : flashcard.word || flashcard.question;
+    
     // Consistent bullet format for all cards: "il • the"
     div.innerHTML = `
         <div class="flashcard-content format-bullet">
-            <span class="flashcard-word">${flashcard.question}</span>
+            <span class="flashcard-word" data-pronounce="${italianWord}">${displayWord}</span>
             <span class="bullet"> • </span>
             <span class="flashcard-translation">${flashcard.answer}</span>
         </div>
     `;
+    
+
+
+    // Add data attributes for event delegation
+    const wordElement = div.querySelector('.flashcard-word');
+    if (wordElement) {
+        wordElement.setAttribute('data-pronounce', italianWord);
+        wordElement.setAttribute('data-part-of-speech', flashcard.part_of_speech);
+    }
 
     return div;
 }
@@ -298,7 +516,12 @@ function filterFlashcards() {
     const selectedPartOfSpeech = categoryFilter.value;
 
     let filteredCards = flashcards.filter(flashcard => {
-        const matchesSearch = flashcard.question.toLowerCase().includes(searchTerm) ||
+        // For nouns, also search in word_with_article
+        const searchableWord = (flashcard.part_of_speech === 'Noun' && flashcard.word_with_article) 
+            ? flashcard.word_with_article 
+            : flashcard.question;
+            
+        const matchesSearch = searchableWord.toLowerCase().includes(searchTerm) ||
                             flashcard.answer.toLowerCase().includes(searchTerm);
         const matchesPartOfSpeech = !selectedPartOfSpeech || flashcard.part_of_speech === selectedPartOfSpeech;
         
@@ -444,7 +667,29 @@ function showCurrentCard() {
     isCardFlipped = false;
     
     // Update content
-    studyQuestion.textContent = currentCard.question;
+    // For nouns, use the word with article if available
+    let displayWord;
+    if (currentCard.part_of_speech === 'Noun' && currentCard.word_with_article) {
+        displayWord = currentCard.word_with_article;
+    } else {
+        displayWord = currentCard.word || currentCard.question;
+    }
+    
+    // Get the Italian word for pronunciation
+    // For nouns, use the word with article if available
+    const italianWord = (currentCard.part_of_speech === 'Noun' && currentCard.word_with_article) 
+        ? currentCard.word_with_article 
+        : currentCard.word || currentCard.question;
+    
+    // Set the display text and add pronunciation data
+    studyQuestion.textContent = displayWord;
+    studyQuestion.setAttribute('data-pronounce', italianWord);
+    
+    // Add hover event listeners for pronunciation in study mode
+    studyQuestion.style.cursor = 'pointer';
+    studyQuestion.title = 'Hover to hear pronunciation';
+    studyQuestion.setAttribute('data-pronounce', italianWord);
+    studyQuestion.setAttribute('data-part-of-speech', currentCard.part_of_speech);
     studyAnswerBack.textContent = currentCard.answer;
     
     // For verbs, show conjugations on the question side
@@ -460,23 +705,54 @@ function showCurrentCard() {
         populateConjugations(currentCard.conjugations);
     }
     
-    // Populate other enhanced data
-    populateExamples(currentCard.examples || []);
-    populateCognates(currentCard.cognates || []);
-    populateEtymology(currentCard.etymology);
-    populateRelatedEnglishWords(currentCard.related_english_words || []);
+    // Handle examples on question side if setting is enabled
+    if (userSettings.showExamplesOnFront === 'enabled' && currentCard.examples && currentCard.examples.length > 0) {
+        populateQuestionExamples(currentCard.examples);
+    } else {
+        questionExamplesSection.style.display = 'none';
+    }
     
-    // Populate conjunction-specific data if this is a conjunction
+    // Populate other enhanced data with smart content management
+    // Skip examples here for conjunctions since we handle them separately
+    if (currentCard.part_of_speech !== 'Conjunction') {
+        populateExamples(currentCard.examples || []);
+    }
+    
+    // Hide cognates for nouns, verbs, and conjunctions to save space, show for other parts of speech
+    if (currentCard.part_of_speech === 'Noun' || 
+        currentCard.part_of_speech === 'Verb' || 
+        currentCard.part_of_speech === 'Conjunction') {
+        cognatesSection.style.display = 'none';
+    } else {
+        populateCognates(currentCard.cognates || []);
+    }
+    
+    // Hide etymology and related words for conjunctions, show for others
     if (currentCard.part_of_speech === 'Conjunction') {
-        populateConjunctionClassification(currentCard.conjunction_classification);
-        populateClauseConnection(currentCard.clause_connection);
-        populateMoodRequirements(currentCard.mood_tense_requirements);
-        populatePositionRules(currentCard.position_rules);
-        populateUsageContexts(currentCard.usage_contexts);
-        populateCollocations(currentCard.common_collocations);
-        populateFormalInformal(currentCard.formal_vs_informal);
-        populateUsageNotes(currentCard.usage_notes);
-        populateCommonErrors(currentCard.common_errors);
+        etymologySection.style.display = 'none';
+        relatedWordsSection.style.display = 'none';
+    } else {
+        // Always show etymology since it's valuable for learning
+        populateEtymology(currentCard.etymology);
+        
+        // Only hide related words if there's substantial other content
+        const hasManyOtherSections = (currentCard.examples && currentCard.examples.length > 1) && 
+                                   currentCard.etymology;
+        
+        if (!hasManyOtherSections) {
+            populateRelatedEnglishWords(currentCard.related_english_words || []);
+        } else {
+            // Only hide related words when there's really too much content
+            relatedWordsSection.style.display = 'none';
+        }
+    }
+    
+    // Handle conjunction-specific display
+    if (currentCard.part_of_speech === 'Conjunction') {
+        // For conjunctions, hide all complex sections and show only examples
+        hideConjunctionSections();
+        // Override examples to show 3 for conjunctions
+        populateConjunctionExamples(currentCard.examples || []);
     } else {
         // Hide conjunction sections for non-conjunction cards
         hideConjunctionSections();
@@ -485,9 +761,44 @@ function showCurrentCard() {
     // Re-enable transition after a brief moment
     setTimeout(() => {
         studyCard.style.transition = '';
+        adjustCardHeight();
     }, 10);
     
     updateStudyProgress();
+}
+
+// Function to adjust card height based on content
+function adjustCardHeight() {
+    const questionSide = document.querySelector('.question-side');
+    const answerSide = document.querySelector('.answer-side');
+    const cardContent = document.querySelector('.card-content');
+    const cardBack = document.querySelector('.card-back');
+    
+    // Get content heights with small buffer
+    const questionHeight = questionSide.scrollHeight + 16;
+    const answerHeight = answerSide.scrollHeight + 16;
+    
+    // Use the larger of the two heights, with minimum of 500px
+    const targetHeight = Math.max(500, questionHeight, answerHeight);
+    
+    // Allow larger cards - cap at 90vh or 850px, whichever is smaller
+    const maxHeight = Math.min(window.innerHeight * 0.9, 850);
+    const finalHeight = Math.min(targetHeight, maxHeight);
+    
+    // Apply the height to card elements
+    studyCard.style.height = `${finalHeight}px`;
+    cardContent.style.height = `${finalHeight}px`;
+    cardBack.style.height = `${finalHeight}px`;
+    
+    // Update the content areas with proper overflow handling
+    const contentHeight = finalHeight - 32; // Account for reduced padding
+    questionSide.style.height = `${contentHeight}px`;
+    questionSide.style.maxHeight = `${contentHeight}px`;
+    questionSide.style.overflowY = contentHeight < (questionSide.scrollHeight + 8) ? 'auto' : 'hidden';
+    
+    answerSide.style.height = `${contentHeight}px`;
+    answerSide.style.maxHeight = `${contentHeight}px`;
+    answerSide.style.overflowY = contentHeight < (answerSide.scrollHeight + 8) ? 'auto' : 'hidden';
 }
 
 function flipCard() {
@@ -498,6 +809,11 @@ function flipCard() {
         studyCard.classList.add('flipped');
         isCardFlipped = true;
     }
+    
+    // Adjust height after flip animation completes
+    setTimeout(() => {
+        adjustCardHeight();
+    }, 300);
 }
 
 function goToPreviousCard() {
@@ -843,23 +1159,109 @@ function populateExamples(examples) {
     
     examplesList.innerHTML = '';
     
-    // Limit to first 2 examples to keep card readable
-    const limitedExamples = examples.slice(0, 2);
+    // Get current card to determine how many examples to show
+    const currentCard = currentStudyCards[currentStudyIndex];
+    
+    // Use settings for examples count
+    const maxExamples = userSettings.examplesPerCard;
+    const limitedExamples = examples.slice(0, maxExamples);
     
     limitedExamples.forEach(example => {
         const exampleDiv = document.createElement('div');
         exampleDiv.className = 'example-item';
         
+        // Check settings for context display
+        const shouldShowContext = shouldShowContextForPOS(currentCard?.part_of_speech);
+        
+        if (shouldShowContext) {
+            exampleDiv.innerHTML = `
+                <div class="example-italian">"${example.italian}"</div>
+                <div class="example-english">"${example.english}"</div>
+                <div class="example-context">Context: ${example.context}</div>
+            `;
+        } else {
+            exampleDiv.innerHTML = `
+                <div class="example-italian">"${example.italian}"</div>
+                <div class="example-english">"${example.english}"</div>
+            `;
+        }
+        
+        examplesList.appendChild(exampleDiv);
+    });
+    
+    examplesSection.style.display = 'block';
+}
+
+// Helper function to determine if context should be shown based on settings
+function shouldShowContextForPOS(partOfSpeech) {
+    switch (userSettings.showContext) {
+        case 'all':
+            return true;
+        case 'none':
+            return false;
+        case 'nouns-only':
+            return partOfSpeech === 'Noun';
+        case 'verbs-only':
+            return partOfSpeech === 'Verb';
+        default:
+            return false;
+    }
+}
+
+// Populate examples specifically for conjunctions (show 3 examples)
+function populateConjunctionExamples(examples) {
+    if (!examples || examples.length === 0) {
+        examplesSection.style.display = 'none';
+        return;
+    }
+    
+    examplesList.innerHTML = '';
+    
+    // Show up to 3 examples for conjunctions
+    const limitedExamples = examples.slice(0, 3);
+    
+    limitedExamples.forEach(example => {
+        const exampleDiv = document.createElement('div');
+        exampleDiv.className = 'example-item';
+        
+        // For conjunctions, only show Italian and English, no context
         exampleDiv.innerHTML = `
             <div class="example-italian">"${example.italian}"</div>
             <div class="example-english">"${example.english}"</div>
-            <div class="example-context">Context: ${example.context}</div>
         `;
         
         examplesList.appendChild(exampleDiv);
     });
     
     examplesSection.style.display = 'block';
+}
+
+// Populate examples on the question side (without English translation)
+function populateQuestionExamples(examples) {
+    if (!examples || examples.length === 0) {
+        questionExamplesSection.style.display = 'none';
+        return;
+    }
+    
+    questionExamplesList.innerHTML = '';
+    
+    // Use the same number of examples as configured in settings
+    const maxExamples = userSettings.examplesPerCard;
+    const limitedExamples = examples.slice(0, maxExamples);
+    
+    limitedExamples.forEach(example => {
+        const exampleDiv = document.createElement('div');
+        exampleDiv.className = 'example-item';
+        
+        // Only show Italian text, no English translation or context
+        exampleDiv.innerHTML = `
+            <div class="example-italian">"${example.italian}"</div>
+        `;
+        
+        questionExamplesList.appendChild(exampleDiv);
+    });
+    
+    questionExamplesSection.style.display = 'block';
 }
 
 // Populate cognates section
@@ -869,13 +1271,20 @@ function populateCognates(cognates) {
         return;
     }
     
+    // Check if cognates should be shown for current part of speech
+    const currentCard = currentStudyCards[currentStudyIndex];
+    if (!shouldShowCognatesForPOS(currentCard?.part_of_speech)) {
+        cognatesSection.style.display = 'none';
+        return;
+    }
+    
     cognatesList.innerHTML = '';
     
     const cognatesContainer = document.createElement('div');
     cognatesContainer.className = 'cognates-container';
     
-    // Limit to first 5 cognates to keep card readable
-    const limitedCognates = cognates.slice(0, 5);
+    // Limit to first 3 cognates to prevent scrolling
+    const limitedCognates = cognates.slice(0, 3);
     
     limitedCognates.forEach(cognate => {
         const cognateTag = document.createElement('span');
@@ -886,6 +1295,22 @@ function populateCognates(cognates) {
     
     cognatesList.appendChild(cognatesContainer);
     cognatesSection.style.display = 'block';
+}
+
+// Helper function to determine if cognates should be shown based on settings
+function shouldShowCognatesForPOS(partOfSpeech) {
+    switch (userSettings.showCognates) {
+        case 'all':
+            return true;
+        case 'none':
+            return false;
+        case 'nouns-only':
+            return partOfSpeech === 'Noun';
+        case 'verbs-only':
+            return partOfSpeech === 'Verb';
+        default:
+            return false;
+    }
 }
 
 // Helper function to populate conjugations in any container
@@ -995,7 +1420,7 @@ function populateClauseConnection(connection) {
             <div class="pattern-type"><strong>Coordination:</strong></div>
             <div class="pattern-description">${connection.coordination.description}</div>
             <div class="pattern-examples">
-                ${connection.coordination.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                ${connection.coordination.examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
             </div>
         `;
         clauseConnectionContent.appendChild(coordDiv);
@@ -1008,7 +1433,7 @@ function populateClauseConnection(connection) {
             <div class="pattern-type"><strong>Subordination:</strong></div>
             <div class="pattern-description">${connection.subordination.description}</div>
             <div class="pattern-examples">
-                ${connection.subordination.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                ${connection.subordination.examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
             </div>
         `;
         clauseConnectionContent.appendChild(subDiv);
@@ -1034,7 +1459,7 @@ function populateMoodRequirements(requirements) {
                 <div class="mood-type"><strong>${mood.charAt(0).toUpperCase() + mood.slice(1)}:</strong></div>
                 <div class="mood-description">${requirements[mood].description}</div>
                 <div class="mood-examples">
-                    ${requirements[mood].examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                    ${requirements[mood].examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
                 </div>
             `;
             moodRequirementsContent.appendChild(moodDiv);
@@ -1061,7 +1486,7 @@ function populatePositionRules(rules) {
                 <div class="position-type"><strong>${position.replace('_', ' ').charAt(0).toUpperCase() + position.replace('_', ' ').slice(1)}:</strong></div>
                 <div class="position-description">${rules[position].description}</div>
                 <div class="position-examples">
-                    ${rules[position].examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                    ${rules[position].examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
                 </div>
             `;
             positionRulesContent.appendChild(posDiv);
@@ -1088,7 +1513,7 @@ function populateUsageContexts(contexts) {
                 <div class="context-name"><strong>${contextName.replace('_', ' ').charAt(0).toUpperCase() + contextName.replace('_', ' ').slice(1)}:</strong></div>
                 <div class="context-meaning">${contextData.meaning}</div>
                 <div class="context-examples">
-                    ${contextData.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                    ${contextData.examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
                 </div>
             `;
             usageContextsContent.appendChild(contextDiv);
@@ -1137,7 +1562,7 @@ function populateFormalInformal(formalVsInformal) {
             <div class="register-label"><strong>Formal:</strong></div>
             <div class="register-usage">${formalVsInformal.formal.usage}</div>
             <div class="register-examples">
-                ${formalVsInformal.formal.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                ${formalVsInformal.formal.examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
             </div>
         `;
         formalInformalContent.appendChild(formalDiv);
@@ -1150,7 +1575,7 @@ function populateFormalInformal(formalVsInformal) {
             <div class="register-label"><strong>Informal:</strong></div>
             <div class="register-usage">${formalVsInformal.informal.usage}</div>
             <div class="register-examples">
-                ${formalVsInformal.informal.examples.map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
+                ${formalVsInformal.informal.examples.slice(0, 1).map(ex => `<div class="example-item">"${ex}"</div>`).join('')}
             </div>
         `;
         formalInformalContent.appendChild(informalDiv);
@@ -1230,15 +1655,13 @@ function populateEtymology(etymology) {
     if (etymology.meaning && etymology.evolution) {
         // New conjunction format
         etymologyDiv.innerHTML = `
-            <div class="etymology-origin">Origin: ${etymology.origin || 'Unknown'}</div>
-            <div class="etymology-source">From: ${etymology.meaning}</div>
+            <div class="etymology-source">From ${etymology.origin || 'Unknown'}: ${etymology.meaning}</div>
             <div class="etymology-notes">${etymology.evolution}</div>
         `;
     } else {
         // Old format for backwards compatibility
         etymologyDiv.innerHTML = `
-            <div class="etymology-origin">Origin: ${etymology.origin || 'Unknown'}</div>
-            <div class="etymology-source">From: ${etymology.source || 'Unknown'} ${etymology.meaning ? `(${etymology.meaning})` : ''}</div>
+            <div class="etymology-source">From ${etymology.origin || 'Unknown'}: ${etymology.source || 'Unknown'} ${etymology.meaning ? `(${etymology.meaning})` : ''}</div>
             <div class="etymology-notes">${etymology.notes || ''}</div>
         `;
     }
@@ -1256,8 +1679,8 @@ function populateRelatedEnglishWords(relatedWords) {
     
     relatedWordsList.innerHTML = '';
     
-    // Limit to first 4 related words to keep card readable
-    const limitedWords = relatedWords.slice(0, 4);
+    // Limit to first 2 related words to prevent scrolling
+    const limitedWords = relatedWords.slice(0, 2);
     
     // Create formatted entries with each word on its own line
     limitedWords.forEach(wordInfo => {
@@ -1276,4 +1699,106 @@ function populateRelatedEnglishWords(relatedWords) {
     relatedWordsSection.style.display = 'block';
 }
 
- 
+// Settings functions
+function openSettingsModal() {
+    loadSettings();
+    settingsModal.style.display = 'block';
+}
+
+function closeSettingsModal() {
+    settingsModal.style.display = 'none';
+}
+
+function loadSettings() {
+    // Load settings from localStorage or use defaults
+    const savedSettings = localStorage.getItem('flashcardSettings');
+    if (savedSettings) {
+        userSettings = { ...userSettings, ...JSON.parse(savedSettings) };
+    }
+    
+    // Populate form with current settings
+    document.getElementById('card-size').value = userSettings.cardSize;
+    document.getElementById('show-context').value = userSettings.showContext;
+    document.getElementById('show-cognates').value = userSettings.showCognates;
+    document.getElementById('show-examples-on-front').value = userSettings.showExamplesOnFront;
+    document.getElementById('examples-per-card').value = userSettings.examplesPerCard;
+    document.getElementById('auto-flip-delay').value = userSettings.autoFlipDelay;
+    document.getElementById('study-mode').value = userSettings.studyMode;
+}
+
+function handleSaveSettings(e) {
+    e.preventDefault();
+    
+    // Get form values
+    userSettings = {
+        cardSize: document.getElementById('card-size').value,
+        showContext: document.getElementById('show-context').value,
+        showCognates: document.getElementById('show-cognates').value,
+        showExamplesOnFront: document.getElementById('show-examples-on-front').value,
+        examplesPerCard: parseInt(document.getElementById('examples-per-card').value),
+        autoFlipDelay: parseInt(document.getElementById('auto-flip-delay').value),
+        studyMode: document.getElementById('study-mode').value
+    };
+    
+    // Save to localStorage
+    localStorage.setItem('flashcardSettings', JSON.stringify(userSettings));
+    
+    // Apply settings
+    applySettings();
+    
+    // Close modal
+    closeSettingsModal();
+    
+    // Show notification
+    showNotification('Settings saved successfully!', 'success');
+}
+
+function resetSettings() {
+    userSettings = {
+        cardSize: 'medium',
+        showContext: 'none',
+        showCognates: 'none',
+        showExamplesOnFront: 'disabled',
+        examplesPerCard: 3,
+        autoFlipDelay: 5,
+        studyMode: 'random'
+    };
+    
+    // Update form
+    loadSettings();
+    
+    // Apply settings
+    applySettings();
+    
+    // Show notification
+    showNotification('Settings reset to defaults!', 'info');
+}
+
+function applySettings() {
+    // Apply card size
+    const card = document.querySelector('.flashcard-card');
+    if (card) {
+        // Remove existing size classes
+        card.classList.remove('compact-size', 'medium-size', 'large-size');
+        // Add new size class
+        card.classList.add(`${userSettings.cardSize}-size`);
+    }
+    
+    // If we're in study mode, refresh the current card to apply new settings
+    // But preserve the flip state if the card is currently flipped
+    if (currentStudyCards.length > 0) {
+        const wasFlipped = isCardFlipped;
+        showCurrentCard();
+        // Restore flip state if it was flipped before
+        if (wasFlipped) {
+            studyCard.classList.add('flipped');
+            isCardFlipped = true;
+        }
+    }
+}
+
+// Load settings on app start
+document.addEventListener('DOMContentLoaded', function() {
+    loadSettings();
+    applySettings();
+});

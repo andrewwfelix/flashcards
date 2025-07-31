@@ -102,6 +102,30 @@ body {
   box-shadow: 0 2px 8px rgba(79, 70, 229, 0.3);
 }
 
+/* Settings Button */
+.settings-btn {
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  color: var(--text-secondary);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: var(--transition);
+  margin-left: 0.5rem;
+}
+
+.settings-btn:hover {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.settings-btn i {
+  font-size: 1.1rem;
+}
+
 /* Main content */
 .main-content {
   min-height: 60vh;
@@ -206,6 +230,24 @@ select:focus {
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--text);
+  cursor: pointer;
+  transition: var(--transition);
+  position: relative;
+}
+
+.flashcard-word:hover {
+  color: var(--primary);
+  transform: translateY(-1px);
+}
+
+.flashcard-word:active {
+  transform: translateY(0px);
+  color: var(--accent);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 0.7; transform: translateY(0); }
 }
 
 .bullet {
@@ -221,8 +263,8 @@ select:focus {
 /* Study Mode */
 .study-container {
   display: grid;
-  grid-template-columns: 300px 1fr;
-  gap: 2rem;
+  grid-template-columns: 280px 1fr;
+  gap: 1.5rem;
   min-height: 80vh;
 }
 
@@ -230,7 +272,7 @@ select:focus {
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  padding: 1.5rem;
+  padding: 1.25rem;
   box-shadow: var(--shadow);
   height: fit-content;
   position: sticky;
@@ -298,28 +340,41 @@ select:focus {
 
 .flashcard-study {
   width: 100%;
-  max-width: 800px;
+  max-width: 1200px;
   perspective: 1000px;
 }
 
 .flashcard-card {
   position: relative;
   width: 100%;
-  height: 600px;
+  min-height: 500px;
+  max-height: min(90vh, 850px);
   transition: transform 0.6s;
   transform-style: preserve-3d;
   cursor: pointer;
 }
 
 .flashcard-card.flipped {
-  transform: rotateY(180deg);
+  transform: rotateX(180deg);
+}
+
+/* Card size variations */
+.flashcard-card.compact-size {
+  min-height: 400px;
+  max-height: min(80vh, 600px);
+}
+
+.flashcard-card.large-size {
+  min-height: 600px;
+  max-height: min(95vh, 1000px);
 }
 
 .card-content,
 .card-back {
   position: absolute;
   width: 100%;
-  height: 100%;
+  min-height: 500px;
+  max-height: min(90vh, 850px);
   backface-visibility: hidden;
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-lg);
@@ -330,16 +385,18 @@ select:focus {
 }
 
 .card-back {
-  transform: rotateY(180deg);
+  transform: rotateX(180deg);
 }
 
 .question-side,
 .answer-side {
-  padding: 2rem;
-  height: 100%;
+  padding: 1rem;
+  min-height: calc(500px - 2rem);
+  max-height: calc(min(90vh, 850px) - 2rem);
   overflow-y: auto;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .word-display {
@@ -349,6 +406,24 @@ select:focus {
   color: var(--primary);
   margin-bottom: 2rem;
   flex-shrink: 0;
+  cursor: pointer;
+  transition: var(--transition);
+  position: relative;
+}
+
+.word-display:hover {
+  color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.word-display:hover::after {
+  content: "🔊";
+  position: absolute;
+  top: -30px;
+  right: -35px;
+  font-size: 1rem;
+  opacity: 0.8;
+  animation: fadeIn 0.2s ease;
 }
 
 .translation-display {
@@ -359,6 +434,8 @@ select:focus {
   margin-bottom: 2rem;
   flex-shrink: 0;
 }
+
+
 
 /* Buttons */
 .btn {
@@ -441,7 +518,7 @@ body:has(#study-view.view.active) {
 body:has(#study-view.view.active) .container {
   max-width: none;
   margin: 0;
-  padding: 1rem;
+  padding: 0.75rem;
 }
 
 body:has(#study-view.view.active) .header {
@@ -450,21 +527,21 @@ body:has(#study-view.view.active) .header {
 
 /* Card Sections for enhanced data */
 .card-section {
-  margin-top: 1.5rem;
-  padding: 1rem;
+  margin-top: 0.75rem;
+  padding: 0.5rem;
   background: var(--border-light);
   border-radius: var(--radius-sm);
   border-left: 3px solid var(--primary);
 }
 
 .card-section h4 {
-  margin: 0 0 0.75rem 0;
-  font-size: 0.9rem;
+  margin: 0 0 0.4rem 0;
+  font-size: 0.85rem;
   color: var(--text);
   font-weight: 600;
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.4rem;
 }
 
 /* Examples */
@@ -477,7 +554,6 @@ body:has(#study-view.view.active) .header {
 }
 
 .example-italian {
-  font-weight: 600;
   color: var(--text);
   font-style: italic;
   margin-bottom: 0.25rem;
@@ -553,22 +629,22 @@ body:has(#study-view.view.active) .header {
   font-weight: 600;
   color: var(--warning);
   font-size: 0.9rem;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 
 .etymology-source {
   font-style: italic;
   color: var(--text-secondary);
-  font-size: 0.85rem;
-  margin-bottom: 0.25rem;
+  font-size: 0.9rem;
+  margin-bottom: 0.2rem;
 }
 
 .etymology-notes {
   color: var(--text-muted);
-  font-size: 0.8rem;
-  line-height: 1.4;
+  font-size: 0.9rem;
+  line-height: 1.3;
   font-style: italic;
-  padding: 0.5rem;
+  padding: 0.4rem;
   background: var(--card-bg);
   border-radius: var(--radius-sm);
   border-left: 2px solid var(--warning);
@@ -593,23 +669,23 @@ body:has(#study-view.view.active) .header {
 
 .related-word-name {
   color: var(--info);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.15rem;
 }
 
 .related-word-meaning {
   color: var(--text);
-  font-size: 0.85rem;
-  line-height: 1.4;
-  margin-bottom: 0.25rem;
+  font-size: 0.75rem;
+  line-height: 1.3;
+  margin-bottom: 0.15rem;
 }
 
 .related-word-usage {
   color: var(--text-secondary);
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-style: italic;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 /* Conjunction-specific styles */
@@ -1070,6 +1146,52 @@ body:has(#study-view.view.active) .header {
   color: var(--text);
 }
 
+/* Settings Modal */
+.settings-modal-content {
+  max-width: 700px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.settings-section {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.settings-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.settings-section h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.shortcuts-info {
+  background: var(--border-light);
+  padding: 1rem;
+  border-radius: var(--radius);
+  margin-top: 0.5rem;
+}
+
+.shortcuts-info p {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.shortcuts-info strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
 /* Loading state */
 .loading {
   text-align: center;
@@ -1163,6 +1285,8 @@ body:has(#study-view.view.active) .header {
   .navigation-buttons {
     flex-direction: column;
   }
+  
+
   
   .form-row {
     grid-template-columns: 1fr;

@@ -13,27 +13,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io sono un insegnante.",
-          "english": "I am a teacher.",
-          "context": "state of being",
+          "italian": "Sono felice di vederti.",
+          "english": "I am happy to see you.",
+          "context": "expressing emotions",
           "tense": "present"
         },
         {
-          "italian": "Loro sono stati in Italia l'anno scorso.",
-          "english": "They were in Italy last year.",
-          "context": "past action",
+          "italian": "Ieri sono stato al cinema con gli amici.",
+          "english": "Yesterday I was at the movies with friends.",
+          "context": "past activity",
           "tense": "past"
         },
         {
-          "italian": "Noi saremo pronti per la festa.",
-          "english": "We will be ready for the party.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se fossi un uccello, volerei alto.",
-          "english": "If I were a bird, I would fly high.",
-          "context": "conditional scenario",
+          "italian": "Se fossi più organizzato, sarei più produttivo.",
+          "english": "If I were more organized, I would be more productive.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -94,28 +88,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho avuto un giorno difficile.",
-          "english": "I had a difficult day.",
-          "context": "Reflecting on a past experience",
+          "italian": "Io ho una macchina nuova.",
+          "english": "I have a new car.",
+          "context": "ownership",
+          "tense": "present"
+        },
+        {
+          "italian": "Ieri ho avuto una brutta giornata.",
+          "english": "Yesterday I had a bad day.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Avrò bisogno di aiuto domani.",
-          "english": "I will need help tomorrow.",
-          "context": "Planning for future assistance",
-          "tense": "future"
-        },
-        {
-          "italian": "Hai mai visto questo film?",
-          "english": "Have you ever seen this movie?",
-          "context": "Asking about past experiences",
-          "tense": "present"
-        },
-        {
-          "italian": "Noi abbiamo sempre amato viaggiare.",
-          "english": "We have always loved to travel.",
-          "context": "Expressing a continuous past action",
-          "tense": "present"
+          "italian": "Se avessi più tempo, leggerei di più.",
+          "english": "If I had more time, I would read more.",
+          "context": "conditional statement",
+          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -175,27 +163,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Cosa fai stasera?",
-          "english": "What are you doing tonight?",
-          "context": "evening plans",
+          "italian": "Oggi faccio i compiti a casa.",
+          "english": "Today I do my homework at home.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho fatto una lunga passeggiata.",
-          "english": "Yesterday I took a long walk.",
-          "context": "past activity",
+          "italian": "Ieri ho fatto una torta per il compleanno di mio fratello.",
+          "english": "Yesterday I made a cake for my brother's birthday.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "La prossima settimana faremo una gita.",
-          "english": "Next week we will go on a trip.",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi più tempo, farei un viaggio.",
-          "english": "If I had more time, I would take a trip.",
-          "context": "conditional scenario",
+          "italian": "Se avessi più tempo, farei volontariato in ospedale.",
+          "english": "If I had more time, I would do volunteer work at the hospital.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -256,27 +238,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Cosa dici?",
-          "english": "What are you saying?",
-          "context": "communication",
+          "italian": "Lei dice sempre la verità.",
+          "english": "She always tells the truth.",
+          "context": "general statement",
           "tense": "present"
         },
         {
-          "italian": "Ho detto la verità ieri.",
-          "english": "I told the truth yesterday.",
-          "context": "honesty",
+          "italian": "Ti ha detto cosa è successo ieri?",
+          "english": "Did she tell you what happened yesterday?",
+          "context": "past question",
           "tense": "past"
         },
         {
-          "italian": "Dirò la mia opinione domani.",
-          "english": "I will say my opinion tomorrow.",
-          "context": "future planning",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, l'avrei detto.",
-          "english": "If I had known, I would have said it.",
-          "context": "conditional",
+          "italian": "Se mi avessi chiesto, ti avrei detto la verità.",
+          "english": "If you had asked me, I would have told you the truth.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -342,27 +318,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vado a casa",
-          "english": "I go home",
-          "context": "movement",
+          "italian": "Ogni mattina vado in palestra.",
+          "english": "Every morning I go to the gym.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Siamo andati al mare",
-          "english": "We went to the sea",
-          "context": "past activities",
+          "italian": "Ieri sono andato al cinema con gli amici.",
+          "english": "Yesterday I went to the movies with friends.",
+          "context": "past activity",
           "tense": "past"
         },
         {
-          "italian": "Andrò a scuola domani",
-          "english": "I will go to school tomorrow",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, andrei al concerto",
-          "english": "If I had time, I would go to the concert",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, andrei in vacanza al mare.",
+          "english": "If I had time, I would go on vacation to the seaside.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -422,27 +392,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io sono stato in Italia.",
-          "english": "I have been to Italy.",
-          "context": "experience",
-          "tense": "past"
-        },
-        {
-          "italian": "Domani saremo felici.",
-          "english": "Tomorrow we will be happy.",
-          "context": "future expectation",
-          "tense": "future"
-        },
-        {
           "italian": "Tu sei molto gentile.",
           "english": "You are very kind.",
           "context": "compliment",
           "tense": "present"
         },
         {
-          "italian": "Loro sarebbero qui se non piovesse.",
-          "english": "They would be here if it weren't raining.",
-          "context": "conditional situation",
+          "italian": "Ieri sono stato al cinema.",
+          "english": "Yesterday I was at the cinema.",
+          "context": "past activity",
+          "tense": "past"
+        },
+        {
+          "italian": "Se fossi più organizzato, sarei meno stressato.",
+          "english": "If I were more organized, I would be less stressed.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -503,28 +467,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho avuto un giorno difficile.",
-          "english": "I had a difficult day.",
-          "context": "past experience",
+          "italian": "Io ho un gatto nero.",
+          "english": "I have a black cat.",
+          "context": "ownership",
+          "tense": "present"
+        },
+        {
+          "italian": "Ieri ho avuto una bella sorpresa.",
+          "english": "Yesterday I had a nice surprise.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Avrò bisogno di aiuto domani.",
-          "english": "I will need help tomorrow.",
-          "context": "future necessity",
-          "tense": "future"
-        },
-        {
-          "italian": "Hai mai visto questo film?",
-          "english": "Have you ever seen this movie?",
-          "context": "asking about experience",
-          "tense": "present"
-        },
-        {
-          "italian": "Noi abbiamo sempre creduto in te.",
-          "english": "We have always believed in you.",
-          "context": "expressing belief",
-          "tense": "present"
+          "italian": "Se avessi più tempo, andrei al cinema.",
+          "english": "If I had more time, I would go to the movies.",
+          "context": "conditional statement",
+          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -589,27 +547,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Cosa farai domani?",
-          "english": "What will you do tomorrow?",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Ho fatto una torta ieri.",
-          "english": "I made a cake yesterday.",
-          "context": "past activities",
-          "tense": "past"
-        },
-        {
-          "italian": "Faccio sempre attenzione in classe.",
-          "english": "I always pay attention in class.",
-          "context": "daily habits",
+          "italian": "Oggi faccio i compiti a casa.",
+          "english": "Today I do my homework at home.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Se avessi tempo, farei un viaggio.",
-          "english": "If I had time, I would take a trip.",
-          "context": "conditional situation",
+          "italian": "Ieri ho fatto una torta per la festa.",
+          "english": "Yesterday I made a cake for the party.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se avessi tempo, farei volontariato.",
+          "english": "If I had time, I would do volunteer work.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -675,28 +627,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Cosa dici?",
-          "english": "What are you saying?",
-          "context": "communication",
-          "tense": "present"
-        },
-        {
-          "italian": "Ho detto la verità ieri.",
-          "english": "I told the truth yesterday.",
-          "context": "honesty",
+          "italian": "Le ho detto la verità.",
+          "english": "I told her the truth.",
+          "context": "conversation",
           "tense": "past"
         },
         {
-          "italian": "Dirò la mia opinione domani.",
-          "english": "I will say my opinion tomorrow.",
-          "context": "future plans",
+          "italian": "Domani le dirò che non posso venire.",
+          "english": "Tomorrow I will tell her that I can't come.",
+          "context": "future plan",
           "tense": "future"
         },
         {
-          "italian": "Se avessi saputo, l'avrei detto.",
-          "english": "If I had known, I would have said it.",
+          "italian": "Se tu mi dici la verità, ti aiuterò.",
+          "english": "If you tell me the truth, I will help you.",
           "context": "conditional",
-          "tense": "conditional"
+          "tense": "present"
         }
       ],
       "conjugations": {
@@ -761,27 +707,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vado a casa",
-          "english": "I go home",
-          "context": "movement",
+          "italian": "Oggi vado al supermercato.",
+          "english": "Today I am going to the supermarket.",
+          "context": "daily errand",
           "tense": "present"
         },
         {
-          "italian": "Siamo andati al mare",
-          "english": "We went to the sea",
-          "context": "past activities",
+          "italian": "Ieri sono andato al cinema.",
+          "english": "Yesterday I went to the cinema.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Andrò a scuola domani",
-          "english": "I will go to school tomorrow",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, andrei al concerto",
-          "english": "If I had time, I would go to the concert",
-          "context": "conditional situation",
+          "italian": "Se potessi, andrei in vacanza in Italia.",
+          "english": "If I could, I would go on vacation to Italy.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -841,27 +781,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Posso andare al cinema stasera.",
-          "english": "I can go to the cinema tonight.",
-          "context": "ability",
+          "italian": "Non posso venire alla festa stasera.",
+          "english": "I can't come to the party tonight.",
+          "context": "declining an invitation",
           "tense": "present"
         },
         {
-          "italian": "Non ho potuto venire ieri.",
-          "english": "I could not come yesterday.",
-          "context": "past ability",
+          "italian": "Ieri potevo aiutarti con i compiti.",
+          "english": "Yesterday I could have helped you with your homework.",
+          "context": "missed opportunity",
           "tense": "past"
         },
         {
-          "italian": "Domani potrò finire il lavoro.",
-          "english": "Tomorrow I will be able to finish the work.",
-          "context": "future ability",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, potrei aiutarti.",
-          "english": "If I had time, I could help you.",
-          "context": "conditional ability",
+          "italian": "Se avessi più soldi, potrei viaggiare di più.",
+          "english": "If I had more money, I could travel more.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -921,27 +855,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Devo studiare per l'esame domani.",
-          "english": "I have to study for the exam tomorrow.",
-          "context": "necessity",
+          "italian": "Devi studiare per l'esame domani.",
+          "english": "You have to study for the exam tomorrow.",
+          "context": "upcoming task",
           "tense": "present"
         },
         {
-          "italian": "Dovevo finire il lavoro ieri.",
-          "english": "I had to finish the work yesterday.",
-          "context": "past obligation",
+          "italian": "Ieri dovevi chiamarmi, ma non l'hai fatto.",
+          "english": "Yesterday you had to call me, but you didn't.",
+          "context": "missed obligation",
           "tense": "past"
         },
         {
-          "italian": "Dovrò andare al medico la prossima settimana.",
-          "english": "I will have to go to the doctor next week.",
-          "context": "future obligation",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, dovrei aiutarti.",
-          "english": "If I had time, I should help you.",
-          "context": "conditional obligation",
+          "italian": "Se avessi tempo, dovresti venire alla festa con me.",
+          "english": "If you had time, you should come to the party with me.",
+          "context": "conditional suggestion",
           "tense": "conditional"
         }
       ],
@@ -1007,27 +935,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Voglio andare al cinema stasera.",
-          "english": "I want to go to the cinema tonight.",
+          "italian": "Voglio una fetta di torta.",
+          "english": "I want a slice of cake.",
           "context": "expressing desire",
           "tense": "present"
         },
         {
-          "italian": "Ho voluto comprare un libro ieri.",
-          "english": "I wanted to buy a book yesterday.",
-          "context": "past intention",
+          "italian": "Ieri volevo andare al cinema, ma non c'erano biglietti.",
+          "english": "Yesterday I wanted to go to the cinema, but there were no tickets.",
+          "context": "past desire",
           "tense": "past"
         },
         {
-          "italian": "Domani vorrò mangiare in un ristorante.",
-          "english": "Tomorrow I will want to eat in a restaurant.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, vorrei viaggiare di più.",
-          "english": "If I had time, I would want to travel more.",
-          "context": "conditional wish",
+          "italian": "Se avessi più soldi, vorrei viaggiare per il mondo.",
+          "english": "If I had more money, I would want to travel the world.",
+          "context": "conditional desire",
           "tense": "conditional"
         }
       ],
@@ -1086,27 +1008,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "So che domani pioverà.",
-          "english": "I know that it will rain tomorrow.",
-          "context": "certainty about the future",
-          "tense": "future"
-        },
-        {
-          "italian": "Sapevo che era una buona idea.",
-          "english": "I knew it was a good idea.",
-          "context": "reflection on the past",
-          "tense": "past"
-        },
-        {
-          "italian": "Voglio sapere la verità.",
-          "english": "I want to know the truth.",
-          "context": "desire for knowledge",
+          "italian": "Io so parlare francese.",
+          "english": "I know how to speak French.",
+          "context": "language skills",
           "tense": "present"
         },
         {
-          "italian": "Se sapessi la risposta, te la direi.",
-          "english": "If I knew the answer, I would tell you.",
-          "context": "conditional situation",
+          "italian": "Lui sapeva la risposta all'esame.",
+          "english": "He knew the answer to the exam.",
+          "context": "past knowledge",
+          "tense": "past"
+        },
+        {
+          "italian": "Se sapessi il tuo numero di telefono, ti chiamerei.",
+          "english": "If I knew your phone number, I would call you.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -1166,28 +1082,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io do un regalo a mia madre.",
-          "english": "I give a gift to my mother.",
-          "context": "gift-giving",
-          "tense": "present"
-        },
-        {
-          "italian": "Loro hanno dato aiuto durante la crisi.",
-          "english": "They gave help during the crisis.",
-          "context": "past assistance",
+          "italian": "Le ho dato un regalo per il compleanno.",
+          "english": "I gave her a gift for her birthday.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani daremo una festa.",
-          "english": "Tomorrow we will give a party.",
-          "context": "future event",
-          "tense": "future"
+          "italian": "Se mi dessi una mano, sarei molto grato.",
+          "english": "If you gave me a hand, I would be very grateful.",
+          "context": "conditional situation",
+          "tense": "conditional"
         },
         {
-          "italian": "Se avessi tempo, darei una mano.",
-          "english": "If I had time, I would give a hand.",
-          "context": "conditional assistance",
-          "tense": "conditional"
+          "italian": "Oggi ti do una risposta alla tua domanda.",
+          "english": "Today I give you an answer to your question.",
+          "context": "present action",
+          "tense": "present"
         }
       ],
       "conjugations": {
@@ -1247,26 +1157,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io sto a casa oggi.",
-          "english": "I am staying at home today.",
-          "context": "current location",
+          "italian": "Sto bene oggi.",
+          "english": "I am well today.",
+          "context": "current status",
           "tense": "present"
         },
         {
-          "italian": "Loro sono stati qui ieri.",
-          "english": "They stayed here yesterday.",
-          "context": "past event",
-          "tense": "past"
+          "italian": "Ieri stavo male, ma oggi sto meglio.",
+          "english": "Yesterday I was feeling bad, but today I am feeling better.",
+          "context": "past and present comparison",
+          "tense": "imperfect"
         },
         {
-          "italian": "Domani staremo insieme.",
-          "english": "We will stay together tomorrow.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, starei più a lungo.",
-          "english": "If I had time, I would stay longer.",
+          "italian": "Se fossi a casa, starei più tranquillo.",
+          "english": "If I were at home, I would be more relaxed.",
           "context": "conditional situation",
           "tense": "conditional"
         }
@@ -1328,27 +1232,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vedo un uccello",
-          "english": "I see a bird",
-          "context": "visual perception",
+          "italian": "Vedo un film interessante stasera.",
+          "english": "I'm watching an interesting movie tonight.",
+          "context": "future plan",
           "tense": "present"
         },
         {
-          "italian": "Ho visto un film ieri",
-          "english": "I saw a movie yesterday",
+          "italian": "Ieri ho visto mia nonna al supermercato.",
+          "english": "Yesterday I saw my grandmother at the supermarket.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Vedrò i miei amici domani",
-          "english": "I will see my friends tomorrow",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi visto il segnale, avrei fermato la macchina",
-          "english": "If I had seen the sign, I would have stopped the car",
-          "context": "conditional situation",
+          "italian": "Se potessi, vedrei il concerto dei tuoi cantanti preferiti.",
+          "english": "If I could, I would see the concert of your favorite singers.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -1414,27 +1312,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vieni con me stasera?",
-          "english": "Are you coming with me tonight?",
-          "context": "invitation",
+          "italian": "Vieni con me al cinema stasera?",
+          "english": "Are you coming with me to the movies tonight?",
+          "context": "making plans",
           "tense": "present"
         },
         {
-          "italian": "Sono venuto ieri.",
-          "english": "I came yesterday.",
+          "italian": "Ieri sono venuto alla festa ma non ti ho trovato.",
+          "english": "Yesterday I came to the party but I didn't find you.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Verrò alla festa domani.",
-          "english": "I will come to the party tomorrow.",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se venissi, sarebbe fantastico.",
-          "english": "If you came, it would be fantastic.",
-          "context": "conditional scenario",
+          "italian": "Se tu venissi al concerto, sarebbe fantastico.",
+          "english": "If you were to come to the concert, it would be fantastic.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -1493,27 +1385,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace uscire con gli amici",
-          "english": "I like to go out with friends",
-          "context": "preference",
+          "italian": "Oggi esco con i miei amici.",
+          "english": "Today I am going out with my friends.",
+          "context": "socializing",
           "tense": "present"
         },
         {
-          "italian": "Ieri sono uscito tardi",
-          "english": "Yesterday I went out late",
-          "context": "past event",
+          "italian": "Ieri sera sono uscito a cena.",
+          "english": "Last night I went out for dinner.",
+          "context": "past activity",
           "tense": "past"
         },
         {
-          "italian": "Domani uscirò per cena",
-          "english": "Tomorrow I will go out for dinner",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, uscirei più spesso",
-          "english": "If I had time, I would go out more often",
-          "context": "conditional",
+          "italian": "Se piove, non usciremo stasera.",
+          "english": "If it rains, we will not go out tonight.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -1572,27 +1458,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Parlo italiano ogni giorno.",
-          "english": "I speak Italian every day.",
-          "context": "daily routine",
+          "italian": "Oggi parlo con il mio capo.",
+          "english": "Today I speak with my boss.",
+          "context": "daily work conversation",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho parlato con il mio amico.",
-          "english": "Yesterday I spoke with my friend.",
-          "context": "past conversation",
+          "italian": "Ieri ho parlato al telefono per due ore.",
+          "english": "Yesterday I spoke on the phone for two hours.",
+          "context": "past communication",
           "tense": "past"
         },
         {
-          "italian": "Domani parlerò al telefono.",
-          "english": "Tomorrow I will speak on the phone.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, parlerei di più.",
-          "english": "If I had time, I would speak more.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, parlerei con te più spesso.",
+          "english": "If I had time, I would speak with you more often.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -1651,27 +1531,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho trovato le chiavi che cercavo.",
-          "english": "I found the keys I was looking for.",
-          "context": "past action",
-          "tense": "past"
-        },
-        {
-          "italian": "Troverò una soluzione al problema.",
-          "english": "I will find a solution to the problem.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Mi piace trovare nuovi posti da visitare.",
-          "english": "I like to find new places to visit.",
-          "context": "preference",
+          "italian": "Oggi trovo le chiavi nella borsa.",
+          "english": "Today I find the keys in the bag.",
+          "context": "everyday occurrence",
           "tense": "present"
         },
         {
-          "italian": "Se cerchi bene, troverai quello che ti serve.",
-          "english": "If you look well, you will find what you need.",
-          "context": "conditional scenario",
+          "italian": "Ieri ho trovato un libro interessante in libreria.",
+          "english": "Yesterday I found an interesting book at the bookstore.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se cercassi bene, troverei la soluzione al problema.",
+          "english": "If I looked carefully, I would find the solution to the problem.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -1730,27 +1604,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace portare i libri in biblioteca.",
-          "english": "I like to bring the books to the library.",
-          "context": "preference",
+          "italian": "Porto il mio libro preferito in vacanza.",
+          "english": "I bring my favorite book on vacation.",
+          "context": "planning for a trip",
           "tense": "present"
         },
         {
-          "italian": "Ho portato il dessert alla festa.",
-          "english": "I brought the dessert to the party.",
-          "context": "past action",
+          "italian": "Ieri ho portato i dolci alla festa.",
+          "english": "Yesterday I brought the sweets to the party.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani porterò il mio amico al cinema.",
-          "english": "Tomorrow I will bring my friend to the cinema.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, avrei portato un regalo.",
-          "english": "If I had known, I would have brought a gift.",
-          "context": "conditional",
+          "italian": "Se avessi tempo, porterei il tuo bagaglio.",
+          "english": "If I had time, I would bring your luggage.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -1811,27 +1679,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace lasciare il lavoro presto.",
-          "english": "I like to leave work early.",
-          "context": "preference",
+          "italian": "Lascio la chiave sulla tavola.",
+          "english": "I leave the key on the table.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho lasciato le chiavi sul tavolo.",
-          "english": "I left the keys on the table.",
-          "context": "past action",
+          "italian": "Ieri ho lasciato il libro in ufficio.",
+          "english": "Yesterday I left the book in the office.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani lascerò la città.",
-          "english": "Tomorrow I will leave the city.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se potessi, lascerei tutto e viaggerei.",
-          "english": "If I could, I would leave everything and travel.",
-          "context": "conditional scenario",
+          "italian": "Se avessi tempo, lascerei la città per un po'.",
+          "english": "If I had time, I would leave the city for a while.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -1890,27 +1752,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Metto il libro sul tavolo.",
-          "english": "I put the book on the table.",
-          "context": "action of placing an object",
+          "italian": "Ogni mattina metto le chiavi sul tavolo.",
+          "english": "Every morning I put the keys on the table.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho messo il giubbotto ieri.",
-          "english": "I put on the jacket yesterday.",
+          "italian": "Ieri ho messo la torta in frigo.",
+          "english": "Yesterday I put the cake in the fridge.",
           "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani metterò la musica.",
-          "english": "Tomorrow I will put on the music.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, metterei ordine.",
-          "english": "If I had time, I would put things in order.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, metterei un nuovo quadro in salotto.",
+          "english": "If I had time, I would put a new painting in the living room.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -1972,27 +1828,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Sento la musica ogni giorno.",
-          "english": "I hear the music every day.",
-          "context": "daily routine",
+          "italian": "Sentiamo la musica dalla finestra.",
+          "english": "We hear the music from the window.",
+          "context": "current situation",
           "tense": "present"
         },
         {
-          "italian": "Ho sentito un rumore strano ieri.",
-          "english": "I heard a strange noise yesterday.",
+          "italian": "Ieri ho sentito un rumore strano in cantina.",
+          "english": "Yesterday I felt a strange noise in the cellar.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Sentirò la tua voce domani.",
-          "english": "I will hear your voice tomorrow.",
-          "context": "future expectation",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, ti avrei sentito.",
-          "english": "If I had known, I would have felt you.",
-          "context": "conditional situation",
+          "italian": "Se sentissi la tua voce, sarei più tranquillo.",
+          "english": "If I heard your voice, I would be calmer.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -2053,28 +1903,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Chiamo il mio amico ogni giorno.",
-          "english": "I call my friend every day.",
+          "italian": "Chiamo mia madre ogni giorno.",
+          "english": "I call my mother every day.",
           "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho chiamato il dottore.",
-          "english": "Yesterday I called the doctor.",
+          "italian": "Ieri ho chiamato il mio amico per congratularmi con lui.",
+          "english": "Yesterday I called my friend to congratulate him.",
           "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani chiamerò mia madre.",
-          "english": "Tomorrow I will call my mother.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, chiamerei il mio amico.",
-          "english": "If I had time, I would call my friend.",
+          "italian": "Se tu mi chiamerai, risponderò subito.",
+          "english": "If you call me, I will answer right away.",
           "context": "conditional situation",
-          "tense": "conditional"
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -2133,27 +1977,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Aspetterò il tuo arrivo domani.",
-          "english": "I will wait for your arrival tomorrow.",
-          "context": "future",
-          "tense": "future"
-        },
-        {
-          "italian": "Ho aspettato per un'ora.",
-          "english": "I waited for an hour.",
-          "context": "past",
-          "tense": "past"
-        },
-        {
-          "italian": "Aspetto che tu finisca.",
-          "english": "I am waiting for you to finish.",
-          "context": "present",
+          "italian": "Ti aspetto fuori dal cinema.",
+          "english": "I'll wait for you outside the cinema.",
+          "context": "making plans",
           "tense": "present"
         },
         {
-          "italian": "Se avessi saputo, avrei aspettato.",
-          "english": "If I had known, I would have waited.",
-          "context": "conditional",
+          "italian": "Ieri ho aspettato il treno per un'ora.",
+          "english": "Yesterday I waited for the train for an hour.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se aspettassi ancora un po', arriveresti in tempo.",
+          "english": "If you waited a bit longer, you would arrive on time.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -2219,27 +2057,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Entro nella stanza.",
-          "english": "I enter the room.",
-          "context": "action",
+          "italian": "Oggi entro nella biblioteca per studiare.",
+          "english": "Today I enter the library to study.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Sono entrato nel negozio ieri.",
-          "english": "I entered the store yesterday.",
-          "context": "past action",
+          "italian": "Ieri sono entrato nel negozio prima che chiudesse.",
+          "english": "Yesterday I entered the store before it closed.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Entrerò nella squadra il prossimo anno.",
-          "english": "I will enter the team next year.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Vorrei entrare in contatto con te.",
-          "english": "I would like to get in touch with you.",
-          "context": "conditional desire",
+          "italian": "Se tu avessi la chiave, entreresti facilmente in casa.",
+          "english": "If you had the key, you would enter the house easily.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -2300,26 +2132,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vivo in Italia da cinque anni.",
-          "english": "I have lived in Italy for five years.",
-          "context": "duration of residence",
-          "tense": "present perfect"
+          "italian": "Vivo a Roma da dieci anni.",
+          "english": "I have been living in Rome for ten years.",
+          "context": "current living situation",
+          "tense": "present"
         },
         {
-          "italian": "Quando ero giovane, vivevo in campagna.",
-          "english": "When I was young, I lived in the countryside.",
+          "italian": "Quando ero giovane, vissi in Francia per un anno.",
+          "english": "When I was young, I lived in France for a year.",
           "context": "past experience",
-          "tense": "imperfect"
+          "tense": "past"
         },
         {
-          "italian": "Domani vivrò una nuova avventura.",
-          "english": "Tomorrow I will live a new adventure.",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi più tempo, vivrei viaggiando.",
-          "english": "If I had more time, I would live traveling.",
+          "italian": "Se vivesse in campagna, sarebbe più felice.",
+          "english": "If he/she lived in the countryside, he/she would be happier.",
           "context": "conditional situation",
           "tense": "conditional"
         }
@@ -2380,26 +2206,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Non voglio morire giovane",
-          "english": "I don't want to die young",
-          "context": "personal aspiration",
+          "italian": "Lui muore nel sonno.",
+          "english": "He dies in his sleep.",
+          "context": "general statement",
           "tense": "present"
         },
         {
-          "italian": "È morto ieri",
-          "english": "He died yesterday",
+          "italian": "Mia nonna è morta lo scorso anno.",
+          "english": "My grandmother died last year.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Morirò felice",
-          "english": "I will die happy",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, sarei morto di vergogna",
-          "english": "If I had known, I would have died of shame",
+          "italian": "Se non fosse stato soccorso in tempo, sarebbe morto.",
+          "english": "If he hadn't been helped in time, he would have died.",
           "context": "conditional scenario",
           "tense": "conditional"
         }
@@ -2460,27 +2280,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Apro la porta ogni mattina.",
-          "english": "I open the door every morning.",
-          "context": "daily routine",
+          "italian": "Oggi apro la finestra.",
+          "english": "Today I open the window.",
+          "context": "daily action",
           "tense": "present"
         },
         {
-          "italian": "Ho aperto il libro ieri.",
-          "english": "I opened the book yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho aperto il regalo con entusiasmo.",
+          "english": "Yesterday I opened the gift with excitement.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Aprirò il regalo domani.",
-          "english": "I will open the gift tomorrow.",
-          "context": "future event",
-          "tense": "future"
-        },
-        {
-          "italian": "Mi piacerebbe aprire un ristorante.",
-          "english": "I would like to open a restaurant.",
-          "context": "desire",
+          "italian": "Se tu avessi la chiave, apriresti la porta?",
+          "english": "If you had the key, would you open the door?",
+          "context": "conditional sentence",
           "tense": "conditional"
         }
       ],
@@ -2540,28 +2354,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Chiudo la porta.",
-          "english": "I close the door.",
-          "context": "action",
+          "italian": "Chiudo la finestra perché fa freddo.",
+          "english": "I close the window because it's cold.",
+          "context": "everyday action",
           "tense": "present"
         },
         {
-          "italian": "Ho chiuso il libro.",
-          "english": "I closed the book.",
-          "context": "completed action",
+          "italian": "Ieri sera ho chiuso il cancello prima di andare a dormire.",
+          "english": "Last night I closed the gate before going to bed.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Chiuderò la finestra.",
-          "english": "I will close the window.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, chiuderei il negozio.",
-          "english": "If I had time, I would close the shop.",
+          "italian": "Se non piove, chiuderemo la terrazza per il pranzo.",
+          "english": "If it doesn't rain, we will close the terrace for lunch.",
           "context": "conditional situation",
-          "tense": "conditional"
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -2619,27 +2427,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Credo che sia vero",
-          "english": "I believe that it is true",
-          "context": "expressing belief",
+          "italian": "Credo che domani pioverà.",
+          "english": "I believe it will rain tomorrow.",
+          "context": "expressing belief about the future",
           "tense": "present"
         },
         {
-          "italian": "Ho creduto in te",
-          "english": "I believed in you",
+          "italian": "Credevo in te quando hai vinto la gara.",
+          "english": "I believed in you when you won the race.",
           "context": "past belief",
           "tense": "past"
         },
         {
-          "italian": "Crederò in un futuro migliore",
-          "english": "I will believe in a better future",
-          "context": "future hope",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi creduto, avrei agito diversamente",
-          "english": "If I had believed, I would have acted differently",
-          "context": "conditional belief",
+          "italian": "Se tu credessi veramente in te stesso, potresti farcela.",
+          "english": "If you truly believed in yourself, you could make it.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -2704,27 +2506,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Leggo un libro ogni settimana",
-          "english": "I read a book every week",
-          "context": "habitual action",
+          "italian": "Leggo un libro ogni sera prima di dormire.",
+          "english": "I read a book every evening before going to sleep.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho letto il tuo messaggio ieri",
-          "english": "I read your message yesterday",
-          "context": "completed action",
+          "italian": "Ieri ho letto un interessante articolo sul giornale.",
+          "english": "Yesterday I read an interesting article in the newspaper.",
+          "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Leggerò il rapporto domani",
-          "english": "I will read the report tomorrow",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, leggerei di più",
-          "english": "If I had time, I would read more",
-          "context": "conditional situation",
+          "italian": "Se avessi più tempo, leggerei tutti i libri che ho comprato.",
+          "english": "If I had more time, I would read all the books I bought.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -2786,25 +2582,19 @@
         {
           "italian": "Scrivo una lettera ogni settimana.",
           "english": "I write a letter every week.",
-          "context": "habitual action",
+          "context": "habit",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho scritto un articolo interessante.",
-          "english": "Yesterday I wrote an interesting article.",
-          "context": "completed action",
+          "italian": "Ieri ho scritto un messaggio importante.",
+          "english": "Yesterday I wrote an important message.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani scriverò un poema.",
-          "english": "Tomorrow I will write a poem.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, scriverei di più.",
-          "english": "If I had time, I would write more.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, scriverei un libro.",
+          "english": "If I had time, I would write a book.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -2870,27 +2660,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vado a comprare il pane.",
-          "english": "I am going to buy the bread.",
-          "context": "daily activity",
+          "italian": "Oggi compro del pane.",
+          "english": "Today I am buying some bread.",
+          "context": "grocery shopping",
           "tense": "present"
         },
         {
-          "italian": "Ho comprato un regalo per te.",
-          "english": "I bought a gift for you.",
-          "context": "past action",
+          "italian": "Ieri ho comprato un regalo per mia madre.",
+          "english": "Yesterday I bought a gift for my mother.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani comprerò un nuovo libro.",
-          "english": "Tomorrow I will buy a new book.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi soldi, comprerei una macchina.",
-          "english": "If I had money, I would buy a car.",
-          "context": "conditional situation",
+          "italian": "Se avessi più soldi, comprerei una macchina nuova.",
+          "english": "If I had more money, I would buy a new car.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -2951,27 +2735,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vendo la mia macchina domani.",
-          "english": "I will sell my car tomorrow.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Ho venduto il libro ieri.",
-          "english": "I sold the book yesterday.",
-          "context": "completed action",
-          "tense": "past"
-        },
-        {
-          "italian": "Loro vendono frutta fresca al mercato.",
-          "english": "They sell fresh fruit at the market.",
-          "context": "habitual action",
+          "italian": "Oggi vendiamo le nostre vecchie biciclette.",
+          "english": "Today we sell our old bicycles.",
+          "context": "daily activity",
           "tense": "present"
         },
         {
-          "italian": "Dovrei vendere la mia vecchia bici.",
-          "english": "I should sell my old bike.",
-          "context": "suggestion",
+          "italian": "La scorsa settimana ho venduto il mio libro usato.",
+          "english": "Last week I sold my used book.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se avessi più tempo, venderei le mie creazioni online.",
+          "english": "If I had more time, I would sell my creations online.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -3032,28 +2810,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace mangiare la pizza",
-          "english": "I like to eat pizza",
-          "context": "preferences",
+          "italian": "Mi piacerebbe mangiare la pasta al pesto.",
+          "english": "I would like to eat pesto pasta.",
+          "context": "expressing a preference",
+          "tense": "conditional"
+        },
+        {
+          "italian": "Oggi mangio un panino al prosciutto per pranzo.",
+          "english": "Today I am eating a ham sandwich for lunch.",
+          "context": "current action",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho mangiato un gelato",
-          "english": "Yesterday I ate an ice cream",
-          "context": "past experience",
-          "tense": "past"
-        },
-        {
-          "italian": "Domani mangerò al ristorante",
-          "english": "Tomorrow I will eat at the restaurant",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi fame, mangerei qualcosa",
-          "english": "If I were hungry, I would eat something",
-          "context": "conditional situation",
-          "tense": "conditional"
+          "italian": "Se hai fame, possiamo mangiare una pizza insieme stasera.",
+          "english": "If you're hungry, we can eat pizza together tonight.",
+          "context": "suggesting a plan",
+          "tense": "present"
         }
       ],
       "conjugations": {
@@ -3112,27 +2884,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Bevo acqua ogni giorno",
-          "english": "I drink water every day",
-          "context": "daily habits",
+          "italian": "Io bevo un caffè ogni mattina.",
+          "english": "I drink a coffee every morning.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho bevuto un caffè stamattina",
-          "english": "I drank a coffee this morning",
-          "context": "past experience",
+          "italian": "Ieri ho bevuto un bicchiere d'acqua.",
+          "english": "Yesterday I drank a glass of water.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani berrò un succo",
-          "english": "Tomorrow I will drink a juice",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi sete, berrei acqua",
-          "english": "If I were thirsty, I would drink water",
-          "context": "conditional situation",
+          "italian": "Se avessi sete, berrei un succo di frutta.",
+          "english": "If I were thirsty, I would drink a fruit juice.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -3191,27 +2957,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace dormire",
-          "english": "I like to sleep",
-          "context": "preference",
+          "italian": "Io dormo molto bene la notte.",
+          "english": "I sleep very well at night.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho dormito bene ieri notte",
-          "english": "I slept well last night",
-          "context": "past experience",
+          "italian": "Ieri sera ho dormito per dieci ore.",
+          "english": "Last night I slept for ten hours.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani dormirò fino a tardi",
-          "english": "Tomorrow I will sleep in late",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, dormirei di più",
-          "english": "If I had time, I would sleep more",
-          "context": "conditional situation",
+          "italian": "Se fossi stanco, dormirei tutto il giorno.",
+          "english": "If I were tired, I would sleep all day.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -3271,27 +3031,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi sveglio ogni mattina alle sette.",
-          "english": "I wake up every morning at seven.",
+          "italian": "Ogni mattina mi sveglio alle 7.",
+          "english": "Every morning I wake up at 7.",
           "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri mi ha svegliato il telefono.",
-          "english": "Yesterday the phone woke me up.",
+          "italian": "Ieri mi sono svegliato tardi e ho perso l'autobus.",
+          "english": "Yesterday I woke up late and missed the bus.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani sveglierò i bambini per andare a scuola.",
-          "english": "Tomorrow I will wake the children up to go to school.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se non mi sveglio in tempo, perderò il treno.",
-          "english": "If I don't wake up on time, I will miss the train.",
-          "context": "conditional situation",
+          "italian": "Se tu ti svegliassi presto, potremmo andare al mercato insieme.",
+          "english": "If you woke up early, we could go to the market together.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -3353,27 +3107,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace alzare la mano in classe.",
-          "english": "I like to raise my hand in class.",
-          "context": "preference",
+          "italian": "Ogni mattina mi alzo presto per andare al lavoro.",
+          "english": "Every morning I get up early to go to work.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho alzato il volume della musica.",
-          "english": "I raised the volume of the music.",
-          "context": "past action",
+          "italian": "Ieri mi sono alzato tardi perché ho dormito male.",
+          "english": "Yesterday I got up late because I slept poorly.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani alzerò il mio livello di energia.",
-          "english": "Tomorrow I will raise my energy level.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi bisogno di aiuto, alzerei la mano.",
-          "english": "If I needed help, I would raise my hand.",
-          "context": "conditional situation",
+          "italian": "Se tu ti alzassi più presto, arriveresti in orario all'appuntamento.",
+          "english": "If you got up earlier, you would arrive on time for the appointment.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -3433,26 +3181,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io cado spesso quando corro.",
-          "english": "I often fall when I run.",
-          "context": "describing a habitual action",
+          "italian": "Lui cade spesso durante le partite di calcio.",
+          "english": "He often falls during soccer games.",
+          "context": "sports",
           "tense": "present"
         },
         {
-          "italian": "L'anno scorso sono caduto dalla bicicletta.",
-          "english": "Last year I fell off the bike.",
-          "context": "narrating a past event",
+          "italian": "Ieri mi è caduto il telefono e si è rotto lo schermo.",
+          "english": "Yesterday my phone fell and the screen broke.",
+          "context": "everyday life",
           "tense": "past"
         },
         {
-          "italian": "Domani cadrò se non faccio attenzione.",
-          "english": "Tomorrow I will fall if I am not careful.",
-          "context": "expressing a future possibility",
-          "tense": "future"
-        },
-        {
-          "italian": "Se non fossi stato attento, sarei caduto.",
-          "english": "If I hadn't been careful, I would have fallen.",
+          "italian": "Se pioverà, le foglie cadrebbero dagli alberi.",
+          "english": "If it rains, the leaves would fall from the trees.",
           "context": "conditional statement",
           "tense": "conditional"
         }
@@ -3512,27 +3254,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace correre nel parco.",
-          "english": "I like to run in the park.",
-          "context": "preference",
+          "italian": "Io corro ogni mattina per mantenere la forma.",
+          "english": "I run every morning to stay in shape.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho corso per un'ora.",
-          "english": "Yesterday I ran for an hour.",
-          "context": "past experience",
+          "italian": "Ieri ho corso al parco con il mio cane.",
+          "english": "Yesterday I ran in the park with my dog.",
+          "context": "past activity",
           "tense": "past"
         },
         {
-          "italian": "Domani correrò una maratona.",
-          "english": "Tomorrow I will run a marathon.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, correrei ogni giorno.",
-          "english": "If I had time, I would run every day.",
-          "context": "conditional situation",
+          "italian": "Se dovessi correre più veloce, vincerei la gara.",
+          "english": "If I were to run faster, I would win the race.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -3591,28 +3327,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace camminare nel parco.",
-          "english": "I like to walk in the park.",
-          "context": "preference",
+          "italian": "Ogni giorno cammino al parco.",
+          "english": "Every day I walk to the park.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho camminato per due ore.",
-          "english": "Yesterday I walked for two hours.",
-          "context": "past experience",
+          "italian": "Ieri ho camminato per un'ora in montagna.",
+          "english": "Yesterday I walked for an hour in the mountains.",
+          "context": "past activity",
           "tense": "past"
         },
         {
-          "italian": "Domani camminerò fino al mare.",
-          "english": "Tomorrow I will walk to the sea.",
-          "context": "future plan",
+          "italian": "Se camminerai con me, arriveremo presto.",
+          "english": "If you walk with me, we will arrive early.",
+          "context": "conditional scenario",
           "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, camminerei di più.",
-          "english": "If I had time, I would walk more.",
-          "context": "conditional situation",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -3671,27 +3401,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace volare sopra le nuvole",
-          "english": "I like to fly above the clouds",
-          "context": "preference",
+          "italian": "Gli uccelli volano nel cielo.",
+          "english": "The birds fly in the sky.",
+          "context": "observation",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho volato a Roma",
-          "english": "Yesterday I flew to Rome",
-          "context": "past experience",
+          "italian": "Ieri sera ho sognato di volare sopra le montagne.",
+          "english": "Last night I dreamt of flying over the mountains.",
+          "context": "past dream",
           "tense": "past"
         },
         {
-          "italian": "Domani volerò in vacanza",
-          "english": "Tomorrow I will fly on vacation",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi le ali, volerei lontano",
-          "english": "If I had wings, I would fly far away",
-          "context": "hypothetical situation",
+          "italian": "Se avessi le ali, potrei volare ovunque.",
+          "english": "If I had wings, I could fly anywhere.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -3752,27 +3476,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace nuotare nel mare d'estate.",
-          "english": "I like to swim in the sea in summer.",
-          "context": "preference",
+          "italian": "Io nuoto ogni mattina.",
+          "english": "I swim every morning.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho nuotato per due ore.",
-          "english": "Yesterday I swam for two hours.",
+          "italian": "L'estate scorsa ho nuotato nel mare cristallino.",
+          "english": "Last summer, I swam in the crystal-clear sea.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani nuoterò in piscina.",
-          "english": "Tomorrow I will swim in the pool.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, nuoterei ogni giorno.",
-          "english": "If I had time, I would swim every day.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, nuoterei in piscina ogni giorno.",
+          "english": "If I had time, I would swim in the pool every day.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -3833,27 +3551,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace guidare in montagna.",
-          "english": "I like to drive in the mountains.",
-          "context": "preference",
+          "italian": "Oggi guido fino al lavoro.",
+          "english": "Today I drive to work.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho guidato per cinque ore.",
-          "english": "Yesterday I drove for five hours.",
+          "italian": "Ieri ho guidato per tre ore senza fermarmi.",
+          "english": "Yesterday I drove for three hours without stopping.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani guiderò fino al mare.",
-          "english": "Tomorrow I will drive to the sea.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi una macchina, guiderei ogni giorno.",
-          "english": "If I had a car, I would drive every day.",
-          "context": "conditional situation",
+          "italian": "Se avessi la macchina, guiderei fino al mare ogni fine settimana.",
+          "english": "If I had a car, I would drive to the seaside every weekend.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -3913,26 +3625,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace giocare a calcio.",
-          "english": "I like to play soccer.",
-          "context": "preference",
+          "italian": "Io gioco a calcio ogni sabato.",
+          "english": "I play soccer every Saturday.",
+          "context": "routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho giocato a carte con gli amici.",
-          "english": "Yesterday I played cards with friends.",
-          "context": "past",
+          "italian": "Ieri ho giocato a scacchi con mio nonno.",
+          "english": "Yesterday I played chess with my grandfather.",
+          "context": "past activity",
           "tense": "past"
         },
         {
-          "italian": "Domani giocherò in una partita di basket.",
-          "english": "Tomorrow I will play in a basketball game.",
-          "context": "future",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, giocherei di più.",
-          "english": "If I had time, I would play more.",
+          "italian": "Se avessi tempo, giocherei a videogiochi tutto il giorno.",
+          "english": "If I had time, I would play video games all day.",
           "context": "conditional",
           "tense": "conditional"
         }
@@ -3993,27 +3699,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Lavoro ogni giorno dalle nove alle cinque.",
-          "english": "I work every day from nine to five.",
-          "context": "daily routine",
+          "italian": "Io lavoro in un ufficio.",
+          "english": "I work in an office.",
+          "context": "job description",
           "tense": "present"
         },
         {
           "italian": "Ieri ho lavorato fino a tardi.",
-          "english": "Yesterday I worked until late.",
-          "context": "past experience",
+          "english": "Yesterday I worked late.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani lavorerò da casa.",
-          "english": "Tomorrow I will work from home.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, lavorerei su questo progetto.",
-          "english": "If I had time, I would work on this project.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, lavorerei anche di sabato.",
+          "english": "If I had time, I would work on Saturdays too.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -4074,27 +3774,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Studierò per l'esame domani.",
-          "english": "I will study for the exam tomorrow.",
-          "context": "future planning",
-          "tense": "future"
-        },
-        {
-          "italian": "Ho studiato tutta la notte.",
-          "english": "I studied all night.",
-          "context": "past action",
-          "tense": "past"
-        },
-        {
-          "italian": "Studiamo insieme per il progetto.",
-          "english": "We study together for the project.",
-          "context": "collaboration",
+          "italian": "Io studio l'italiano ogni giorno.",
+          "english": "I study Italian every day.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Se avessi più tempo, studierei di più.",
-          "english": "If I had more time, I would study more.",
-          "context": "conditional situation",
+          "italian": "Ieri ho studiato per l'esame di matematica.",
+          "english": "Yesterday I studied for the math exam.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se avessi più tempo, studierei la storia dell'arte.",
+          "english": "If I had more time, I would study art history.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -4160,27 +3854,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Insegno matematica ai miei studenti.",
-          "english": "I teach mathematics to my students.",
-          "context": "education",
+          "italian": "L'insegnante insegna matematica ai bambini.",
+          "english": "The teacher teaches math to the children.",
+          "context": "classroom setting",
           "tense": "present"
         },
         {
-          "italian": "Ho insegnato inglese l'anno scorso.",
-          "english": "I taught English last year.",
-          "context": "past experience",
+          "italian": "Ieri ho insegnato ai miei amici a cucinare la pasta.",
+          "english": "Yesterday I taught my friends how to cook pasta.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani insegnerò storia.",
-          "english": "Tomorrow I will teach history.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, insegnerei arte.",
-          "english": "If I had time, I would teach art.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, ti insegnerei a suonare la chitarra.",
+          "english": "If I had time, I would teach you how to play the guitar.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -4239,27 +3927,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace imparare nuove lingue",
-          "english": "I like to learn new languages",
-          "context": "preference",
+          "italian": "Stasera imparo a cucinare la pasta.",
+          "english": "Tonight I learn how to cook pasta.",
+          "context": "plans for the evening",
           "tense": "present"
         },
         {
-          "italian": "Ho imparato molto durante il corso",
-          "english": "I learned a lot during the course",
-          "context": "past experience",
+          "italian": "Ho imparato molto durante il corso di lingua italiana.",
+          "english": "I learned a lot during the Italian language course.",
+          "context": "past learning experience",
           "tense": "past"
         },
         {
-          "italian": "Imparerò a suonare il pianoforte",
-          "english": "I will learn to play the piano",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se studiassi di più, imparerei meglio",
-          "english": "If I studied more, I would learn better",
-          "context": "conditional situation",
+          "italian": "Se avessi più tempo, imparerei a suonare la chitarra.",
+          "english": "If I had more time, I would learn to play the guitar.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -4318,27 +4000,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace cucinare la pasta.",
-          "english": "I like to cook pasta.",
-          "context": "preference",
+          "italian": "Mia madre cucina la cena ogni sera.",
+          "english": "My mother cooks dinner every evening.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho cucinato per la mia famiglia ieri.",
-          "english": "I cooked for my family yesterday.",
+          "italian": "Ieri ho cucinato una torta per il compleanno di mio fratello.",
+          "english": "Yesterday I cooked a cake for my brother's birthday.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani cucinerò un dolce.",
-          "english": "Tomorrow I will cook a dessert.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, cucinerei ogni giorno.",
-          "english": "If I had time, I would cook every day.",
-          "context": "conditional",
+          "italian": "Se avessi più tempo, cucinerei piatti più elaborati.",
+          "english": "If I had more time, I would cook more elaborate dishes.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -4398,27 +4074,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace cantare sotto la doccia.",
-          "english": "I like to sing in the shower.",
-          "context": "preference",
+          "italian": "Anna canta una canzone alle feste.",
+          "english": "Anna sings a song at parties.",
+          "context": "habitual action",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho cantato al concerto.",
-          "english": "Yesterday I sang at the concert.",
+          "italian": "Ieri sera ho cantato al karaoke con gli amici.",
+          "english": "Last night I sang at the karaoke with friends.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani canterò con i miei amici.",
-          "english": "Tomorrow I will sing with my friends.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, canterei di più.",
-          "english": "If I had time, I would sing more.",
-          "context": "conditional",
+          "italian": "Se avessi una voce migliore, canterei in un gruppo musicale.",
+          "english": "If I had a better voice, I would sing in a music band.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -4483,27 +4153,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace ballare con gli amici.",
-          "english": "I like to dance with friends.",
-          "context": "preference",
+          "italian": "Io ballo ogni sabato sera con i miei amici.",
+          "english": "I dance every Saturday night with my friends.",
+          "context": "routine activity",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho ballato tutta la notte.",
-          "english": "Yesterday I danced all night.",
+          "italian": "Ieri sera abbiamo ballato al matrimonio di Maria.",
+          "english": "Last night we danced at Maria's wedding.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani ballerò al matrimonio.",
-          "english": "Tomorrow I will dance at the wedding.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, ballerei più spesso.",
-          "english": "If I had time, I would dance more often.",
-          "context": "conditional",
+          "italian": "Se avessi più tempo, ballerei tutti i giorni.",
+          "english": "If I had more time, I would dance every day.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -4569,27 +4233,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Rido sempre quando guardo una commedia.",
-          "english": "I always laugh when I watch a comedy.",
-          "context": "entertainment",
+          "italian": "Gli amici ridono guardando una commedia.",
+          "english": "The friends laugh while watching a comedy.",
+          "context": "movie night",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho riso molto durante la festa.",
-          "english": "Yesterday I laughed a lot during the party.",
-          "context": "past event",
+          "italian": "Ieri ci siamo tanto divertiti che abbiamo riso fino alle lacrime.",
+          "english": "Yesterday we had so much fun that we laughed until tears came.",
+          "context": "past memory",
           "tense": "past"
         },
         {
-          "italian": "Domani riderò con i miei amici.",
-          "english": "Tomorrow I will laugh with my friends.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se fossi lì, riderei con te.",
-          "english": "If I were there, I would laugh with you.",
-          "context": "conditional scenario",
+          "italian": "Se tu ridessi di più, ti sentiresti meglio.",
+          "english": "If you laughed more, you would feel better.",
+          "context": "conditional advice",
           "tense": "conditional"
         }
       ],
@@ -4649,28 +4307,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Oggi piango per la tristezza.",
-          "english": "Today I cry out of sadness.",
-          "context": "emotional expression",
-          "tense": "present"
+          "italian": "Lei piangeva durante il film triste.",
+          "english": "She was crying during the sad movie.",
+          "context": "movie experience",
+          "tense": "imperfect past"
         },
         {
-          "italian": "Ieri ho pianto per un film triste.",
-          "english": "Yesterday I cried because of a sad movie.",
-          "context": "past experience",
-          "tense": "past"
-        },
-        {
-          "italian": "Domani piangerò se non mi ascolti.",
-          "english": "Tomorrow I will cry if you don't listen to me.",
-          "context": "future prediction",
+          "italian": "Se tu piangerai, io sarò lì per consolarti.",
+          "english": "If you cry, I will be there to comfort you.",
+          "context": "supportive statement",
           "tense": "future"
         },
         {
-          "italian": "Se avessi saputo, avrei pianto di meno.",
-          "english": "If I had known, I would have cried less.",
-          "context": "conditional situation",
-          "tense": "conditional"
+          "italian": "Non voglio che tu pianga per me.",
+          "english": "I don't want you to cry because of me.",
+          "context": "expressing concern",
+          "tense": "present"
         }
       ],
       "conjugations": {
@@ -4728,27 +4380,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace sorridere quando sono felice",
-          "english": "I like to smile when I am happy",
-          "context": "preference",
+          "italian": "Maria sorride sempre quando vede il suo cane.",
+          "english": "Maria always smiles when she sees her dog.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho sorriso a un amico",
-          "english": "Yesterday I smiled at a friend",
-          "context": "past action",
+          "italian": "Ieri ti ho sorriso in piazza.",
+          "english": "Yesterday I smiled at you in the square.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani sorriderò per la foto",
-          "english": "Tomorrow I will smile for the photo",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se fossi felice, sorriderei di più",
-          "english": "If I were happy, I would smile more",
-          "context": "conditional situation",
+          "italian": "Se tu mi sorridessi, sarei più felice.",
+          "english": "If you smiled at me, I would be happier.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -4807,26 +4453,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Oggi abbraccio il mio amico.",
-          "english": "Today I hug my friend.",
-          "context": "present",
+          "italian": "Ogni volta che la vedo, la abbraccio.",
+          "english": "Every time I see her, I hug her.",
+          "context": "habit",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho abbracciato mia madre.",
-          "english": "Yesterday I hugged my mother.",
-          "context": "past",
+          "italian": "Lui l'ha abbracciata quando l'ha vista piangere.",
+          "english": "He hugged her when he saw her crying.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani abbraccerò il mio cane.",
-          "english": "Tomorrow I will hug my dog.",
-          "context": "future",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei abbracciato tutti.",
-          "english": "If I could have, I would have hugged everyone.",
+          "italian": "Se tu fossi qui, ti abbraccerei forte.",
+          "english": "If you were here, I would hug you tight.",
           "context": "conditional",
           "tense": "conditional"
         }
@@ -4886,26 +4526,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace baciare sotto la luna.",
-          "english": "I like to kiss under the moon.",
-          "context": "romantic setting",
+          "italian": "Ti bacio sempre prima di andare al lavoro.",
+          "english": "I always kiss you before going to work.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho baciato il mio amico.",
-          "english": "Yesterday I kissed my friend.",
-          "context": "past action",
+          "italian": "Ieri sera ti ho baciato sotto le stelle.",
+          "english": "Last night I kissed you under the stars.",
+          "context": "romantic moment",
           "tense": "past"
         },
         {
-          "italian": "Domani bacerò la mia fidanzata.",
-          "english": "Tomorrow I will kiss my girlfriend.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei baciato il mio idolo.",
-          "english": "If I could have, I would have kissed my idol.",
+          "italian": "Se mi dessi un bacio, sarei felice.",
+          "english": "If you gave me a kiss, I would be happy.",
           "context": "conditional scenario",
           "tense": "conditional"
         }
@@ -4966,26 +4600,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace sposare in chiesa.",
-          "english": "I like to marry in church.",
-          "context": "preference",
-          "tense": "present"
-        },
-        {
-          "italian": "Ho sposato il mio migliore amico.",
-          "english": "I married my best friend.",
-          "context": "past event",
-          "tense": "past"
-        },
-        {
-          "italian": "Sposerò la mia fidanzata il prossimo anno.",
-          "english": "I will marry my girlfriend next year.",
+          "italian": "Mi sposerò con la mia compagna il prossimo mese.",
+          "english": "I will marry my partner next month.",
           "context": "future plan",
           "tense": "future"
         },
         {
-          "italian": "Se avessi potuto, avrei sposato un artista.",
-          "english": "If I could have, I would have married an artist.",
+          "italian": "Io mi sono sposato l'anno scorso.",
+          "english": "I got married last year.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se lui avesse voluto, si sarebbe sposato con lei.",
+          "english": "If he had wanted to, he would have married her.",
           "context": "conditional",
           "tense": "conditional"
         }
@@ -5052,28 +4680,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Sono nato in primavera.",
-          "english": "I was born in spring.",
-          "context": "birth date",
-          "tense": "past"
-        },
-        {
-          "italian": "Loro nasceranno domani.",
-          "english": "They will be born tomorrow.",
-          "context": "future event",
-          "tense": "future"
-        },
-        {
-          "italian": "Tu nasci in un momento speciale.",
-          "english": "You are born at a special moment.",
-          "context": "present situation",
+          "italian": "Mi sono nato in Italia.",
+          "english": "I was born in Italy.",
+          "context": "personal background",
           "tense": "present"
         },
         {
-          "italian": "Se fossi nato in un'altra epoca, avrei avuto una vita diversa.",
-          "english": "If I had been born in another era, I would have had a different life.",
-          "context": "conditional scenario",
-          "tense": "conditional"
+          "italian": "Mia nonna è nata nel 1940.",
+          "english": "My grandmother was born in 1940.",
+          "context": "historical fact",
+          "tense": "past"
+        },
+        {
+          "italian": "Se nascerai qui, avrai la cittadinanza italiana.",
+          "english": "If you are born here, you will have Italian citizenship.",
+          "context": "conditional statement",
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -5131,28 +4753,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "I bambini crescono rapidamente.",
-          "english": "Children grow quickly.",
+          "italian": "I bambini crescono velocemente.",
+          "english": "Children grow up quickly.",
           "context": "observation",
           "tense": "present"
         },
         {
-          "italian": "L'albero è cresciuto molto quest'anno.",
-          "english": "The tree has grown a lot this year.",
-          "context": "nature",
+          "italian": "Quando ero piccolo, sono cresciuto in campagna.",
+          "english": "When I was little, I grew up in the countryside.",
+          "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani crescerò le mie piante.",
-          "english": "Tomorrow I will grow my plants.",
-          "context": "future plans",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi più tempo, crescerei un giardino.",
-          "english": "If I had more time, I would grow a garden.",
+          "italian": "Se studierai tanto, crescerai professionalmente.",
+          "english": "If you study a lot, you will grow professionally.",
           "context": "conditional",
-          "tense": "conditional"
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -5210,28 +4826,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Voglio diventare un dottore.",
-          "english": "I want to become a doctor.",
-          "context": "aspiration",
+          "italian": "Sto diventando sempre più sicuro di me stesso.",
+          "english": "I am becoming more and more confident.",
+          "context": "personal growth",
           "tense": "present"
         },
         {
-          "italian": "Sono diventato più forte dopo l'allenamento.",
-          "english": "I became stronger after the training.",
+          "italian": "Da giovane, lei è diventata una famosa scrittrice.",
+          "english": "When she was young, she became a famous writer.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani diventerò un esperto.",
-          "english": "Tomorrow I will become an expert.",
-          "context": "future goal",
-          "tense": "future"
-        },
-        {
-          "italian": "Se studi, diventerai un buon studente.",
-          "english": "If you study, you will become a good student.",
+          "italian": "Se studierai tanto, diventerai un esperto nel tuo campo.",
+          "english": "If you study a lot, you will become an expert in your field.",
           "context": "conditional",
-          "tense": "conditional"
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -5289,27 +4899,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace rimanere qui per un po'.",
-          "english": "I like to remain here for a while.",
-          "context": "preference",
+          "italian": "Rimango a casa stasera.",
+          "english": "I am staying home tonight.",
+          "context": "making plans",
           "tense": "present"
         },
         {
-          "italian": "Sono rimasto a casa ieri.",
-          "english": "I remained at home yesterday.",
-          "context": "past action",
+          "italian": "Ieri sono rimasto bloccato nel traffico.",
+          "english": "Yesterday I got stuck in traffic.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani rimarrò in città.",
-          "english": "Tomorrow I will remain in the city.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se piove, rimarremo dentro.",
-          "english": "If it rains, we will remain inside.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, rimarrei qui tutto il giorno.",
+          "english": "If I had time, I would stay here all day.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -5370,28 +4974,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Parto domani per Roma.",
-          "english": "I leave tomorrow for Rome.",
-          "context": "future travel plans",
-          "tense": "future"
+          "italian": "Domani parto per le vacanze estive.",
+          "english": "Tomorrow I leave for the summer holidays.",
+          "context": "future plan",
+          "tense": "present"
         },
         {
-          "italian": "Sono partito ieri mattina.",
-          "english": "I left yesterday morning.",
-          "context": "past travel experience",
+          "italian": "Ieri mio fratello è partito per Parigi.",
+          "english": "Yesterday my brother left for Paris.",
+          "context": "recent past event",
           "tense": "past"
         },
         {
-          "italian": "Se vuoi, possiamo partire insieme.",
-          "english": "If you want, we can leave together.",
-          "context": "conditional suggestion",
+          "italian": "Se avessi più soldi, partirei in giro per il mondo.",
+          "english": "If I had more money, I would leave to travel around the world.",
+          "context": "conditional statement",
           "tense": "conditional"
-        },
-        {
-          "italian": "Loro partono sempre in estate.",
-          "english": "They always leave in the summer.",
-          "context": "habitual action",
-          "tense": "present"
         }
       ],
       "conjugations": {
@@ -5451,27 +5049,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Arrivo sempre in tempo.",
-          "english": "I always arrive on time.",
-          "context": "punctuality",
+          "italian": "Sto arrivando alla stazione.",
+          "english": "I am arriving at the station.",
+          "context": "informing someone of current location",
           "tense": "present"
         },
         {
-          "italian": "Sono arrivato ieri sera.",
-          "english": "I arrived last night.",
-          "context": "past event",
+          "italian": "Ieri sera sono arrivato tardi a casa.",
+          "english": "Last night I arrived home late.",
+          "context": "recounting a past event",
           "tense": "past"
         },
         {
-          "italian": "Domani arriverò presto.",
-          "english": "I will arrive early tomorrow.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, sarei arrivato prima.",
-          "english": "If I had known, I would have arrived earlier.",
-          "context": "conditional situation",
+          "italian": "Se parti adesso, arriverai in tempo per la riunione.",
+          "english": "If you leave now, you will arrive on time for the meeting.",
+          "context": "giving advice about future arrival",
           "tense": "conditional"
         }
       ],
@@ -5532,28 +5124,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Tornerò a casa domani.",
-          "english": "I will return home tomorrow.",
-          "context": "future",
+          "italian": "Ieri sono tornato a casa tardi.",
+          "english": "Yesterday I returned home late.",
+          "context": "past event",
+          "tense": "present perfect"
+        },
+        {
+          "italian": "Domani tornerò al lavoro dopo le vacanze.",
+          "english": "Tomorrow I will return to work after the holidays.",
+          "context": "future plan",
           "tense": "future"
         },
         {
-          "italian": "Sono tornato ieri.",
-          "english": "I returned yesterday.",
-          "context": "past",
-          "tense": "past"
-        },
-        {
-          "italian": "Mi piace tornare qui.",
-          "english": "I like to return here.",
-          "context": "preference",
-          "tense": "present"
-        },
-        {
-          "italian": "Devi tornare presto.",
-          "english": "You must return soon.",
-          "context": "necessity",
-          "tense": "present"
+          "italian": "Se tu tornassi indietro, cosa cambieresti?",
+          "english": "If you were to go back, what would you change?",
+          "context": "conditional scenario",
+          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -5613,26 +5199,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Oggi incontro un amico.",
-          "english": "Today I meet a friend.",
-          "context": "meeting a friend",
-          "tense": "present"
-        },
-        {
-          "italian": "Ieri ho incontrato il mio professore.",
-          "english": "Yesterday I met my professor.",
-          "context": "past meeting",
-          "tense": "past"
-        },
-        {
-          "italian": "Domani incontrerò i miei genitori.",
-          "english": "Tomorrow I will meet my parents.",
+          "italian": "Domani incontrerò il mio capo per discutere del progetto.",
+          "english": "Tomorrow I will meet my boss to discuss the project.",
           "context": "future meeting",
           "tense": "future"
         },
         {
-          "italian": "Se avessi tempo, incontrerei più spesso i miei amici.",
-          "english": "If I had time, I would meet my friends more often.",
+          "italian": "Ieri ho incontrato un vecchio amico al supermercato.",
+          "english": "Yesterday I met an old friend at the supermarket.",
+          "context": "past encounter",
+          "tense": "past"
+        },
+        {
+          "italian": "Se ti sposerai con Giulia, incontrerai spesso i suoi genitori.",
+          "english": "If you marry Giulia, you will often meet her parents.",
           "context": "conditional scenario",
           "tense": "conditional"
         }
@@ -5692,27 +5272,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Conosco bene la città.",
-          "english": "I know the city well.",
-          "context": "familiarity",
+          "italian": "Conosco molto bene la tua famiglia.",
+          "english": "I know your family very well.",
+          "context": "description of knowledge",
           "tense": "present"
         },
         {
-          "italian": "Ho conosciuto Maria ieri.",
-          "english": "I met Maria yesterday.",
-          "context": "past encounter",
+          "italian": "Ho conosciuto la mia migliore amica al liceo.",
+          "english": "I met my best friend in high school.",
+          "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani conoscerò il nuovo collega.",
-          "english": "Tomorrow I will meet the new colleague.",
-          "context": "future meeting",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi conosciuto la verità, avrei agito diversamente.",
-          "english": "If I had known the truth, I would have acted differently.",
-          "context": "conditional reflection",
+          "italian": "Se ti avessi conosciuto prima, saremmo diventati amici prima.",
+          "english": "If I had known you earlier, we would have become friends earlier.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -5777,27 +5351,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi ricordo di quando eravamo bambini.",
-          "english": "I remember when we were children.",
-          "context": "nostalgia",
+          "italian": "Mi ricordo bene la tua voce.",
+          "english": "I remember your voice well.",
+          "context": "reminiscing",
           "tense": "present"
         },
         {
-          "italian": "Ho ricordato di chiamarti ieri.",
-          "english": "I remembered to call you yesterday.",
-          "context": "past action",
+          "italian": "Ieri ti ricordavi il compleanno di Maria?",
+          "english": "Did you remember Maria's birthday yesterday?",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Ricorderò questo giorno per sempre.",
-          "english": "I will remember this day forever.",
-          "context": "future promise",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, avrei ricordato di portare il libro.",
-          "english": "If I had known, I would have remembered to bring the book.",
-          "context": "conditional",
+          "italian": "Se mi ricordassi il tuo numero di telefono, ti chiamerei.",
+          "english": "If I remembered your phone number, I would call you.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -5861,27 +5429,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi dimentico spesso delle cose importanti.",
-          "english": "I often forget important things.",
-          "context": "personal experience",
+          "italian": "Mi dimentico sempre le chiavi in casa.",
+          "english": "I always forget my keys at home.",
+          "context": "habitual action",
           "tense": "present"
         },
         {
-          "italian": "Ho dimenticato di chiamarti ieri.",
-          "english": "I forgot to call you yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho dimenticato il compleanno di mia sorella.",
+          "english": "Yesterday I forgot my sister's birthday.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani dimenticherò di portare l'ombrello.",
-          "english": "Tomorrow I will forget to bring the umbrella.",
-          "context": "future prediction",
-          "tense": "future"
-        },
-        {
-          "italian": "Se non studi, dimenticherai tutto.",
-          "english": "If you don't study, you will forget everything.",
-          "context": "conditional scenario",
+          "italian": "Sei sicuro di non dimenticare di comprare il latte?",
+          "english": "Are you sure you won't forget to buy milk?",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -5940,27 +5502,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Penso che sia importante riflettere.",
-          "english": "I think it is important to reflect.",
-          "context": "opinion",
+          "italian": "Penso che domani pioverà.",
+          "english": "I think it will rain tomorrow.",
+          "context": "expressing a belief about the future",
           "tense": "present"
         },
         {
-          "italian": "Ho pensato a te ieri.",
-          "english": "I thought about you yesterday.",
-          "context": "past reflection",
+          "italian": "Avevo pensato di chiamarti ieri.",
+          "english": "I had thought of calling you yesterday.",
+          "context": "past intention",
           "tense": "past"
         },
         {
-          "italian": "Domani penserò a come migliorare.",
-          "english": "Tomorrow I will think about how to improve.",
-          "context": "future planning",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, penserei di viaggiare.",
-          "english": "If I had time, I would think about traveling.",
-          "context": "conditional consideration",
+          "italian": "Se pensassi di partire, ti avviserei.",
+          "english": "If I were to think of leaving, I would let you know.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -6020,27 +5576,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Sogno di viaggiare in tutto il mondo.",
-          "english": "I dream of traveling around the world.",
-          "context": "aspiration",
+          "italian": "Ogni notte sogno di volare.",
+          "english": "Every night I dream of flying.",
+          "context": "habit",
           "tense": "present"
         },
         {
-          "italian": "Ieri notte ho sognato di volare.",
-          "english": "Last night I dreamed of flying.",
+          "italian": "Ieri ho sognato di incontrare una celebrità.",
+          "english": "Yesterday I dreamed of meeting a celebrity.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani sognerò di incontrarti.",
-          "english": "Tomorrow I will dream of meeting you.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se potessi, sognerei ogni notte.",
-          "english": "If I could, I would dream every night.",
-          "context": "conditional wish",
+          "italian": "Se vincessi alla lotteria, sogneremmo di viaggiare per il mondo.",
+          "english": "If I won the lottery, we would dream of traveling the world.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -6100,26 +5650,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Spero che tutto andrà bene.",
-          "english": "I hope that everything will be fine.",
-          "context": "expressing hope",
-          "tense": "future"
+          "italian": "Spero che arrivi il treno in orario.",
+          "english": "I hope the train arrives on time.",
+          "context": "expressing hope for a specific event",
+          "tense": "present"
         },
         {
-          "italian": "Ho sperato di vederti ieri.",
-          "english": "I hoped to see you yesterday.",
+          "italian": "Ho sperato tanto di ottenere quel lavoro.",
+          "english": "I hoped a lot to get that job.",
           "context": "past hope",
           "tense": "past"
         },
         {
-          "italian": "Noi speriamo di vincere la partita.",
-          "english": "We hope to win the match.",
-          "context": "team spirit",
-          "tense": "present"
-        },
-        {
-          "italian": "Se avessi saputo, avrei sperato di più.",
-          "english": "If I had known, I would have hoped more.",
+          "italian": "Se avessi più soldi, spererei di viaggiare di più.",
+          "english": "If I had more money, I would hope to travel more.",
           "context": "conditional hope",
           "tense": "conditional"
         }
@@ -6179,28 +5723,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Desidero viaggiare in Italia quest'estate.",
-          "english": "I wish to travel to Italy this summer.",
-          "context": "future plans",
-          "tense": "future"
+          "italian": "Desidero una macchina nuova.",
+          "english": "I wish for a new car.",
+          "context": "expressing a wish",
+          "tense": "present"
         },
         {
-          "italian": "Ho desiderato sempre avere un cane.",
-          "english": "I have always wished to have a dog.",
-          "context": "past desire",
+          "italian": "Ieri ho desiderato di essere in vacanza.",
+          "english": "Yesterday I wished to be on vacation.",
+          "context": "past wish",
           "tense": "past"
         },
         {
-          "italian": "Se potessi, desidererei un mondo migliore.",
-          "english": "If I could, I would wish for a better world.",
+          "italian": "Se vincessi alla lotteria, desidererei viaggiare il mondo.",
+          "english": "If I won the lottery, I would wish to travel the world.",
           "context": "conditional wish",
           "tense": "conditional"
-        },
-        {
-          "italian": "Desideriamo che tu venga alla festa.",
-          "english": "We wish that you come to the party.",
-          "context": "invitation",
-          "tense": "present"
         }
       ],
       "conjugations": {
@@ -6258,27 +5796,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io amo la mia famiglia.",
-          "english": "I love my family.",
-          "context": "expression of affection",
+          "italian": "Io amo la musica classica.",
+          "english": "I love classical music.",
+          "context": "personal preference",
           "tense": "present"
         },
         {
-          "italian": "Loro hanno amato il film.",
-          "english": "They loved the movie.",
-          "context": "past experience",
+          "italian": "Lui ha amato quella donna per molti anni.",
+          "english": "He loved that woman for many years.",
+          "context": "past relationship",
           "tense": "past"
         },
         {
-          "italian": "Domani amerò il mio lavoro.",
-          "english": "Tomorrow I will love my job.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, amerei viaggiare.",
-          "english": "If I had time, I would love to travel.",
-          "context": "conditional wish",
+          "italian": "Se ti amassi, lo sapresti.",
+          "english": "If I loved you, you would know.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -6344,27 +5876,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io odio il traffico.",
-          "english": "I hate traffic.",
+          "italian": "Io odio il traffico in città.",
+          "english": "I hate city traffic.",
           "context": "expressing dislike",
           "tense": "present"
         },
         {
-          "italian": "Loro hanno odiato quella decisione.",
-          "english": "They hated that decision.",
-          "context": "past experience",
+          "italian": "Ieri odiavo quel film.",
+          "english": "Yesterday I hated that movie.",
+          "context": "past feeling",
           "tense": "past"
         },
         {
-          "italian": "Domani odierò il freddo.",
-          "english": "Tomorrow I will hate the cold.",
-          "context": "future prediction",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, avrei odiato di meno.",
-          "english": "If I had known, I would have hated less.",
-          "context": "conditional reflection",
+          "italian": "Se mi trattasse male, lo odierei ancora di più.",
+          "english": "If he treated me badly, I would hate him even more.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -6423,27 +5949,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace aiutare gli altri.",
-          "english": "I like to help others.",
-          "context": "preference",
+          "italian": "Ti aiuto con i compiti.",
+          "english": "I help you with your homework.",
+          "context": "studying together",
           "tense": "present"
         },
         {
-          "italian": "Ho aiutato mia sorella ieri.",
-          "english": "I helped my sister yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho aiutato mia sorella a preparare la cena.",
+          "english": "Yesterday I helped my sister prepare dinner.",
+          "context": "family activity",
           "tense": "past"
         },
         {
-          "italian": "Domani aiuterò i miei amici.",
-          "english": "Tomorrow I will help my friends.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, aiuterei volentieri.",
-          "english": "If I had time, I would gladly help.",
-          "context": "conditional situation",
+          "italian": "Se avessi bisogno, ti aiuterei volentieri.",
+          "english": "If you needed, I would gladly help you.",
+          "context": "conditional offer",
           "tense": "conditional"
         }
       ],
@@ -6503,27 +6023,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Vincere è importante per me.",
-          "english": "Winning is important to me.",
-          "context": "personal belief",
+          "italian": "La squadra di calcio vince la partita.",
+          "english": "The soccer team wins the match.",
+          "context": "sports commentary",
           "tense": "present"
         },
         {
-          "italian": "Ho vinto la partita ieri.",
-          "english": "I won the match yesterday.",
-          "context": "past achievement",
+          "italian": "La scorsa settimana ho vinto un premio al lavoro.",
+          "english": "Last week I won an award at work.",
+          "context": "personal achievement",
           "tense": "past"
         },
         {
-          "italian": "Domani vincerò il torneo.",
-          "english": "Tomorrow I will win the tournament.",
-          "context": "future aspiration",
-          "tense": "future"
-        },
-        {
-          "italian": "Se vincessi, sarei felice.",
-          "english": "If I won, I would be happy.",
-          "context": "conditional scenario",
+          "italian": "Se studierai di più, vincerai il concorso.",
+          "english": "If you study more, you will win the competition.",
+          "context": "encouragement",
           "tense": "conditional"
         }
       ],
@@ -6582,28 +6096,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho perso il mio libro ieri.",
-          "english": "I lost my book yesterday.",
+          "italian": "Ho perso le chiavi di casa stamattina.",
+          "english": "I lost the house keys this morning.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Perderò il treno se non mi sbrigo.",
-          "english": "I will miss the train if I don't hurry.",
-          "context": "future event",
+          "italian": "Se non studi, perderai l'esame.",
+          "english": "If you don't study, you will fail the exam.",
+          "context": "conditional",
           "tense": "future"
         },
         {
-          "italian": "Mi piace perdere a carte con gli amici.",
-          "english": "I enjoy losing at cards with friends.",
-          "context": "preference",
+          "italian": "Mi dispiace, ma ho perso il tuo numero di telefono.",
+          "english": "I'm sorry, but I lost your phone number.",
+          "context": "apologizing",
           "tense": "present"
-        },
-        {
-          "italian": "Se avessi saputo, non avrei perso tempo.",
-          "english": "If I had known, I wouldn't have wasted time.",
-          "context": "conditional",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -6661,27 +6169,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Spingo la porta per entrare.",
-          "english": "I push the door to enter.",
-          "context": "action",
+          "italian": "Lui spinge la porta per aprirla.",
+          "english": "He pushes the door to open it.",
+          "context": "everyday action",
           "tense": "present"
         },
         {
-          "italian": "Ho spinto il carrello al supermercato.",
-          "english": "I pushed the cart at the supermarket.",
-          "context": "past action",
+          "italian": "Ieri ho spinto la macchina perché si era fermata.",
+          "english": "Yesterday I pushed the car because it had stopped.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani spingerò il mio amico a parlare.",
-          "english": "Tomorrow I will push my friend to speak.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei spinto di più.",
-          "english": "If I could have, I would have pushed more.",
-          "context": "conditional",
+          "italian": "Se tu mi aiutassi, potrei spingere meglio questo mobile.",
+          "english": "If you helped me, I could push this piece of furniture better.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -6740,27 +6242,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Tiro la corda per aiutarti.",
-          "english": "I pull the rope to help you.",
-          "context": "assistance",
+          "italian": "Tira la corda!",
+          "english": "Pull the rope!",
+          "context": "giving an instruction",
           "tense": "present"
         },
         {
-          "italian": "Ho tirato il cassetto per aprirlo.",
-          "english": "I pulled the drawer to open it.",
-          "context": "action completed in the past",
+          "italian": "Ieri ho tirato con tutte le mie forze.",
+          "english": "Yesterday I pulled with all my strength.",
+          "context": "narrating a past action",
           "tense": "past"
         },
         {
-          "italian": "Domani tirerò il carrello al mercato.",
-          "english": "Tomorrow I will pull the cart to the market.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, avrei tirato più forte.",
-          "english": "If I had known, I would have pulled harder.",
-          "context": "conditional situation",
+          "italian": "Se tu tirassi più forte, riusciresti a farlo.",
+          "english": "If you pulled harder, you would be able to do it.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -6820,27 +6316,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Taglio la carta per fare un biglietto.",
-          "english": "I cut the paper to make a card.",
-          "context": "crafting",
+          "italian": "Oggi taglio le verdure per la cena.",
+          "english": "Today I cut the vegetables for dinner.",
+          "context": "cooking at home",
           "tense": "present"
         },
         {
-          "italian": "Ho tagliato il pane ieri.",
-          "english": "I cut the bread yesterday.",
-          "context": "cooking",
+          "italian": "Ieri ho tagliato i capelli dal parrucchiere.",
+          "english": "Yesterday I got a haircut at the hairdresser's.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani taglierò l'erba.",
-          "english": "Tomorrow I will cut the grass.",
-          "context": "gardening",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi un coltello, taglierei la frutta.",
-          "english": "If I had a knife, I would cut the fruit.",
-          "context": "conditional",
+          "italian": "Se tu avessi bisogno, ti taglierei un pezzo di torta.",
+          "english": "If you need, I would cut you a piece of cake.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -6901,28 +6391,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Rompo il silenzio con una parola.",
-          "english": "I break the silence with a word.",
-          "context": "communication",
-          "tense": "present"
-        },
-        {
-          "italian": "Ho rotto il vaso ieri.",
-          "english": "I broke the vase yesterday.",
-          "context": "past event",
+          "italian": "Mi dispiace, ho rotto il vaso per sbaglio.",
+          "english": "I'm sorry, I broke the vase by mistake.",
+          "context": "admitting fault",
           "tense": "past"
         },
         {
-          "italian": "Domani romperò il ghiaccio.",
-          "english": "Tomorrow I will break the ice.",
-          "context": "future interaction",
-          "tense": "future"
+          "italian": "Se tu rompi di nuovo la tazza, dovrai pagare per sostituirla.",
+          "english": "If you break the cup again, you will have to pay to replace it.",
+          "context": "conditional scenario",
+          "tense": "present"
         },
         {
-          "italian": "Se avessi saputo, non avrei rotto nulla.",
-          "english": "If I had known, I wouldn't have broken anything.",
-          "context": "conditional",
-          "tense": "conditional"
+          "italian": "Quando romperai la brutta abitudine, ti sentirai meglio.",
+          "english": "When you break the bad habit, you will feel better.",
+          "context": "encouragement",
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -6986,27 +6470,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Riparo la mia bicicletta ogni settimana.",
-          "english": "I repair my bicycle every week.",
-          "context": "routine",
+          "italian": "Oggi riparo la bicicletta per mio figlio.",
+          "english": "Today I am repairing the bicycle for my son.",
+          "context": "current activity",
           "tense": "present"
         },
         {
-          "italian": "Ho riparato il computer ieri.",
-          "english": "I repaired the computer yesterday.",
-          "context": "completed action",
+          "italian": "Ieri ho riparato il computer rotto.",
+          "english": "Yesterday I repaired the broken computer.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani riparerò la macchina.",
-          "english": "Tomorrow I will repair the car.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi gli attrezzi, riparerei il tavolo.",
-          "english": "If I had the tools, I would repair the table.",
-          "context": "conditional",
+          "italian": "Se avessi più tempo, riparerei la lavatrice da solo.",
+          "english": "If I had more time, I would repair the washing machine myself.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -7070,27 +6548,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Costruisco una casa.",
-          "english": "I am building a house.",
+          "italian": "Oggi costruisco una casa nuova.",
+          "english": "Today I am building a new house.",
           "context": "present action",
           "tense": "present"
         },
         {
-          "italian": "Ho costruito un ponte l'anno scorso.",
-          "english": "I built a bridge last year.",
-          "context": "completed action",
+          "italian": "Mio nonno ha costruito la sua prima casa nel 1950.",
+          "english": "My grandfather built his first house in 1950.",
+          "context": "past accomplishment",
           "tense": "past"
         },
         {
-          "italian": "Domani costruiremo un nuovo progetto.",
-          "english": "Tomorrow we will build a new project.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, costruirei un giardino.",
-          "english": "If I had time, I would build a garden.",
-          "context": "conditional situation",
+          "italian": "Se avessi i soldi, costruirei una villa al mare.",
+          "english": "If I had the money, I would build a villa by the sea.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -7156,27 +6628,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Loro distruggono i documenti vecchi.",
-          "english": "They destroy the old documents.",
-          "context": "action in the present",
+          "italian": "Il terremoto distrugge molte case nel centro storico.",
+          "english": "The earthquake destroys many houses in the historic center.",
+          "context": "news report",
           "tense": "present"
         },
         {
-          "italian": "Ho distrutto il mio telefono per sbaglio.",
-          "english": "I accidentally destroyed my phone.",
-          "context": "action in the past",
+          "italian": "L'incendio ha distrutto parte della foresta amazzonica.",
+          "english": "The fire destroyed part of the Amazon rainforest.",
+          "context": "environmental disaster",
           "tense": "past"
         },
         {
-          "italian": "Domani distruggerò le mie paure.",
-          "english": "Tomorrow I will destroy my fears.",
-          "context": "action in the future",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei distrutto il muro.",
-          "english": "If I could have, I would have destroyed the wall.",
-          "context": "conditional action",
+          "italian": "Se non lo spegni subito, il virus potrebbe distruggere tutti i dati sul computer.",
+          "english": "If you don't turn it off immediately, the virus could destroy all the data on the computer.",
+          "context": "warning about consequences",
           "tense": "conditional"
         }
       ],
@@ -7235,27 +6701,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Prendo un caffè ogni mattina.",
-          "english": "I take a coffee every morning.",
+          "italian": "Prendo l'autobus per andare al lavoro.",
+          "english": "I take the bus to go to work.",
           "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho preso il treno ieri.",
-          "english": "I took the train yesterday.",
+          "italian": "Ieri ho preso un libro in biblioteca.",
+          "english": "Yesterday I took a book from the library.",
           "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani prenderò un taxi.",
-          "english": "Tomorrow I will take a taxi.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, prenderei un libro.",
-          "english": "If I had time, I would take a book.",
-          "context": "conditional situation",
+          "italian": "Se avessi soldi, prenderei una vacanza esotica.",
+          "english": "If I had money, I would take an exotic vacation.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -7321,27 +6781,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Tengo sempre la mia parola.",
-          "english": "I always keep my word.",
-          "context": "commitment",
+          "italian": "Tieni la mia mano.",
+          "english": "Hold my hand.",
+          "context": "giving directions",
           "tense": "present"
         },
         {
-          "italian": "Ho tenuto il segreto per anni.",
-          "english": "I kept the secret for years.",
-          "context": "past action",
+          "italian": "Ieri ho tenuto una conferenza.",
+          "english": "Yesterday I held a conference.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani terrò la presentazione.",
-          "english": "Tomorrow I will hold the presentation.",
-          "context": "future event",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei tenuto il libro.",
-          "english": "If I could have, I would have kept the book.",
-          "context": "conditional",
+          "italian": "Se avessi tenuto il promesso, non sarebbe successo questo.",
+          "english": "If you had kept your promise, this wouldn't have happened.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -7401,28 +6855,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace toccare la chitarra.",
-          "english": "I like to touch the guitar.",
-          "context": "preference",
+          "italian": "Mi piace toccare il legno per buona fortuna.",
+          "english": "I like to touch wood for good luck.",
+          "context": "superstition",
           "tense": "present"
         },
         {
-          "italian": "Ho toccato il cielo con un dito.",
-          "english": "I touched the sky with a finger.",
-          "context": "metaphorical expression",
+          "italian": "Ieri ho toccato un quadro antico in mostra.",
+          "english": "Yesterday I touched an ancient painting at the exhibition.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani toccherò il tuo libro.",
-          "english": "Tomorrow I will touch your book.",
-          "context": "future intention",
+          "italian": "Se ti avvicini troppo, ti toccherò.",
+          "english": "If you come too close, I will touch you.",
+          "context": "conditional statement",
           "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei toccato il cuore della questione.",
-          "english": "If I could have, I would have touched the heart of the matter.",
-          "context": "conditional",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -7487,27 +6935,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace guardare i film.",
-          "english": "I like to watch movies.",
-          "context": "preference",
+          "italian": "Ogni giorno guardo un film prima di dormire.",
+          "english": "Every day I watch a movie before going to sleep.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho guardato la partita ieri.",
-          "english": "I watched the game yesterday.",
+          "italian": "Ieri ho guardato la partita di calcio in televisione.",
+          "english": "Yesterday I watched the soccer game on TV.",
           "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani guarderò il sole tramontare.",
-          "english": "Tomorrow I will watch the sunset.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, guarderei più documentari.",
-          "english": "If I had time, I would watch more documentaries.",
-          "context": "conditional",
+          "italian": "Se avessi tempo, guarderei sempre serie tv.",
+          "english": "If I had time, I would always watch TV series.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -7567,27 +7009,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ascolto la musica ogni giorno",
-          "english": "I listen to music every day",
-          "context": "daily activity",
+          "italian": "Ascolto la musica mentre studio.",
+          "english": "I listen to music while I study.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho ascoltato un podcast interessante",
-          "english": "Yesterday I listened to an interesting podcast",
+          "italian": "Ieri ho ascoltato un podcast interessante.",
+          "english": "Yesterday I listened to an interesting podcast.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani ascolterò la conferenza",
-          "english": "Tomorrow I will listen to the conference",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, ascolterei più musica",
-          "english": "If I had time, I would listen to more music",
-          "context": "conditional situation",
+          "italian": "Se mi ascoltassi, capiresti meglio.",
+          "english": "If you listened to me, you would understand better.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -7648,27 +7084,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace odorare i fiori.",
-          "english": "I like to smell the flowers.",
-          "context": "preference",
+          "italian": "Odora di fiori qui.",
+          "english": "It smells like flowers here.",
+          "context": "describing a scent",
           "tense": "present"
         },
         {
-          "italian": "Ho odorato qualcosa di strano.",
-          "english": "I smelled something strange.",
-          "context": "past experience",
+          "italian": "Ieri ho odorato il profumo del mare.",
+          "english": "Yesterday I smelled the scent of the sea.",
+          "context": "reminiscing about a past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani odoriamo il cibo.",
-          "english": "Tomorrow we will smell the food.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei odorato il mare.",
-          "english": "If I could have, I would have smelled the sea.",
-          "context": "conditional",
+          "italian": "Se odorassi il cibo, capirei se è bruciato.",
+          "english": "If I were to smell the food, I would understand if it's burnt.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -7728,27 +7158,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace assaggiare i piatti nuovi.",
-          "english": "I like to taste new dishes.",
-          "context": "preference",
+          "italian": "Oggi assaggio il gelato alla fragola.",
+          "english": "Today I taste the strawberry ice cream.",
+          "context": "ordering at an ice cream shop",
           "tense": "present"
         },
         {
-          "italian": "Ho assaggiato il vino ieri.",
-          "english": "I tasted the wine yesterday.",
-          "context": "past experience",
+          "italian": "Ieri ho assaggiato il nuovo piatto del ristorante.",
+          "english": "Yesterday I tasted the restaurant's new dish.",
+          "context": "trying a new menu item",
           "tense": "past"
         },
         {
-          "italian": "Domani assaggerò il dolce.",
-          "english": "Tomorrow I will taste the dessert.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, assaggerei tutti i piatti.",
-          "english": "If I had time, I would taste all the dishes.",
-          "context": "conditional",
+          "italian": "Se vuoi, domani assaggeremo il vino rosso insieme.",
+          "english": "If you want, tomorrow we will taste the red wine together.",
+          "context": "making plans for a wine tasting",
           "tense": "conditional"
         }
       ],
@@ -7808,27 +7232,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Accendo la luce ogni mattina.",
-          "english": "I turn on the light every morning.",
-          "context": "daily routine",
+          "italian": "Accendi la luce, per favore.",
+          "english": "Turn on the light, please.",
+          "context": "giving a simple instruction",
           "tense": "present"
         },
         {
-          "italian": "Ho acceso il computer ieri.",
-          "english": "I turned on the computer yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho acceso il fuoco nel camino.",
+          "english": "Yesterday I lit the fire in the fireplace.",
+          "context": "narrating a past action",
           "tense": "past"
         },
         {
-          "italian": "Accenderò il forno per la cena.",
-          "english": "I will turn on the oven for dinner.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, accenderebbe la televisione.",
-          "english": "If I had time, I would turn on the television.",
-          "context": "conditional situation",
+          "italian": "Se tu avessi acceso il riscaldamento, non avremmo freddo.",
+          "english": "If you had turned on the heating, we wouldn't be cold.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -7887,28 +7305,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace spegnere la luce prima di andare a letto.",
-          "english": "I like to turn off the light before going to bed.",
-          "context": "preference",
-          "tense": "present"
+          "italian": "Stasera spegnerò la luce prima di andare a letto.",
+          "english": "Tonight I will turn off the light before going to bed.",
+          "context": "daily routine",
+          "tense": "future"
         },
         {
-          "italian": "Ho spento il computer ieri sera.",
-          "english": "I turned off the computer last night.",
+          "italian": "Ho spento la televisione prima di uscire di casa.",
+          "english": "I turned off the TV before leaving the house.",
           "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani spegnerò il telefono durante la riunione.",
-          "english": "Tomorrow I will turn off my phone during the meeting.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se non smetti di parlare, non posso spegnere il rumore.",
-          "english": "If you don't stop talking, I can't turn off the noise.",
+          "italian": "Se non spegnerai il computer, si scaricherà la batteria.",
+          "english": "If you don't turn off the computer, the battery will run out.",
           "context": "conditional situation",
-          "tense": "conditional"
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -7967,26 +7379,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Voglio iniziare un nuovo progetto.",
-          "english": "I want to start a new project.",
-          "context": "desire for new beginnings",
-          "tense": "present"
-        },
-        {
-          "italian": "Ho iniziato a studiare italiano l'anno scorso.",
-          "english": "I started studying Italian last year.",
-          "context": "past action",
-          "tense": "past"
-        },
-        {
-          "italian": "Inizierò a lavorare domani.",
-          "english": "I will start working tomorrow.",
-          "context": "future plan",
+          "italian": "Domani inizieremo il corso di italiano.",
+          "english": "Tomorrow we will start the Italian course.",
+          "context": "making plans",
           "tense": "future"
         },
         {
-          "italian": "Se avessi tempo, inizierei a leggere di più.",
-          "english": "If I had time, I would start reading more.",
+          "italian": "Oggi inizio a fare sport.",
+          "english": "Today I start doing sports.",
+          "context": "routine",
+          "tense": "present"
+        },
+        {
+          "italian": "Se iniziassi a studiare adesso, finiresti in tempo per l'esame.",
+          "english": "If you started studying now, you would finish in time for the exam.",
           "context": "conditional situation",
           "tense": "conditional"
         }
@@ -8048,27 +7454,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Finisco il mio lavoro domani.",
-          "english": "I will finish my work tomorrow.",
-          "context": "future",
-          "tense": "future"
-        },
-        {
-          "italian": "Ho finito di leggere il libro.",
-          "english": "I have finished reading the book.",
-          "context": "past",
-          "tense": "past"
-        },
-        {
-          "italian": "Mi piace finire in tempo.",
-          "english": "I like to finish on time.",
-          "context": "preference",
+          "italian": "Ogni giorno finisco di lavorare alle cinque.",
+          "english": "Every day I finish work at five.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Se avessi finito prima, sarei stato in tempo.",
-          "english": "If I had finished earlier, I would have been on time.",
-          "context": "conditional",
+          "italian": "Ieri ho finito di leggere un libro interessante.",
+          "english": "Yesterday I finished reading an interesting book.",
+          "context": "past activity",
+          "tense": "past"
+        },
+        {
+          "italian": "Se avessi più tempo, finirei di studiare la lezione.",
+          "english": "If I had more time, I would finish studying the lesson.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -8128,27 +7528,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Continuo a studiare ogni giorno.",
-          "english": "I continue to study every day.",
-          "context": "daily routine",
+          "italian": "Continua a studiare per l'esame.",
+          "english": "Keep studying for the exam.",
+          "context": "encouragement",
           "tense": "present"
         },
         {
-          "italian": "Ho continuato a lavorare anche dopo la scadenza.",
-          "english": "I continued to work even after the deadline.",
-          "context": "past action",
+          "italian": "Ha continuato a piovere per tutta la settimana scorsa.",
+          "english": "It kept raining all of last week.",
+          "context": "past weather",
           "tense": "past"
         },
         {
-          "italian": "Domani continuerò il mio progetto.",
-          "english": "Tomorrow I will continue my project.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, continuerei a leggere.",
-          "english": "If I had time, I would continue reading.",
-          "context": "conditional situation",
+          "italian": "Se continuerai ad allenarti, migliorerai.",
+          "english": "If you continue to train, you will improve.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -8212,28 +7606,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace fermare il treno.",
-          "english": "I like to stop the train.",
-          "context": "preference",
+          "italian": "Mi fermo al semaforo.",
+          "english": "I stop at the traffic light.",
+          "context": "driving",
           "tense": "present"
         },
         {
-          "italian": "Ho fermato la macchina ieri.",
-          "english": "I stopped the car yesterday.",
-          "context": "past action",
+          "italian": "La polizia ha fermato il ladro.",
+          "english": "The police stopped the thief.",
+          "context": "police action",
           "tense": "past"
         },
         {
-          "italian": "Fermiamo il progetto per un momento.",
-          "english": "Let's stop the project for a moment.",
-          "context": "suggestion",
-          "tense": "present"
-        },
-        {
-          "italian": "Domani fermerò il mio viaggio.",
-          "english": "Tomorrow I will stop my trip.",
-          "context": "future intention",
-          "tense": "future"
+          "italian": "Se avessi saputo, avrei fermato il treno per te.",
+          "english": "If I had known, I would have stopped the train for you.",
+          "context": "conditional situation",
+          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -8292,27 +7680,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Seguirò il tuo consiglio.",
-          "english": "I will follow your advice.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Ho seguito il corso di italiano.",
-          "english": "I followed the Italian course.",
-          "context": "completed action",
-          "tense": "past"
-        },
-        {
-          "italian": "Segui sempre il tuo cuore.",
-          "english": "Always follow your heart.",
-          "context": "advice",
+          "italian": "Io seguo il tuo consiglio.",
+          "english": "I follow your advice.",
+          "context": "daily conversation",
           "tense": "present"
         },
         {
-          "italian": "Se avessi seguito le istruzioni, sarebbe andato meglio.",
-          "english": "If I had followed the instructions, it would have gone better.",
-          "context": "conditional situation",
+          "italian": "Ieri ho seguito la lezione di italiano.",
+          "english": "Yesterday I followed the Italian lesson.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se tu mi seguissi, non ti perderesti.",
+          "english": "If you followed me, you wouldn't get lost.",
+          "context": "conditional scenario",
           "tense": "conditional"
         }
       ],
@@ -8373,28 +7755,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io precedo sempre le mie lezioni con un'introduzione.",
-          "english": "I always precede my lessons with an introduction.",
-          "context": "education",
+          "italian": "Il tuo compleanno precede il mio di una settimana.",
+          "english": "Your birthday precedes mine by a week.",
+          "context": "planning events",
           "tense": "present"
         },
         {
-          "italian": "Loro hanno preceduto il gruppo nella marcia.",
-          "english": "They preceded the group in the march.",
-          "context": "event",
+          "italian": "L'inizio del film aveva preceduto la mia arrivo al cinema.",
+          "english": "The start of the movie had preceded my arrival at the cinema.",
+          "context": "narrating a past event",
           "tense": "past"
         },
         {
-          "italian": "Domani precederò la riunione con una presentazione.",
-          "english": "Tomorrow I will precede the meeting with a presentation.",
-          "context": "business",
+          "italian": "Se il maltempo lo permetterà, la partenza precederà di un'ora l'orario previsto.",
+          "english": "If the weather allows it, the departure will precede the scheduled time by an hour.",
+          "context": "conditional statement",
           "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, avrei preceduto la discussione.",
-          "english": "If I had known, I would have preceded the discussion.",
-          "context": "hypothetical",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -8452,27 +7828,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Salgo sempre in cima alla montagna.",
-          "english": "I always go up to the top of the mountain.",
-          "context": "activity",
+          "italian": "Ogni mattina salgo le scale per andare al lavoro.",
+          "english": "Every morning, I go up the stairs to go to work.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Sono salito sul treno ieri.",
-          "english": "I got on the train yesterday.",
-          "context": "past action",
+          "italian": "Ieri sono salito sull'Empire State Building a New York.",
+          "english": "Yesterday, I went up to the Empire State Building in New York.",
+          "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani salirò al piano superiore.",
-          "english": "Tomorrow I will go up to the upper floor.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, salirei con te.",
-          "english": "If I had time, I would go up with you.",
-          "context": "conditional situation",
+          "italian": "Se salissi sul tetto, potresti vedere tutto il panorama.",
+          "english": "If you went up to the roof, you could see the whole view.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -8531,26 +7901,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Scendo le scale ogni mattina.",
-          "english": "I go down the stairs every morning.",
+          "italian": "Oggi scendo le scale lentamente.",
+          "english": "Today I go down the stairs slowly.",
           "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Sono sceso al mercato ieri.",
-          "english": "I went down to the market yesterday.",
+          "italian": "Ieri sono sceso dall'autobus troppo presto.",
+          "english": "Yesterday I got off the bus too early.",
           "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani scenderò al parco.",
-          "english": "Tomorrow I will go down to the park.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, scenderei a fare una passeggiata.",
-          "english": "If I had time, I would go down for a walk.",
+          "italian": "Se scendessi adesso, perderei il treno.",
+          "english": "If I were to go down now, I would miss the train.",
           "context": "conditional situation",
           "tense": "conditional"
         }
@@ -8610,27 +7974,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Attraverso la strada ogni giorno.",
-          "english": "I cross the street every day.",
+          "italian": "Ogni giorno attraverso la strada per andare al lavoro.",
+          "english": "Every day I cross the street to go to work.",
           "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ieri ho attraversato il fiume.",
-          "english": "Yesterday I crossed the river.",
+          "italian": "Ieri ho attraversato il fiume a nuoto.",
+          "english": "Yesterday I swam across the river.",
           "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani attraverseremo il ponte.",
-          "english": "Tomorrow we will cross the bridge.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, attraverserei il parco.",
-          "english": "If I had time, I would cross the park.",
-          "context": "conditional situation",
+          "italian": "Se avessi più coraggio, attraverserei l'oceano da solo.",
+          "english": "If I had more courage, I would cross the ocean alone.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -8690,26 +8048,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace girare in bicicletta.",
-          "english": "I like to turn on a bicycle.",
-          "context": "preference",
+          "italian": "Gira a sinistra alla prossima traversa.",
+          "english": "Turn left at the next intersection.",
+          "context": "giving directions",
           "tense": "present"
         },
         {
-          "italian": "Ho girato il film l'anno scorso.",
-          "english": "I turned the film last year.",
-          "context": "past experience",
+          "italian": "Ieri ho girato per la città alla ricerca di un regalo.",
+          "english": "Yesterday I wandered around the city looking for a gift.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani girerò a destra.",
-          "english": "Tomorrow I will turn right.",
-          "context": "future action",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, girerei di più.",
-          "english": "If I had time, I would turn more.",
+          "italian": "Se girassi a destra, arriveresti più velocemente.",
+          "english": "If you were to turn right, you would get there faster.",
           "context": "conditional scenario",
           "tense": "conditional"
         }
@@ -8771,26 +8123,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mostro il mio dipinto a tutti.",
-          "english": "I show my painting to everyone.",
-          "context": "art exhibition",
+          "italian": "Ti mostro la nuova casa.",
+          "english": "I show you the new house.",
+          "context": "present action",
           "tense": "present"
         },
         {
-          "italian": "Ho mostrato il documento ieri.",
-          "english": "I showed the document yesterday.",
-          "context": "past action",
+          "italian": "Ieri ti ho mostrato le foto della vacanza.",
+          "english": "Yesterday I showed you the vacation photos.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani mostrerò il mio progetto.",
-          "english": "Tomorrow I will show my project.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, mostrerei le foto.",
-          "english": "If I had time, I would show the photos.",
+          "italian": "Se vuoi, ti mostrerei come si usa questo software.",
+          "english": "If you want, I would show you how to use this software.",
           "context": "conditional situation",
           "tense": "conditional"
         }
@@ -8857,26 +8203,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace nascondere i segreti.",
-          "english": "I like to hide secrets.",
-          "context": "preference",
-          "tense": "present"
-        },
-        {
-          "italian": "Ho nascosto il regalo sotto il letto.",
-          "english": "I hid the gift under the bed.",
-          "context": "past action",
-          "tense": "past"
-        },
-        {
-          "italian": "Nasconderò la verità fino a quando sarà necessario.",
-          "english": "I will hide the truth until it is necessary.",
-          "context": "future intention",
+          "italian": "Stasera nasconderò il regalo nel cassetto.",
+          "english": "Tonight I will hide the gift in the drawer.",
+          "context": "future action",
           "tense": "future"
         },
         {
-          "italian": "Se avessi potuto, avrei nascosto tutto.",
-          "english": "If I could have, I would have hidden everything.",
+          "italian": "Mi hai nascosto la verità per molto tempo.",
+          "english": "You hid the truth from me for a long time.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se fossi in pericolo, mi nasconderei nel bosco.",
+          "english": "If I were in danger, I would hide in the woods.",
           "context": "conditional scenario",
           "tense": "conditional"
         }
@@ -8938,27 +8278,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Sto cercando le chiavi.",
-          "english": "I am looking for the keys.",
-          "context": "present action",
+          "italian": "Sto cercando le mie chiavi.",
+          "english": "I am looking for my keys.",
+          "context": "current action",
           "tense": "present"
         },
         {
-          "italian": "Ho cercato un lavoro per mesi.",
-          "english": "I have been looking for a job for months.",
-          "context": "past experience",
+          "italian": "Ieri ho cercato il mio cellulare ovunque.",
+          "english": "Yesterday I searched for my phone everywhere.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani cercherò un nuovo ristorante.",
-          "english": "Tomorrow I will look for a new restaurant.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, cercherei di aiutarti.",
-          "english": "If I had time, I would try to help you.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, cercherei un nuovo lavoro.",
+          "english": "If I had time, I would look for a new job.",
+          "context": "conditional scenario",
           "tense": "conditional"
         }
       ],
@@ -9017,27 +8351,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io servo il cibo ai miei amici.",
-          "english": "I serve the food to my friends.",
-          "context": "dining",
+          "italian": "Il cameriere ci serve il vino rosso.",
+          "english": "The waiter serves us red wine.",
+          "context": "dining at a restaurant",
           "tense": "present"
         },
         {
-          "italian": "Loro hanno servito il dessert dopo cena.",
-          "english": "They served the dessert after dinner.",
-          "context": "past event",
+          "italian": "Ieri sera ho servito la cena ai miei ospiti.",
+          "english": "Last night I served dinner to my guests.",
+          "context": "hosting a dinner party",
           "tense": "past"
         },
         {
-          "italian": "Domani servirò come volontario al rifugio.",
-          "english": "Tomorrow I will serve as a volunteer at the shelter.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, servirei di più nella comunità.",
-          "english": "If I had time, I would serve more in the community.",
-          "context": "conditional",
+          "italian": "Se tu avessi servito il caffè, avrebbero apprezzato.",
+          "english": "If you had served coffee, they would have appreciated.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -9098,27 +8426,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "La macchina funziona bene.",
-          "english": "The machine works well.",
-          "context": "describing functionality",
+          "italian": "Il computer funziona perfettamente.",
+          "english": "The computer works perfectly.",
+          "context": "checking computer performance",
           "tense": "present"
         },
         {
-          "italian": "Ieri, il computer ha funzionato senza problemi.",
-          "english": "Yesterday, the computer worked without issues.",
-          "context": "past experience",
+          "italian": "Ieri il telecomando non funzionava.",
+          "english": "Yesterday the remote control wasn't working.",
+          "context": "describing a past issue",
           "tense": "past"
         },
         {
-          "italian": "Domani, il nuovo sistema funzionerà meglio.",
-          "english": "Tomorrow, the new system will work better.",
-          "context": "future expectation",
-          "tense": "future"
-        },
-        {
-          "italian": "Se tutto va bene, funzionerà.",
-          "english": "If all goes well, it will work.",
-          "context": "conditional scenario",
+          "italian": "Se lo pulisci, funzionerà meglio.",
+          "english": "If you clean it, it will work better.",
+          "context": "giving advice",
           "tense": "conditional"
         }
       ],
@@ -9182,27 +8504,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Utilizzo questo strumento per lavorare.",
-          "english": "I use this tool to work.",
-          "context": "work-related",
+          "italian": "Utilizzo sempre il mio telefono per controllare le email.",
+          "english": "I always use my phone to check emails.",
+          "context": "daily routine",
           "tense": "present"
         },
         {
-          "italian": "Ho utilizzato il computer ieri.",
-          "english": "I used the computer yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho utilizzato la macchina fotografica per scattare delle foto.",
+          "english": "Yesterday I used the camera to take some pictures.",
+          "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani utilizzerò la macchina.",
-          "english": "I will use the car tomorrow.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, utilizzerei di più i libri.",
-          "english": "If I had time, I would use books more.",
-          "context": "conditional scenario",
+          "italian": "Se avessi più tempo, utilizzerei il computer per imparare una nuova lingua.",
+          "english": "If I had more time, I would use the computer to learn a new language.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -9263,27 +8579,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Voglio cambiare lavoro.",
-          "english": "I want to change jobs.",
-          "context": "career decision",
+          "italian": "Ogni anno cambio telefono.",
+          "english": "I change my phone every year.",
+          "context": "habit",
           "tense": "present"
         },
         {
-          "italian": "Ho cambiato idea.",
-          "english": "I changed my mind.",
-          "context": "decision-making",
+          "italian": "Ieri ho cambiato il mio taglio di capelli.",
+          "english": "Yesterday I changed my haircut.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani cambierò la mia routine.",
-          "english": "Tomorrow I will change my routine.",
-          "context": "future planning",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi potuto, avrei cambiato tutto.",
-          "english": "If I could have, I would have changed everything.",
-          "context": "hypothetical situation",
+          "italian": "Se avessi più soldi, cambierei macchina.",
+          "english": "If I had more money, I would change my car.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -9343,28 +8653,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Voglio migliorare le mie abilità.",
-          "english": "I want to improve my skills.",
-          "context": "personal development",
+          "italian": "Sto cercando di migliorare il mio italiano.",
+          "english": "I am trying to improve my Italian.",
+          "context": "current effort",
           "tense": "present"
         },
         {
-          "italian": "Ho migliorato il mio italiano.",
-          "english": "I improved my Italian.",
-          "context": "past achievement",
+          "italian": "Ha migliorato molto la sua salute con una dieta equilibrata.",
+          "english": "He has greatly improved his health with a balanced diet.",
+          "context": "past accomplishment",
           "tense": "past"
         },
         {
-          "italian": "Domani migliorerò la mia dieta.",
-          "english": "Tomorrow I will improve my diet.",
-          "context": "future intention",
+          "italian": "Se studierai costantemente, migliorerai le tue capacità linguistiche.",
+          "english": "If you study consistently, you will improve your language skills.",
+          "context": "conditional statement",
           "tense": "future"
-        },
-        {
-          "italian": "Se studiassi di più, miglioreresti.",
-          "english": "If you studied more, you would improve.",
-          "context": "conditional scenario",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -9422,28 +8726,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "La situazione peggiora ogni giorno.",
-          "english": "The situation worsens every day.",
-          "context": "describing a situation",
+          "italian": "La situazione economica peggiora ogni giorno.",
+          "english": "The economic situation worsens every day.",
+          "context": "current events",
           "tense": "present"
         },
         {
-          "italian": "Se non interveniamo, la situazione è peggiorata.",
-          "english": "If we do not intervene, the situation has worsened.",
-          "context": "discussing consequences",
+          "italian": "Il tempo è peggiorato dopo il temporale.",
+          "english": "The weather worsened after the storm.",
+          "context": "weather report",
           "tense": "past"
         },
         {
-          "italian": "Domani potrebbe peggiorare il tempo.",
-          "english": "Tomorrow the weather might worsen.",
-          "context": "forecasting",
+          "italian": "Se non prendi le medicine, la tua salute peggiorerà.",
+          "english": "If you don't take the medicine, your health will worsen.",
+          "context": "health advice",
           "tense": "future"
-        },
-        {
-          "italian": "Spero che non peggiori ulteriormente.",
-          "english": "I hope it does not worsen further.",
-          "context": "expressing hope",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -9502,28 +8800,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "I bambini crescono rapidamente.",
-          "english": "Children grow quickly.",
+          "italian": "Il bambino cresce velocemente.",
+          "english": "The child grows quickly.",
           "context": "observation",
           "tense": "present"
         },
         {
-          "italian": "L'azienda è cresciuta negli ultimi anni.",
-          "english": "The company has grown in recent years.",
-          "context": "business",
+          "italian": "Quando ero giovane, sono cresciuto in un piccolo paese.",
+          "english": "When I was young, I grew up in a small town.",
+          "context": "past experience",
           "tense": "past"
         },
         {
-          "italian": "Domani crescerò come persona.",
-          "english": "Tomorrow I will grow as a person.",
-          "context": "personal development",
-          "tense": "future"
-        },
-        {
-          "italian": "Se studi, crescerai in intelligenza.",
-          "english": "If you study, you will grow in intelligence.",
+          "italian": "Se studierà con impegno, crescerà professionalmente.",
+          "english": "If he studies diligently, he will grow professionally.",
           "context": "conditional",
-          "tense": "conditional"
+          "tense": "future"
         }
       ],
       "conjugations": {
@@ -9582,27 +8874,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Voglio diminuire il consumo di zucchero.",
-          "english": "I want to decrease my sugar intake.",
-          "context": "health",
+          "italian": "Il prezzo del petrolio diminuisce.",
+          "english": "The price of oil is decreasing.",
+          "context": "current situation",
           "tense": "present"
         },
         {
-          "italian": "Ho diminuito il volume della musica.",
-          "english": "I decreased the volume of the music.",
-          "context": "past action",
+          "italian": "La produzione industriale è diminuita lo scorso mese.",
+          "english": "Industrial production decreased last month.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani diminuiremo la velocità.",
-          "english": "Tomorrow we will decrease the speed.",
-          "context": "future plan",
-          "tense": "future"
-        },
-        {
-          "italian": "Se continui così, dovrai diminuire le tue spese.",
-          "english": "If you keep this up, you will have to decrease your expenses.",
-          "context": "conditional advice",
+          "italian": "Se l'economia crescesse, l'inquinamento diminuirebbe.",
+          "english": "If the economy were to grow, pollution would decrease.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -9661,27 +8947,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Questo libro costa venti euro.",
-          "english": "This book costs twenty euros.",
-          "context": "pricing",
+          "italian": "Quanto costa questa borsa?",
+          "english": "How much does this bag cost?",
+          "context": "shopping",
           "tense": "present"
         },
         {
-          "italian": "Ieri, il viaggio è costato molto.",
-          "english": "Yesterday, the trip cost a lot.",
-          "context": "past expense",
+          "italian": "La cena ieri sera è costata molto.",
+          "english": "The dinner last night was expensive.",
+          "context": "reflecting on the past",
           "tense": "past"
         },
         {
-          "italian": "Domani, quanto costerà il biglietto?",
-          "english": "Tomorrow, how much will the ticket cost?",
-          "context": "future inquiry",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi soldi, mi piacerebbe costare di più.",
-          "english": "If I had money, I would like to cost more.",
-          "context": "conditional wish",
+          "italian": "Se avessi più soldi, comprerei quella macchina costosa.",
+          "english": "If I had more money, I would buy that expensive car.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -9741,26 +9021,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io pago sempre in contanti.",
-          "english": "I always pay in cash.",
-          "context": "payment method",
+          "italian": "Ogni mese pago l'affitto.",
+          "english": "I pay the rent every month.",
+          "context": "routine expense",
           "tense": "present"
         },
         {
           "italian": "Ieri ho pagato il conto al ristorante.",
           "english": "Yesterday I paid the bill at the restaurant.",
-          "context": "past action",
+          "context": "recent action",
           "tense": "past"
         },
         {
-          "italian": "Domani pagherò le bollette.",
-          "english": "Tomorrow I will pay the bills.",
-          "context": "future obligation",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi i soldi, pagherei di più.",
-          "english": "If I had the money, I would pay more.",
+          "italian": "Se avessi soldi, pagherei il debito.",
+          "english": "If I had money, I would pay the debt.",
           "context": "conditional situation",
           "tense": "conditional"
         }
@@ -9821,27 +9095,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace spendere soldi in libri.",
-          "english": "I like to spend money on books.",
-          "context": "preference",
+          "italian": "Ogni mese spendo troppo denaro in vestiti.",
+          "english": "Every month I spend too much money on clothes.",
+          "context": "habit",
           "tense": "present"
         },
         {
-          "italian": "Ho speso troppo ieri.",
-          "english": "I spent too much yesterday.",
-          "context": "past action",
+          "italian": "L'anno scorso ho speso molti soldi durante le vacanze.",
+          "english": "Last year I spent a lot of money during the holidays.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani spenderò per un regalo.",
-          "english": "Tomorrow I will spend on a gift.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi più soldi, spenderei di più.",
-          "english": "If I had more money, I would spend more.",
-          "context": "conditional situation",
+          "italian": "Se avessi più soldi, spenderei per viaggiare di più.",
+          "english": "If I had more money, I would spend it on traveling more.",
+          "context": "conditional",
           "tense": "conditional"
         }
       ],
@@ -9901,27 +9169,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace risparmiare per le vacanze.",
-          "english": "I like to save for vacations.",
-          "context": "preference",
+          "italian": "Ogni mese risparmio parte dello stipendio.",
+          "english": "Every month I save part of my salary.",
+          "context": "financial planning",
           "tense": "present"
         },
         {
-          "italian": "Ho risparmiato abbastanza per comprare una macchina.",
-          "english": "I saved enough to buy a car.",
-          "context": "achievement",
+          "italian": "L'anno scorso ho risparmiato abbastanza per le vacanze.",
+          "english": "Last year I saved enough for the holidays.",
+          "context": "past achievement",
           "tense": "past"
         },
         {
-          "italian": "Domani inizierò a risparmiare di più.",
-          "english": "Tomorrow I will start saving more.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se risparmiassi di più, potrei viaggiare di più.",
-          "english": "If I saved more, I could travel more.",
-          "context": "conditional",
+          "italian": "Se avessi risparmiato di più, adesso potrei comprare quella macchina.",
+          "english": "If I had saved more, now I could buy that car.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -9987,28 +9249,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace guadagnare soldi.",
-          "english": "I like to earn money.",
-          "context": "preference",
+          "italian": "Maria guadagna bene nel suo nuovo lavoro.",
+          "english": "Maria is earning well in her new job.",
+          "context": "current situation",
           "tense": "present"
         },
         {
-          "italian": "Ho guadagnato molto l'anno scorso.",
-          "english": "I earned a lot last year.",
-          "context": "past experience",
+          "italian": "L'anno scorso ho guadagnato abbastanza per fare un viaggio.",
+          "english": "Last year I earned enough to take a trip.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani guadagnerò di più.",
-          "english": "I will earn more tomorrow.",
-          "context": "future expectation",
+          "italian": "Se studierai tanto, guadagnerai successo nella vita.",
+          "english": "If you study hard, you will earn success in life.",
+          "context": "conditional statement",
           "tense": "future"
-        },
-        {
-          "italian": "Se lavorassi di più, guadagnerei meglio.",
-          "english": "If I worked more, I would earn better.",
-          "context": "conditional situation",
-          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -10066,26 +9322,20 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho deciso di andare al cinema.",
-          "english": "I decided to go to the cinema.",
+          "italian": "Oggi decido di andare al cinema.",
+          "english": "Today I decide to go to the cinema.",
+          "context": "present decision",
+          "tense": "present"
+        },
+        {
+          "italian": "Ieri hai deciso di comprare quel libro.",
+          "english": "Yesterday you decided to buy that book.",
           "context": "past decision",
           "tense": "past"
         },
         {
-          "italian": "Deciderò domani cosa fare.",
-          "english": "I will decide tomorrow what to do.",
-          "context": "future decision",
-          "tense": "future"
-        },
-        {
-          "italian": "Mi piace decidere in anticipo.",
-          "english": "I like to decide in advance.",
-          "context": "preference",
-          "tense": "present"
-        },
-        {
-          "italian": "Se avessi tempo, deciderei di viaggiare.",
-          "english": "If I had time, I would decide to travel.",
+          "italian": "Se deciderai di partire, ti darò una mano.",
+          "english": "If you decide to leave, I'll help you.",
           "context": "conditional decision",
           "tense": "conditional"
         }
@@ -10150,27 +9400,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io scelgo sempre il gelato al cioccolato.",
-          "english": "I always choose chocolate ice cream.",
-          "context": "preference",
+          "italian": "Oggi scelgo di studiare italiano.",
+          "english": "Today I choose to study Italian.",
+          "context": "daily decision",
           "tense": "present"
         },
         {
-          "italian": "L'anno scorso ho scelto di studiare all'estero.",
-          "english": "Last year I chose to study abroad.",
-          "context": "past decision",
+          "italian": "Ieri ho scelto il regalo per mia madre.",
+          "english": "Yesterday I chose the gift for my mother.",
+          "context": "past action",
           "tense": "past"
         },
         {
-          "italian": "Domani sceglierò un libro da leggere.",
-          "english": "Tomorrow I will choose a book to read.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, sceglierei un film da guardare.",
-          "english": "If I had time, I would choose a movie to watch.",
-          "context": "conditional scenario",
+          "italian": "Se avessi più tempo, sceglierei di viaggiare di più.",
+          "english": "If I had more time, I would choose to travel more.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -10230,27 +9474,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io preferisco il gelato al cioccolato.",
-          "english": "I prefer chocolate ice cream.",
-          "context": "preference",
+          "italian": "Preferisco il mare alla montagna.",
+          "english": "I prefer the sea to the mountains.",
+          "context": "expressing preference",
           "tense": "present"
         },
         {
-          "italian": "Loro hanno preferito andare al cinema.",
-          "english": "They preferred to go to the cinema.",
-          "context": "past decision",
+          "italian": "Ieri ho preferito restare a casa.",
+          "english": "Yesterday I preferred to stay at home.",
+          "context": "past preference",
           "tense": "past"
         },
         {
-          "italian": "Domani preferirò rimanere a casa.",
-          "english": "Tomorrow I will prefer to stay at home.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi saputo, avrei preferito un altro ristorante.",
-          "english": "If I had known, I would have preferred another restaurant.",
-          "context": "conditional situation",
+          "italian": "Se avessi più soldi, preferirei viaggiare di più.",
+          "english": "If I had more money, I would prefer to travel more.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -10310,27 +9548,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace provare nuovi ristoranti.",
-          "english": "I like to try new restaurants.",
-          "context": "preference",
+          "italian": "Oggi provo una nuova ricetta.",
+          "english": "Today I am trying a new recipe.",
+          "context": "cooking at home",
           "tense": "present"
         },
         {
-          "italian": "Ho provato a chiamarti ieri.",
-          "english": "I tried to call you yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho provato a chiamarti, ma non rispondevi.",
+          "english": "Yesterday I tried to call you, but you didn't answer.",
+          "context": "past attempt",
           "tense": "past"
         },
         {
-          "italian": "Domani proverò a finire il lavoro.",
-          "english": "Tomorrow I will try to finish the work.",
-          "context": "future intention",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, proverei a studiare di più.",
-          "english": "If I had time, I would try to study more.",
-          "context": "conditional situation",
+          "italian": "Se avessi tempo, proverei a imparare una nuova lingua.",
+          "english": "If I had time, I would try to learn a new language.",
+          "context": "conditional statement",
           "tense": "conditional"
         }
       ],
@@ -10391,27 +9623,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Riuscirò a finire il progetto domani.",
-          "english": "I will succeed in finishing the project tomorrow.",
-          "context": "future planning",
-          "tense": "future"
-        },
-        {
-          "italian": "Non sono riuscito a trovare la mia chiave.",
-          "english": "I did not succeed in finding my key.",
-          "context": "past experience",
-          "tense": "past"
-        },
-        {
-          "italian": "Spero di riuscire a parlare italiano fluentemente.",
-          "english": "I hope to succeed in speaking Italian fluently.",
-          "context": "aspiration",
+          "italian": "Spero di riuscire a finire questo libro entro la fine della settimana.",
+          "english": "I hope to succeed in finishing this book by the end of the week.",
+          "context": "goal setting",
           "tense": "present"
         },
         {
-          "italian": "Se studi, riuscirai a superare l'esame.",
-          "english": "If you study, you will succeed in passing the exam.",
-          "context": "conditional advice",
+          "italian": "Ieri non sono riuscito a trovare le chiavi di casa.",
+          "english": "Yesterday I didn't manage to find the house keys.",
+          "context": "past event",
+          "tense": "past"
+        },
+        {
+          "italian": "Se studierai con impegno, riuscirai a superare l'esame di italiano.",
+          "english": "If you study hard, you will succeed in passing the Italian exam.",
+          "context": "encouragement",
           "tense": "conditional"
         }
       ],
@@ -10471,28 +9697,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Ho fallito l'esame ieri.",
-          "english": "I failed the exam yesterday.",
-          "context": "past experience",
-          "tense": "past"
-        },
-        {
-          "italian": "Se non studi, fallirai.",
-          "english": "If you don't study, you will fail.",
-          "context": "conditional warning",
-          "tense": "future"
-        },
-        {
-          "italian": "Non mi piace fallire.",
-          "english": "I don't like to fail.",
-          "context": "preference",
+          "italian": "La società sta per fallire se non migliora le sue finanze.",
+          "english": "The company is about to fail if it doesn't improve its finances.",
+          "context": "business situation",
           "tense": "present"
         },
         {
-          "italian": "Stavo per fallire il progetto.",
-          "english": "I was about to fail the project.",
-          "context": "past intention",
+          "italian": "L'azienda ha fallito a causa di cattive decisioni manageriali.",
+          "english": "The company failed due to poor managerial decisions.",
+          "context": "past event",
           "tense": "past"
+        },
+        {
+          "italian": "Se non miglioreranno le vendite, l'azienda fallirà entro l'anno.",
+          "english": "If sales don't improve, the company will fail within the year.",
+          "context": "future outcome",
+          "tense": "conditional"
         }
       ],
       "conjugations": {
@@ -10551,28 +9771,22 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace sbagliare.",
-          "english": "I like to make a mistake.",
-          "context": "preference",
-          "tense": "present"
-        },
-        {
-          "italian": "Ho sbagliato a rispondere.",
-          "english": "I made a mistake in answering.",
-          "context": "past action",
+          "italian": "Mi dispiace, ho sbagliato la data della riunione.",
+          "english": "I'm sorry, I got the date of the meeting wrong.",
+          "context": "apologizing for a mistake",
           "tense": "past"
         },
         {
-          "italian": "Domani sbaglierò sicuramente.",
-          "english": "Tomorrow I will surely make a mistake.",
-          "context": "future prediction",
+          "italian": "Se non studi abbastanza, sbaglierai sicuramente l'esame.",
+          "english": "If you don't study enough, you will definitely make a mistake on the exam.",
+          "context": "future outcome",
           "tense": "future"
         },
         {
-          "italian": "Se non studi, sbaglieresti.",
-          "english": "If you don't study, you would make a mistake.",
-          "context": "conditional situation",
-          "tense": "conditional"
+          "italian": "Non sbagliare questa volta, controlla bene prima di inviare l'email.",
+          "english": "Don't make a mistake this time, double-check before sending the email.",
+          "context": "giving advice",
+          "tense": "present"
         }
       ],
       "conjugations": {
@@ -10630,27 +9844,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Correggo gli errori nei compiti.",
-          "english": "I correct the mistakes in the homework.",
-          "context": "education",
+          "italian": "Correggo gli errori nel mio compito.",
+          "english": "I correct the mistakes in my assignment.",
+          "context": "school task",
           "tense": "present"
         },
         {
-          "italian": "Ho corretto il testo ieri.",
-          "english": "I corrected the text yesterday.",
-          "context": "past action",
+          "italian": "Ieri ho corretto le bozze del mio articolo.",
+          "english": "Yesterday I corrected the drafts of my article.",
+          "context": "writing work",
           "tense": "past"
         },
         {
-          "italian": "Domani correggerò le prove.",
-          "english": "Tomorrow I will correct the tests.",
-          "context": "future action",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, correggerei il tuo lavoro.",
-          "english": "If I had time, I would correct your work.",
-          "context": "conditional",
+          "italian": "Se avessi più tempo, correggerei tutti i test.",
+          "english": "If I had more time, I would correct all the tests.",
+          "context": "conditional situation",
           "tense": "conditional"
         }
       ],
@@ -10715,27 +9923,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Mi piace spiegare le regole del gioco.",
-          "english": "I like to explain the rules of the game.",
-          "context": "preference",
+          "italian": "Ti spiego come usare questo software.",
+          "english": "I'll explain to you how to use this software.",
+          "context": "technology tutorial",
           "tense": "present"
         },
         {
-          "italian": "Ho spiegato il concetto ieri.",
-          "english": "I explained the concept yesterday.",
-          "context": "past",
+          "italian": "Avevo spiegato il concetto ma non hanno capito.",
+          "english": "I had explained the concept but they didn't understand.",
+          "context": "teaching situation",
           "tense": "past"
         },
         {
-          "italian": "Spiegherò tutto domani.",
-          "english": "I will explain everything tomorrow.",
-          "context": "future",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi tempo, spiegherei meglio.",
-          "english": "If I had time, I would explain better.",
-          "context": "conditional",
+          "italian": "Se mi chiedessi aiuto, ti spiegherei volentieri.",
+          "english": "If you asked me for help, I would gladly explain.",
+          "context": "conditional offer",
           "tense": "conditional"
         }
       ],
@@ -10800,27 +10002,21 @@
       "category": "Italian",
       "examples": [
         {
-          "italian": "Io capisco il tuo punto di vista",
-          "english": "I understand your point of view",
-          "context": "discussion",
+          "italian": "Capisco perfettamente ciò che dici.",
+          "english": "I understand perfectly what you're saying.",
+          "context": "conversation",
           "tense": "present"
         },
         {
-          "italian": "Ho capito la lezione ieri",
-          "english": "I understood the lesson yesterday",
-          "context": "education",
+          "italian": "Ieri non ho capito la tua spiegazione.",
+          "english": "Yesterday I didn't understand your explanation.",
+          "context": "past event",
           "tense": "past"
         },
         {
-          "italian": "Domani capirò meglio la situazione",
-          "english": "Tomorrow I will understand the situation better",
-          "context": "future planning",
-          "tense": "future"
-        },
-        {
-          "italian": "Se avessi capito, avrei agito diversamente",
-          "english": "If I had understood, I would have acted differently",
-          "context": "conditional",
+          "italian": "Se capissi meglio l'italiano, potresti viaggiare da solo.",
+          "english": "If you understood Italian better, you could travel alone.",
+          "context": "conditional scenario",
           "tense": "conditional"
         }
       ],

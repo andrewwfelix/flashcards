@@ -45,7 +45,9 @@ function loadFlashcardsFromJSON() {
       usage_notes: card.usage_notes || [],
       common_errors: card.common_errors || [],
       // Include the original word field for debugging
-      word: card.word
+      word: card.word,
+      // Include word_with_article for nouns
+      word_with_article: card.word_with_article || null
     }));
     
     console.log(`✅ Loaded ${flashcards.length} flashcards from JSON with examples and cognates!`);
